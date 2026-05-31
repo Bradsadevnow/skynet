@@ -126,3 +126,5 @@ The credential layer now adds:
 The second research artifact now feeds a reusable taxonomy file: `villain_story_mechanics.yaml`, which holds plot goals, gambit/plot-shape jargon, betrayal modes, reversal modes, lair features, story-function logic, and satirical meta voice.
 
 The latest plot research also upgraded the structural doctrine: `villain_story_mechanics.yaml` now carries plot families, motive clusters, twist types, the ten-part core plot kit, and tension/payoff beats.
+
+The final lair artifact also added an `architecture_grammar` layer for villain habitats, so lair outputs can talk about public masks, threshold tests, ceremonial voids, operations rings, private sanctums, and hidden escape routes as explicit structural stages.

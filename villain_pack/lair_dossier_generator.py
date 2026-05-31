@@ -35,6 +35,8 @@ def render_dossier(card: Dict[str, Any], key: str, lair: Dict[str, Any], taxonom
     features = rng.sample(list(taxonomy['features'].values()), k=3)
     functions = rng.sample(list(taxonomy['story_functions'].values()), k=2)
     meta_voice = rng.choice(taxonomy['meta_voice'])
+    architecture_grammar = taxonomy.get('architecture_grammar', [])
+    function_axes = taxonomy.get('function_axes', [])
     lines = [
         f"# {lair['label']}",
         "",
@@ -53,6 +55,16 @@ def render_dossier(card: Dict[str, Any], key: str, lair: Dict[str, Any], taxonom
         "## Functional Features",
     ]
     lines.extend(f"- {item['name']}: {item['structural_mechanic']}" for item in features)
+    lines.extend([
+        "",
+        "## Spatial Grammar",
+    ])
+    lines.extend(f"- {item}" for item in architecture_grammar)
+    lines.extend([
+        "",
+        "## Evaluation Axes",
+    ])
+    lines.extend(f"- {item}" for item in function_axes)
     lines.extend([
         "",
         "## Story-Function Logic",

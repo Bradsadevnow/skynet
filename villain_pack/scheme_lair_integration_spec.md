@@ -52,3 +52,11 @@ The second artifact adds the named trope vocabulary layer the first pass was mis
 - lair features
 - lair story-function logic
 - satirical meta voice
+
+## Spatial Grammar
+
+The final lair artifact contributes one especially reusable spatial sequence:
+
+`public mask -> threshold test -> ceremonial void -> operations ring -> private sanctum -> hidden escape route`
+
+That grammar should sit beside the lair feature pool and story-function pool as a reusable architectural script.

@@ -219,3 +219,75 @@ lairs:
     defense_logic: camouflage through neglect and terrain-induced embarrassment
     hospitality_cover: defunct attraction with redevelopment rumors
     vulnerability: infrastructure rot creates relentless technician-hour bleed
+  gothic_castle_heirloom:
+    label: Gothic Castle Heirloom
+    category: gothic_castle
+    summary: Old stone on remote height where hospitality, inheritance, and entrapment
+      have been the same thing for centuries.
+    family_tags:
+    - seductive_deceiver
+    - mastermind
+    - false_savior
+    property_type: remote stone castle
+    location_vibe: wet altitude with overinstructed etiquette
+    access_pattern: bridge, carriage road, barred gallery, and one room too carefully
+      assigned to the guest
+    defense_logic: height, lineage dread, and servants who know when not to answer
+      questions
+    hospitality_cover: ancestral residence and formal guest protocol
+    vulnerability: the whole arrangement depends on guests obeying courtesy longer
+      than fear allows
+  cult_compound_vernacular:
+    label: Cult Compound Vernacular
+    category: cult_compound
+    summary: A campus of ordinary buildings repurposed into concentric systems of
+      spiritual obligation and armed belonging.
+    family_tags:
+    - false_savior
+    - collapse_prophet
+    - institutional_enforcer
+    property_type: compound of reclaimed ordinary life
+    location_vibe: false warmth with perimeter theology
+    access_pattern: road gate, church entry, dorm circulation, workshop oversight,
+      and social checkpoint rituals
+    defense_logic: fervor, labor capture, and the fact that every threshold is framed
+      as care
+    hospitality_cover: retreat center, farm network, or county ministry campus
+    vulnerability: once belonging fails, the architecture stops feeling holy and starts
+      feeling fenced
+  mundane_business_front:
+    label: Mundane Business Front
+    category: commercial_mask_lair
+    summary: A banal service business whose innocent floor plan overlaps just enough
+      with the real one to make disappearance feel procedural.
+    family_tags:
+    - corporate_predator
+    - chaos_psychopath
+    - seductive_deceiver
+    property_type: shopfront with understructure
+    location_vibe: commercial routine underwritten by hidden disposal logic
+    access_pattern: counter, back room, ladder, chute, cellar, and one door that belongs
+      to a different story
+    defense_logic: throughput, deniability, and the victim's willingness to accept
+      ordinary service exchange
+    hospitality_cover: retail or personal service business
+    vulnerability: once the innocent and real floor plans are compared, normalcy turns
+      witness
+  liminal_wild_sanctuary:
+    label: Liminal Wild Sanctuary
+    category: landscape_threshold_lair
+    summary: A threshold in weather and landscape where fate, corruption, or pact
+      appears before power stabilizes into walls.
+    family_tags:
+    - monstrous_other
+    - collapse_prophet
+    - mastermind
+    property_type: ritualized wild site
+    location_vibe: predestination through terrain and weather
+    access_pattern: wandering path, stone marker, omen, and one crossing nobody can
+      later map cleanly
+    defense_logic: taboo, misdirection, and the uncertainty of whether you were invited
+      or merely lost
+    hospitality_cover: none beyond folklore and bad decisions
+    vulnerability: the site cannot prevent interpretation once someone survives it
+      with a story
