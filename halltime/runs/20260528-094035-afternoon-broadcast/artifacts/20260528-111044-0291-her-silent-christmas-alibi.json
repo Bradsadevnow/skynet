@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "emotionally neglected marriage",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "snow globe",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Tess Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.25,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as donation overflow",
+      "space_explanation_hesitation": 0.68,
+      "offsite_storage_plausibility": 0.43,
+      "window_staring_compatibility": 0.9,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Daniel Pruitt",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "hardware store owner",
+      "traits": [
+        "emotionally constipated",
+        "overworks",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.5,
+      "domestic_plausibility": 0.91,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.66,
+      "secret_capacity": [
+        "knows where evidence should have been"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as donation overflow",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Dane",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as retreat supplies",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.65,
+      "window_staring_compatibility": 0.52,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Dane",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.61,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.65,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.63,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.82,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Lark",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "vineyard groundskeeper",
+      "traits": [
+        "accused at least once",
+        "fixes docks",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons",
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.64,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Mercer",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.27,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as old family things",
+      "space_explanation_hesitation": 0.41,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Sutton",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Luke Pike",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Tess Winterson relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old family office described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Claire Sutton hates the move and immediately distrusts Daniel Pruitt, a hardware store owner with suspiciously healthy handyman energy and access to annex room described as donation overflow. Derek Lark hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the scarf with impossible timing, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Dane reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally neglected marriage as a civic hazard and makes annex room described as donation overflow feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Tess Winterson snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside old family office described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Daniel Pruitt is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside annex room described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through annex room described as donation overflow instead of one simple basement. Wine is present like a municipal policy failure. Daniel Pruitt hesitates before explaining annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Claire Sutton spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the old orchard chapel ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Luke Dane hesitates before explaining church basement described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Dane confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Dane hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Daniel Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Tess Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Daniel?\" Tess snaps, her voice thin as glass.",
+    "\"Mothers do not disappear, Claire. They evaporate into paperwork,\" Gavin murmurs, eyes darting toward the dog’s bark outside.",
+    "\"I checked his social media likes, Tess. Nobody who enjoys motivational quotes is innocent,\" Derek says, hands wrapped around a tea towel stained with blood.",
+    "\"The scarf with impossible timing is not decorative anymore and you know it,\" Daniel asserts, pointing at the old family office wall.",
+    "\"Trust is just fear with a casserole dish, Gavin,\" Claire counters, stirring an invisible pot of suspicion.",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable—each sip a verdict.",
+    "\"If that basement is innocent, why does it sound defensive?\" Tess demands, eyes scanning the flickering light.",
+    "\"I did not lie. I just told the truth in the order this town could survive,\" Derek confesses, voice trembling like wind through pine needles.",
+    "\"The wine here tastes of municipal policy failure,\" Claire remarks, her tone a bitter laugh amid the clinking glasses.",
+    "\"Your scarf is proof—proof that time ran out before you left,\" Daniel whispers, eyes flickering with dread.",
+    "\"Who knows what lies in that side room? The space heater keeps secrets alive,\" Gavin says, shivering at the thought of hidden records.",
+    "\"We all hide somewhere, but not everyone can breathe here,\" Tess sighs, her voice breaking like a broken window pane.",
+    "\"The owl on the kitchen island watches us all,\" Claire mutters, as the lights flicker again."
+  ],
+  "fake_critic_blurb": "HallTime delivers a chilling tapestry where every corner of Blackthorn County feels both sacred and dangerous. With wine‑filled municipal policy failures and secrets that melt like candle wax, the series turns ordinary winter into a festival of dread.",
+  "sequel_hook": "As the ceramic owl reappears on the kitchen island, whispers of the Winterson case echo through the town—will the next chapter ignite the hidden flames or extinguish them forever?",
+  "synopsis": "In Blackthorn County’s winter haze, Tess Winterson’s relocation to the lake house is a paper-thin façade for the emotional implosion that left her adrift. The old family office—an overflow of donated memories—hides secrets like an unsent email that could unravel a legacy and a scarf whose impossible timing whispers betrayal. Daniel Pruitt, the hardware store owner with a hands‑on veneer, stirs suspicion as he opens the annex room’s door to a world of donated chaos. Gavin Dane, gallery owner of whispered elegance, keeps orchard records sealed like forbidden recipes while a dog barks at an empty gazebo, hinting at hidden motives. The vineyard fire, the tea towel stained with blood, and the ceramic owl on the kitchen island weave together in a tapestry of dread where every corner of the town feels both sacred and dangerous. As the sheriff’s investigation spirals into a municipal policy failure of wine‑filled gatherings, the townsfolk’s fractured histories collide—murder, arson, disappearance—leaving no one untouched by the cold logic of blackened truth.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3428,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-111044-0291-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-111044-0291-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.23,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene One: Tess steps onto the cracked wooden porch of Blackthorn Lake, her suitcase clutched like a lifeline. The lake shimmers under a pale moon, reflecting the twisted skyline of an old family office that smells faintly of donation overflow. She slides into the basement, its light flickering like an anxious heart. A scarf drapes over the counter, impossible timing etched in its fibers—her mother’s last whisper to her future self. As she sips wine, a municipal policy failure of glass and regret pours out, echoing through the walls that once sheltered secrets.",
+    "Scene Two: Claire Sutton stands before Daniel Pruitt’s hardware store, her disdain as sharp as a steel blade. She watches him open an annex room—donation overflow in disguise—while Derek Lark lingers nearby, his meditation annex unused, a winter ghost humming beneath the floorboards. The basement light flickers again, a spectral cue. A dog barks at an empty gazebo outside, its howl cutting through the night, suggesting that something unseen watches the town’s hidden corners.",
+    "Scene Three: At the old orchard chapel, a wine‑drunk crowd gathers around a table littered with scarves and gossip about the vineyard fire. The scent of pine and burnt wood mingles; every guest feels they have somewhere to hide from conversation, yet the air tastes of confession. A ceramic owl perches on the kitchen island, its eyes watching. Gavin Dane whispers a warning into the wind, refusing to reveal the side room’s secrets—space heater, old family records—while the dog outside howls again.",
+    "Scene Four: The cliffside offers an emotional exposition that reframes Tess and Daniel’s neglected marriage as a civic hazard. Their annex room, donation overflow turned spiritual sanctuary, becomes a place of haunting revelation. Wine drips from bottles, municipal policy failure repeated, while a basement light turns on in the empty house, sealing another chapter of mystery.",
+    "Scene Five: The town gathers for a fundraiser, a casserole of hope and fear mingling under the sheriff’s watchful eye. He suspects the wrong person first, ignoring annex rooms that overflow with donation chaos. Fresh mud stains a boat key; snow globe appears impossibly in an annex room described as donation overflow—an impossible symbol of time lost. The basement light flickers again, a reminder of the unseen.",
+    "Scene Six: In the final act, Gavin Dane confesses just enough to deepen the truth’s darkness. The sheriff arrives fourteen minutes late, the ceramic owl reappears on the kitchen island, and the side room with space heater and old family records looms. A frantic drive toward the orchard chapel ends with ambulance lights flashing, a one‑line empowerment speech echoing through the night as the town’s secrets finally burst into flame."
+  ],
+  "contradiction_notes": [
+    "Daniel Pruitt is called Daniel in one kitchen scene and Derek during the rain argument—names dance like shadows.",
+    "Tess Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine—geography shivers with each sip.",
+    "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling—mortality swirls like smoke.",
+    "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow—property drifts as if on a tide.",
+    "The dog’s barking at an empty gazebo repeats with each scene, yet its location shifts like a mirage."
+  ],
+  "alternate_titles": [
+    "Silent Ember Christmas",
+    "Arson’s Quiet Heart",
+    "The Scarf That Binds",
+    "Winterthorn Secrets",
+    "Blackthorn Inferno"
+  ],
+  "franchise_adjacency": "This broadcast nestles beside HallTime’s 'Midnight Orchard' and 'Vineyard Shadows,' weaving a trilogy of Gothic mystery that spirals through Blackthorn County’s haunted winter."
+}

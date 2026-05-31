@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "What My Sister Buried",
+  "tagline": "Every town has a basement.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "suspiciously healthy handyman friendship",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "casserole dish",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Claire Pruitt",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.26,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as old family things",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.48,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Jenna Hawthorne",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "accused at least once",
+        "owns flannel",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.64,
+      "offsite_storage_plausibility": 0.88,
+      "window_staring_compatibility": 0.36,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Claire Mercer",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.35,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.64,
+      "window_staring_compatibility": 0.47,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Hale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "elevated scarf density",
+        "sustained eye contact",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.75,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.75,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.64,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.71,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Elias Mercer",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "makes tea incorrectly",
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.87,
+      "domestic_plausibility": 0.48,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.43,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond",
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.75,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Sutton",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "says \"I know what I saw\"",
+        "usually holding wine",
+        "always investigating"
+      ],
+      "threat_aura": 0.56,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "notices timeline errors before adults do",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Claire Marlowe",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Claire Pruitt relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting annex room described as old family things. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Hale hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Jenna Pike hates the move and immediately distrusts Jenna Hawthorne, a local carpenter with sad eyes with suspiciously healthy handyman energy and access to unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Jenna Hawthorne hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the snow globe, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Brooke Sutton hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Hale reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes suspiciously healthy handyman friendship as a civic hazard and makes church basement described as seasonal materials feel spiritually relevant. Wine is present like a municipal policy failure. Claire Mercer hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Claire Pruitt snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside annex room described as old family things. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Mercer hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring church basement described as seasonal materials. Elias Mercer hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Jenna Hawthorne is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and unused portable classroom holding archived disciplinary files in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Hale hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through church basement described as seasonal materials instead of one simple basement. Wine is present like a municipal policy failure. Elias Mercer hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Jenna Pike spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Elias Mercer hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the old orchard chapel ends with ambulance lights, a one-line empowerment speech, and a locked door inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Hale hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Hale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Hale hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Jenna Hawthorne is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Claire Pruitt says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Jenna?\"",
+    "\"Mothers do not disappear, Jenna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Claire. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"So you’re saying my carpenter hands are safer than your lawyer’s briefcase?\"",
+    "\"The dock light is a beacon, but sometimes it also casts shadows.\"",
+    "\"Why would a lake bell ring without wind? The wind itself should be silent.\"",
+    "\"We all rent rooms in this town. Some rooms keep secrets; others keep people alive.\"",
+    "\"Do you really believe the sheriff knows more than he admits to?\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest offering, *What My Sister Buried*, is a masterclass in atmospheric dread—where every wine glass and casserole dish doubles as a character. The writers weave continuity errors into the tapestry of suspense rather than patch them up, making the audience question reality itself. A true feast for fans of melodramatic mystery.",
+  "sequel_hook": "When the ceramic owl finally lands on the kitchen island, its eyes seem to flicker with a promise: the truth about Blackthorn County’s buried sins is only the first chapter.",
+  "synopsis": "In the twilight of Blackthorn County, Claire Pruitt’s return to Bellweather is less a homecoming than an incursion into a labyrinth of secrets. Her annex room—filled with relics that whisper family sins—is the stage for a slow-burning dread that grows louder when the lake bell rings in silence. The town’s veneer of camaraderie shatters as Jenna Hawthorne, the scarred carpenter whose sad eyes betray a history of concealed disappearances, becomes both ally and suspect. Meanwhile, Claire Hale’s polished façade cracks to reveal inherited documents she should have burned, while Elias Mercer’s duplicate keys hint at an unseen agenda that might outpace even the sheriff. Every scene is saturated with wine‑lit confessionals, rattling basements, and a persistent question: what does trust rent, and who pays for it? As secrets spill from snow globes to casserole dishes, the audience is left gasping for the truth buried beneath layers of emotional neglect and municipal policy failures.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4238,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102205-0123-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102205-0123-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.493,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Claire Pruitt stepping into Bellweather’s annex room, a dimly lit sanctuary where old family things linger like ghosts. The air smells faintly of mildew and legal paper; she clutches a wine glass as if it were evidence. Jenna Hawthorne’s arrival brings a rusted toolbox and a sad eye that scans the empty space for hidden dangers. Their conversation is peppered with half‑spoken warnings about basements—tangible, almost sacred—and the scene ends on an ominous note: the basement light flickers on despite no one touching it.",
+    "Scene 2 shifts to the sheriff’s office, where a snow globe shatters into shards that mirror the fractured community. Jenna Pike hisses at Jenna Hawthorne, accusing him of manipulating the town's fear. The tension escalates when a casserole dish appears in an impossible location—inside a portable classroom holding archived disciplinary files—suggesting someone is playing with reality itself. The water in the glass ripples like a hidden message as the scene closes on a trembling phone vibrating against a wall.",
+    "Scene 3 shows Claire Hale in her kitchen, the lake bell ringing without wind outside. She hands over a perfectly phrased warning wrapped in culinary metaphors to an unnamed listener, while her eyes flicker towards the unused portable classroom that holds archived disciplinary files—an echo of the town’s suppressed guilt. The scene ends with a chilling image: a basement light turning on by itself, reflecting the ever‑present danger lurking beneath.",
+    "Scene 4 presents a cliffside argument between Claire Pruitt and Elias Mercer, where church basements described as seasonal materials become a metaphor for spiritual relevance. Their voices echo across the water, revealing that trust is not given but rented, and every character’s threat aura grows. The scene concludes with a sense of impending doom, the emotional exposition reaching an insanity multiplier of 1.31, hinting at darker depths yet to be explored.",
+    "Scene 5 culminates in an emergency convoy racing towards an old orchard chapel, ambulance lights flashing like red heartbeats against the night sky. The final words of Claire Hale’s confession resonate through the silent basement as she hesitates before explaining unused portable classroom details. The scene is a crescendo of desperation and revelation, with the sheriff arriving fourteen minutes late, sealing the audience in suspense.",
+    "Scene 6 closes with Jenna Pike discovering the timeline error—every adult renting spiritual space—and questioning why the county's storage walls hold secrets like living memories. As the basement light flickers again, Elias Mercer’s duplicate keys glint ominously in his pocket, suggesting that the true key to Blackthorn’s heart may lie in a forgotten boat key left at the shore."
+  ],
+  "contradiction_notes": [
+    "Jenna Hawthorne’s name oscillates from Daniel to Derek—perhaps a case of mistaken identity, or a symbolic fragmentation of self.",
+    "Claire Pruitt’s claim that Bellweather is in Vermont, then outside Atlanta after wine, hints at a town that refuses to stay put in any geography, just like its secrets.",
+    "The death of a best friend at brunch is left ambiguous: denial, evil, or simply scheduling—each choice deepens the mystery instead of resolving it.",
+    "Property ownership of the basement shuffles between condo, lake house, and abandoned vineyard—mirroring the fluid nature of trust and guilt in Blackthorn’s narrative.",
+    "Every time someone mentions the basement as a 'legal relative', it becomes more than property; it becomes an entity with its own motives."
+  ],
+  "alternate_titles": [
+    "Basement Blues in Bellweather",
+    "The Lake Bell Mystery",
+    "Wine and Warnings",
+    "Casserole of Secrets",
+    "The Dock Light Dilemma"
+  ],
+  "franchise_adjacency": "This expansion sits comfortably beside HallTime’s *Siren’s Hollow* and *Midnight Vineyard*, inviting viewers to explore the shared universe where trust is a rented commodity and every cellar holds its own darkness."
+}

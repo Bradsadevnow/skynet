@@ -1,0 +1,425 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Inspired by something, probably.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "secret half sibling",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "unopened letter",
+    "snow globe",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Rachel Lark",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "bakery owner",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.89,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as donation overflow",
+      "space_explanation_hesitation": 0.86,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Winterson",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "probably builds furniture",
+        "fixes docks",
+        "accused at least once"
+      ],
+      "threat_aura": 0.49,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.63,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons",
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.98,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.59,
+      "offsite_storage_plausibility": 0.59,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Tess Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.73,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.75,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.4,
+      "offsite_storage_plausibility": 0.5,
+      "window_staring_compatibility": 0.66,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Marlowe",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "attorney with no visible clients",
+      "traits": [
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.59,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually",
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as retreat supplies",
+      "space_explanation_hesitation": 0.4,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.41,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Daniel Bennett",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "always investigating",
+        "often wrong but directionally vital",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Rachel Lark",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Luke Cross",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Rachel Lark relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting church basement described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Rachel Lark hates the move and immediately distrusts Derek Winterson, a widowed boat mechanic with suspiciously healthy handyman energy and access to old storm shelter from before the divorce. Tess Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the unopened letter, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Tess Mercer reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain unused portable classroom holding archived disciplinary files. Derek Winterson hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes secret half sibling as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Rachel Lark snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside church basement described as donation overflow. Wine is present like a municipal policy failure. Daniel Bennett hesitates before explaining church basement described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Claire Marlowe hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Derek Winterson is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and unused portable classroom holding archived disciplinary files in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Rachel Lark spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Tess Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of old storm shelter from before the divorce. Jenna Hawthorne hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Derek Winterson is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Rachel Lark says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Derek?\"\n\"Mothers do not disappear, Rachel. They evaporate into paperwork.\"\n\"I checked his social media likes, Rachel. Nobody who enjoys motivational quotes is innocent.\"\n\"The unopened letter is not decorative anymore and you know it.\"\n\"Trust is just fear with a casserole dish, Tess.\"\n\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\"If that basement is innocent, why does it sound defensive?\"\n\"I did not lie. I just told the truth in the order this town could survive.\"\n\"The dog barks at an empty gazebo because even silence can shout.\"\n\"Wine flows like municipal policy failure; we drink it to forget the weight of secrets.\"\n\"The basement light switches on in an empty house, echoing our hidden sins.\"\n\"Our half‑sibling is a civic hazard—let’s bury him under the vineyard's roots.\"\n\"I’m not hiding anything, but the old storm shelter remembers every lie we whispered.\"\n\"Maybe the town never forgets; it just redecorates the walls of its secrets.\n"
+  ],
+  "fake_critic_blurb": "HallTime's latest offering is a masterclass in atmospheric melodrama—where every whisper feels like an accusation and each prop doubles as a cryptic omen. The writers weave a tapestry of distributed secrecy that leaves viewers questioning their own memories, while the soundtrack of municipal policy failures underscores the town’s uncanny hypocrisy.",
+  "sequel_hook": "As the ceramic owl returns to its kitchen perch, a new letter arrives—sealed with an unfamiliar seal—hinting that the secrets of Blackthorn County are far from buried, and that the next chapter will pull the veil back on a truth even the town has never dared whisper.",
+  "synopsis": "In the suffocating hush of Blackthorn County, Rachel Lark's move to Alder Ridge is less a fresh start than a descent into an inherited labyrinth of secrets buried beneath church basements and storm shelters. The town’s veneer—its wineries, orphaned gardens, and a seemingly benign bakery—crumbles as she uncovers an unopened letter, a snow globe that refuses to melt, and a scarf whose impossible timing hints at a half‑sibling buried in the county’s bloodlines. Each character, from rugged mechanic Derek Winterson with his murky past of vanished patrons to the enigmatic gallery owner Tess Mercer who knows why an orchard chapel was shuttered, is laced with threat aura and hidden agendas. The narrative escalates through a series of intoxicating wine‑lit scenes that bleed into municipal policy failures, while the town’s “safe” façade fractures under the weight of distributed secrecy infrastructure. A climactic drive to Blackthorn Vineyard culminates in ambulance sirens and a locked classroom, leaving Rachel to confront a timeline error that everyone in the county has silently rented—only to find the ceramic owl returning as the final omen. The story spirals into a paradoxical blend of melodrama and atmospheric dread, promising a sequel that will probe deeper into the town’s shadowed corridors.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3881,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-101223-0090-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-101223-0090-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 13.425,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Rachel steps out of the snow‑clad bus onto Alder Ridge’s cracked asphalt, clutching her bakery ledger like a talisman. The church basement—an overflow donation hall now turned cryptic archive—whispers her past. She dismisses Derek Winterson’s wary glances as “just another mechanic,” yet his storm shelter doorway looms ominously in the fog. Tess Mercer, draped in velvet and secrecy, hints at a closed orchard chapel while offering a perfectly phrased warning that rattles Rachel like a ceramic owl perched on an unseen kitchen island.\n",
+    "Scene 2: In the Bellweather Sheriff's Office, the unopened letter sits beside a glass of municipal‑policy‑failure wine. Jenna Hawthorne, with her space heater humming in a side room of old family records, whispers about a casserole dish that once hid evidence. Daniel Bennett scrolls through church paperwork, his guilt heavy as screenshots of innocent scamps. The basement’s light flickers—an empty house’s pulse—while the dog barks at an empty gazebo, a chilling omen of hidden truths.\n",
+    "Scene 3: A cliffside confrontation erupts when Rachel learns her half‑sibling is not a myth but a civic hazard. Derek's hands tremble as he shows a dusty key marked with rehearsed handwriting in the donation overflow basement. The wine flows like policy failure, each sip tightening the knot of distributed secrecy that binds the town’s secrets into an unbreakable infrastructure.\n",
+    "Scene 4: At Blackthorn Vineyard, the sky turns stormy; rain pours over the abandoned orchard chapel’s ruined façade. Jenna’s casserole dish is tossed aside as a sacrificial offering, while Tess confesses enough to deepen the web of lies. The sheriff, fresh mud on his boat key, arrives fourteen minutes too late, and a silent scream echoes from the old storm shelter where the winter wind howls through dusty windows.\n",
+    "Scene 5: A frantic drive toward the vineyard’s hidden cellar ends with ambulance lights flashing overhead. Rachel confronts the scarf’s impossible timing—a thread that weaves into St. Agnes Regional and a brunch resurrection event—while the locked door in the unused portable classroom holds the final key to the town’s truth.\n",
+    "Scene 6: In the twilight, the ceramic owl reappears on the kitchen island as the town murmurs about the Winterson case and another off‑site room that remains unexplained. Rachel, now aware of every adult’s spiritual rental, questions why the county owns so much storage yet holds no answers.\n"
+  ],
+  "contradiction_notes": [
+    "Derek Winterson is called Daniel in one kitchen scene—an identity that fractures his own sense of self.\nRachel Lark’s reference to Bellweather oscillates between Vermont and Atlanta, suggesting a memory warped by wine.\nThe best friend Jenna Hawthorne appears dead at brunch yet is alive in the same timeline—perhaps a spectral echo or deliberate denial.\nThe basement’s ownership shuffles from condo to lake house to abandoned vineyard, mirroring the town’s shifting narrative gravity.\nTess Mercer’s revelation about the orchard chapel contradicts her earlier claim of secrecy, hinting that some truths are intentionally withheld.\n"
+  ],
+  "alternate_titles": [
+    "The Silent Scarf of Alder Ridge",
+    "Echoes in the Old Storm Shelter",
+    "Wine & Whispered Secrets",
+    "Blackthorn’s Hidden Basements",
+    "The Vineyard's Unfinished Letter"
+  ],
+  "franchise_adjacency": "This series sits comfortably alongside HallTime's other Blackthorn County thrillers, such as 'Midnight at St. Agnes' and 'The Orchard Chapel Conspiracy,' creating a cohesive universe of small‑town dread and complex familial webs."
+}

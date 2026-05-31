@@ -1,0 +1,461 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "She Was Not Crazy",
+  "generation_feedback_used": true,
+  "title": "Social Media Stalker",
+  "tagline": "Every town has a basement.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "narcissistic ex-husband re-entry",
+  "starter_premise": {
+    "title": "Social Media Stalker",
+    "category": "wine_xanax_horror",
+    "premise": "She posts too much, someone is watching, and her location becomes the plot.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "Social Media Stalker"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "throat lozenges with a suspicious aftertaste",
+    "casserole dish",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Mara Hawthorne",
+      "archetype": "woman_on_the_edge",
+      "role": "protagonist",
+      "surface_function": "possible victim or possible defendant",
+      "hidden_function": "rage reservoir",
+      "job": "floral shop owner",
+      "traits": [
+        "smiles like a restraining order is considering her",
+        "has slept four hours across a week",
+        "seems one kitchen confession away from headline syntax"
+      ],
+      "threat_aura": 0.71,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "woman_on_the_edge maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.98,
+      "secret_capacity": [
+        "deleted 37 messages and remembers every word of them",
+        "bought bleach for innocent reasons that no longer sound innocent"
+      ],
+      "suspicion_mode": "volatile",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Mara Pruitt",
+      "archetype": "perfect_new_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "benevolent rescuer spouse",
+      "hidden_function": "curated widower threat",
+      "job": "philanthropic surgeon with impeccable manners",
+      "traits": [
+        "speaks gently about hiking safety",
+        "bought the house too quickly",
+        "has a locked room explained as grief"
+      ],
+      "threat_aura": 0.88,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.6,
+      "secret_capacity": [
+        "has already renovated away one suspicious stain",
+        "narrates tragic accidents with practiced grief"
+      ],
+      "innocence_probability": 0.17,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as retreat supplies",
+      "space_explanation_hesitation": 0.62,
+      "offsite_storage_plausibility": 0.66,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as retreat supplies",
+      "space_explanation_hesitation": 0.83,
+      "offsite_storage_plausibility": 0.5,
+      "window_staring_compatibility": 0.97,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Luke Bell",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "elevated scarf density",
+        "weaponized stillness",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.78,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.69,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Mercer",
+      "archetype": "narcissist_ex_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "reformed co-parenting adult",
+      "hidden_function": "ego-driven destabilizer",
+      "job": "restaurant owner with image issues",
+      "traits": [
+        "texts at impossible hours",
+        "says he has changed with suspicious fluency",
+        "acts wounded when confronted"
+      ],
+      "threat_aura": 0.65,
+      "domestic_plausibility": 0.57,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.55,
+      "secret_capacity": [
+        "maintains a narrative about the divorce that changes by audience"
+      ],
+      "innocence_probability": 0.22,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.74,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Sienna Marlowe",
+      "archetype": "betrayed_provider_woman",
+      "role": "secondary_witness",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "real estate developer",
+      "traits": [
+        "says she is fine in a voice that needs legal counsel",
+        "works too hard to notice the affair until everyone else does",
+        "makes competence look like denial"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "keeps the other woman under a fake contact name"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Mara Cross",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "From scene one the category runs on dread: She posts too much, someone is watching, and her location becomes the plot. The audience is meant to feel wrong before Mara Hawthorne has language for why, and the house in Blackthorn Lake feels curated for future testimony. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Domestic normalcy is established only so it can be contaminated by Mara Pruitt, the children, the hallway, or one too-helpful stranger with keys. Mara Bell hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A dim kitchen or nursery scene introduces the throat lozenges with a suspicious aftertaste and one unmistakable omen for us but not for her. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Luke Bell says something almost truthful and then retreats, leaving Mara Hawthorne alone with the feeling of being watched. Signature tell: The county telegraphs the problem once and nobody listens until act three. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one ends with the category proving that comfort itself is now suspect. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Domestic uncanny pressure spikes as ordinary rituals become contaminated: medication, childcare, bedding, internet searches, and locked doors all start feeling weaponized. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The police, partner, or therapist do not call her insane outright, but they help reality become blurrier instead of clearer. Someone mentions the basement as if it were a legal relative. Mara Pruitt hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "An object-based revelation around toolshed described as paperwork I have not gone through yet suggests that this pattern existed before Mara Hawthorne and may continue after her. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The ally either starts to believe too late or gets close enough to become a target, because dread punishes proximity. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two, the threat is either confirmed or still technically deniable, but never emotionally ambiguous anymore. Wine is present like a municipal policy failure. Sienna Marlowe hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The house, retreat, clinic, or family system becomes openly hostile and escape starts to look like the only sane form of interpretation. Wine is present like a municipal policy failure. Mara Pruitt hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Mara Hawthorne finds the hidden room, second file, fake history, or prior victim trace that proves the dread had architecture all along. Someone mentions the basement as if it were a legal relative. Mara Bell hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A confrontation involving snow globe turns survival into an act of improvised authorship rather than institutional rescue. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Even when the villain falls, the category leaves residue: the children, the paperwork, or the body memory of the place remain compromised. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The ending may close the plot, but it should never fully close the feeling. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Mara Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Mara Hawthorne says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\"",
+    "\"Mothers do not disappear, Derek. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Mara. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The throat lozenges with a suspicious aftertaste is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Luke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Social Media Stalker understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Social Media Stalker\" follows Mara Hawthorne, a possible victim or possible defendant who thinks a fresh start, a large house, and professional competence can outpace narcissistic ex-husband re-entry until Mara Pruitt collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: She posts too much, someone is watching, and her location becomes the plot. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. As a lake bell ringing without wind, Blackthorn County reveals once again that every secret comes home, every pool is a witness, and every adult has somewhere emotionally alarming to stand in silence. Every town has a basement.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4822,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

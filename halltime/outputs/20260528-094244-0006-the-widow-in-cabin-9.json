@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Mother Was Right All Along",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Where every secret comes home.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "bees in winter",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "blood-adjacent tea towel",
+    "casserole dish"
+  ],
+  "cast": [
+    {
+      "name": "Wyatt Marlowe",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.5,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.89,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Cross",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "owns flannel",
+        "unexpectedly good with children",
+        "accused at least once"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.57,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as old family things",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.68,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.64,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.82,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Brooke Hale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.8,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.74,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.58,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Bennett",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.56,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "moved money during a family emergency",
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as seasonal materials",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.57,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Bennett",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "always investigating",
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.24,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Jenna Marlowe",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Tess Hawthorne",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "definitely has rain-scene potential",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Wyatt Marlowe relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting church basement described as seasonal materials. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Jenna Marlowe hates the move and immediately distrusts Elias Cross, a widowed boat mechanic with suspiciously healthy handyman energy and access to old family office described as old family things. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the boat key, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Brooke Hale reveals a perfectly phrased warning in a well-lit kitchen while bees in winter, then declines to explain retreat cabin with candles, blankets, and difficult silence. Daniel Bennett hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes retreat cabin with candles, blankets, and difficult silence feel spiritually relevant. Wine is present like a municipal policy failure. Derek Hawthorne hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Wyatt Marlowe snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside church basement described as seasonal materials. Wine is present like a municipal policy failure. Brooke Bennett hesitates before explaining toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Elias Cross is accused, gaslighted, then gently framed near hydrangeas until the blood-adjacent tea towel turns up somewhere impossible inside old family office described as old family things. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Wyatt Marlowe hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and retreat cabin with candles, blankets, and difficult silence in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties casserole dish to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through retreat cabin with candles, blankets, and difficult silence instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Jenna Marlowe spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Brooke Bennett hesitates before explaining toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Brooke Hale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of old family office described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Elias Cross is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Wyatt Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Elias?\"",
+    "\"Mothers do not disappear, Jenna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Wyatt. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Brooke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Every corner here hides more than it reveals; we’re all just hiding our own secrets.\"",
+    "\"The bees will keep buzzing until the silence wears off and we can finally hear the truth.\"",
+    "\"The key to this mystery is not in a drawer, but in the cracks of your conscience.\"",
+    "\"When you open that casserole dish, remember it’s the only place where the past meets the present.\"",
+    "\"We’re all just pieces in someone else’s story; who will write the next chapter?\""
+  ],
+  "fake_critic_blurb": "\"HallTime delivers a labyrinthine tale that marries suburban dread with supernatural intrigue. The characters are richly flawed, each echoing the town’s own fractured conscience. Though its pacing lurches between tension and exposition, the show’s atmospheric depth rewards patient viewers seeking more than surface mystery.\"",
+  "sequel_hook": "\"When the ceramic owl reappears on a stormy night, whispers of the Winterson case ripple through Blackthorn, promising that the next chapter will untangle the threads of memory, guilt, and an unseen force watching from the shadows.\"",
+  "synopsis": "In the mist‑laden heart of Blackthorn County, Wyatt Marlowe retreats to Cabin 9, a church basement turned seasonal sanctuary, after an emotionally negligent implosion at her marketing firm. She wrestles with the ghost of an unsent email that could shatter her family’s façade while nursing the lingering scent of blood‑adjacent tea towel from Elias Cross’s old family office. The town is saturated with hidden corners: a boat key stained with fresh mud, a casserole dish whispering secrets in a side room, and a retreat cabin where bees buzz through winter silence. As Jenna Marlowe frowns at the move, Elias Cross and Derek Hawthorne weave an intricate web of suspicion, guilt, and misplaced loyalty. The narrative crescendos when a hidden letter from a vanished best friend surfaces, forcing each character to confront their own moral compass. The climax erupts at Lake Mercy’s gazebo, where ambulance lights flash against a locked door in the retreat cabin, leaving viewers questioning whether truth can ever truly be salvaged or merely re‑wrapped in fear wearing cashmere.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4035,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-094244-0006-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-094244-0006-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.174,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene One opens with Wyatt Marlowe arriving at Cabin 9, her suitcase thudding against the worn oak floor of a church basement. The air is thick with incense and old wood; a seasonal mural flickers under the low light. She rehearses her pretense about work deadlines as the wind rattles stained glass panes. The audience catches glimpses of an unsent email hidden in a dusty drawer, its digital footprint a silent threat to her family's image.",
+    "In Scene Two, Jenna Marlowe confronts Elias Cross by the riverbank, accusing him of manipulating the boat key’s mud for a clandestine motive. Elias counters with a weary grin, citing his widowed status and humble repairs. Their dialogue is punctuated by subtle glances toward an old family office that seems to breathe in silence, a place where secrets have always lived.",
+    "Scene Three brings the local vineyard into view: rows of vines twisted by fire scars and a lingering aroma of wine. Wyatt's eyes dart to the boat key on the counter, while Elias shares rumors of hidden tunnels beneath the vineyard’s cellar. The atmosphere swells with a sense that every corner hides more than it reveals.",
+    "The fourth scene plunges into the retreat cabin, candles flickering against blankets draped over stone walls. Brooke Hale delivers a cryptic warning about bees in winter and the danger of silence wrapped in cashmere. Daniel Bennett’s hesitant explanation of a meditation annex adds another layer of mystique as the wind howls outside.",
+    "Scene Five escalates with Derek Hawthorne stepping into a side room filled with old family records, his voice trembling over the casserole dish that once concealed evidence. The cabin’s space heater hums like an old heartbeat, and each character wrestles with their own career versus familial guilt in the shadow of looming judgment.",
+    "The final scene unravels at Lake Mercy’s gazebo: ambulance lights flash, a one‑line empowerment speech rings out over broken glass, and a locked door inside the retreat cabin is forced open. The audience feels the weight of truth dissolving into the night, as secrets finally spill like wine across the cold water."
+  ],
+  "contradiction_notes": [
+    "Elias Cross is inexplicably dubbed Daniel during a kitchen scene, then morphs into Derek in the rain argument—an intentional echo of identity loss.",
+    "Wyatt’s reference to Bellweather shifts from Vermont to outside Atlanta after two glasses of wine, a deliberate shift highlighting unreliable perception.",
+    "A best friend appears at brunch as a ghost; no one can agree whether this is denial, evil, or scheduling, amplifying existential dread.",
+    "The basement oscillates between being part of a condo, a lake house, and an abandoned vineyard—each transition underscores the fluidity of place in Blackthorn’s lore.",
+    "When the boat key is described as muddy in one moment and pristine in another, it reflects how truth is always refracted by personal bias."
+  ],
+  "alternate_titles": [
+    "Whispers in Cabin Nine",
+    "The Secret of Blackthorn Lake",
+    "Silent Beasts of Winter",
+    "Echoes from the Basement",
+    "The Casserole Conspiracy"
+  ],
+  "franchise_adjacency": "This expansion fits snugly beside HallTime’s other Blackthorn County thrillers, particularly 'The Midnight Orchard' and 'Lake Mercy Murmurs', weaving a tapestry of interlinked secrets that deepen the universe’s intrigue."
+}

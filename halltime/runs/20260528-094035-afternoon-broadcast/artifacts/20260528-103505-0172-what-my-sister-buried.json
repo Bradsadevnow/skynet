@@ -1,0 +1,437 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "What My Sister Buried",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "casserole dish",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Mara Pike",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.22,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as donation overflow",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.71,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Hale",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.61,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Bennett",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.64,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Pike",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.66,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.67,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.91,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.81,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Sutton",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\"",
+        "too calm"
+      ],
+      "threat_aura": 0.85,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.6,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as just storage",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.61,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Luke Dane",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "often wrong but directionally vital",
+        "usually holding wine",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.98,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.33,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Tess Pruitt",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Daniel Bell",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Mara Pike relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting church basement described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Tess Pruitt hates the move and immediately distrusts Gavin Hale, a hospital administrator with suspiciously healthy handyman energy and access to dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Channel 8 Night Report introduces the scarf with impossible timing, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Pike reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes old family office described as just storage feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Mara Pike snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside church basement described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old family office described as just storage. Brooke Bennett hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Gavin Hale is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Brooke Bennett hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Mara Pike hesitates before explaining church basement described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old family office described as just storage instead of one simple basement. Wine is present like a municipal policy failure. Gavin Hale hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Tess Pruitt spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Candle Finch ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Mara Pike hesitates before explaining church basement described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Pike confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of dock office with a desk nobody fully claims. Someone mentions the basement as if it were a legal relative. Claire Pike hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Mara Pike hesitates before explaining church basement described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Gavin Hale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Mara Pike says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Gavin?\"",
+    "\"Mothers do not disappear, Tess. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Mara. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The dock office with a desk nobody fully claims feels like an open invitation to mischief.\"",
+    "\"Why do we all talk about basements as if they were legal relatives?\"",
+    "\"When you close a door, you also shut out the possibility of truth.\"",
+    "\"A casserole dish can be both nourishment and evidence—choose wisely.\"",
+    "\"The scarf’s glow is not an omen; it’s a warning. Do you hear it?\""
+  ],
+  "fake_critic_blurb": "\"A masterful blend of gothic intrigue and suburban satire, HallTime’s latest offering turns Blackthorn County into a labyrinth where secrets are as heavy as the wine that flows from every glass. The narrative’s clever manipulation of continuity failures adds layers of delicious confusion, making every character a mirror reflecting another’s hidden fears.\"",
+  "sequel_hook": "\"As Mara finally locks the church basement door, a new letter arrives—its ink still wet, its message ominously unfinished. The town’s silence is broken by an unexpected knock on the dock office that could change everything...\"",
+  "synopsis": "In Blackthorn County’s fog‑drenched streets, Mara Pike steps into Marigold Falls, a town that cradles secrets like old churches cradle pews. She inherits the church basement—an overflowing donation cellar—while her career as a lawyer burns brighter than any confession she could ever deliver. Her sister’s funeral was never truly over; it was buried in layers of unopened letters and hidden casserole dishes, each one whispering that family can be both sanctuary and crime scene. The county’s inhabitants are bound by an unseen static on their phones, calling her name like a warning from the past. A storm of distrust erupts when Gavin Hale, a charismatic hospital administrator with a dock office that nobody truly claims, enters the picture. Mara finds herself tangled in a web where career ambition clashes with inherited guilt, and every clue—scarves with impossible timing, unsealed letters, and the scent of burnt wine—pulls her deeper into a gothic divorce plot that could never be neatly wrapped up.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4247,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103505-0172-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103505-0172-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.766,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Act 1 Scene 3: The night’s revelry at Channel 8 Night Report spirals into a surreal cocktail of whispers. Mara clutches a scarf that glows faintly with impossible timing, the color shifting like an omen in her hand. The local gossip circle—fueled by a town where everyone hides from conversation—pours wine as if it were municipal policy. An old woman on the orchard road murmurs about a buried truth that keeps the basement alive as a legal relative in their collective memory.",
+    "Act 2 Scene 7: In the dim glow of the fundraiser’s makeshift altar, a casserole sits on a silver platter—an offering to the town’s fickle safety. The sheriff, eyes red from long nights, suspects the wrong man while ignoring the old family office that still feels like storage. Brooke Bennett, candlelight trembling in her hands, hesitates before explaining her retreat cabin where blankets lie over silence and the room is heavy with unspoken secrets.",
+    "Act 3 Scene 12: The rain lashes the town’s cracked windows as a frantic drive toward The Candle Finch cuts through smoke and ambulance lights. Mara hovers between the church basement’s overflowing donations and the side room’s space heater, where old family records flicker like ghosts. A single line of empowerment echoes against the locked door—yet the city’s heartbeat still drips mud on the boat key, a silent testament to unresolved sins.",
+    "Act 1 Scene 5: On a cliffside, the town’s civic hazard is exposed as Mara contemplates career versus family guilt. The old family office—once just storage—is now spiritually relevant, its shelves echoing with voices that once whispered through hidden basements and now demand acknowledgment in every glass of wine poured like municipal failure.",
+    "Act 2 Scene 10: An unopened letter surfaces amidst the chaos of an orchard chapel, a side room, and old family records. The town’s collective memory—tied to Blackthorn Vineyard, St. Agnes Regional, and brunch resurrection events—collides with Mara’s own hesitation as she stares into the church basement’s overflowing donations.",
+    "Act 3 Scene 15: In the final beat, a ceramic owl reappears on the kitchen island, its eyes reflecting the Winterson case’s shadows. The vineyard fire’s ash lingers in the air while an offsite room remains unexplained, and Mara’s hesitation before explaining the church basement’s overflowing donations sets the stage for the next chapter of dread."
+  ],
+  "contradiction_notes": [
+    "Gavin Hale’s identity shuffles like a deck of cards: Daniel in one kitchen, Derek at the rain argument—each name a subtle misdirection to mask his true motives.",
+    "Mara Pike’s geography slips from Vermont’s Bellweather to an elusive Atlanta after two glasses of wine, hinting that even her memories are as unreliable as the town’s streets.",
+    "A deceased best friend appears at brunch, yet no one agrees whether she is a spectral echo or a deliberate lie—mortality itself becomes a mutable narrative.",
+    "The basement’s ownership shatters into condos, lake houses, and abandoned vineyards, each claim a reflection of the county’s fractured history.",
+    "The town’s “legal relative” basement keeps changing its legal status, turning every mention into an ongoing legal drama that defies closure."
+  ],
+  "alternate_titles": [
+    "The Basement Whisperer",
+    "Casserole of Secrets",
+    "The Scarf That Tells",
+    "Blackthorn’s Unspoken Deal",
+    "Wine, Warnings, and Wreckage"
+  ],
+  "franchise_adjacency": "This expansion follows the suspenseful tone of HallTime’s \"Divorce in Dusk\" series while setting up a thematic crossover with the upcoming thriller \"Vineyard Vendetta,\" where both stories share Blackthorn County as their haunting backdrop."
+}

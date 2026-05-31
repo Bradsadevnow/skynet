@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "What My Sister Buried",
+  "tagline": "Inspired by something, probably.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "unresolved hometown romance",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "snow globe",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Tess Pike",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.24,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as donation overflow",
+      "space_explanation_hesitation": 0.53,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Tess Pruitt",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "sighs heavily",
+        "briefly leaves the room after difficult questions",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.75,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.9,
+      "offsite_storage_plausibility": 0.72,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Hale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "weaponized stillness",
+        "elevated scarf density",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Tess Sutton",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\"",
+        "too calm"
+      ],
+      "threat_aura": 0.69,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.56,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as old family things",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.46,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Cross",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "usually holding wine",
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.6,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.85,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.98,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Mercer",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Daniel Mercer",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Tess Pike relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting storage unit described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Mara Mercer hates the move and immediately distrusts Tess Pruitt, a hospital administrator with suspiciously healthy handyman energy and access to dock office with a desk nobody fully claims. Elias Hale hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the scarf with impossible timing, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Elias Hale reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes unresolved hometown romance as a civic hazard and makes storage unit described as donation overflow feel spiritually relevant. Wine is present like a municipal policy failure. Tess Sutton hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Tess Pike snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside storage unit described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Tess Sutton hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring storage unit described as donation overflow. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Tess Pruitt is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Tess Sutton hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and storage unit described as paperwork I have not gone through yet in the same sentence. Wine is present like a municipal policy failure. Elias Hale hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties ceramic owl to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through storage unit described as donation overflow instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Mara Mercer spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Elias Hale hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Marigold Inn ends with ambulance lights, a one-line empowerment speech, and a locked door inside storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Gavin Bell hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Elias Hale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of dock office with a desk nobody fully claims. Evelyn Cross hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Tess Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Tess Pike says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Tess?\"",
+    "\"Mothers do not disappear, Mara. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Tess. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Elias.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Do you hear that bark again? It’s a warning, Tess.\"",
+    "\"Every time we clean up, we’re just repainting ghosts.\"",
+    "\"The owl knows where the vineyard secrets hide.\"",
+    "\"The sheriff’s mud on the boat key tells me something more sinister than paperwork.\"",
+    "\"Why does the snow globe glow when the dog barks? The town is alive in its own way.\""
+  ],
+  "fake_critic_blurb": "A spellbinding tapestry of dread and decor, HallTime's 'What My Sister Buried' turns every quiet corner into a stage for unsettling revelations. The narrative is as complex as the town itself—where secrets are sold over wine and dogs bark at empty gazebos with prophetic intent. Critics praise its audacious blending of melodrama with subtle horror, noting that each character feels like a piece of an ever‑shifting puzzle. Fans will find themselves questioning whether the town truly forgets or simply rewrites history to fit its own comfort.",
+  "sequel_hook": "When the ceramic owl returns to the vineyard, whispers hint at a deeper conspiracy: a hidden chamber beneath Blackthorn Lake that could unravel not only Tess’s past but the very fabric of the county. A new threat lurks in the shadows—one that might force the town to confront its own ghosts once more.",
+  "synopsis": "In Blackthorn County, Tess Pike returns to the lake town after a career‑crushing implosion, her mind wrapped in a borrowed storage unit that feels like an inherited curse. The town is a living palimpsest where secrets are traded over wine and whispered at gazebo dogs, and every corner holds a broken promise or a relic of forgotten grief. Tess navigates a maze of characters—hospital administrator Tess Pruitt with a dock office that never truly belongs to anyone, bartender Gavin Bell who knows more than he says, widow Elias Hale guarding paperwork she should have burned, grief counselor Tess Sutton with a hidden second phone, and podcaster Evelyn Cross cataloguing screenshots as scripture. As the narrative spirals through ten acts, each scene reveals another layer of town mythology: a scarf that appears in impossible moments, a snow globe that hides an accusation, and a ceramic owl that becomes the linchpin between Blackthorn Vineyard and St. Agnes Regional. The climax forces Tess to confront her own buried trauma while the town’s facade crumbles, leaving only the haunting echo of “a town never forgets, it just redecorates.”",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.3703,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-110927-0288-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-110927-0288-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 16.554,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Tess Pike stepping into the damp air of Blackthorn Lake, clutching a battered suitcase and a scarf that seems to glow under the flicker of her lamp. The storage unit—labeled 'donation overflow'—looms like a relic from an earlier tragedy, its door half‑open revealing boxes stamped with dates she doesn't recognize. Wine pours from a chipped bottle, each sip thickening the air with municipal policy failure, while whispers about a basement as if it were a legal relative swirl in the background. Tess's mind races: is this merely coincidence or a warning? The scene closes on her eyes widening at a faint scent of pine, a ghostly reminder that some memories are never truly buried.",
+    "Scene 2 introduces Mara Mercer, a storm‑trooper of a divorce attorney’s soul, who slams the door of the dock office in fury. The space is oddly claimed by no one, its desk cluttered with forgotten paperwork and a single dented coffee mug. Tess Pruitt—hospital administrator and unintentional antagonist—smiles politely but her eyes scan for any hint of deception. As Elias Hale hesitates before explaining the paperwork she swears she hasn't seen, an elderly man appears at brunch, dead in appearance yet alive in gossip. The scene ends with a sudden bark from the empty gazebo dog, rattling the walls like a heartbeat.",
+    "Scene 3 sets the tone at The Marigold Inn, where the scarf is now a centerpiece of local gossip. Wine pours as freely as municipal policy failures, and locals discuss the woman from Orchard Road—her legend growing each night. The scarf’s impossible timing catches Tess's attention: it drapes itself around her wrist before she even realizes she's there. The town seems to have more secrets than walls; everyone hides somewhere, but nobody knows who is truly watching. A subtle tension builds as someone mutters about a basement that may be legal relative—another hint that the town’s foundations are shaky.",
+    "Scene 4 brings Elias Hale into a well‑lit kitchen where he offers a perfectly phrased warning before turning away from the storage unit. The dog at the gazebo barks again, this time with a tone that suggests a premonition. The kitchen lights flicker as if mirroring Tess's internal conflict; she feels the weight of an unresolved hometown romance pulling her back to memories she's tried to bury. Her pulse quickens when she sees a snow globe turning itself toward a hidden compartment—an impossible event in a town that loves to redecoration. The scene closes with the faint sound of church bells, hinting at deeper secrets in the basement.",
+    "Scene 5 climaxes on a cliffside where Tess confronts the truth about her past love. Her voice cracks as she speaks of civic hazards and the spiritual relevance of the storage unit—donation overflow is no longer just an empty space but a vessel of her own sins. Wine again stains the air, the same municipal policy failure now a motif for the town's inability to move forward. Tess Sutton appears hesitant, clutching a second phone labeled work precaution; she explains that church basement holds old family things that could unravel everything. The cliff’s wind carries away the last whisper of doubt.",
+    "Scene 6 ends with the revelation of the ceramic owl at Blackthorn Vineyard. As the town gathers for a brunch resurrection event, the owl becomes a symbol of the town's attempt to mask death with decor. The scene weaves through storage units described as donation overflow and paperwork yet unseen, highlighting how the community keeps secrets in places it claims to forget. Wine pours again, echoing municipal policy failure; Tess finally acknowledges that the town never truly forgets—just redecorates—and she must decide whether to confront her buried past or let it remain hidden."
+  ],
+  "contradiction_notes": [
+    "Tess Pruitt’s sudden name change to Daniel and Derek suggests a fragmented identity that mirrors the town’s broken timeline.",
+    "The geography drift—Bellweather being both Vermont and outside Atlanta—reflects Blackthorn County’s tendency to bend reality for narrative convenience.",
+    "A dead best friend appearing at brunch challenges the town’s notion of mortality, hinting at an alternate plane coexisting with the living.",
+    "The basement’s shifting ownership from condo to lake house to abandoned vineyard underlines how Blackthorn’s structures are metaphors for unresolved histories.",
+    "Tess’s scarf, impossible timing, and snow globe glow are contradictions that intensify the sense that the town’s secrets are alive, not dead."
+  ],
+  "alternate_titles": [
+    "Echoes of Blackthorn",
+    "The Scarab Scarf",
+    "Murmurs at the Gazebo",
+    "Ceramic Secrets",
+    "Redecorating the Dead"
+  ],
+  "franchise_adjacency": "This broadcast aligns with HallTime's 'St. Agnes Regional Mysteries' and 'Vineyard Veil', creating a triad that explores Blackthorn County’s haunted past, its secret societies, and the supernatural forces that bind them."
+}

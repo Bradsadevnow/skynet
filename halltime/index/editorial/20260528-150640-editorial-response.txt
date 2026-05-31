@@ -1,0 +1,39 @@
+{
+  "notes_markdown": "The evaluation prioritizes atmospheric persistence over strict logical coherence, so we favor titles and props that enhance mood and continuity across siblings while minimizing dissonant phrases. We retain the existing demote_phrases and protect_phrases lists unchanged. For title_weight_adjustments, we bump \"The Vineyard Lies Beneath Us\" to encourage its recurrence, reflecting its strong atmospheric elements. Theme adjustments reinforce the recurring motif of a town that redecorates rather than remembers, benefiting all titles featuring local lore. Mode weights are lightly nudged toward \"Court-Ordered Lifetime\" and \"Divorce Gothic\", as these align with the darker, more persistent narratives present in the candidates. Male archetype weights receive minimal changes to preserve the current balance.\n",
+  "promote_props": [
+    "boat key",
+    "snow globe",
+    "scarf with impossible timing"
+  ],
+  "demote_phrases": [
+    "basement",
+    "brunch",
+    "casserole dish",
+    "ceramic owl",
+    "just storage",
+    "kitchen",
+    "municipal policy failure",
+    "unopened letter",
+    "vineyard fire"
+  ],
+  "protect_phrases": [
+    "portable suspicion",
+    "regional utility"
+  ],
+  "title_weight_adjustments": {
+    "The Vineyard Lies Beneath Us": 0.815
+  },
+  "theme_weight_adjustments": {
+    "\"A town never forgets. It just redecorates.\"": 1.10
+  },
+  "mode_weight_adjustments": {
+    "Court-Ordered Lifetime": 1.07,
+    "Divorce Gothic": 1.12
+  },
+  "male_archetype_weight_adjustments": {
+    "divorced_redemption_dad": 1.02,
+    "decorative_husband": 1.01
+  },
+  "canon_candidates": [],
+  "dead_sludge": []
+}

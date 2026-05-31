@@ -1,0 +1,702 @@
+network: HallTime Movie Network
+universe: Blackthorn County
+canon_policy: all contradictions remain emotionally valid
+programming_ethos:
+- domestic suspense
+- regional paranoia
+- maternal intuition
+- decorative menace
+- continuity as folklore
+core_rules:
+- nobody_is_fully_normal
+- every_movie_contains_one_direct_callback
+- every_movie_contains_one_indirect_rumor
+- every_movie_contains_one_shared_prop
+- every_movie_contains_one_wait_weren_t_they_dead_moment
+- cops_arrive_fourteen_minutes_too_late
+- life_changing_truths_prefer_clean_kitchens
+locations:
+  towns:
+  - Blackthorn Lake
+  - Bellweather
+  - Marigold Falls
+  - Alder Ridge
+  - Winter Hollow
+  recurring_sites:
+  - St. Agnes Regional
+  - Bellweather Sheriff's Office
+  - The Marigold Inn
+  - Channel 8 Night Report
+  - Blackthorn Vineyard
+  - The Candle Finch
+  - the old orchard chapel
+  - the gazebo at Lake Mercy
+  - Willow Gate Estates
+  - the unfenced pool behind the cul-de-sac rental
+  - Mercer Fertility and Sleep Clinic
+  - the upstairs nursery with the camera nobody installed
+recurring_props:
+- ceramic owl
+- snow globe
+- unopened letter
+- casserole dish
+- boat key
+- scarf with impossible timing
+- blood-adjacent tea towel
+- fishbowl chardonnay glass
+- throat lozenges with a suspicious aftertaste
+- heavy brass candlestick
+- fireplace poker with alibi potential
+- nanny cam memory card
+- locked room key on an optimistic keychain
+- vindictive music box
+omens:
+- bees in winter
+- a child drawing stairs
+- phone static saying her name
+- a dog barking at an empty gazebo
+- a Christmas ornament turning up wet
+- a lake bell ringing without wind
+- an anniversary card mailed after the funeral
+- security footage with a time stamp that feels vindictive
+- a child saying mommy was loud last night when she was alone
+- a florist delivery nobody ordered arriving already open
+- a pool gate standing open where nobody remembers a gate
+- a thermostat set to 90 by hands that deny themselves
+- a dead bird arranged where breakfast should have been
+- a nursery monitor catching breathing nobody can identify
+- vitamins that taste faintly of sedation and drywall
+- security footage buffering right before the scream
+relationship_dynamics:
+- emotionally neglected marriage
+- suspiciously healthy handyman friendship
+- overbearing mother tension
+- unresolved hometown romance
+- career vs family guilt
+- woman falsely accusing lovable scamp
+- secret half sibling
+- emotionally charged casserole exchange
+- narcissistic ex-husband re-entry
+- woman working too hard to clock the affair
+- affair exposed through an innocent device sync
+- he would not stop and now he is missing
+- protective mother vs manipulative co-parent
+- widow maybe lying maybe surviving
+- obsessive boyfriend escalation spiral
+- career woman returns to town and inherits emotional debt
+- flawless suburban restart under hostile observation
+- stalker nanny replacement campaign
+- wrong roommate dead-sister resemblance spiral
+- psychopathic doctor says it is stress again
+- perfect new husband with archived widow energy
+- disbelieving best friend learns too much
+- sabotaged medication and increasingly professional concern
+- protagonist internet-searches her own murder in advance
+- brakes fail at the exact scenic overlook
+- storm-night gaslighting confession event
+stable_lore:
+  institutions:
+  - St. Agnes Regional
+  - Channel 8 Night Report
+  - Blackthorn Vineyard
+  - Bellweather Sheriff's Office
+  named_events:
+  - the Winterson case
+  - the vineyard fire
+  - the Christmas pageant incident
+  - the woman from the orchard road
+  - the lake house injunction
+  - the gala affair scandal
+  - the boyfriend who would not stop incident
+  - the therapist parking lot tape
+  - the au pair reference discrepancy
+  - the clinic sedation review
+  - the pool incident nobody filmed correctly
+  - the cliff road brake failure
+unstable_lore:
+  geography_status: emotionally true
+  mortality_status: interpretively unstable
+  male_identity_field: porous
+movie_modes:
+- Lifetime Original
+- Court-Ordered Lifetime
+- Hallmark Possession Event
+- Divorce Gothic
+- Menace Christmas
+- Mother Was Right All Along
+- Gated Community Emergency
+- Chardonnay Defense Protocol
+- She Was Not Crazy
+starter_premises:
+- title: The Shattered Widow
+  category: trauma_drama
+  premise: Husband dies in act one. She starts getting back out there by act two.
+    He was secretly terrible.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Daughter in Danger
+  category: thriller
+  premise: Teen daughter is being groomed, stalked, or poisoned and mom is the only
+    one who believes it.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Too-Perfect New Neighbor
+  category: thriller
+  intensity: high
+  premise: He's charming, bakes, fixes things, and has zero history plus zero last
+    name.
+  signature_tell: The one scene where his smile doesn't reach his eyes and nobody
+    notices but us.
+  variants:
+  - title: The Too-Perfect New Neighbor
+    category: thriller
+    intensity: high
+    premise: His wife died under mysterious circumstances and he speaks of her with
+      just a little too much fondness.
+    signature_tell: The framed photo of the dead wife is always slightly off-center.
+  - title: The Too-Perfect New Neighbor
+    category: thriller
+    intensity: extreme
+    premise: She already moved in next door, already borrowed a cup of sugar, and
+      it is too late for her.
+    signature_tell: She says 'he's just being friendly' within the first twenty minutes.
+- title: Cheating Husband Upgrade
+  category: feel_good
+  intensity: low
+  premise: He cheated, she thrived, and the better man appears by minute forty.
+  signature_tell: The new man is introduced while she's doing something she loves,
+    not while she's sad.
+  variants:
+  - title: Cheating Husband Upgrade
+    category: feel_good
+    intensity: mid
+    premise: The cheating husband is present when she wins publicly and can do nothing
+      but watch.
+    signature_tell: His new girlfriend is watching him watch his ex and clocks it
+      immediately.
+- title: Secret Baby
+  category: romance
+  premise: A child exists that changes everything and nobody told anyone for two decades.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Small Town Escape Artist
+  category: romance
+  intensity: low
+  premise: Career woman returns to hometown, hates it, loves it, and stays forever.
+  signature_tell: Her city shoes are impractical for every surface she encounters.
+  variants:
+  - title: Small Town Escape Artist
+    category: romance
+    intensity: low
+    premise: The childhood sweetheart is still there and still knows her coffee order.
+    signature_tell: He still knows her coffee order.
+  - title: Small Town Escape Artist
+    category: romance
+    intensity: mid
+    premise: She planned to sell the family property but the place and the man change
+      her mind.
+    signature_tell: The real estate developer is the villain and arrives in act two
+      with a briefcase.
+- title: Gaslit to the Limit
+  category: thriller
+  intensity: high
+  premise: She knows something is wrong, everyone calls her crazy, and she is not
+    crazy.
+  signature_tell: Her own mother takes his side at the worst possible moment.
+  variants:
+  - title: Gaslit to the Limit
+    category: thriller
+    intensity: extreme
+    premise: The therapist is sleeping with the husband or on his payroll and every
+      session leaves her more confused.
+    signature_tell: Therapy scenes always end with her leaving more confused than
+      she arrived.
+  - title: Gaslit to the Limit
+    category: thriller
+    intensity: extreme
+    premise: She's prescribed something that makes her foggy and the husband controls
+      the dosage.
+    signature_tell: The pill bottle is always in a prominent shot.
+- title: The Obsessive Best Friend
+  category: wine_xanax_horror
+  intensity: high
+  premise: She slowly becomes the main character, hijacks the life, and wears the
+    clothes.
+  signature_tell: She starts finishing the protagonist's sentences by the midpoint.
+  variants:
+  - title: The Obsessive Best Friend
+    category: wine_xanax_horror
+    intensity: extreme
+    premise: She does not want the life, she wants the husband specifically and has
+      for years.
+    signature_tell: There's a journal and it goes back further than makes sense.
+- title: Christmas Ranch Romance
+  category: holiday
+  intensity: low
+  premise: A city lawyer must save a Christmas ranch from an evil developer and a
+    cowboy is included.
+  signature_tell: Snow falls at the exact right moment every time on cue.
+  variants:
+  - title: Christmas Ranch Romance
+    category: holiday
+    intensity: mid
+    premise: The ranch has a dying patriarch who only wants one last Christmas with
+      everyone together.
+    signature_tell: The patriarch approves of the cowboy before anybody else does.
+- title: The Wrongful Accusation Arc
+  category: thriller
+  intensity: mid
+  premise: She didn't do it, nobody believes her, and she solves it herself because
+    the detective is useless.
+  signature_tell: The actual culprit is in scene one and you just didn't notice.
+  variants:
+  - title: The Wrongful Accusation Arc
+    category: thriller
+    intensity: high
+    premise: The best friend had motive the whole time and the friendship was a long
+      con.
+    signature_tell: Flashback reveals the best friend's expression in one scene was
+      not what we thought.
+  - title: The Wrongful Accusation Arc
+    category: thriller
+    intensity: extreme
+    premise: The husband took out a policy, planned this, and she was never safe.
+    signature_tell: He cries at exactly the right moments throughout.
+- title: Cancer Diagnosis Pivot
+  category: trauma_drama
+  intensity: mid
+  premise: A diagnosis reshapes everything, estranged people reconcile, and the crying
+    is beautiful.
+  signature_tell: The diagnosis always happens in minute twelve before she has done
+    anything fun.
+  variants:
+  - title: Cancer Diagnosis Pivot
+    category: trauma_drama
+    intensity: high
+    premise: She gets sick and the diagnosis reveals the husband was already having
+      an affair long before treatment began.
+    signature_tell: He buys her flowers every week during treatment and she later
+      finds the receipts.
+  - title: Cancer Diagnosis Pivot
+    category: trauma_drama
+    intensity: mid
+    premise: She survives, changes careers, moves, falls in love, and the illness
+      becomes load-bearing character development.
+    signature_tell: She cuts her hair, it is symbolic, and it looks great.
+- title: Nanny From Hell
+  category: wine_xanax_horror
+  intensity: high
+  premise: Great with kids, wants to be the mother, and intends to become the mother.
+  signature_tell: She starts wearing the mom's style of clothing by episode two.
+  variants:
+  - title: Nanny From Hell
+    category: wine_xanax_horror
+    intensity: extreme
+    premise: She has a whole fake family planned, complete with albums, a ring, and
+      a baby name.
+    signature_tell: There's a shoebox and nobody wants to see inside it.
+  - title: Nanny From Hell
+    category: wine_xanax_horror
+    intensity: extreme
+    premise: She was once a patient somewhere, there is paperwork, and the hiring
+      couple skipped the background check.
+    signature_tell: She volunteers this information herself at some point and it gets
+      ignored.
+- title: Reunion Weekend Collapse
+  category: thriller
+  premise: Old friends reunite and one hidden secret unravels everybody.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Internet Predator Dad
+  category: thriller
+  premise: Dad thinks he is catching predators and is dangerously wrong about something
+    important.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Found Family Christmas
+  category: holiday
+  premise: A lonely person stumbles into stranger family chaos and it becomes hers.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Workplace Affair Fallout
+  category: romance
+  premise: One of them is married, both careers implode, and regret arrives in slow
+    motion.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Toxic Ex Won't Leave
+  category: wine_xanax_horror
+  intensity: high
+  premise: He keeps showing up, police file reports and then nothing, so she handles
+    it in act three.
+  signature_tell: He leaves something at her house each time and it escalates in size.
+  variants:
+  - title: Toxic Ex Won't Leave
+    category: wine_xanax_horror
+    intensity: extreme
+    premise: She changed the locks but he had a copy made before she did and never
+      mentions it.
+    signature_tell: The camera lingers on the door handle once before the credits.
+  - title: Toxic Ex Won't Leave
+    category: wine_xanax_horror
+    intensity: extreme
+    premise: He befriends the new boyfriend, goes fishing with him, and insists he
+      only wants her to be happy.
+    signature_tell: He says 'I just want her to be happy' to the new boyfriend with
+      a straight face.
+- title: Missing Person Mom
+  category: thriller
+  premise: A child goes missing, mother knows something is off, and everybody ignores
+    her for seventy minutes.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Sisterhood of Terrible Men
+  category: feel_good
+  premise: A group of women bond over shared experiences with the same awful man.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Grief Baking Arc
+  category: feel_good
+  premise: She bakes through loss until the bakery becomes the life metaphor.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Evil Twin Reveal
+  category: wine_xanax_horror
+  premise: A twin exists, one is good, one is very bad, and nobody can reliably tell
+    them apart.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Inheritance War
+  category: thriller
+  premise: Patriarch dies, relatives descend, and somebody is absolutely trying to
+    steal the house.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Summer Romance Implosion
+  category: romance
+  premise: Perfect summer love curdles by Labor Day when one of them is not who they
+    claimed to be.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Cult Adjacent Vacation
+  category: wine_xanax_horror
+  premise: She goes on a retreat, the retreat is a cult, and escaping takes the whole
+    movie.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Support Group Predator
+  category: thriller
+  intensity: extreme
+  premise: He attends grief groups and he is not grieving.
+  signature_tell: He always sits near the exit and always volunteers to drive someone
+    home.
+  variants:
+  - title: The Support Group Predator
+    category: thriller
+    intensity: extreme
+    premise: He infiltrates online widow communities and has done it in at least twelve
+      groups already.
+    signature_tell: His profile photo is him with a golden retriever and it is not
+      his dog.
+- title: Baby Fever Deception
+  category: trauma_drama
+  premise: A partner hid fertility information, a child is involved somewhere, and
+    it gets messy.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Overworked Mom Redemption
+  category: trauma_drama
+  intensity: mid
+  premise: She missed too many recitals, the family nearly fractures, and crisis delivers
+    the lesson.
+  signature_tell: The child's face when mom misses the thing is the whole movie in
+    one shot.
+  variants:
+  - title: Overworked Mom Redemption
+    category: trauma_drama
+    intensity: high
+    premise: She sacrificed everything for a company that was committing fraud and
+      then found the files herself.
+    signature_tell: The mentor figure she trusted signed off on it.
+- title: First Responder Love
+  category: romance
+  premise: A firefighter or paramedic with a tragic backstory saves her and romance
+    follows.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Charming Sociopath
+  category: wine_xanax_horror
+  intensity: high
+  premise: Perfect in every way, no past, no family, no roots, and every instinct
+    says run.
+  signature_tell: He deflects every personal question with a compliment.
+  variants:
+  - title: The Charming Sociopath
+    category: wine_xanax_horror
+    intensity: extreme
+    premise: He has another family in another city under a different name but the
+      same move set.
+    signature_tell: The kids in the other family look exactly like him.
+  - title: The Charming Sociopath
+    category: wine_xanax_horror
+    intensity: high
+    premise: He faked his credentials, the LinkedIn is three months old, and he knows
+      just enough to be convincing for exactly seventy minutes.
+    signature_tell: He knows just enough to be convincing for exactly seventy minutes.
+- title: Adoption Reunion Gone Wrong
+  category: thriller
+  premise: Reuniting with birth family seemed like a good idea and was not a good
+    idea.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Vineyard Inheritance
+  category: romance
+  intensity: low
+  premise: She inherits a vineyard and must decide whether to sell or stay and learn
+    wine.
+  signature_tell: The local winemaker goes from skeptical to not skeptical to in love.
+  variants:
+  - title: The Vineyard Inheritance
+    category: romance
+    intensity: mid
+    premise: There is a deed dispute, hidden will, or family secret that changes the
+      inheritance.
+    signature_tell: The lawyer has a conflict of interest that matters in act three.
+- title: Social Media Stalker
+  category: wine_xanax_horror
+  premise: She posts too much, someone is watching, and her location becomes the plot.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Wronged Woman Revenge
+  category: feel_good
+  intensity: mid
+  premise: She was betrayed, planned quietly, and act three is completely satisfying.
+  signature_tell: The revenge is always proportional, elegant, and legal. Barely.
+  variants:
+  - title: Wronged Woman Revenge
+    category: feel_good
+    intensity: high
+    premise: The women coordinated without telling each other and all arrive at the
+      same moment.
+    signature_tell: Two women who have never met make eye contact and both know.
+- title: Holiday Baking Competition
+  category: holiday
+  premise: Two rivals must run the bake-off together and there is exactly one possible
+    outcome.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Amnesia Identity Crisis
+  category: thriller
+  premise: She does not remember who she is and the people around her disagree in
+    ominous ways.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Second Chance Ranch
+  category: romance
+  premise: Divorce drives her to rural property and both the land and the handyman
+    have issues.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Witness Protection Love Story
+  category: thriller
+  premise: She is hiding from someone, falls in love, and the cover gets blown by
+    the love story itself.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Addiction Recovery Feature
+  category: trauma_drama
+  intensity: mid
+  premise: Rock bottom is depicted tastefully, recovery is linear, and new love appears
+    around step nine.
+  signature_tell: The sponsor is either too helpful or has their own secret.
+  variants:
+  - title: Addiction Recovery Feature
+    category: trauma_drama
+    intensity: extreme
+    premise: The husband introduced it, enabled it, and then used it against her in
+      court.
+    signature_tell: He attends the AA meeting to watch exactly once.
+- title: The Surrogate Complication
+  category: trauma_drama
+  premise: A surrogate develops attachment, the legal documents are ambiguous, and
+    feelings flood every room.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Midlife Crisis Glow-Up
+  category: feel_good
+  intensity: low
+  premise: She turns forty-five, quits, moves somewhere warm, discovers herself, and
+    men notice.
+  signature_tell: She buys something impractical and it works out.
+  variants:
+  - title: Midlife Crisis Glow-Up
+    category: feel_good
+    intensity: low
+    premise: The whole thing runs through a ceramics class and the pottery teacher
+      has patient soft eyes.
+    signature_tell: Her first pot is bad, her second pot is beautiful, and he notices
+      the improvement.
+- title: Blackmail Spiral
+  category: thriller
+  premise: One mistake was photographed and now somebody wants something every week.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Book Club Murder
+  category: thriller
+  intensity: mid
+  premise: Suburban women in a book club discover or witness something murderous and
+    the investigation follows.
+  signature_tell: The most mild-mannered one either did it or saw the most.
+  variants:
+  - title: The Book Club Murder
+    category: thriller
+    intensity: high
+    premise: The book club was already investigating the same man for weeks and they
+      have a spreadsheet.
+    signature_tell: The spreadsheet is color-coded and one of them has done this before.
+- title: Prince Disguised as Commoner
+  category: holiday
+  intensity: low
+  premise: He's a prince, she doesn't know, and he loves that she doesn't know until
+    she finds out.
+  signature_tell: His assistant keeps appearing at inopportune moments trying to get
+    him home.
+  variants:
+  - title: Prince Disguised as Commoner
+    category: holiday
+    intensity: mid
+    premise: He was going to tell her but a tabloid beats him to it.
+    signature_tell: The photo that surfaces is from a scene we already watched, just
+      recontextualized.
+- title: Murdered Friend's Secret Life
+  category: thriller
+  premise: Best friend dies and uncovering her secret life becomes dangerous.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: The Pregnancy Lie
+  category: trauma_drama
+  premise: Somebody lied about pregnancy or paternity and every version is bad.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Caretaker Syndrome
+  category: feel_good
+  premise: She gives everything to everybody until somebody forces her to rest.
+  intensity: mid
+  signature_tell: The county telegraphs the problem once and nobody listens until
+    act three.
+- title: Dead Husband Wasn't Dead
+  category: thriller
+  intensity: high
+  premise: He's alive, he had reasons, she has questions, and someone new is already
+    in the picture.
+  signature_tell: The new man is introduced exactly one scene before the dead husband
+    calls.
+  variants:
+  - title: Dead Husband Wasn't Dead
+    category: thriller
+    intensity: high
+    premise: He faked it to protect her and his reasons are actually good, which does
+      not stop her from being furious.
+    signature_tell: He practiced the explanation speech and it shows.
+  - title: Dead Husband Wasn't Dead
+    category: thriller
+    intensity: extreme
+    premise: He faked it for the money, there is another woman, and she finds the
+      second-life address before he finishes explaining.
+    signature_tell: She finds the second life's address before he finishes explaining.
+- title: The Cult Adjacent Vacation
+  category: wine_xanax_horror
+  intensity: extreme
+  premise: She goes on a wellness retreat, the retreat is a cult, and getting out
+    takes the whole movie.
+  signature_tell: The brochure featured a suspiciously attractive group of diverse
+    smiling people.
+  variants:
+  - title: The Cult Adjacent Vacation
+    category: wine_xanax_horror
+    intensity: extreme
+    premise: Her phone stops working because it is confiscated for mindfulness and
+      she does not leave for three more days.
+    signature_tell: The one person who seems normal is leaving and she should leave
+      with that person.
+category_skeleton:
+  holiday:
+    engine: deadline
+    clock_introduced: beat_2
+    clock_becomes_threat: beat_8
+    clock_resolution: beat_14
+    prose_register: breathless_clockwork
+    load_bearing_word: when
+    sentence_rhythm: breathless_pivot
+    narrator_stance: urgent_matchmaker
+  romance:
+    engine: misunderstanding
+    false_belief_installed: beat_4
+    false_belief_deepened: beat_9
+    false_belief_removed: beat_12
+    prose_register: wistful_passive
+    load_bearing_word: finds
+    sentence_rhythm: soft_swell
+    narrator_stance: tender_intervener
+  trauma_drama:
+    engine: pressure_cooker
+    wound_visible_from: beat_1
+    containment_strains: beat_7
+    containment_breaks: beat_11
+    prose_register: flat_declarative
+    load_bearing_construction: she had always known
+    sentence_rhythm: short_weighted
+    narrator_stance: witness
+  wine_xanax_horror:
+    engine: dread
+    audience_advantage_from: beat_1
+    domestic_uncanniness_spikes: beat_6
+    escape_or_capture_pivot: beat_13
+    prose_register: unreliable_reassurance
+    load_bearing_word: seemed
+    sentence_rhythm: long_then_short_drop
+    narrator_stance: too_calm
+  thriller:
+    engine: information_asymmetry
+    gap_established: beat_2
+    gap_weaponized: beat_8
+    gap_closes_or_mutates: beat_13
+    prose_register: withholding_suspense
+    load_bearing_construction: she didn't know yet
+    sentence_rhythm: staggered_reveal
+    narrator_stance: strategic_withholder
+  feel_good:
+    engine: permission
+    self_denial_visible_from: beat_1
+    permission_offer: beat_8
+    self_permission_claimed: beat_14
+    prose_register: warm_permission
+    load_bearing_word: deserves
+    sentence_rhythm: gentle_release
+    narrator_stance: kind_confronter

@@ -1,0 +1,429 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Inspired by something, probably.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "overbearing mother tension",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "scarf with impossible timing",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Rachel Lark",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as retreat supplies",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.65,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Cross",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\"",
+        "too calm"
+      ],
+      "threat_aura": 0.73,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.59,
+      "secret_capacity": [
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.56,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.49,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.58,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Noah Bennett",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "elevated scarf density",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.61,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.74,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as seasonal materials",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Bennett",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "Christmas tree farmer",
+      "traits": [
+        "fixes docks",
+        "accused at least once",
+        "probably builds furniture"
+      ],
+      "threat_aura": 0.47,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as donation overflow",
+      "space_explanation_hesitation": 0.7,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Dane",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "usually holding wine",
+        "often wrong but directionally vital",
+        "always investigating"
+      ],
+      "threat_aura": 0.25,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as donation overflow",
+      "space_explanation_hesitation": 0.32,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Wyatt Winterson",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Daniel Sutton",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Rachel Lark relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting marina tackle room described as retreat supplies. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Wyatt Winterson hates the move and immediately distrusts Mara Cross, a grief counselor with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the boat key, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Noah Bennett hesitates before explaining marina tackle room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Noah Bennett reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain marina tackle room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes overbearing mother tension as a civic hazard and makes marina tackle room described as seasonal materials feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Tess Pike hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Rachel Lark snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside marina tackle room described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring marina tackle room described as seasonal materials. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Mara Cross is accused, gaslighted, then gently framed near hydrangeas until the scarf with impossible timing turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Rachel Lark hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and marina tackle room described as seasonal materials in the same sentence. Wine is present like a municipal policy failure. Elias Bennett hesitates before explaining old family office described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties snow globe to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through marina tackle room described as seasonal materials instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Wyatt Winterson spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside marina tackle room described as seasonal materials. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Noah Bennett confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Elias Bennett hesitates before explaining old family office described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Elias Bennett hesitates before explaining old family office described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Mara Cross is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Rachel Lark says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\"",
+    "\"Mothers do not disappear, Wyatt. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Rachel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Noah.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\n\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Rachel, your blueprints hide more than buildings; they hide a ghost you cannot forget.\"",
+    "\"Mara, the static on my phone says your name—why is it whispering?\"",
+    "\"Wyatt, the wind carries secrets. Listen to the snow globe’s silence.\"",
+    "\"Noah, the orchard chapel closed because of a fire you never confessed.\"",
+    "\"Elias, why do I feel the vineyard’s soil still smells of ashes?\"",
+    "\"Gavin, your screenshots are like religious texts—do they prove innocence or guilt?\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest expansion turns a quiet Christmas drama into an atmospheric labyrinth where every prop is a breadcrumb and every character a puzzle piece. Critics praise its lush, slightly broken prose and the way it embraces contradictions like scars on a family portrait. If you crave melodrama wrapped in mystery, this is your town—just redecorated.",
+  "sequel_hook": "When the ceramic owl’s eyes light up again at the next brunch, whispers of Winterson’s case, vineyard fire secrets, and an offsite room that no one has adequately explained promise a sequel that will untangle the last thread of Blackthorn County’s haunted holiday web.",
+  "synopsis": "In the wind‑choked harbor of Bellweather, Rachel Lark trades blueprints for bottled wine, her past a ghostly scaffold she claims is buried under her new marina tackle room. Overbearing mother tension crackles through each glass as secrets swirl like static on Mara Cross’s phone—she is grief counselor by day but rehearses alibis by night. Tess Pike, nurse and chaos incarnate, hides evidence in a casserole dish that once fed a crowd at the town’s illegal brunch. Noah Bennett, widow of the old orchard chapel, knows why the chapel shut down, while Elias Bennett keeps the vineyard fire a secret that could ignite. As winter’s chill settles, the town’s shared canon splinters: a basement that is condo, lake house, or abandoned vineyard; a dead best friend at brunch who may be denial or evil; and Mara misnamed as Daniel or Derek in fleeting scenes. With each revelation, the town never forgets but merely redecorates its sins, turning the marina tackle room into both refuge and courtroom.\n\nRachel’s discovery of an archived laptop file—an unnervingly neat stack of photos—leads her to confront Noah about a boat key that is more than décor. Meanwhile, Mara’s scarf with impossible timing surfaces in the retreat cabin, hinting at a staged alibi. The sheriff, caught between suspicion and ignorance, suspects the wrong person while the town hosts a fundraiser where casseroles become confessions. A rain argument escalates into distributed secrecy infrastructure, and an unseen phone vibrates from inside the wall—each echo of hidden truth reverberating through the foggy streets.\n\nThe climax drives toward Lake Mercy’s gazebo; ambulance lights paint the night as Noah confesses just enough to make the truth worse. The sheriff arrives fourteen minutes late, and a dusty window in the retreat cabin reflects the town’s fractured conscience. With an ember of hope, a ceramic owl reappears, promising sequel whispers about vineyard fires, Winterson cases, and offsite rooms that no one has adequately explained.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3969,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-094859-0025-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-094859-0025-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.015,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Rachel Lark steps onto Bellweather’s snow‑slick pier, her architect’s blueprint in one hand, wine glass in the other. The marina tackle room—retreat supplies—holds a key to her past, but she pretends it explains everything. As she opens a window, the wind carries static that says her name, and the town’s municipal policy of “wine like failure” echoes through each echoing hall.\n\nScene 2: Wyatt Winterson loathes the move, muttering about paperwork while staring at Mara Cross with suspicious eyes. Mara, grief counselor by day, carries a candlelit retreat cabin full of blankets and silence. A basement light flickers on in an empty house, hinting that every legal relative is a potential secret.\n\nScene 3: In Bellweather’s sheriff office, Rachel stumbles upon the boat key among local gossip about the Christmas pageant. Noah Bennett hesitates before explaining the marina tackle room’s seasonal materials. The phone vibrates from inside a wall—an ominous prelude to deeper secrets.\n\nScene 4: At a cliffside, overbearing mother tension is reframed as civic hazard; the marina tackle room becomes spiritually relevant. Tess Pike holds a casserole dish that once hid evidence—a recipe for betrayal. Wine drips like municipal failure across the scene.\n\nScene 5: The town’s fundraiser features casseroles and a sheriff who suspects the wrong person, ignoring the seasonal materials of the marina tackle room. A ceramic owl returns to the kitchen island, its eyes gleaming with secrets yet to be told.\n\nScene 6: The final act drives toward Lake Mercy’s gazebo; ambulance lights cut across a frantic drive. Noah confesses enough to make truth worse as the sheriff arrives fourteen minutes late, and a dusty window in the retreat cabin reflects the town’s fractured conscience."
+  ],
+  "contradiction_notes": [
+    "Mara Cross is called Daniel in one kitchen scene and Derek during the rain argument—two identities flicker across her motives.\n\nRachel Lark’s geography drift: Bellweather first Vermont, then outside Atlanta after wine. The town bends like a glass sculpture.\n\nThe dead best friend at brunch appears, but the town debates whether this is denial or evil, a living paradox of mortality.\n\nThe basement is simultaneously condo, lake house, and abandoned vineyard—its walls shift as quickly as the story.\n\nNoah’s knowledge of the orchard chapel’s closure is contested: is it truth or myth? The town’s canon shivers with every whispered version."
+  ],
+  "alternate_titles": [
+    "Echoes on Bellweather Pier",
+    "Static in the Snow Globe",
+    "The Marble Key of Bellweather",
+    "Marina Secrets: A Winter Tale",
+    "Redecorating the Dead"
+  ],
+  "franchise_adjacency": "This expansion sits adjacent to HallTime’s “Vineyard Fire Mysteries” and “Winterson’s Whisper,” weaving a shared universe where secrets simmer in every snow‑covered corner."
+}

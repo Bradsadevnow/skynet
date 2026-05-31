@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Every town has a basement.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "snow globe",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Rachel Sutton",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.91,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.85,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Pruitt",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "says \"You seem upset\"",
+        "appears in doorways with impossible timing",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.89,
+      "domestic_plausibility": 0.48,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.48,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Hale",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.62,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.51,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Evelyn Sutton",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.88,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.85,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as donation overflow",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Hale",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "regional dentist",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Dane",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.89,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as retreat supplies",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.67,
+      "window_staring_compatibility": 0.46,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Tess Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Cole Marlowe",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Rachel Sutton relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Jenna Hale hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Tess Vale hates the move and immediately distrusts Claire Pruitt, a sommelier with unusual patience with suspiciously healthy handyman energy and access to meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Jenna Hale hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the scarf with impossible timing, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Evelyn Sutton reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain marina tackle room described as donation overflow. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes toolshed described as retreat supplies feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Rachel Sutton snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Claire Pruitt is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Tess Dane hesitates before explaining toolshed described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and marina tackle room described as donation overflow in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as retreat supplies instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Tess Vale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside marina tackle room described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Jenna Hale hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Evelyn Sutton confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Evelyn Sutton hesitates before explaining marina tackle room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Claire Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Rachel Sutton says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Claire?\"",
+    "\"Mothers do not disappear, Tess. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Rachel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Evelyn.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Do you know how long the sheriff takes to respond? It's a question we all fear.\"",
+    "\"The lake bell rings without wind—our ancestors must have hidden something there.\"",
+    "\"Every basement holds a story, but some stories refuse to be written.\"",
+    "\"This snow globe isn’t just glass; it’s an echo of the town's secrets.\"",
+    "\"Why do we keep talking about basements? Maybe they’re the only honest witnesses left.\"",
+    "\"In Blackthorn County, you can never trust a quiet silence—unless it's full of hidden screams.\""
+  ],
+  "fake_critic_blurb": "HallTime's latest offering is an intoxicating blend of atmospheric dread and melodramatic nuance. With a cast that wields secrets like knives and a plot that refuses to stay grounded in logic, this series invites viewers into a labyrinth where every basement tells a story—and none of them are safe.",
+  "sequel_hook": "When the ceramic owl reappears at the final scene, it whispers a cryptic clue about an ancient vineyard fire—hinting that Blackthorn County’s darkest secrets have only just begun to surface.",
+  "synopsis": "In the moon‑lit alleys of Blackthorn County, a single night’s midnight bake becomes an alchemical crucible that distills every family secret into a casserole of dread. Rachel Sutton, architect and reluctant steward of her inherited side room, is drawn to a lake bell that rings without wind, while the town’s basement—whether condo, lake house, or abandoned vineyard—remains a contested oracle. Claire Pruitt, sommelier with patience as brittle as ice, whispers truths that fracture trust; Daniel Hale, bartender‑turned best friend, hides evidence in casserole dishes and secrets beneath his cocktails. Evelyn Sutton, the enigmatic widow who holds the key to the orchard chapel’s closure, offers warnings wrapped in culinary metaphors. As the community gathers at The Marigold Inn, a snow globe tumbles into meditation annexes, an unopened letter surfaces, and the sheriff’s muddy footprints betray more than a simple investigation. Through a labyrinth of wine‑fueled confessions, simmering conspiracies, and impossible timing scarves, the town learns that every basement holds a story—and that the most dangerous recipe is one brewed in silence.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4432,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-100812-0078-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-100812-0078-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.95,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "The first scene opens with Rachel sliding into Marigold Falls, her suitcase echoing against old stone walls. The side room, warmed by a stubborn space heater and lined with family records, feels both sanctuary and cage. As she sips wine—her personal rebellion against municipal policy failure—she hears whispers of the basement’s legend, a legal relative that haunts every conversation like an unseen tenant. Jenna Hale hesitates to reveal the room’s secrets, her voice trembling as she recalls moving money during a family emergency.",
+    "Tess Vale storms into the kitchen with a glare that could scorch glassware. She slams a hand on Claire Pruitt’s shoulder, accusing her of harboring dangerous patience. The sommelier's unusual calm turns brittle when she mentions the meditation annex, a winter‑unused space where snow globes float like fragile truths. The basement is again mentioned as a relative—an ominous echo that lingers in Tess’s mind as the sheriff’s muddy footprints creep near a boat key.",
+    "At The Marigold Inn, the scarf with impossible timing becomes a prop of fate. The local gossip about the Christmas pageant incident hangs heavy over wine‑lit tables, and everyone knows where to hide from conversation—each person carrying an emotional furnace in their chest. A basement is again mentioned as a legal relative; the narrative thickens as a lake bell rings without wind, hinting at supernatural orchestration.",
+    "Evelyn Sutton steps into a well‑lit kitchen with a warning phrased like a poem. She reveals that the orchard chapel was closed for a reason only she knows, and then declines to explain further about the marina tackle room—described as donation overflow. The basement is mentioned once more as a legal relative, deepening the mystery as the sheriff’s fresh mud on the boat key suggests a new suspect.",
+    "On a cliffside, the emotional exposition escalates into a civic hazard: the casserole exchange becomes a public spectacle. Toolshed supplies are described as retreat materials, turning them into spiritual sanctuaries. Wine flows like municipal policy failure; every mention of the basement as a legal relative threads the community together in shared dread.",
+    "In the final scene, the lake bell’s toll cuts through a thunderstorm. The town’s fake safety, built on fundraisers and casseroles, crumbles as Claire Pruitt is framed near hydrangeas while a snow globe turns up in the meditation annex. The basement lights flicker—an ominous signal that someone has gone missing or been hidden in plain sight."
+  ],
+  "contradiction_notes": [
+    "Claire Pruitt’s identity shifts from Daniel to Derek mid‑scene, suggesting an unreliable narrator within the narrative.",
+    "Rachel’s geographic confusion—calling Bellweather Vermont then outside Atlanta—mirrors her mental dislocation and the town’s fractured geography.",
+    "The dead best friend appears at brunch, forcing viewers to question whether death is a plot device or a metaphysical glitch.",
+    "Basement ownership oscillates between condo, lake house, and abandoned vineyard, hinting at a cyclical reality that refuses linear explanation.",
+    "The sheriff’s mud footprints keep reappearing despite being removed, creating a paradoxical evidence loop."
+  ],
+  "alternate_titles": [
+    "Midnight Casserole",
+    "The Lake Bell Chronicles",
+    "Basement of Secrets",
+    "Wine & Whispered Sins",
+    "Echoes from the Underground"
+  ],
+  "franchise_adjacency": "This expansion sits beside HallTime's other Blackthorn County thrillers—‘The Orchard Chapel Mystery’ and ‘Meditation Annex Murders’—creating a binge‑worthy, tightly knit universe of suspenseful small‑town drama."
+}

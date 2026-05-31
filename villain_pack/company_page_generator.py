@@ -1,0 +1,61 @@
+from __future__ import annotations
+
+import argparse
+import json
+import random
+from pathlib import Path
+
+from world_derivation import derive_company, derive_job_posting, load_card
+
+HERE = Path(__file__).resolve().parent
+OUTPUTS_DIR = HERE / "company_pages"
+
+
+def render_company(card: dict, company: dict, jobs: list[dict]) -> str:
+    lines = [
+        f"# {company['name']}",
+        "",
+        f"**Sector:** {company['sector']}",
+        f"**Mission Statement:** {company['mission_statement']}",
+        f"**Actual Function:** {company['actual_function']}",
+        f"**Leadership Style:** {company['leadership_style']}",
+        f"**Average Employee Review:** {company['average_employee_review']}",
+        f"**Ongoing Scandal:** {company['ongoing_scandal']}",
+        "",
+        "## Leadership",
+        f"- principal villain: {card['title']}",
+        f"- credential pipeline: {company['institution_name']}",
+        f"- sidekick bench: {card['sidekick']['role_label']} handling {card['sidekick']['task_label']}",
+        "",
+        "## Current Openings",
+    ]
+    lines.extend(f"- {job['title']} ({job['department']})" for job in jobs)
+    lines.extend([
+        "",
+        "## Cultural Signals",
+        f"- primary moral texture: {card['moral_texture']['primary'].replace('_', ' ')}",
+        f"- tolerated civilian rot: {card['petty_atrocity']['label']}",
+        f"- flagship competency: {card['core_competencies']['items'][0]}",
+    ])
+    return "\n".join(lines) + "\n"
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Generate a company page from a villain card JSON.")
+    parser.add_argument("card_json", type=str)
+    parser.add_argument("--seed", type=int, default=None)
+    parser.add_argument("--jobs", type=int, default=3)
+    args = parser.parse_args()
+
+    rng = random.Random(args.seed)
+    card = load_card(Path(args.card_json))
+    company = derive_company(card, rng)
+    jobs = [derive_job_posting(card, company, rng) for _ in range(max(1, args.jobs))]
+    OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
+    out = OUTPUTS_DIR / (Path(args.card_json).stem + ".md")
+    out.write_text(render_company(card, company, jobs), encoding="utf-8")
+    print(json.dumps({"input": args.card_json, "output": str(out), "company": company['name']}, ensure_ascii=False))
+
+
+if __name__ == "__main__":
+    main()

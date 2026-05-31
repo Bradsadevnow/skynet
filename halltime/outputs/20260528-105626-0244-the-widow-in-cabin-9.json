@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Where every secret comes home.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "woman falsely accusing lovable scamp",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "unopened letter",
+    "scarf with impossible timing",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Elias Bennett",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.92,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Winterson",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "says \"You seem upset\"",
+        "appears in doorways with impossible timing",
+        "too calm"
+      ],
+      "threat_aura": 0.77,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.63,
+      "secret_capacity": [
+        "rehearsed his alibi before anyone asked",
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.38,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Vale",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.49,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.91,
+      "window_staring_compatibility": 0.82,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Hale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.67,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.47,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Bennett",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "high school coach",
+      "traits": [
+        "emotionally constipated",
+        "forgot a recital once and never recovered",
+        "overworks"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.38,
+      "secret_capacity": [
+        "covered for someone out of shame"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.36,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.69,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Pruitt",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.29,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.46,
+      "window_staring_compatibility": 0.41,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Lark",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Luke Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Elias Bennett relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Claire Lark hates the move and immediately distrusts Luke Winterson, a grief counselor with suspiciously healthy handyman energy and access to dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Channel 8 Night Report introduces the unopened letter, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Hale reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain church basement described as just storage. Rachel Bennett hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes woman falsely accusing lovable scamp as a civic hazard and makes church basement described as just storage feel spiritually relevant. Wine is present like a municipal policy failure. Claire Hale hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Elias Bennett snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring church basement described as just storage. Brooke Pruitt hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Luke Winterson is accused, gaslighted, then gently framed near hydrangeas until the scarf with impossible timing turns up somewhere impossible inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Hale hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Someone mentions the basement as if it were a legal relative. Claire Hale hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and church basement described as just storage in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through church basement described as just storage instead of one simple basement. Wine is present like a municipal policy failure. Elias Bennett hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Claire Lark spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside church basement described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Hale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of dock office with a desk nobody fully claims. Claire Hale hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Rachel Bennett hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Luke Winterson is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Elias Bennett says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\"",
+    "\"Mothers do not disappear, Claire. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Do you hear that bell again, Elias? It’s calling us back to the lake.\"",
+    "\"The dock office feels like a stage set for our secrets.\"",
+    "\"Why do we keep hiding behind wine and municipal policies?\"",
+    "\"Claire Hale's silence is louder than any confession.\"",
+    "\"Let’s not pretend the basement knows nothing; it has its own voice.\""
+  ],
+  "fake_critic_blurb": "HallTime's latest Gothic gem slithers through a labyrinth of emotional negligence, municipal policy failures, and haunting whispers. With an atmosphere thick as wet wine, it unspools secrets like a well‑threaded scarf—timing impossible yet inevitable.",
+  "sequel_hook": "As the ambulance lights fade into the night, a whisper of a new scandal drifts across Blackthorn County’s foggy streets—will the town ever learn to silence its own secrets?",
+  "synopsis": "In the suffocating hush of Blackthorn County, Elias Bennett arrives in Alder Ridge after a catastrophic emotional implosion that left her with nothing but a broken marriage and an apartment filled with wine‑laden municipal policy failures. She hides her pain behind a polished magazine editor façade while secretly cataloguing the unused portable classroom—an archive of disciplinary files that whispers her own buried trauma. The town’s secrets, like the unopened letter and scarf with impossible timing, thrum beneath the lake bell’s windless chime. Luke Winterson, a soft‑spoken grief counselor whose calm demeanor masks rehearsed alibis, clashes with Claire Lark, a resentful daughter who distrusts him from the first moment. The plot spirals through church basements, dock offices, and side rooms where old family records breathe. Each scene escalates with rising insanity multipliers as whispers turn to accusations: the woman falsely accuses a lovable scamp, secrets are unearthed in casseroles, boat keys point toward Blackthorn Vineyard, and a ceramic owl reappears like an omen. The climax arrives with ambulance lights flashing over the church basement while the sheriff’s arrival is fourteen minutes too late, leaving the truth smeared in fear and frozen in a dusty window of the dock office. The narrative leaves readers perched on the edge of a new chapter—an open-ended hook that promises to unravel more buried truths.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4003,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-105626-0244-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-105626-0244-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 14.641,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene one unfurls with Elias Bennett stepping into her new apartment, the scent of stale wine thickening the air as she clutches an unopened letter. The room is lit by flickering fluorescents that mimic municipal policy failures—an irony she cannot escape. She speaks in hushed tones about the emotional negligence that shattered her marriage, but her words drip with a veneer of professional composure. Meanwhile, the unseen portable classroom hums softly behind a closed door, holding archived disciplinary files that mirror Elias’s own suppressed trauma. As she sets down her bag, the lake bell tolls without wind, a subtle reminder of how silence can become an ominous weight.",
+    "In scene two, Claire Lark storms into the kitchen, her eyes narrowed as she watches Luke Winterson—her father’s grief counselor—arrange his desk in the dock office. She immediately distrusts him, sensing his healthy handyman energy masks rehearsed alibis. A phone vibrates from within the wall, a glitch that feels like an echo of hidden secrets. The wine table remains empty, a municipal policy failure of its own, as emotional exposition pours out at an escalating insanity multiplier. Claire’s voice cuts through the silence with accusations, setting a tone that is both melodramatic and unsettling.",
+    "The third scene shifts to Channel 8 Night Report, where a wine‑filled room becomes a stage for gossip. The unopened letter is revealed, hinting at a woman from Orchard Road whose presence haunts every conversation in Blackthorn County. The narrator’s voice speaks of how everyone here has somewhere emotionally alarming—a storage space that hides secrets like old family records and dusty keys. The scene's atmosphere thickens as the lake bell rings again without wind, its tone becoming a subtle omen that weaves through the narrative.",
+    "Scene four plunges into the church basement described as just storage, where Claire Hale offers a perfectly phrased warning. She refuses to explain why the basement matters, leaving Rachel Bennett hesitant to discuss her own secrets tied to the portable classroom. The light switches on in an empty house, casting long shadows over dusty boxes and forgotten memories. The emotional exposition reaches its highest multiplier yet, and the sense of impending dread feels almost tangible.",
+    "In scene five, a cliffside revelation reframes the accusation against the lovable scamp as a civic hazard. Church basements become spiritually relevant, while wine continues to be present like municipal policy failures. Claire Hale’s hesitation adds a layer of melodrama, and the lake bell tolls again, its sound echoing through the empty streets. The narrative escalates with an emotional multiplier that threatens to spill over into chaos.",
+    "The final scene closes with a dramatic drive toward Blackthorn Vineyard, ambulance lights flashing across the road, and a single line empowerment speech from Elias. A locked door inside the church basement seals the mystery for now, but the ceramic owl reappears in the background—a hint of future intrigue. The wine remains present as a symbol of municipal failure, while the emotional multiplier peaks at 2.25, leaving audiences on the edge of a sequel."
+  ],
+  "contradiction_notes": [
+    "Luke Winterson’s identity splinters between Daniel, Derek, and his own name—suggesting a fractured persona that refuses to stay fixed.",
+    "Elias Bennett’s geographic drift—from Vermont to outside Atlanta after wine—mirrors the town’s instability, making her a traveling myth.",
+    "The dead best friend’s presence at brunch blurs reality, hinting at a supernatural thread rather than a mere scheduling error.",
+    "The basement’s shifting ownership (condo, lake house, abandoned vineyard) reflects Blackthorn County’s fluid sense of place and ownership.",
+    "The lake bell rings without wind yet always sounds the same—an intentional paradox that fuels the town’s lingering fear."
+  ],
+  "alternate_titles": [
+    "Echoes in Alder Ridge",
+    "The Lake Bell's Whisper",
+    "Wines & Whispers: The Widow Saga",
+    "Silent Casseroles and Hidden Basements",
+    "Blackthorn's Final Testament"
+  ],
+  "franchise_adjacency": "This broadcast sits beside HallTime’s other Blackthorn County tales—*St. Agnes Secrets*, *The Vineyard Vigil*, and the forthcoming *Dock Office Dramas*, weaving a web of suspense that keeps viewers clutching their mugs."
+}

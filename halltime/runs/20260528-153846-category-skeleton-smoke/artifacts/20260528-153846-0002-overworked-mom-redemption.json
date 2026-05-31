@@ -1,0 +1,461 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "generation_feedback_used": true,
+  "title": "Overworked Mom Redemption",
+  "tagline": "Where every secret comes home.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a child saying mommy was loud last night when she was alone",
+  "relationship_dynamic": "affair exposed through an innocent device sync",
+  "starter_premise": {
+    "title": "Overworked Mom Redemption",
+    "category": "trauma_drama",
+    "intensity": "high",
+    "premise": "She sacrificed everything for a company that was committing fraud and then found the files herself.",
+    "signature_tell": "The mentor figure she trusted signed off on it.",
+    "parent_title": "Overworked Mom Redemption",
+    "base_premise": "She missed too many recitals, the family nearly fractures, and crisis delivers the lesson."
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "ceramic owl",
+    "throat lozenges with a suspicious aftertaste"
+  ],
+  "cast": [
+    {
+      "name": "Luke Cross",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.74,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Sienna Hale",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.66,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.57,
+      "secret_capacity": [
+        "has a storage unit he refuses to explain",
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as donation overflow",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.67,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Winterson",
+      "archetype": "intuitive_disaster",
+      "role": "best_friend",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "says \"I know what I saw\"",
+        "always investigating",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as retreat supplies",
+      "space_explanation_hesitation": 0.73,
+      "offsite_storage_plausibility": 0.69,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Hawthorne",
+      "archetype": "woman_on_the_edge",
+      "role": "elegant_wildcard",
+      "surface_function": "possible victim or possible defendant",
+      "hidden_function": "rage reservoir",
+      "job": "probationary professor",
+      "traits": [
+        "has slept four hours across a week",
+        "smiles like a restraining order is considering her",
+        "says he would not stop in a way nobody enjoys hearing twice"
+      ],
+      "threat_aura": 0.75,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "woman_on_the_edge maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "bought bleach for innocent reasons that no longer sound innocent"
+      ],
+      "suspicion_mode": "volatile",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.53,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.81,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Cole Lark",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "accused at least once",
+        "probably builds furniture",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Tess Pruitt",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "secondary_witness",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "grad assistant between explanations",
+      "traits": [
+        "resembles someone the protagonist lost",
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "borrows small things that become legal problems"
+      ],
+      "threat_aura": 0.63,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "keeps photographs of a dead sister she never met"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as seasonal materials",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.52,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Sienna Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Gavin Bell",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "The wound is present from scene one: She sacrificed everything for a company that was committing fraud and then found the files herself. Luke Cross enters Blackthorn Lake or stays trapped inside it while trying to contain the damage through competence, routine, or denial. Wine is present like a municipal policy failure. Elias Hawthorne hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "The category immediately starts asking who gets close enough to notice the fracture first: Sienna Pike, Sienna Hale, or the one local woman who always clocks suffering before the men do. Elias Winterson hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A domestic scene introduces the scarf with impossible timing and clarifies that containment is the real job, not solving an external mystery. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Elias Hawthorne articulates the wound more clearly than Luke Cross can bear to hear while a child saying mommy was loud last night when she was alone. Signature tell: The mentor figure she trusted signed off on it. Elias Winterson hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one closes with the pressure cooker visibly sealed but already hissing around the edges. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Containment strains as more people brush against the truth and Luke Cross keeps choosing function over collapse. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "An attempted normal scene fails because the wound leaks into work, parenting, intimacy, or public reputation at the worst possible second. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Whoever gets closest to the wound pays for it immediately, and containment starts feeling less like survival than slow self-erasure. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Hale hesitates before explaining church basement described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A confrontation near old storm shelter from before the divorce makes clear that the real question is no longer whether the truth exists, but whether containment can hold through another hour. Someone mentions the basement as if it were a legal relative. Sienna Hale hesitates before explaining church basement described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two the lid slips: someone reads the message, sees the file, hears the confession, or notices the receipts. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Hawthorne hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "Containment breaks in public, intimate, or procedural form, forcing the wound into shared reality whether Luke Cross wanted witnesses or not. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Reconciliation, rupture, or self-definition follows from who can now bear the truth and who still cannot. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A symbolic object like throat lozenges with a suspicious aftertaste becomes proof that the old life cannot be reassembled in its original shape. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The final emotional move is not victory but reorganization: grief, illness, shame, or betrayal gets integrated into the next self. Someone mentions the basement as if it were a legal relative. Elias Winterson hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The ending closes on damaged continuity rather than restoration, with beauty purchased honestly instead of cheaply. Wine is present like a municipal policy failure. Elias Hawthorne hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "high"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Sienna Hale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Cross says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Sienna?\"",
+    "\"Mothers do not disappear, Sienna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Elias.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Overworked Mom Redemption understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Overworked Mom Redemption\" follows Luke Cross, a sacred protagonist who thinks a fresh start, a large house, and professional competence can outpace affair exposed through an innocent device sync until Sienna Hale collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: She sacrificed everything for a company that was committing fraud and then found the files herself. The signature tell is always this: The mentor figure she trusted signed off on it. As a child saying mommy was loud last night when she was alone, Blackthorn County reveals once again that every secret comes home, every pool is a witness, and every adult has somewhere emotionally alarming to stand in silence. Where every secret comes home.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4422,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

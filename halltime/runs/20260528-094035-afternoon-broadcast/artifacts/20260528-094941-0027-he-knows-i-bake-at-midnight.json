@@ -1,0 +1,437 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Where every secret comes home.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "secret half sibling",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "blood-adjacent tea towel",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Daniel Pike",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.76,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Vale",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "absorbs accusatory kitchen dialogue",
+        "briefly leaves the room after difficult questions",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.7,
+      "secret_capacity": [
+        "was in the wrong county on the wrong night"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as donation overflow",
+      "space_explanation_hesitation": 0.77,
+      "offsite_storage_plausibility": 0.88,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Mara Pruitt",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as seasonal materials",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Evelyn Hawthorne",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "elevated scarf density",
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.76,
+      "domestic_plausibility": 0.53,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.69,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.69,
+      "offsite_storage_plausibility": 0.97,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Hawthorne",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "says \"You seem upset\"",
+        "makes tea incorrectly",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.73,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.45,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.42,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.5,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Bell",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "always investigating",
+        "usually holding wine",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.25,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as donation overflow",
+      "space_explanation_hesitation": 0.48,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.67,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Winterson",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Cole Cross",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Daniel Pike relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old storm shelter from before the divorce. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Mara Winterson hates the move and immediately distrusts Evelyn Vale, a financial advisor with suspiciously healthy handyman energy and access to marina tackle room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the ceramic owl, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Evelyn Hawthorne reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes secret half sibling as a civic hazard and makes toolshed described as seasonal materials feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Hawthorne hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Daniel Pike snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Evelyn Vale hesitates before explaining marina tackle room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as seasonal materials. Daniel Pike hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Evelyn Vale is accused, gaslighted, then gently framed near hydrangeas until the blood-adjacent tea towel turns up somewhere impossible inside marina tackle room described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old storm shelter from before the divorce in the same sentence. Wine is present like a municipal policy failure. Daniel Pike hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as seasonal materials instead of one simple basement. Wine is present like a municipal policy failure. Evelyn Hawthorne hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Mara Winterson spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Derek Bell hesitates before explaining old family office described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Marigold Inn ends with ambulance lights, a one-line empowerment speech, and a locked door inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Evelyn Hawthorne confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of marina tackle room described as donation overflow. Mara Pruitt hesitates before explaining toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Daniel Pike hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Evelyn Vale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Daniel Pike says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Evelyn?\", Daniel Pike hissed, her eyes flickering like streetlamps in rain.\n",
+    "Mara Pruitt leaned forward, her voice low: \"Mothers do not disappear, Mara. They evaporate into paperwork.\"\n",
+    "Evelyn Vale smirked, tapping the edge of her glass: \"I checked his social media likes, Daniel. Nobody who enjoys motivational quotes is innocent.\"\n",
+    "Gavin Hawthorne, holding a steaming cup, whispered, \"The ceramic owl is not decorative anymore and you know it.\"\n",
+    "Daniel Pike's voice cracked as she recited, \"Trust is just fear with a casserole dish, Evelyn.\"\n",
+    "Evelyn Hawthorne sighed, her gaze drifting: \"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "Derek Bell tilted his head: \"If that basement is innocent, why does it sound defensive?\"\n",
+    "Gavin's eyes narrowed: \"I did not lie. I just told the truth in the order this town could survive.\"\n",
+    "Mara Winterson leaned in, her breath fogging the window: \"The ceramic owl's wings are torn, Daniel, and so is your conscience.\"\n",
+    "Evelyn Vale chuckled softly: \"We all carry our secrets like unspoken vows, Mara—unpaid taxes on our souls.\"\n",
+    "Daniel Pike whispered to herself as she opened a hidden drawer: \"What if the storm shelter holds more than dust?\"\n",
+    "Mara Pruitt stared at the old oak tree outside: \"Every time we speak, we bury another piece of us in the soil.\"\n",
+    "Evelyn Hawthorne's lips curled: \"This is not a confession; it's an invitation to unmask the truth.\"\n"
+  ],
+  "fake_critic_blurb": "HallTime's latest original, *He Knows I Bake at Midnight*, delivers a haunting symphony of dread and intrigue, weaving its characters into a tapestry where every secret is both a confession and a curse. Critics hail the show's atmospheric pacing, noting how its lavish tokens and melodramatic tone pull viewers deeper into Blackthorn County’s murky past.\n",
+  "sequel_hook": "In the chilling aftermath, Daniel Pike discovers a hidden ledger that hints at an ancient pact between the town’s founders—an unspoken code that could unravel the very fabric of Blackthorn County if the secrets finally surface.\n",
+  "synopsis": "In the rain‑soaked streets of Blackthorn County, Daniel Pike arrives with a legal brief and an old storm shelter hidden in her suitcase, ready to bury secrets as quietly as a whispered apology. The county’s collective dread hums under the surface, a silent choir that knows every door hides another confession. When Mara Winterson’s disdain for the new town turns into suspicion of Evelyn Vale, the financial advisor with a marina tackle room that feels like a vault, tension coils tighter than a vintage wine bottle. Evelyn Hawthorne, the gallery owner cloaked in elegance and threat aura, drops a warning about the child drawing stairs—an omen that rattles even the most stoic spirits. Gavin Hawthorne’s retreat cabin becomes a stage for clandestine phone calls while Derek Bell’s podcaster persona collects screenshots like scripture, blurring lines between fact and myth. As the narrative spirals, each character’s secret—unsent emails, hidden casserole dishes, second phones—interlocks with the town’s own contradictions, culminating in an explosive revelation that unravels the very fabric of trust and truth in Blackthorn.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3944,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-094941-0027-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-094941-0027-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.22,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "In Act 1 Scene 1, Daniel Pike steps into Bellweather, her eyes darting between the storm shelter's peeling paint and a wine bottle that glints like municipal policy failure. She whispers to herself about inheriting more than property—inheritance of an unsent email that could shatter families, buried beneath the weight of her legal briefs. The air thickens with an insanity multiplier of 1.00 as she pretends the work explains everything, while a subtle tremor in the wall hints at hidden truths waiting to be unsealed.\n",
+    "Act 1 Scene 3 unfurls like a wine‑infused confession: Mara Winterson slams a glass on the table, eyes narrowed at Evelyn Vale’s suspiciously healthy handyman energy. The marble kitchen glows under a dim chandelier, and the ceramic owl perched on the island watches as whispers of a vineyard fire echo through the room. A phone vibrates from inside the wall, its silence louder than any spoken word.\n",
+    "By Act 1 Scene 5, Gavin Hawthorne hesitates before explaining his retreat cabin’s candles and blankets, while a basement light flickers in an empty house—an omen that every secret has a sanctuary. The toolshed described as seasonal materials becomes spiritually relevant, and the crowd’s collective fear feels like a civic hazard.\n",
+    "In Act 2 Scene 8, Evelyn Vale is framed near hydrangeas, her blood‑adjacent tea towel clutched in trembling hands. A rain argument escalates into distributed secrecy infrastructure; trust is rented rather than given. The basement light switches on again, illuminating an empty house that feels both familiar and alien.\n",
+    "Act 3 Scene 13 culminates with a frantic drive toward The Marigold Inn, ambulance lights slicing through the night like knives in a courtroom. Daniel Pike’s hand trembles as she holds the key to the locked door inside the storm shelter—her final act of betrayal or redemption, depending on who reads the silence.\n",
+    "Act 3 Scene 15 ends with the ceramic owl reappearing, its wings slightly bent like a broken promise. A whisper about the Winterson case and the vineyard fire drifts through the air as the audience wonders whether the town will ever be free from its own contradictions.\n"
+  ],
+  "contradiction_notes": [
+    "The name drift of Evelyn Vale being called Daniel and Derek across scenes shows that the town’s collective memory refuses linear identity.\n",
+    "Bellweather’s geography flips between Vermont and Atlanta, mirroring the county’s fragmented perception of reality.\n",
+    "A dead best friend appears at brunch; whether this is denial or an act of evil becomes a scheduled mystery.\n",
+    "The basement shifts between belonging to a condo, a lake house, and an abandoned vineyard—an intentional labyrinth of property drift.\n",
+    "The ceramic owl’s presence in every key moment underscores the town's tendency to recontextualize symbols rather than resolve them.\n"
+  ],
+  "alternate_titles": [
+    "Midnight's Silent Bakery",
+    "Blackthorn's Hidden Oven",
+    "The Storm Shelter’s Whisper",
+    "Owl of Unfinished Business",
+    "Eclipsed by Midnight"
+  ],
+  "franchise_adjacency": "This original slots perfectly beside *Shadow Harvest* and *Echoes of Blackthorn*, forming a triad that explores the haunting intersections of family, faith, and forgotten histories in HallTime's signature dark Americana style."
+}

@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Mother Was Right All Along",
+  "title": "What My Sister Buried",
+  "tagline": "Every town has a basement.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "overbearing mother tension",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "unopened letter",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Luke Dane",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.22,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Luke Marlowe",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "too calm",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.66,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond",
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.82,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Bennett",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.7,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.69,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Bennett",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "elevated scarf density",
+        "sustained eye contact",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.84,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.73,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.9,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Sienna Bell",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "regional dentist",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.38,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually",
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Hale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as seasonal materials",
+      "space_explanation_hesitation": 0.92,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.48,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Dane",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Luke Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Dane relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Brooke Dane hates the move and immediately distrusts Luke Marlowe, a artisan developer with suspiciously healthy handyman energy and access to storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.07. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the scarf with impossible timing, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Bennett reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Luke Dane hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes overbearing mother tension as a civic hazard and makes old storm shelter from before the divorce feel spiritually relevant. Wine is present like a municipal policy failure. Mara Bennett hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Dane snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Mara Bennett hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Luke Marlowe hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Luke Marlowe is accused, gaslighted, then gently framed near hydrangeas until the unopened letter turns up somewhere impossible inside storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Bennett hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Sienna Bell hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and unused portable classroom holding archived disciplinary files in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Bennett hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties ceramic owl to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old storm shelter from before the divorce instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Brooke Dane spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Gavin Hale hesitates before explaining marina tackle room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Gavin Bennett hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Bennett confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of storage unit described as paperwork I have not gone through yet. Luke Dane hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Mara Bennett hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Luke Marlowe is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Dane says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\"",
+    "\"Mothers do not disappear, Brooke. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Do you know what we’re missing, Luke? It’s not the dock, but the story behind it.\"",
+    "\"There are more shadows in Blackthorn than there are lights in a lighthouse.\"",
+    "\"You keep looking for answers where the silence is thickest.\"",
+    "\"Every secret has a price. Do you pay yours yet?\"",
+    "\"When we open that door, remember: the truth is never as clean as it seems.\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest drama shrouds its narrative in a thick fog of wine, whispers, and unclaimed docks. While the pacing is deliberate, each scene layers more intrigue than clarity—perfect for viewers who relish mystery over resolution.",
+  "sequel_hook": "The locked door in the unused portable classroom remains ajar, and rumors swirl that the basement below holds an artifact capable of rewriting Blackthorn County’s entire history.",
+  "synopsis": "In the hushed town of Blackthorn County, a family’s secret is buried beneath layers of wine-soaked whispers and unclaimed docks. Luke Dane, a magazine editor haunted by an emotionally negligent past, arrives in Bellweather with a scarlet scarf that refuses to fit the timeline of his own memories. His mother, ever overbearing, lingers like a storm shelter—she watches him from the shadows, her presence as palpable as the dock’s forgotten office. The town itself seems to breathe with the sound of an empty gazebo’s barking dog, echoing the uneasy rhythm of gossip that spirals into a civic hazard. As Luke navigates storage units described in paperwork he has not yet read, his every move is shadowed by Mara Bennett, the chaotic best friend who hides evidence behind casserole dishes and half-siblings. The gallery owner Gavin Bennett holds archived disciplinary files in an unused portable classroom, each page whispering inherited sins she should have burned. A recurring theme—silence as cashmere—clings to every corner, turning ordinary conversations into dangerous puzzles. In the end, a locked door within that same classroom glows with the faint promise of revelation, while the basement’s light flickers in an empty house, hinting at truths buried deeper than any cellar can hold.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.4078,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102514-0136-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102514-0136-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.239,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: The dock office is a forgotten shrine where Luke Dane unravels his own narrative. He pulls out a scarlet scarf from the back of a drawer—its fabric impossible to place on any timeline he remembers. With each twist, the wall behind him seems to breathe, revealing old photographs of his mother and an image of a basement that never existed in the map. Wine spills across the desk like municipal policy failure, a reminder that even the town’s institutions are riddled with secrets.",
+    "Scene 2: In the cramped kitchen of Bellweather Sheriff’s Office, Mara Bennett reveals a ceramic owl perched on the island, its eyes glinting with half-truths. She whispers about a Christmas pageant incident that turned a simple celebration into a legal labyrinth. Luke listens, his mind racing to match the scarf’s impossible timing with his own memory. The basement is mentioned again—this time as if it were a relative in law, a living entity that could shift its ownership with each argument.",
+    "Scene 3: Gavin Bennett steps into a well-lit kitchen, her voice a perfectly phrased warning about an unseen danger lurking beneath the town’s calm facade. She mentions a dog barking at an empty gazebo, an omen that resonates with Luke’s fear of abandonment. The portable classroom holds archived disciplinary files—pages yellowed with time, each one a testament to secrets that should have been burned. A phone vibrates from inside the wall, echoing the silent dread of unknown threats.",
+    "Scene 4: Mara Bennett stands before an old storm shelter from before the divorce, her hands trembling as she describes the hidden casserole dish she once used to hide evidence. The air is thick with wine, a municipal policy failure that mirrors the town’s own broken systems. As Luke watches, his mother’s presence looms—overbearing tension now feels like a civic hazard, turning the shelter into a spiritual arena of secrets.",
+    "Scene 5: In the marina tackle room described as seasonal materials, Gavin Hale sits with a microphone, recording a podcast about the town’s history. He speaks of an innocent scamp he accused and the guilt that still lingers. The dock office where Luke works feels like an unclaimed space, a blank canvas for secrets. A basement light flickers in an empty house, casting long shadows over the room—an omen of revelation soon to unfold.",
+    "Scene 6: The final scene unfolds at Blackthorn Vineyard, where the ceramic owl is revealed to be tied to St. Agnes Regional and a brunch resurrection event. Luke and Mara stand before a locked door in the unused portable classroom, their hearts pounding as they realize that every basement—whether condo, lake house, or abandoned vineyard—is part of a larger web of deceit. The wine pours, municipal policy fails, and the town’s silence cracks like cashmere under pressure."
+  ],
+  "contradiction_notes": [
+    "Luke Marlowe’s name drifts like tide—Daniel here, Derek there—yet the town swears he is simply the same man, a paradox that deepens his mystery.",
+    "Bellweather’s geography shifts between Vermont and Atlanta; each mention paints a different backdrop, leaving readers to wonder whether the town itself moves or merely changes in perception.",
+    "The dead best friend at brunch becomes a spectral figure of denial and scheduling—does she truly exist or is she a fabrication to test Luke’s grief?",
+    "The basement’s ownership flips like a coin: condo, lake house, vineyard—each claim contradicts the last but together they form a labyrinthine continuity failure.",
+    "Gavin Bennett’s archived files in a portable classroom are both her inheritance and her confession—her secrets burned or preserved? The ambiguity fuels suspense rather than resolves it."
+  ],
+  "alternate_titles": [
+    "Beneath Bellweather's Dock",
+    "The Scarlet Scarf Conspiracy",
+    "Basement Whispers: A HallTime Tale",
+    "Hidden Layers of Blackthorn",
+    "The Whispering Owl"
+  ],
+  "franchise_adjacency": "This expansion aligns seamlessly with HallTime’s \"Echoes of the Coast\" and \"Silent Streets,\" forming a thematic trilogy exploring hidden histories, familial secrets, and the uncanny silence that binds small-town communities."
+}

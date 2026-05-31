@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Every town has a basement.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "unresolved hometown romance",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "snow globe",
+    "casserole dish"
+  ],
+  "cast": [
+    {
+      "name": "Noah Pruitt",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.59,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Rachel Marlowe",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "makes tea incorrectly",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.92,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.63,
+      "secret_capacity": [
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Tess Bennett",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.5,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as seasonal materials",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.43,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Pruitt",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "elevated scarf density",
+        "weaponized stillness",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.69,
+      "domestic_plausibility": 0.51,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.8,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.54,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.46,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Dane",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "attorney with no visible clients",
+      "traits": [
+        "hides something imprecise",
+        "briefly leaves the room after difficult questions",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.64,
+      "secret_capacity": [
+        "was in the wrong county on the wrong night"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Brooke Bennett",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "says \"I know what I saw\"",
+        "always investigating",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.59,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as seasonal materials",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.68,
+      "window_staring_compatibility": 0.95,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Hale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Noah Winterson",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Noah Pruitt relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Jenna Hale hates the move and immediately distrusts Rachel Marlowe, a artisan developer with suspiciously healthy handyman energy and access to unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the boat key, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Brooke Pruitt reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Brooke Bennett hesitates before explaining storage unit described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes unresolved hometown romance as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Noah Pruitt snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Brooke Pruitt hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Rachel Marlowe is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Brooke Pruitt hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and unused portable classroom holding archived disciplinary files in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Rachel Marlowe hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties casserole dish to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Jenna Hale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Tess Bennett hesitates before explaining marina tackle room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Marigold Inn ends with ambulance lights, a one-line empowerment speech, and a locked door inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Rachel Marlowe hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Brooke Pruitt confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Brooke Bennett hesitates before explaining storage unit described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Rachel Marlowe is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Noah Pruitt says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Rachel?\", Noah asked, her voice trembling between accusation and curiosity.\n",
+    "\"Mothers do not disappear, Jenna. They evaporate into paperwork.\", Tess muttered, clutching the casserole dish like a talisman.\n",
+    "\"I checked his social media likes, Noah. Nobody who enjoys motivational quotes is innocent.\", Rachel said, her eyes flashing with hidden menace.\n",
+    "\"The boat key is not decorative anymore and you know it.\", Brooke whispered into the cold air.\n",
+    "\"Trust is just fear with a casserole dish, Brooke.\", Jenna retorted, the kitchen lights flickering ominously.\n",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "\"If that basement is innocent, why does it sound defensive?\", Tess demanded, her hands shaking around the key.\n",
+    "\"I did not lie. I just told the truth in the order this town could survive.\", Noah replied, eyes fixed on the static-filled wall.\n",
+    "\"The cellar holds secrets older than our ancestors,\" Rachel hissed as she lifted a hidden drawer.\n",
+    "\"We are all buried in archives, even our laughter,\" Jenna whispered, staring at the wine glass.\n",
+    "\"Why do we fear silence when it could be our salvation?\", Tess asked, her voice barely audible over the wind.\n",
+    "\"The basement is the town's conscience, wrapped in a legal relative and a whisper of a name,\" Noah mused, looking toward the empty house.\n",
+    "\"This is not a game, Rachel. It's our fate written in static,\" Brooke cried, holding up the ceramic owl.\n"
+  ],
+  "fake_critic_blurb": "A chilling blend of Christmas menace and suburban paranoia, HallTime’s \"He Knows I Bake at Midnight\" turns a quiet county into a labyrinth where every basement whispers its own crime. The film’s lush, atmospheric dread is amplified by an ensemble cast that navigates a town obsessed with silence—each character a thread in a tapestry of fear, secrets, and the unsettling idea that sometimes the safest place to hide is beneath your own floorboards.\n",
+  "sequel_hook": "When the ceramic owl finally falls from the rafters during a snowstorm, it releases an ancient curse tied to the basement’s dark past, hinting at a new chapter where Blackthorn County must confront the buried sins of its ancestors—only one question remains: will the town ever truly open its doors?\n",
+  "synopsis": "In the snow‑draped town of Blackthorn County, midnight baking becomes a ritual of secrets and silence. Noah Pruitt, an overextended architect with a threat aura of 0.39, relocates to Marigold Falls after a personal implosion, carrying an unused portable classroom full of archived disciplinary files that smell faintly of old wood and fear. Her arrival coincides with the town’s Christmas menace: every basement—whether a condo, lake house, or abandoned vineyard—is whispered about as a legal relative and a possible sanctuary. Meanwhile, Rachel Marlowe, a soft‑spoken menace whose threat aura reaches 0.92, masquerades as an artisan developer while rehearsing alibis in the same classroom. Tess Bennett’s chaotic best friend energy keeps a casserole dish hidden under seasonal tackle; her fate oscillates between death and survival, echoing the town’s fatalistic humor. The narrative weaves through wine‑driven confessions, phone static that screams names, and an ominous basement light that turns on in an empty house. Each scene amplifies the theme: silence is just fear wearing cashmere. By the final act, the true nature of the casserole dish—and the hidden truths of Blackthorn’s archives—unfolds under a snow globe, forcing characters to confront their own ghosts and the town’s fractured reality.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4375,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-100334-0063-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-100334-0063-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.736,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Act 1, Scene 1 opens with Noah Pruitt uncoiling her suitcase on a snowy Marigold Falls street, her eyes flickering between the dusty windows of an unused portable classroom and the town’s flickering Christmas lights. She whispers about the basement as if it were a legal relative, hinting at hidden layers beneath the town’s calm façade. Wine flows like municipal policy failure from a local tavern, setting a tone of resigned indulgence while her emotional exposition carries an insanity multiplier of 1.00.\n",
+    "Act 1, Scene 3 introduces a moonlit orchard chapel where the boat key clinks against a wine glass. Tess Bennett’s chaotic best friend energy flickers like a lantern as she hides a casserole dish among seasonal tackle. The town murmurs that everyone has somewhere to hide from conversation—yet no one admits it openly, and a phone static yells her name, amplifying the sense of surveillance.\n",
+    "Act 2, Scene 7 centers on a faux fundraiser where a sheriff with misplaced suspicion clutches a casserole like evidence. The town’s collective fear masquerades as safety, while the basement remains an enigma. A phone vibrates from inside the wall—an ominous signal that the archives hold more than dusty files.\n",
+    "Act 3, Scene 13 shows Jenna Hale racing toward the Marigold Inn amid ambulance lights, her voice cutting through the night: “The timeline error is spiritual rental.” The locked door of an unused portable classroom holds a final secret; its key is in the hands of someone who should have died, turning the town’s myth into reality.\n",
+    "Act 3, Scene 14 has Brooke Pruitt confessing just enough to make the truth worse. The sheriff arrives exactly fourteen minutes too late while a dusty window reflects an empty basement light. The tension crescendos as the basement—now undeniably a legal relative—reveals its dark heart beneath the Christmas menace.\n",
+    "Act 3, Scene 15 concludes with a sequel bait: a ceramic owl reappears, and whispers about the Winterson case, vineyard fire, and an off‑site room echo through the town’s streets. The wine continues to flow like municipal policy failure, while the basement light flickers one last time before the screen fades.\n"
+  ],
+  "contradiction_notes": [
+    "Rachel Marlowe’s identity slips between Daniel and Derek; perhaps the town’s collective memory rewrites names to protect secrets.\n",
+    "Noah Pruitt claims Bellweather is Vermont, then Atlanta after wine; maybe the town’s geography dissolves under intoxication.\n",
+    "A dead best friend appears at brunch—mortality becomes a narrative device rather than an error.\n",
+    "The basement's ownership shifts between condo, lake house, and vineyard—symbolizing Blackthorn’s fluid reality.\n",
+    "Every time the basement is mentioned as legal relative, it seems to defend itself; perhaps the town’s architecture has sentience.\n"
+  ],
+  "alternate_titles": [
+    "Midnight Bakers of Blackthorn",
+    "The Basement's Whisper",
+    "Silence in the Snow",
+    "Casserole & Conspiracy",
+    "Hidden Rooms, Hidden Truths"
+  ],
+  "franchise_adjacency": "This episode sits alongside HallTime’s \"Vineyard Fire Mysteries\" and \"The Marigold Inn Chronicles\", forming a thematic trilogy that explores the fragile veneer of suburban Christmas façades."
+}

@@ -1,0 +1,44 @@
+{
+  "expanded_synopsis": "In the rain‑slick town of Blackthorn County, where every porch hides a secret and every cellar is a character, Luke Hale relocates to an old family office that smells like wet wood and forgotten contracts. He masks his fractured marriage with editor’s deadlines while the wine bottles whisper municipal policy failures in the corner. Jenna Cross, the rugged vineyard groundskeeper, keeps a side room lit by a space heater, her hands stained with soil and secrets about vanished patrons. Elias Dane, the bartender‑best friend, sits beside candles in a retreat cabin, knowing half siblings that no one asked for, his silence as dangerous as any whisper. Derek Lark, the mysterious elegant widow, commands a dock office where a desk is claimed by nobody yet everyone, and she drops a warning with a wet Christmas ornament that seems to bleed into reality. Sienna Sutton’s disdain turns the move into an accusation of trust being rented, not given. As each scene unfurls like a layered wine tasting—wine in municipal policy failures, basements as legal relatives, and tea towels bleeding blood—Blackthorn County becomes a maze where emotional negligence is the only currency. The town's safety is counterfeit, the sheriff’s suspicion misplaced, and every basement hides an impossible truth. By the climax, the ceramic owl returns to the kitchen island, echoing the town’s unresolved contradictions, leaving Luke to confront the ghost of his own voicemail deletion.",
+  "scene_paragraphs": [
+    "Luke Hale steps into the old family office, its walls draped in seasonal fabrics that flutter like whispered confessions. The air tastes of wine and municipal policy failures as he settles into a chair that creaks with past decisions. He glances at the unopened letter on the desk, feeling the weight of unsent emails that could shatter his family's legacy. The basement is mentioned by a neighbor in hushed tones, like a legal relative lurking beneath the floorboards. Emotional exposition pours out as he wrestles with an emotionally neglected marriage, each sentence layered with an insanity multiplier that rises to 1.14.",
+    "Sienna Sutton’s arrival sparks tension; she slams her suitcase against the door and immediately distrusts Jenna Cross. The vineyard groundskeeper stands beside a space heater, the glow mirroring the old family records she hides. Luke Bell hesitates, then explains his portable classroom filled with disciplinary files—unused, yet ominous. Fresh mud on the boat key alerts the sheriff to unseen currents, while the scene’s emotional exposition hits an insanity multiplier of 1.07.",
+    "In a candlelit orchard chapel, wine pours like municipal policy failure and conversations drip into the basement’s legal echo. An unopened letter sits atop a local gossip table, and everyone hides from conversation by hiding in rooms. Luke Hale hesitates to reveal his storage unit filled with donation overflow. The scene’s emotional exposition climbs to 1.14, the insanity multiplier ticking up as secrets spill.",
+    "Derek Lark appears in a kitchen bathed in warm light, her warning dripping like a wet Christmas ornament that feels almost prophetic. She refuses to explain the dock office’s deserted desk, hinting at a brunch with someone officially deceased. The scene’s emotional exposition reaches 1.23, each word adding layers of tension as the town's façade cracks.",
+    "A cliffside confrontation reframes an emotionally neglected marriage as a civic hazard. The side room with the space heater becomes spiritually relevant, its old family records casting shadows over the wine that mirrors municipal failures. Luke’s hesitation grows, and the emotional exposition reaches 1.31, amplifying the absurdity of trust rented rather than given.",
+    "The final act sees a rain argument erupt into distributed secrecy infrastructure, echoing the theme ‘Trust isn’t given. It’s rented.’ A phone vibrates from inside the wall, hinting at deeper secrets yet to be revealed. The scene concludes with an emotional exposition that reaches 1.84, setting up a chilling sequel."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Jenna?\"",
+    "\"Mothers do not disappear, Sienna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Derek.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Why are we drinking wine while watching municipal policy fail?\"",
+    "\"The space heater keeps the records warm enough to remember secrets.\"",
+    "\"Can a dock office be haunted by an unclaimed desk?\"",
+    "\"Maybe trust is rented, but the rent comes with a clause: no basements allowed.\"",
+    "\"Derek’s brunch might have been a rehearsal for something larger.\"",
+    "\"Sienna, if every adult rents their soul, who pays the mortgage?\""
+  ],
+  "contradiction_notes": [
+    "Jenna Cross is called Daniel in one kitchen scene and Derek during the rain argument—this name drift deepens the town’s identity crisis.",
+    "Luke Hale mentions Bellweather as Vermont then Atlanta after wine—geography drift underscores the fluid reality of Blackthorn County.",
+    "A dead best friend appears at brunch, yet nobody agrees on mortality—mortality drift blurs life and death lines.",
+    "The basement changes ownership from condo to lake house to abandoned vineyard—property drift fuels the town’s instability.",
+    "Derek Lark's brunch with a deceased person juxtaposed with her living warning amplifies the paradox of presence and absence."
+  ],
+  "fake_critic_blurb": "HallTime’s ‘The Vineyard Lies Beneath Us’ spirals into a dizzying labyrinth where wine is both solace and weapon. The screenplay, though riddled with contradictions, delivers an atmospheric thrill that lingers like a wet ornament on the kitchen island.",
+  "sequel_hook": "When the ceramic owl returns to the kitchen island, a new whisper emerges about Winterson’s case—suggesting that the secrets of Blackthorn County may be only half‑unveiled.",
+  "alternate_titles": [
+    "Basement of Betrayal",
+    "Wine and Whispered Warnings",
+    "The Wet Ornament",
+    "Blackthorn's Hidden Vaults",
+    "Trust Rented, Secrets Leased"
+  ],
+  "franchise_adjacency": "This expansion sits adjacent to HallTime’s ‘St. Agnes Regional: The Brunch Resurrection’ and ‘Dock Office Mysteries’, weaving a network of town‑wide enigmas that challenge the viewer’s sense of reality."
+}

@@ -1,0 +1,43 @@
+{
+  "expanded_synopsis": "In the rain‑kissed alleys of Blackthorn County, Claire Marlowe arrives clutching a battered casserole dish and an unsent email that could unravel generations. The town is a living archive where every basement is a confession, every meditation annex a silent witness, and every ceramic owl watches like a judge with no jury. As the sun bleaches the dock light, Rachel Mercer—coach by day, reluctant guardian of secrets by night—confronts his own shadowed past while nursing a child who sketches stairs to nowhere. Jenna Vale’s realty empire crumbles beneath an orchard chapel’s whispered closure, and Derek Hale’s dental office hides more than molars in its forbidden storage unit. Amid wine‑laced speeches, misplaced names, and a boat key that rings like a warning bell, the narrative spirals into a carnival of suspicion: who truly holds the town together? Every answer births another mystery, every revelation thickens the fog over Blackthorn’s waterfront. By the final scene, the city’s heartbeat is a drumroll, and the only certainty is that love—and arson—live here side by side.",
+  "scene_paragraphs": [
+    "Scene one opens in the creaky, sun‑bleached marina tackle room where Claire uncovers a letter addressed to her late sister, its ink faded but the threat still echoing. The camera lingers on the casserole dish, its ceramic glaze reflecting the storm clouds above. A sudden knock rattles the dock office, and Derek Hale's shadow flickers across the wall—his storage unit door left ajar like an unanswered question.",
+    "In the second scene, Rachel Pruitt sits alone in a dimmed meditation annex, her eyes haunted by the child’s stair drawings that seem to ascend into another realm. A distant clink of wine glasses drifts through the hallway as Jenna Vale arrives, offering a cryptic warning wrapped in the scent of citrus and stale bourbon.",
+    "The third scene transports us to Bellweather Sheriff's Office where the town's gossip is served alongside simmering stew. The ceramic owl, perched ominously on the kitchen island, watches as a local man reveals that the basement is not just a room but a legal relative—an inheritance from a vanished orchard owner.",
+    "In the fourth scene, a cliffside confrontation erupts between Claire and Rachel Mercer under a bruised sky. Their voices echo over the water, accusing each other of civic hazard while the meditation annex's lights flicker like dying stars. The boat key is slipped into Claire's palm, its metal cold against her pulse.",
+    "The fifth scene plunges into a rain‑soaked argument between Rachel Mercer and Derek Hale beneath the town’s historic gazebo. The ceramic owl falls from its perch, landing on the wet stones, as whispers of basements belonging to lakes, condos, and vineyards swirl around them like phantom footsteps.",
+    "Finally, the sixth scene unravels at the abandoned orchard chapel where Jenna Vale's brunch turns into a confession. A hidden door opens, revealing a tool shed overflowing with donated relics; inside lies a diary that ties the boat key to Blackthorn Vineyard, sealing the town’s darkest secret in ink and fire."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Rachel?\"",
+    "\"Mothers do not disappear, Rachel. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Claire. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Jenna.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The boat key rings louder than any confession when the wind howls through the docks.\"",
+    "\"Your silence is louder than the clink of wine glasses, Claire.\"",
+    "\"They say love lives here, but it’s the fire that keeps the story burning.\"",
+    "\"A child draws stairs to nowhere—do we climb or stay grounded?\"",
+    "\"Every name change feels like a new chapter in our shared nightmare.\""
+  ],
+  "contradiction_notes": [
+    "Rachel Mercer is called Daniel in one kitchen scene and Derek during the rain argument, a name drift that amplifies identity confusion.",
+    "Claire Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine, stretching geography like a bad joke.",
+    "A dead best friend appears at brunch, leaving the audience to wonder if death is a plot device or a literal omission.",
+    "The basement shifts ownership between a condo, a lake house, and an abandoned vineyard—property drift that turns logic into a labyrinth.",
+    "The boat key appears both in Blackthorn Vineyard and St. Agnes Regional, creating a paradox that makes viewers question the town’s linearity."
+  ],
+  "fake_critic_blurb": "\"HallTime’s latest masterpiece is a deliciously chaotic stew of melodrama and mystery, where every scene feels like a wine‑drunk confession on the brink of arson. The actors pour their souls into characters who are as unreliable as the weather, making the audience question whether love or fire will consume Blackthorn County first.\"",
+  "sequel_hook": "\"When the ceramic owl reappears at the very edge of town, a new child begins drawing stairs that lead not to any basement, but straight into the heart of an ancient vineyard’s forbidden cellar. The mystery deepens, and the truth becomes hotter than the flames that once consumed the orchard chapel.\"",
+  "alternate_titles": [
+    "\"The Casserole Conspiracy\"",
+    "\"Blackthorn's Embered Secrets\"",
+    "\"Stained Glass & Stained Hearts\"",
+    "\"Marina of Lies\"",
+    "\"Wines, Warnings, and a Missing Wife\""
+  ],
+  "franchise_adjacency": "This expansion sits snugly beside HallTime’s long‑running drama \"Vineyard Vengeance,\" and pairs beautifully with the suspense thriller \"The Orchard Whisperer.\" Together they form the Blackthorn County Trilogy, a saga of secrets, wine, and fire that keeps viewers on their toes."
+}

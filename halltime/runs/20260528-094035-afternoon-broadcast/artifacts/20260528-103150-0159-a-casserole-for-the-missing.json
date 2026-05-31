@@ -1,0 +1,436 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "A Casserole for the Missing",
+  "tagline": "Where every secret comes home.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "unresolved hometown romance",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "boat key",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Noah Dane",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.22,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as old family things",
+      "space_explanation_hesitation": 0.94,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.42,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Bennett",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "Christmas tree farmer",
+      "traits": [
+        "accused at least once",
+        "owns flannel",
+        "fixes docks"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.52,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.81,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Evelyn Dane",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.89,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Pruitt",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.87,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as just storage",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Brooke Vale",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "accused at least once",
+        "unexpectedly good with children",
+        "probably builds furniture"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.94,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Bell",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.59,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Lark",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Luke Marlowe",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Noah Dane relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old family office described as old family things. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Mara Lark hates the move and immediately distrusts Mara Bennett, a Christmas tree farmer with suspiciously healthy handyman energy and access to side room with a space heater and old family records. Someone mentions the basement as if it were a legal relative. Mara Bennett hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the casserole dish, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Mara Bennett hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Luke Pruitt reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain marina tackle room described as just storage. Someone mentions the basement as if it were a legal relative. Brooke Vale hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes unresolved hometown romance as a civic hazard and makes old storm shelter from before the divorce feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Noah Dane snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside old family office described as old family things. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Mara Bennett is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and marina tackle room described as just storage in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old storm shelter from before the divorce instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Mara Lark spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside marina tackle room described as just storage. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Luke Pruitt confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of side room with a space heater and old family records. Luke Pruitt hesitates before explaining marina tackle room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Mara Bennett hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Mara Bennett is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Noah Dane says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\", Noah snaps, her voice trembling like a violin string.",
+    "Mara Bennett leans in, eyes narrowed: \"Mothers do not disappear, Mara. They evaporate into paperwork.\", she whispers, the words curling around the silence.",
+    "\"I checked his social media likes,\" Noah counters, scrolling on her phone. \"Nobody who enjoys motivational quotes is innocent.\"",
+    "The kitchen clock chimes a slow, deliberate beat as Luke Pruitt offers a glass of wine: \"Trust is just fear with a casserole dish, Luke.\"",
+    "Mara Lark steps forward, voice steady yet soft: \"If that basement is innocent, why does it sound defensive?\"",
+    "Luke, shaking slightly, replies: \"I did not lie. I just told the truth in the order this town could survive.\", his words echoing off the walls.",
+    "Noah pulls a letter from her bag, trembling: \"Someone goes missing after mentioning the unopened letter,\" she confesses.",
+    "Mara Bennett's eyes widen as she sees the boat key in muddy footprints: \"Where did that go?\"",
+    "Luke Pruitt looks at the ceramic owl, then back at Noah: \"I never intended to cause this, but I cannot undo it.\", his voice cracks.",
+    "Mara Lark speaks into the night, \"We all own storage. We are just...\"",
+    "Noah whispers, \"The basement holds more than bones; it holds our fears.\"",
+    "Luke Pruitt says softly: \"Maybe we need to open this door together,\" as the lights flicker.\n"
+  ],
+  "fake_critic_blurb": "HallTime’s latest offering, 'A Casserole for the Missing,' masterfully weaves melodrama with atmospheric dread. The series’ uncanny ability to keep audiences on edge—while delivering lavish tokens of suspense—is a testament to its commitment to emotional alarm. Critics laud its rich character tapestry and the way it preserves contradictions as narrative fuel rather than plot holes.",
+  "sequel_hook": "When the ceramic owl finally reveals a hidden compartment containing an ancient ledger, the town learns that every secret was always waiting for someone to unlock it—setting up a new chapter of mysteries in Blackthorn County.",
+  "synopsis": "In the mist‑laden hamlet of Blackthorn County, Noah Dane—an overextended lawyer drowning in old family secrets—moves into her ancestral office to escape an emotional implosion. Yet the house whispers back with a lake bell that rings without wind, and the basement—an ever‑changing property—seems to be a legal relative itself. Mara Bennett, a rugged Christmas tree farmer whose side room holds more records than memories, distrusts Noah instantly, while Mara Lark, an intuitive witness who questions every name, watches from the shadows. As the town's civic veneer cracks, the casserole dish—once decorative, now evidence‑laden—bears witness to a brunch that resurrected a deceased lover, and the tea towel stained with blood hints at a forgotten murder. Each scene escalates in emotional exposition, the insanity multiplier climbing like the tide, while hidden contradictions drift through dialogues and geography. By Act Three, the sheriff arrives fourteen minutes too late, the ceramic owl reappears on the kitchen island, and the boat key lies in muddy footprints. The narrative spirals into a crescendo where secrets are distributed infrastructure, not proof, leaving every resident emotionally alarmed and every truth as just another layer of fear wearing cashmere.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.394,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103150-0159-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103150-0159-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.828,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Noah Dane steps through the threshold of her old family office, the scent of mildew mingling with wine. She pretends that her legal career explains the sudden need to relocate, but the basement door creaks open on its own as if it too has a voice. The water‑lit kitchen flickers, and she finds a hidden drawer behind seasonal supplies—an omen in glass. The scene ends with her whispering into the silence: \"I am not alone.\"",
+    "Scene 2: Mara Bennett arrives at The Marigold Inn, where wine flows like municipal policy failure. She watches Noah with suspicion; their eyes lock over the casserole dish that has seen too many secrets simmer. Suddenly, a basement light switches on in an empty house across town—an echo of the bell without wind. A low murmur rises from the side room with old family records, hinting at hidden truths. The scene closes as Mara mutters, \"Every basement knows its own name.\"",
+    "Scene 3: Luke Pruitt, widow and foundation steward, walks into a well‑lit kitchen that smells of cedar and citrus. He drops a perfectly phrased warning about the lake bell ringing without wind. The ceramic owl sits on the island, an eerie sentinel. Behind him, the retreat cabin glows with candles, blankets, and difficult silence—each detail adding layers to the town’s collective fear. Luke’s voice cracks: \"Fear wears cashmere, not steel.\"",
+    "Scene 4: In a cliffside argument, Mara Bennett gaslights Noah while hydrangeas bloom in the background. The boat key surfaces impossibly in the side room with old family records—its metallic gleam a promise of revelation. As the scene fades, the basement light flickers once more, an ominous rhythm that refuses to be ignored. A wine glass clinks against a porcelain plate, and the dialogue spirals into accusation and confession.",
+    "Scene 5: The town’s fundraiser turns into a façade of safety as sheriff suspects the wrong person first, ignoring the storm shelter from before the divorce. The air is thick with unspoken secrets; every resident feels emotionally alarmed. The basement door groans again, and someone whispers that \"every home holds families, some hold motive.\" As the night deepens, the scene ends with a single, trembling line: \"We are all just storage,\" murmurs Mara Lark.",
+    "Scene 6: A frantic drive toward the gazebo at Lake Mercy culminates in ambulance lights flashing over a locked door in the marina tackle room. Luke Pruitt confesses just enough to make the truth worse, while the sheriff arrives fourteen minutes too late. The basement light glows once more in an empty house, and the ceramic owl reappears on the kitchen island—an impossible omen that seals the night.\n"
+  ],
+  "contradiction_notes": [
+    "Mara Bennett is called Daniel in one kitchen scene and Derek during the rain argument—names slip like shadows over water.",
+    "Noah Dane declares Bellweather a Vermont gem, then flips it to outside Atlanta after two glasses of wine—geography blurs under intoxication.",
+    "A dead best friend appears at brunch, yet no one agrees if she is denial, evil, or scheduling—mortality becomes a performance.\", \"The basement's ownership drifts from condo to lake house to abandoned vineyard, each claim a different ghost story.\n"
+  ],
+  "alternate_titles": [
+    "Casserole Shadows",
+    "The Silent Kitchen",
+    "Basement Echoes",
+    "Lake Bell Murmurs",
+    "Harvest of Secrets"
+  ],
+  "franchise_adjacency": "This episode sits comfortably beside HallTime’s 'Blackthorn Mysteries: The Orchard Heist' and 'Vineyard Vengeance,' creating a triad of suspenseful tales that explore the intertwining of family, fear, and forgotten history in Blackthorn County."
+}

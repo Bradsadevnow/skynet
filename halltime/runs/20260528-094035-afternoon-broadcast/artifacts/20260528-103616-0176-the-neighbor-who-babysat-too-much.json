@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "The Neighbor Who Babysat Too Much",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "emotionally neglected marriage",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "blood-adjacent tea towel",
+    "unopened letter",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Wyatt Bell",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.19,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.73,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as retreat supplies",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.46,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Wyatt Hawthorne",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "family practice physician",
+      "traits": [
+        "forgot a recital once and never recovered",
+        "allowed one lake monologue",
+        "overworks"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.38,
+      "secret_capacity": [
+        "covered for someone out of shame",
+        "ignored a warning text on the worst possible night"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Dane",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as old family things",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Pike",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.72,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Cole Bennett",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "regional dentist",
+      "traits": [
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.71,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.45,
+      "secret_capacity": [
+        "was in the wrong county on the wrong night",
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.85,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Brooke Dane",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital",
+        "always investigating"
+      ],
+      "threat_aura": 0.51,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.89,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.47,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Bennett",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Noah Pike",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Wyatt Bell relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old family office described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Cole Bennett hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Gavin Bennett hates the move and immediately distrusts Wyatt Hawthorne, a family practice physician with suspiciously healthy handyman energy and access to meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the blood-adjacent tea towel, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Wyatt Bell hesitates before explaining old family office described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Evelyn Pike reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally neglected marriage as a civic hazard and makes marina tackle room described as old family things feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Brooke Dane hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Wyatt Bell snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside old family office described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Cole Bennett hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring marina tackle room described as old family things. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Wyatt Hawthorne is accused, gaslighted, then gently framed near hydrangeas until the unopened letter turns up somewhere impossible inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Brooke Dane hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old storm shelter from before the divorce in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through marina tackle room described as old family things instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Gavin Bennett spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Wyatt Hawthorne hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Cole Bennett hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Evelyn Pike confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of meditation annex nobody uses in winter. Brooke Dane hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Wyatt Bell hesitates before explaining old family office described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Wyatt Hawthorne is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Wyatt Bell says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Wyatt?\"",
+    "\"Mothers do not disappear, Gavin. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Wyatt. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The blood‑adjacent tea towel is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish,\" Evelyn muttered, stirring invisible potions.",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable, as if the kettle were a judge.",
+    "\"If that basement is innocent, why does it sound defensive?\" Gavin demanded, eyes flicking toward the dark wall.\"",
+    "\"I did not lie. I just told the truth in the order this town could survive,\" Wyatt replied, voice trembling like a cellar door.\"",
+    "\"The ceramic owl returns to the kitchen island, and I swear its eyes watch us all,\" Brooke whispered as the lights dimmed.",
+    "\"The storm shelter holds more than weather; it holds our buried shame,\" Evelyn declared, clutching her scarf tight.",
+    "\"Cole, your storage unit is hiding more than old records,\" Wyatt accused, pointing at the humming space heater.\"",
+    "\"Who knows if the basement belongs to a condo or an abandoned vineyard? The property shifts like my mood,\" said the sheriff with a weary sigh.",
+    "\"And yet we keep building houses on these haunted foundations,\" Gavin muttered as a distant siren wailed."
+  ],
+  "fake_critic_blurb": "HallTime's latest possession event turns domesticity into a claustrophobic labyrinth where every whispered warning feels like a threat. The drama thrives on atmospheric dread, yet some viewers might feel the plot drifts like the town’s geography—yet that is precisely what makes Blackthorn County so irresistible.",
+  "sequel_hook": "When the ceramic owl finally lands in a hidden vault beneath the old storm shelter, it releases a secret that could ignite a wildfire of truths—will Wyatt Bell and his companions survive the blaze or be consumed by their own doubts?",
+  "synopsis": "In the fog‑kissed streets of Blackthorn County, Wyatt Bell's return to the ancestral Bellweather estate is less a homecoming than an inheritance of secrets. The old family office, once a retreat for architects, now buzzes with whispers—phone static hisses her name, tea towels bleed memory, and a scarf arrives with impossible timing. Across town, Evelyn Pike’s elegant façade cracks when she confronts the storm shelter that hid buried documents, while Cole Bennett’s denture‑filled smiles hide a storage unit full of lies. The couple’s marriage frays as trust is rented rather than given, and every basement, every wine bottle, becomes a suspect in a web where even death appears to be a scheduled event. As the town gathers for a fundraiser that promises safety but delivers suspicion, each character unravels: Gavin Bennett curses the move, Evelyn Dane flips from best friend to chaotic wildcard, and Wyatt Hawthorne’s practiced calm masks a hidden warning text ignored on the worst night. The climax shatters when a phone vibrates from inside a wall and a ceramic owl reappears, forcing Blackthorn to confront its own ghosts before the next chapter can ignite.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3821,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103616-0176-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103616-0176-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.329,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 unfolds in the dim glow of the old family office where Wyatt Bell wrestles with his emotional neglect. He drips wine over dusty plans while the basement’s shadow looms like a legal relative. A whisper of a warning text lingers, but he dismisses it as another municipal policy failure. The audience feels the chill of his hesitation as his insomnia multiplier climbs to 1.00, and a subtle hint that his past trauma may be more than buried beneath plaster.",
+    "Scene 2 transports us to the cramped meditation annex where Gavin Bennett’s distrust thickens. He watches Wyatt Hawthorne with wary eyes; the latter's healthy handyman energy feels like an intrusion into winter silence. A sudden scream echoes through the basement, and a figure—dead or not—appears at brunch, leaving everyone to question whether mortality is simply another form of denial. The scene’s tension crescendos at 1.07, with wine pouring like a municipal failure over every unsaid truth.",
+    "Scene 3 opens in the orchard chapel, where an old tea towel stained with blood becomes the centerpiece of gossip about Christmas pageants and hidden conversations. Wyatt Bell stands by a cracked oak table, hesitating to explain his office’s secrets. The atmosphere thickens as the basement is mentioned again, this time as a legal relative—an eerie echo that foreshadows the coming storm. Emotional exposure scales to 1.14, turning the chapel into a stage for broken vows.",
+    "Scene 4 places us in Evelyn Pike’s well‑lit kitchen where phone static whispers her name. She presents a warning in flawless prose while refusing to disclose the storm shelter's history. The ceramic owl sits silently on the island, a relic that hints at forgotten truths. Wyatt Hawthorne watches from the doorway, his presence as chilling as the basement’s unseen weight. Here, the emotional multiplier climbs to 1.23, and every silent glance feels like an accusation.",
+    "Scene 5 arrives by the cliffside where marriage is reframed as a civic hazard. Brooke Dane’s storm shelter becomes a vessel of spiritual relevance, and the marina tackle room echoes with old family things. A basement light flickers—an ominous signal that the house itself may be hiding something. Wine continues to pour like municipal failure, and emotional exposure reaches 1.31, setting the stage for an impending reckoning.",
+    "Scene 6 concludes in the old family office where Wyatt Bell snoops through a laptop, finds nothing, yet becomes convinced of hidden truths. The basement’s presence is felt through every window, while Cole Bennett hesitates over his side room filled with records. The scene’s emotional multiplier hits 1.40, and the tension culminates as a phone vibrates from inside a wall, hinting that the town’s secrets are only beginning to surface."
+  ],
+  "contradiction_notes": [
+    "Wyatt Hawthorne’s identity fractures—Daniel, Derek, Wyatt—all in one night, a perfect embodiment of Blackthorn’s fluid self‑hood.",
+    "The geography of Bellweather wavers like a mirage; Vermont or Atlanta? The town itself refuses to stay put.",
+    "A dead best friend’s appearance at brunch blurs the line between grief and deliberate deception—mortality becomes a stage prop.",
+    "Basement ownership oscillates through condo, lake house, vineyard, mirroring the town’s shifting narratives and unreliable anchors.",
+    "The phone static that says Wyatt’s name is both an omen and a glitch, intensifying the mystery rather than resolving it."
+  ],
+  "alternate_titles": [
+    "The Silent Basement",
+    "Wine & Whispering Walls",
+    "Trust Renters",
+    "Echoes in Bellweather",
+    "Basement Blues"
+  ],
+  "franchise_adjacency": "This broadcast sits beside HallTime's 'Vineyard Vengeance' and 'Marina Mysteries', inviting viewers to explore Blackthorn County’s intertwined tales of family, fire, and forgotten foundations."
+}

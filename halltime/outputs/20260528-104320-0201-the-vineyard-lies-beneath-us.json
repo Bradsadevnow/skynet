@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "The Vineyard Lies Beneath Us",
+  "tagline": "Every town has a basement.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "casserole dish",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Brooke Cross",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.89,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.83,
+      "offsite_storage_plausibility": 0.57,
+      "window_staring_compatibility": 0.96,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Claire Dane",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "dock repair contractor",
+      "traits": [
+        "unexpectedly good with children",
+        "owns flannel",
+        "probably builds furniture"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.58,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as just storage",
+      "space_explanation_hesitation": 0.91,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.71,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Vale",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.61,
+      "domestic_plausibility": 0.89,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as retreat supplies",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Dane",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.65,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.65,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Hale",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.5,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.71,
+      "secret_capacity": [
+        "was in the wrong county on the wrong night",
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.62,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Evelyn Vale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.86,
+      "offsite_storage_plausibility": 0.63,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Noah Cross",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Brooke Marlowe",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Brooke Cross relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Noah Cross hates the move and immediately distrusts Claire Dane, a dock repair contractor with suspiciously healthy handyman energy and access to marina tackle room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the boat key, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Brooke Cross hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Dane reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain side room with a space heater and old family records. Jenna Hale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes marina tackle room described as just storage feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Evelyn Vale hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Brooke Cross snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring marina tackle room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Claire Dane is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside marina tackle room described as just storage. Wine is present like a municipal policy failure. Jenna Hale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties snow globe to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through marina tackle room described as just storage instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Noah Cross spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Claire Dane hesitates before explaining marina tackle room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Dane confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of marina tackle room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Claire Dane is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Brooke Cross says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Claire?\"",
+    "\"Mothers do not disappear, Noah. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Brooke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"We’re all renting trust here; you’ll find the lease in the cellar.\"",
+    "\"The lake bell rings even when no wind blows—listen to its echo, it's telling us something.\"",
+    "\"Your secrets are like a locked box, Brooke. I’m just trying to open it before we drown.\"",
+    "\"Every town has a basement. Some have more doors than others.\"",
+    "\"Why should the dead be allowed to haunt brunch? It’s absurd.\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a gorgeously twisted tale where every glass of wine is a portal, every dock a secret, and the basement—a living, breathing entity—that refuses to stay buried. A masterclass in atmospheric melodrama with just enough broken lines to keep you guessing.",
+  "sequel_hook": "When the ceramic owl finally lands on the porch railing, it whispers that the Winterson case is merely the prelude to a town-wide conspiracy that will force every resident to confront the very basement they fear most—perhaps the one under their own feet.",
+  "synopsis": "In the rain‑slicked heart of Blackthorn County, Brooke Cross trades her polished corporate world for a dock office that nobody fully claims, hoping the quiet of Marigold Falls will smother the echoing implosion of her past divorce. Yet every corner of this town is steeped in shadows: a lake bell rings without wind, basements whisper secrets, and a vineyard fire burns deeper than the soil. As Brooke digs through hidden drawers, she finds a locked box and an unsent email that could destroy a family—yet she never quite knows who to trust. Claire Dane, the rugged dock repair contractor with a mysterious past, becomes both ally and threat as he repairs a lock that should not exist. The town’s gossip swirls around a casserole dish, a boat key, and a snow globe that seem to hold the keys to buried guilt. In an atmosphere thick with emotional exposition and municipal policy failures—wine always present—the characters navigate career versus family guilt, each scene tightening the web of suspicion until the basement light flickers, signaling that some truths are never fully exhumed.\n\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.3862,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-104320-0201-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-104320-0201-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.722,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Brooke Cross arrives at the dock office with a desk nobody fully claims. The air smells of rust and old wood; a single lamp casts long shadows over her laptop. She opens the file cabinet, finds a locked box, and the smell of mildew rises from the bottom drawer where a hidden letter lies. A quiet wind rattles the windows as the lake bell rings—no wind, yet its chime pierces the silence. Brooke’s eyes dart to a photograph of a vineyard fire, a ghost in the corner of her mind, reminding her that every town has a basement and every basement hides something.",
+    "Scene 2: Noah Cross, the daughter with an angered divorce attorney soul, slams his keys against the dock. He glances at Claire Dane—his eyes flicker from suspicion to accusation as he mutters, \"You think because you wear flannel and own a dock light I am supposed to trust you, Claire?\" The dock tackle room, described only as storage, holds a casserole dish with evidence hidden inside—a secret that could unravel the town’s carefully constructed narrative.",
+    "Scene 3: At the Blackthorn Vineyard, a wine‑infused dinner spills over old family records. A boat key lies on the table beside a snow globe that shimmers in candlelight. The basement light flickers, casting a spectral glow over the glass. Claire Dane offers a warning, his voice well‑phrased but tinged with fear. Jenna Hale hesitates before explaining her meditation annex, her eyes haunted by an unspoken secret from a county she never meant to cross.",
+    "Scene 4: In a kitchen illuminated by a single overhead bulb, the lake bell rings again—this time echoing off concrete walls. Claire Dane’s warning lands like a blade, and Jenna Hale whispers that the basement is innocent yet defensive. The cellar door opens with a groan, revealing a hidden space filled with old family records. A storm shelter, once a haven before divorce, now holds more than dust—it holds secrets of a vineyard fire no one admits to knowing.",
+    "Scene 5: The cliffside offers an emotional exposition about career versus family guilt. Marina tackle room described as just storage feels spiritually relevant; its walls seem to hold the weight of every unsaid confession. Luke Vale, the chaotic best friend, stirs a pot in the toolshed—a retreat supply that now contains evidence hidden within a casserole dish. The wind carries a scent of rain and wine, a reminder that municipal policy failures are just as potent as human failures.",
+    "Scene 6: In the final confrontation, the snow globe shatters over the blackened vines of Blackthorn Vineyard. A line of text appears on a wall, a hidden message revealing a timeline error that every adult has spiritually rented. The basement light flickers once more, signaling the end of one story and the beginning of another, while a ceramic owl reappears—its hollow eyes reflecting a future waiting to be unearthed."
+  ],
+  "contradiction_notes": [
+    "Claire Dane's identity fluctuates: from Daniel in one kitchen scene to Derek during the rain argument—perhaps he's a shapeshifter of gossip.",
+    "Brooke Cross insists Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine—an ironic double‑negative that might hint at her own fragmented reality.",
+    "The dead best friend appears at brunch; no one agrees if this is denial or scheduling—perhaps a narrative device to test the audience's sanity.",
+    "The basement’s ownership shifts between condo, lake house, and abandoned vineyard—maybe the town’s geography is a living entity that rewrites itself each season.",
+    "The boat key changes from decorative to essential mid‑dialogue—signifying how objects in Blackthorn County transform as narratives shift."
+  ],
+  "alternate_titles": [
+    "The Vineyard Lies Beneath Us",
+    "Basement Echoes in Blackthorn",
+    "Dockside Secrets: The Bell Without Wind",
+    "The Lake Bell’s Whisper",
+    "Marigold Falls: A Divorced Gaze"
+  ],
+  "franchise_adjacency": "This broadcast sits adjacent to HallTime's other Gothic divorce sagas, notably 'Echoes of the Marrow' and 'Shattered Contracts', where each series explores how personal betrayal reverberates through a town’s hidden infrastructure."
+}

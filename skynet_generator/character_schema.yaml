@@ -1,0 +1,93 @@
+normalcy_allowed: false
+required_fields:
+  - name
+  - archetype
+  - role
+  - surface_function
+  - hidden_function
+  - threat_aura
+  - domestic_plausibility
+  - gazebo_energy
+  - basement_implication
+  - secret_capacity
+  - wine_scene_compatibility
+  - secluded_space_access
+  - space_description
+  - space_explanation_hesitation
+  - offsite_storage_plausibility
+  - window_staring_compatibility
+numeric_bounds:
+  threat_aura: [0.0, 1.0]
+  domestic_plausibility: [0.0, 1.0]
+  wine_scene_compatibility: [0.0, 1.0]
+  space_explanation_hesitation: [0.0, 1.0]
+  offsite_storage_plausibility: [0.0, 1.0]
+  window_staring_compatibility: [0.0, 1.0]
+validators:
+  threat_floor_without_secret: 0.2
+  domestic_plausibility_floor: 0.4
+  minimum_secrets: 1
+  symbolic_basement_allowed: true
+  secluded_space_mandatory: true
+  criminality_required: false
+derived_fields:
+  - secret_capacity
+  - suspicion_profile
+  - regional_responsibility
+  - basement_mode
+  - canon_status
+  - secluded_space_access
+  - space_description
+regional_responsibilities:
+  - signs off on emergency corridor access during false alarms
+  - serves on an oversight board nobody fully understands
+  - carries a maintenance ring that opens too many sealed hatches
+  - is trusted to close the tribunal chamber after classified testimony
+secluded_space_access:
+  mandatory: true
+  criminality_required: false
+  emotional_charge: elevated
+  space_types:
+    - cryo annex
+    - maintenance spine
+    - subdeck chapel
+    - drone nursery
+    - archive shell
+    - sealed observation blister
+    - reactor gallery
+    - docking umbilical office
+    - med-bay overflow room
+    - decommissioned shuttle bay
+    - server orchard
+    - diplomatic garden access tunnel
+  explanation_templates:
+    - routine calibration
+    - archived family media
+    - decommissioned but still warm
+    - temporary quarantine storage
+    - ceremonial overflow
+    - review material I have not cleared yet
+space_emotional_charge_scale:
+  low: technically harmless but framed with distrust
+  medium: operationally evasive storage energy
+  elevated: ideal for reveals, false reports, and oxygen-starved silence
+  severe: can host a systems confession without proving a crime
+gazebo_energy_scale:
+  low: functional shipboard adult
+  medium: plausible witness energy
+  medium_high: knows more than is safe
+  high: could confess during decompression lighting
+basement_modes:
+  literal:
+    - owns a restricted subdeck
+    - has seen something in a maintenance shaft
+    - knows the smell of coolant and panic too intimately
+  symbolic:
+    - has an emotional subdeck
+    - keeps illegal backups in temperature-controlled storage
+    - maintains suspiciously inaccessible memories
+suspicion_profiles:
+  - can host a tribunal and still vent a witness
+  - appears trustworthy under emergency lighting only
+  - knows where a secret could fit architecturally on a station ring
+  - has resurrection-level tolerance for backup persons

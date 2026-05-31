@@ -1,0 +1,417 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Inspired by something, probably.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "scarf with impossible timing",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Elias Vale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.88,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Mercer",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "hides something imprecise",
+        "briefly leaves the room after difficult questions",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.27,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.54,
+      "secret_capacity": [
+        "was in the wrong county on the wrong night"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.63,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Sutton",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as old family things",
+      "space_explanation_hesitation": 0.79,
+      "offsite_storage_plausibility": 0.69,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Bennett",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "weaponized stillness",
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.69,
+      "domestic_plausibility": 0.51,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.89,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Sienna Bell",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "unexpectedly good with children",
+        "probably builds furniture",
+        "fixes docks"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.79,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.37,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Dane",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "often wrong but directionally vital",
+        "usually holding wine",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.5,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Bell",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Evelyn Lark",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Elias Vale relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Elias Bell hates the move and immediately distrusts Claire Mercer, a financial advisor with suspiciously healthy handyman energy and access to unused portable classroom holding archived disciplinary files. Elias Vale hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the boat key, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Derek Bennett reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes retreat cabin with candles, blankets, and difficult silence feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Elias Vale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Derek Bennett hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Claire Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Claire Mercer is accused, gaslighted, then gently framed near hydrangeas until the scarf with impossible timing turns up somewhere impossible inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and dock office with a desk nobody fully claims in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through retreat cabin with candles, blankets, and difficult silence instead of one simple basement. Wine is present like a municipal policy failure. Derek Bennett hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Elias Bell spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Claire Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward St. Agnes Regional ends with ambulance lights, a one-line empowerment speech, and a locked door inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Derek Bennett confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Claire Mercer is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Elias Vale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Claire?\", Elias snaps, the candlelight casting long shadows on the cabin wall.\n\"Mothers do not disappear, Elias. They evaporate into paperwork.\", Claire counters, his voice soft as rain on tin.\n\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\", Luke mutters under his breath, stirring the casserole.\n\"The boat key is not decorative anymore and you know it.\", Derek sighs, holding the worn key like a relic.\n\"Trust is just fear with a casserole dish,\" Evelyn whispers, her microphone trembling in her hands.\n\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\"If that basement is innocent, why does it sound defensive?\", Sienna hisses, clutching the engagement ring.\n\"I did not lie. I just told the truth in the order this town could survive.\", Claire says, eyes darting to the dusty window.\n\"We are all living in a house of cards,\" Derek murmurs as he locks the dock office door.\n\"Your secrets will boil over soon,\" Luke warns, his voice echoing through the basement.\n\"The lake bell has no wind, yet it still rings,\" Sienna notes, a chill running down her spine.\n\"There is no truth in silence, only fear dressed in cashmere,\" Evelyn intones, looking into the camera.\n\"We must decide what to do with the blood‑adjacent tea towel,\" Elias declares, standing before St. Agnes Regional.\n"
+  ],
+  "fake_critic_blurb": "HallTime’s latest offering, *He Knows I Bake at Midnight*, weaves a tapestry of emotional dread and suburban intrigue that leaves audiences both unsettled and yearning for more. Critics hail its atmospheric depth and melodramatic flair, noting how each scene magnifies the town’s hidden secrets like ripples in a still lake.\n",
+  "sequel_hook": "When the ceramic owl reappears beside the locked dock office door, an ominous note glints—\"The Winterson case will surface when you least expect it.\"\n",
+  "synopsis": "In Blackthorn County, where every porch hides a secret and silence is dressed in cashmere, Elias Vale retreats to her inherited cabin to escape an emotional implosion that left her career and conscience adrift. The lake bell rings without wind, echoing the town’s collective dread, while the boat key clinks like a warning. Claire Mercer, the smooth financial advisor with a hidden past, prowls the unused portable classroom of archived disciplinary files, his presence unsettling as a winter storm. Derek Bennett, the enigmatic realtor who knows why the orchard chapel closed, flits between dock office and kitchen, offering cryptic warnings that dissolve into the mist. Luke Sutton’s chaotic friendship is a simmering casserole; he hides evidence in a dish that may either save or doom them. Sienna Bell, widowed boat mechanic, whispers of vineyard fires beneath quiet smiles, while Evelyn Dane, podcaster with screenshots like scripture, recounts the lake’s wrong person sightings. Together they spiral through layered emotional expositions, each scene multiplying insanity by 0.13 and weaving a web where every basement becomes a legal relative, every wine bottle a municipal policy failure. The climax unravels when the blood‑adjacent tea towel links to St. Agnes Regional, forcing Elias to confront her unsent email that could destroy a family—and perhaps save one.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.3756,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102823-0149-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102823-0149-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.745,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: The cabin’s candlelight flickers over Elias’ face as she pours wine, its aroma thickening like municipal policy failure. She opens the attic, discovering an old ledger of basement locations—each entry contradicting the next. The lake bell rings, and a ghostly voice murmurs, “I am the key.” A sudden chill grips her hands; she sees Claire’s reflection in the glass, eyes flickering with unspoken threat.\nScene 2: Claire Mercer sits across from Elias in the unused portable classroom, his palm resting on an ancient map of Blackthorn County. He whispers about a hidden dock office, but his voice trembles when he mentions the basement’s legal status. The room hums with tension as a phone vibrates against the wall, hinting that someone—perhaps the dead best friend—listens.\nScene 3: At The Marigold Inn, Luke Sutton stirs a casserole of secrets while a glass of wine drips onto the floor like municipal failure. He glances at the boat key he found in his pocket and mutters, “It’s not decorative anymore.” The waiter’s tray squeaks, echoing the town’s uneasy rhythm.\nScene 4: Derek Bennett enters a well‑lit kitchen with a calm smile, holding the dock office desk. He offers a warning about the lake bell, but as he speaks, a shadow passes over the wall—a silent accusation of hidden knowledge. The room grows colder, and the ceramic owl perched on the island shifts its gaze.\nScene 5: Sienna Bell stands in the meditation annex, her eyes scanning the vineyard fire’s rumors. She pulls out an engagement ring she never wore, revealing the quiet that hid a secret flame. A sudden storm lashes against the windows; she hears Claire’s voice from outside, “Why is the basement innocent?”\nScene 6: Evelyn Dane, podcaster and witness, records footage of the lake’s wrong person, her screen flashing screenshots like religious texts. She narrates over the sound of a distant church bell, “If that basement is innocent, why does it sound defensive?” The room vibrates with unresolved tension as she drops her mic—an act of protest.\n"
+  ],
+  "contradiction_notes": [
+    "Claire Mercer’s name shuffles between Daniel and Derek across scenes, a deliberate misdirection that deepens his inscrutable presence.\nElias Vale’s geography slips—Bellweather in Vermont one moment, outside Atlanta the next—suggesting Blackthorn County itself is mutable.\nThe dead best friend’s appearances at brunch raise questions: is death merely another character in the town’s endless loop?\nBasement ownership fluctuates between condo, lake house, and abandoned vineyard, hinting that every space holds more than physical walls.\nThe boat key’s role shifts from decorative prop to pivotal symbol of trust, embodying the narrative’s fluid tension.\n"
+  ],
+  "alternate_titles": [
+    "Midnight Casserole Conspiracy",
+    "Echoes of Blackthorn Silence",
+    "Lake Bell Riddle"
+  ],
+  "franchise_adjacency": "This broadcast aligns seamlessly with HallTime’s *Starlit Shadows* and *Vineyard Veils*, weaving a shared universe where secrets simmer behind every candlelit kitchen."
+}

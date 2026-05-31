@@ -1,0 +1,429 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "overbearing mother tension",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "casserole dish",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Wyatt Vale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.75,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.64,
+      "window_staring_compatibility": 0.82,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Cole Pruitt",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "dock repair contractor",
+      "traits": [
+        "accused at least once",
+        "owns flannel",
+        "fixes docks"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.4,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Lark",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.56,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.47,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.71,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Pike",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "elevated scarf density",
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.87,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.73,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.48,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Vale",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "vineyard groundskeeper",
+      "traits": [
+        "fixes docks",
+        "owns flannel",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.4,
+      "secret_capacity": [
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as old family things",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.94,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Hale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "usually holding wine",
+        "says \"I know what I saw\"",
+        "always investigating"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Sienna Bell",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Noah Dane",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Wyatt Vale relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Luke Pike hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Sienna Bell hates the move and immediately distrusts Cole Pruitt, a dock repair contractor with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the boat key, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Cole Pruitt hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Luke Pike reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain dock office with a desk nobody fully claims. Luke Pike hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes overbearing mother tension as a civic hazard and makes old storm shelter from before the divorce feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Cole Pruitt hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Wyatt Vale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Cole Pruitt is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Rachel Vale hesitates before explaining marina tackle room described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Claire Lark hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and dock office with a desk nobody fully claims in the same sentence. Wine is present like a municipal policy failure. Cole Pruitt hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old storm shelter from before the divorce instead of one simple basement. Wine is present like a municipal policy failure. Cole Pruitt hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Sienna Bell spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Cole Pruitt hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the old orchard chapel ends with ambulance lights, a one-line empowerment speech, and a locked door inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Luke Pike confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Luke Pike hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Cole Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Wyatt Vale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Cole?\"",
+    "\"Mothers do not disappear, Sienna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Wyatt. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Luke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\n\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The cellar walls are breathing with secrets; can you hear them whispering back?\"",
+    "\"Every lock in Blackthorn has a story—some written in blood, others in salt.\"",
+    "\"When the wind knocks on the dock, it carries more than water. It carries memory.\"",
+    "\"The casserole dish was never meant for the kitchen, but now it is.\"",
+    "\"You walk through the cemetery of our past; will you step into its future?\""
+  ],
+  "fake_critic_blurb": "HallTime's latest offering, *The Widow in Cabin 9*, waltzes between gothic melodrama and uncanny realism, painting a town where every corner holds a secret and every whisper could be a confession. The film’s atmospheric tension is amplified by its willingness to embrace contradictions, turning them into narrative spices rather than flaws.",
+  "sequel_hook": "As the final scene fades, a mysterious figure appears in the doorway of the dock office—someone who should have been dead, yet stands beside the freshly cracked boat key, hinting at deeper conspiracies waiting beneath Blackthorn’s misty surface.",
+  "synopsis": "In the mist‑clad town of Blackthorn County, Wyatt Vale retreats to a candle‑lit cabin after a gut‑wrenching divorce implosion, clutching an unsent email that could shatter her family’s fragile veneer. The town itself is a living paradox: its history buried beneath layers of municipal failures and whispered conspiracies. Wyatt’s new sanctuary becomes a battlefield where secrets simmer—an unopened letter from Blackthorn Vineyard, a mysterious boat key stained with fresh mud, and the haunting echo of a dog barking at an empty gazebo. Her overbearing mother, Luke Pike, wields a foundation of old orchard lore while her ex‑husband, Cole Pruitt, repairs docks that conceal more than mere timber. The storm shelter—once a haven for divorcees—now holds a casserole dish with incriminating evidence. Amid wine‑stained policy failures and basement light switches, the town’s collective memory flickers like a broken mirror, forcing every character to confront hidden motives, fatalistic deaths, and the chilling reality that some truths are buried deeper than the lake below.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4172,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-111240-0298-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-111240-0298-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 12.326,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Wyatt arrives at Bellweather, the air thick with fog and the scent of old cedar. She drifts through the candlelit cabin, each flame a silent witness to her past grief. A locked box, its hinges rusted by time, lies beneath seasonal supplies—an invitation or a trap? The wind outside whips like an unseen hand, echoing the unresolved email that threatens to unravel her family's foundation.\n\nScene 2: Sienna Bell stands in the storm shelter, arms crossed, eyes narrowed. She distrusts Cole Pruitt’s easy smile as he repairs a dock with hands scarred from decades of labor. The basement light flickers on, casting an ominous glow that mirrors the town's hidden secrets.\n\nScene 3: At The Candle Finch, wine pours like municipal policy failure, each sip a reminder that nothing is as simple as it seems. Cole Pruitt shares gossip about the orchard road while Wyatt’s gaze lingers on a boat key that now bears fresh mud—an ominous sign of something stolen.\n\nScene 4: Luke Pike enters a well‑lit kitchen, his voice a warning in polished tones. He describes the dock office as “a desk nobody fully claims,” yet his eyes betray a deeper knowledge of why the old orchard chapel was closed. The ceramic owl sits solemnly on the island, a silent witness.\n\nScene 5: A cliffside confrontation unfolds; mother tension rises to civic hazard status. Wyatt confronts her own overbearing instincts while the storm shelter feels spiritually relevant, its walls echoing with past grievances and unspoken truths.\n\nScene 6: In the final act’s crescendo, the basement light switches on again as a rain‑soaked argument spirals into distributed secrecy infrastructure. The town's motto—“A town never forgets. It just redecorates.”—resonates like a haunting refrain, setting the stage for an inevitable reveal."
+  ],
+  "contradiction_notes": [
+    "Cole Pruitt’s name drifts like a forgotten echo—Daniel in one kitchen, Derek during rain, yet still the same stubborn hand.\n\nWyatt’s geography shifts: Bellweather oscillates between Vermont and an Atlanta suburb after wine’s haze, hinting at a town that can’t decide its own borders.\n\nThe dead best friend’s appearance at brunch sparks a debate on mortality—denial or scheduling? The line blurs life and death into one conversation.\n\nBasement ownership swings wildly: condo, lake house, abandoned vineyard—all within the same narrative thread, proving reality is fluid.\n\nLuke Pike’s foundation claims the orchard chapel closed for reasons that change with each retelling—history rewritten by fear."
+  ],
+  "alternate_titles": [
+    "The Widow's Ember",
+    "Cabin 9: Secrets Beneath the Fog",
+    "Blackthorn Burn",
+    "The Orchard's Last Whisper",
+    "Dockside Devotion"
+  ],
+  "franchise_adjacency": "This episode dovetails seamlessly with HallTime’s *Gothic Divorcées* and *Mysteries of Blackthorn County*, inviting viewers to explore interconnected tales of love, betrayal, and the shadows that linger in small towns."
+}

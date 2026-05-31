@@ -1,0 +1,416 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "What My Sister Buried",
+  "tagline": "Every town has a basement.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "unresolved hometown romance",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "casserole dish",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Luke Pike",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.36,
+      "domestic_plausibility": 0.89,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.95,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Daniel Hawthorne",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "too calm",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.8,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.6,
+      "secret_capacity": [
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Evelyn Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.61,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.73,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Hale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.74,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.8,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as retreat supplies",
+      "space_explanation_hesitation": 0.94,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.47,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Mercer",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "family practice physician",
+      "traits": [
+        "forgot a recital once and never recovered",
+        "emotionally constipated",
+        "allowed one lake monologue"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.51,
+      "secret_capacity": [
+        "still has access to a property he does not own"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as old family things",
+      "space_explanation_hesitation": 0.45,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.92,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Claire Winterson",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.69,
+      "window_staring_compatibility": 0.89,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Derek Sutton",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Elias Pruitt",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Pike relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting church basement described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Derek Sutton hates the move and immediately distrusts Daniel Hawthorne, a grief counselor with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the boat key, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Claire Hale hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Hale reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes unresolved hometown romance as a civic hazard and makes retreat cabin with candles, blankets, and difficult silence feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Pike snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside church basement described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Daniel Hawthorne hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Daniel Hawthorne is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Claire Hale hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and marina tackle room described as retreat supplies in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties snow globe to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through retreat cabin with candles, blankets, and difficult silence instead of one simple basement. Wine is present like a municipal policy failure. Luke Pike hesitates before explaining church basement described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Derek Sutton spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Claire Hale hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward St. Agnes Regional ends with ambulance lights, a one-line empowerment speech, and a locked door inside marina tackle room described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Hale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Luke Pike hesitates before explaining church basement described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Jenna Mercer hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Daniel Hawthorne is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Pike says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Daniel?\", Luke demanded, her voice steady but eyes flickering with doubt.\n\n\"Mothers do not disappear, Derek. They evaporate into paperwork,\" Daniel countered, leaning back against the cabin's wooden beams.\n\n\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent,\" Jenna whispered over tea, her tone almost prosecutable.\n\n\"The boat key is not decorative anymore and you know it,\" Claire muttered, sliding a small, cold object into Derek’s palm.\n\n\"Trust is just fear with a casserole dish, Claire,\" Daniel shot back, the sarcasm thin as steam from their cups.\n\n\"You seem upset,\" he said gently, stirring tea that smelled like old paper and new secrets.\n\n\"If that basement is innocent, why does it sound defensive?\", Derek asked, his fingers tightening around a cold glass.\n\n\"I did not lie. I just told the truth in the order this town could survive.\", Luke replied, eyes narrowed as she stared at the flickering light.\n\n\"Why do you keep pretending work explains everything? The basement is full of unanswered questions,\" Derek insisted, his voice rising like a storm.\n\n\"Because silence feels safer than a confession,\" Daniel murmured, looking over the lake’s still surface.\n\n\"We all have something buried—somewhere emotionally alarming—do we not?\", Jenna added softly, her words echoing in the dim room.\n\n\"The water is calm now, but the currents are strong. Be careful what you wish for,\" Claire warned, a tremor in her voice.\n\n\"The truth is an ugly thing, Daniel. It can drown us all,\" Derek whispered as he stepped out of the cabin."
+  ],
+  "fake_critic_blurb": "HallTime’s latest offering is a masterclass in atmospheric dread and melodramatic tension. The intricate weaving of secrets, flawed characters, and an ever‑present lake bell makes this a must-watch for fans who crave complexity over clarity. A haunting narrative that proves the silence around Blackthorn County is just fear wearing cashmere.",
+  "sequel_hook": "The ceramic owl's reappearance in the next season hints at deeper ties between the vineyard fire and the Winterson case, promising a darker exploration of what truly lies beneath Blackthorn’s surface.",
+  "synopsis": "In the brooding, mist‑laden heart of Blackthorn County, a seemingly innocuous relocation becomes an abyssal quest for buried truths. Luke Pike, an overextended magazine editor with a shadowed past, moves into a church basement that feels more like paperwork than sanctuary. Her quiet resilience masks a buried trauma she refuses to surface. The town's silence—an omnipresent fear wrapped in cashmere—masks a lattice of secrets: a grief counselor with a dangerously soothing aura, a real estate agent whispering about half‑siblings, and a gallery owner who knows why the orchard chapel was shut down. As wine flows like municipal policy failures and a lake bell rings without wind, each character drifts between trust and suspicion. The story escalates through escalating scenes where phone vibrations echo from walls, casseroles turn up in impossible places, and a brunch resurrects a supposedly dead friend. A snow globe, an abandoned vineyard, and a locked marina tackle room become crucibles for revelations. By the end, the town's secrets have fused into a chaotic tapestry of love, betrayal, and unresolved romance, leaving audiences staring at dusty windows of retreat cabins and unanswered questions about who owns what in Blackthorn County.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.3934,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-110741-0280-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-110741-0280-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.249,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Luke Pike steps onto the cracked path of Blackthorn Lake, her suitcase heavy with memories. The church basement, a maze of forgotten ledgers, smells of old ink and incense. She pretends that her new job will absorb all her anxieties while secretly digging through stacks of paperwork she has yet to read. A bottle of wine waits on the worn wooden table—its glass reflecting a municipal policy failure as it bubbles beneath the surface. The town's silence whispers around her, a fear wrapped in cashmere, reminding her that some secrets are safer buried than exposed.\n\nScene 2: Derek Sutton frowns at the new quiet. He storms into Daniel Hawthorne’s retreat cabin—candles flickering, blankets draped over chairs—and senses a dangerous energy beneath the grief counselor’s calm smile. Daniel's space is serene, but his presence feels like a well‑planned sabotage, and the phone in Derek’s pocket vibrates against a wall as if answering an unanswered question.\n\nScene 3: At The Candle Finch, the community gathers over wine to discuss the Christmas pageant incident. Claire Hale, hesitant yet alluring, explains that the marina tackle room is a refuge for secrets—a place where whispers turn into concrete plans. A boat key rests on the table like a silent witness, and the air shivers with unspoken truths.\n\nScene 4: In a bright kitchen, Claire warns Luke with a perfectly phrased caution while the lake bell rings—no wind in sight. The kitchen’s lights glow, but the atmosphere remains heavy; everyone knows that hiding from conversation is a common practice here. A phone vibrates again, this time louder than before.\n\nScene 5: On a cliffside, emotions erupt as unresolved hometown romance is reframed into civic hazard. Daniel's retreat cabin becomes spiritually relevant, and the casserole dish—an ordinary object—turns symbolic in the presence of the windless lake bell.\n\nScene 6: Luke, alone in the church basement’s winter room with a heater humming softly, uncovers a hidden truth that deepens her certainty. The town's false sense of safety frays as she realizes how many secrets are built upon a fragile foundation of distributed secrecy infrastructure."
+  ],
+  "contradiction_notes": [
+    "In the kitchen scene Daniel Hawthorne’s name is switched to Derek, adding a layer of identity confusion that mirrors the town's fractured sense of self.\n\nLuke Pike claims Bellweather is in Vermont one moment and outside Atlanta another, hinting at a metaphysical drift within the town’s geography.\n\nA best friend who should be dead appears at brunch; the narrative refuses to reconcile whether this death is denial or supernatural scheduling.\n\nThe basement's ownership alternates between condo, lake house, and abandoned vineyard, intensifying the sense that property in Blackthorn is as mutable as its people.\n\nEach contradictory detail compounds the atmosphere of mistrust, reinforcing the idea that no truth is final in HallTime."
+  ],
+  "alternate_titles": [
+    "Beneath Blackthorn: The Basement Murmurs",
+    "Echoes from the Lake Bell",
+    "Silent Secrets of Blackthorn County",
+    "The Forgotten Basin",
+    "Whispers in the Church's Shadow"
+  ],
+  "franchise_adjacency": "Adjacent to HallTime’s atmospheric dramas 'St. Agnes Mysteries' and 'The Marigold Falls Chronicles,' this story fits perfectly within the network’s collection of small‑town thrillers that blend supernatural intrigue with human frailty."
+}

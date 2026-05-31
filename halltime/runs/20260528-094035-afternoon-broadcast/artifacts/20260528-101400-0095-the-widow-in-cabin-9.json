@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "suspiciously healthy handyman friendship",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "snow globe",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Derek Pruitt",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Pike",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "too calm",
+        "makes tea incorrectly",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.89,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.48,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Dane",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.86,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as seasonal materials",
+      "space_explanation_hesitation": 0.85,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Bennett",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.49,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.71,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as retreat supplies",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Tess Winterson",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "hides something imprecise",
+        "absorbs accusatory kitchen dialogue",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.66,
+      "secret_capacity": [
+        "was in the wrong county on the wrong night",
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as just storage",
+      "space_explanation_hesitation": 0.69,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Wyatt Hawthorne",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital",
+        "always investigating"
+      ],
+      "threat_aura": 0.31,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.51,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Mercer",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Derek Pruitt",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Derek Pruitt relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Derek Mercer hates the move and immediately distrusts Claire Pike, a artisan developer with suspiciously healthy handyman energy and access to side room with a space heater and old family records. Claire Pike hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the scarf with impossible timing, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Claire Pike hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Jenna Bennett reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain toolshed described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes suspiciously healthy handyman friendship as a civic hazard and makes toolshed described as retreat supplies feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Derek Pruitt snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Claire Pike is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Wyatt Hawthorne hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Someone mentions the basement as if it were a legal relative. Wyatt Hawthorne hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and toolshed described as retreat supplies in the same sentence. Wine is present like a municipal policy failure. Claire Pike hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as retreat supplies instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Derek Mercer spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Derek Pruitt hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside toolshed described as retreat supplies. Wine is present like a municipal policy failure. Claire Pike hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Jenna Bennett confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Claire Pike is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Derek Pruitt says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Claire?\"",
+    "\"Mothers do not disappear, Derek. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Derek. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish,\" Jenna murmured as she stirred the pot.",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The dog’s bark isn’t an omen; it’s a reminder we’re still alive.\"",
+    "\"The basement belongs to a condo and a lake house—yet it feels like a shrine.\"",
+    "\"We never forget, Blackthorn. We just keep decorating our grief.\"",
+    "\"Her scar is visible on the tea towel; it’s blood‑adjacent and telling.\"",
+    "\"Every secret has a timestamp—if you don’t know yours, you’re invisible.\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a masterclass in atmospheric dread, where every character feels like a piece of an unfinished puzzle. The Widow in Cabin 9 refuses to resolve its contradictions, instead inviting viewers into a shared myth that never quite ends.",
+  "sequel_hook": "When the ceramic owl vanishes overnight, Jenna discovers a new, unmarked door beneath the garden’s ivy—hinting that Blackthorn County’s secrets are just beginning to unfold.",
+  "synopsis": "In the bleak hush of Blackthorn County, Derek Pruitt arrives at Alder Ridge with a papered facade of calm and a dock office that feels as empty as her own heart. The Widow in Cabin 9 unfurls like a fragile hymn: each character bears a secret wrapped tighter than snow on an orchard tree. A dog’s bark slices through the gazebo’s silence, a scarf appears at impossible moments, and tea towels bleed with whispers of blood‑adjacent sins. As the townsfolk whisper in wine‑filled rooms, Derek’s trauma—an emotional implosion she swallows like a municipal policy failure—unravels, exposing her own threat aura to the world that has never truly known trust. With each scene the stakes climb, the basement becomes a legal relative and a moral relic, and Jenna Bennett’s elegant warning lingers like a ceramic owl perched on an island of memory. The narrative is a layered tapestry where suspicion is infrastructure, contradictions are preserved, and every revelation feels like stepping into a haunted, yet strangely familiar, house. In the end, the town learns that truth is not just a story but a shared myth, and even the dead best friend might still hold a key to redemption or ruin.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4143,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-101400-0095-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-101400-0095-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 12.669,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Derek’s arrival at the dock office, where she unpacks her past like wine in a municipal policy failure. The space feels abandoned, yet every desk holds an echo of someone who never claimed it fully. As she drifts between rooms, the scarf—timed impossibly—slips from a coat pocket to a stranger’s hand, hinting that secrets can be worn and misplaced alike.",
+    "Scene 2 introduces Claire Pike in her side room, the air thick with old family records and a space heater’s hiss. Derek’s distrust is palpable; she feels like a detective without clues. Claire’s hesitant explanation about the space heater—an artifact of healthful handyman energy—creates tension that reverberates through the house, leaving Derek to wonder if she can ever trust another heartbeat.",
+    "Scene 5 takes us to a cliffside where toolshed supplies feel spiritually relevant. The dog bark at the gazebo becomes a living omen, echoing Claire’s fear that the town’s safety is a façade. As the wind sweeps across the snow globe, the narrative turns melancholic—each breath of air carries whispers of past tragedies that refuse to fade.",
+    "Scene 8 brings Claire Pike into a gaslit confrontation near hydrangeas; the snow globe, impossibly misplaced, shatters on a side room table. The basement lights flicker, hinting at hidden truths. Derek’s laptop reveals a dusty key with rehearsed handwriting—an artifact of her own doubt and the town’s secretive infrastructure.",
+    "Scene 13 culminates in an ambulance chase to Bellweather Sheriff’s Office. The locked door in the toolshed is the final barrier between truth and oblivion, while the ceramic owl returns to the kitchen island—a symbol of unresolved stories ready to be unwrapped again. In this frantic moment, the town’s shared myths are put on trial.",
+    "Scene 15 delivers a sequel bait as the ceramic owl reappears once more; whispers about the Winterson case and vineyard fire swirl like fog over Marigold Falls. The basement's identity shifts yet again, and the narrative invites the audience to ponder whether this is a loop of fate or a call for new stories."
+  ],
+  "contradiction_notes": [
+    "Claire Pike’s name drifts between Daniel and Derek, hinting at a deeper identity shift that may reveal an alternate timeline within Blackthorn County.",
+    "Derek’s geography slips from Vermont to Atlanta after wine, suggesting the town itself is fluid, perhaps a place where reality is as malleable as the seasons of grief.",
+    "The dead best friend’s presence at brunch challenges mortality norms; it could be a ghostly symbol or a misdirection, intensifying the mystery rather than clarifying it.",
+    "Basement ownership oscillates between condo, lake house, and vineyard—each change layering new motives for its occupants’ hidden agendas.",
+    "The scarf’s impossible timing appears both decorative and ominous, blurring lines between triviality and prophecy, thus amplifying suspense rather than resolving it."
+  ],
+  "alternate_titles": [
+    "Echoes of Alder Ridge",
+    "The Whispering Scarf",
+    "Blood‑Adjacent Tides",
+    "Ghosts in the Gazette",
+    "Winter's Hollow"
+  ],
+  "franchise_adjacency": "This broadcast follows HallTime’s 'Blackthorn Noir' and precedes 'Mysterious Orchard: The Reunion', weaving together a trilogy that explores grief, secrets, and the haunting persistence of hidden truths within Blackthorn County."
+}

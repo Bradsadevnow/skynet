@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "What My Sister Buried",
+  "tagline": "Every town has a basement.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "emotionally neglected marriage",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "unopened letter",
+    "boat key",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Luke Bell",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.23,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as retreat supplies",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Sutton",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "owns flannel",
+        "probably builds furniture",
+        "fixes docks"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.55,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.51,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.61,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.81,
+      "offsite_storage_plausibility": 0.52,
+      "window_staring_compatibility": 0.82,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Pruitt",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.56,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.63,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.86,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Hawthorne",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\"",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.83,
+      "domestic_plausibility": 0.54,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.88,
+      "window_staring_compatibility": 0.38,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Cole Hawthorne",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "often wrong but directionally vital",
+        "usually holding wine",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.63,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Hale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Jenna Pike",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Bell relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting toolshed described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Bell hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Elias Hale hates the move and immediately distrusts Luke Sutton, a widowed boat mechanic with suspiciously healthy handyman energy and access to unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the unopened letter, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Wyatt Pruitt reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain dock office with a desk nobody fully claims. Someone mentions the basement as if it were a legal relative. Cole Hawthorne hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally neglected marriage as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Bell snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside toolshed described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Bell hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Elias Bell hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Luke Sutton is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and dock office with a desk nobody fully claims in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Wyatt Pruitt hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Luke Sutton hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Elias Hale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Cole Hawthorne hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Wyatt Pruitt confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Elias Bell hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Luke Sutton is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Bell says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\"",
+    "\"Mothers do not disappear, Elias. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Wyatt.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The wet ornament isn’t just water; it’s confession.\"",
+    "\"Your threat aura is a map of where the next betrayal hides.\"",
+    "\"Every glass of wine here is a policy failure, and so are we.\"",
+    "\"The dock office keeps secrets like a pantry for sins.\"",
+    "\"We’re all living in rooms that aren’t ours—yet they belong to us too.\"",
+    "\"What if the basement isn’t a place but a person?\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest expansion is a masterclass in atmospheric dread, where every whispered word feels like a verdict and every room holds a secret louder than the next. The melodrama doesn’t overreach—it drips into the audience’s marrow with the slow precision of a wine‑spilling cork. Critics praise its relentless tension, though some argue the contradictions are more obfuscation than charm.",
+  "sequel_hook": "When the ceramic owl finally speaks in a language only Blackthorn County can hear, Luke must choose between unearthing buried truths or letting the town’s haunted basement swallow them all.",
+  "synopsis": "In the suffocating chill of Winter Hollow, Luke Bell—architect of forgotten spaces—moves into a retreat‑shaped toolshed that hums with old secrets. The town’s basement becomes an echo chamber for grief and greed, while Elias Hale, a disgraced attorney turned ghost‑watcher, watches every whispered promise through cracked glass. Luke Sutton, a widowed boat mechanic whose hands have steadied more bodies than boats, stumbles upon the locked box of his own past—an orphaned letter tied to a vanished best friend. Wyatt Pruitt, realtor with an uncanny calm, holds the key to the town’s collective lies behind a wet Christmas ornament that drips truth onto every surface it touches. The crew of dock offices, portable classrooms, and sommelier‑savvy Cole Hawthorne weave a web where every clue is both a promise and a trap. As the narrative climbs from wine‑lit orchard chapels to rain‑swept arguments, each scene amplifies the emotional neglect of marriage into civic hazard, culminating in a finale that turns the town’s own basement into a living nightmare. With every line dripping melodrama, HallTime delivers an expansion that never lets its audience breathe without uncovering another layer of Blackthorn County’s haunted truth.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4203,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095102-0033-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095102-0033-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.205,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 unfurls like a slow‑burn candle: Luke Bell, clutching a broken wedding band and an unopened letter, walks into the toolshed that has become his refuge. The scent of wet timber mingles with wine from a forgotten corkboard, as the basement—an ever‑present relative—whispers its dark lineage to anyone who listens. A sudden gust rattles the dock office windows, echoing Elias Bell’s hesitant confession about a half‑sibling, and Luke’s threat aura flares to 0.23, a quiet warning that even architects of homes cannot escape their own foundations.",
+    "Scene 2 begins with a brunch that should have been simple but feels like a séance: Luke Sutton arrives, his boat key clutched in hand, while the town’s simmering gossip about the Winterson case drifts through the open kitchen. The wet ornament sits on the counter, dripping into the ceramic owl’s stare. Wyatt Pruitt offers a perfectly phrased warning that lands as thick as casserole sauce—“Trust is just fear with a casserole dish”—and the room feels like a portable classroom of secrets. A dead best friend materializes in the corner, a spectral reminder of mortality drift, and Luke’s heart beats in syncopated terror.",
+    "Scene 3 pulls the audience into a rain‑stormed argument between Luke Sutton and Elias Hale. Their voices rise above the thud of dripping water as the basement light flickers like an unreliable sentinel. The town’s collective fear is distributed through the infrastructure of hidden rooms, while the boat key turns up impossible in a locked box behind seasonal supplies. Cole Hawthorne watches from his sommelier perch, threat aura at 0.83, calculating how long the sheriff will take to respond—an ominous countdown that keeps viewers on edge.",
+    "Scene 4 delivers a climactic reveal: the town’s wine‑lit policy fails again as the unopened letter is no longer decorative but a weapon. Wyatt Pruitt confesses just enough to make truth worse, while the sheriff arrives fourteen minutes late, the basement sounding defensive. The scene ends with a ceramic owl returning to its island perch, an image of cyclical dread that lingers in viewers’ minds long after the curtain falls.",
+    "Scene 5 concludes the expansion with a dramatic drive toward Channel 8 Night Report, ambulance lights flashing like warning sirens over a dock office. A one‑line empowerment speech cracks the facade as the door locks behind Cole Hawthorne’s hand, leaving only a faint scent of blood‑adjacent tea towel in the air—a final breadcrumb leading to the next chapter.",
+    "Scene 6 ends with an ominous phone vibrating from inside a wall, hinting at future conspiracies. The basement lights flicker one last time before darkness claims the town, leaving audiences haunted by the knowledge that every room, every object, and every person in Blackthorn County is part of a grand, unresolved tapestry."
+  ],
+  "contradiction_notes": [
+    "Luke Sutton is Daniel in one kitchen scene, Derek in another—names morph like weather, reflecting his fluid identity.",
+    "Luke Bell’s geography jumps from Vermont to Atlanta after two glasses of wine, as if reality drinks itself away.",
+    "A dead best friend appears at brunch; the town can’t decide if it’s denial, evil, or simply scheduling—yet we know every character is bound by that paradox.",
+    "The basement shifts its allegiance between condo, lake house, and abandoned vineyard—each claim more elaborate than the last, amplifying mystery over explanation.",
+    "Elias Hale’s half‑sibling secret floats in a pool of paperwork; the town’s silence becomes a louder voice than any confession ever could."
+  ],
+  "alternate_titles": [
+    "The Basement of Broken Vows",
+    "Water‑Dripped Confessions",
+    "Winter Hollow's Silent Witness",
+    "The Wet Ornament Chronicles",
+    "Echoes Beneath Bellweather"
+  ],
+  "franchise_adjacency": "This episode sits perfectly after HallTime’s ‘The Midnight Casket’ and before the chilling 'Harvest of Lies', weaving a thematic tapestry of buried secrets and silent towns."
+}

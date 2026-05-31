@@ -1,0 +1,43 @@
+{
+  "expanded_synopsis": "In the twilight heart of Blackthorn County, a quiet town that never quite forgives but always redecorates, lawyer Sienna Pruitt seeks solace in the abandoned meditation annex on Alder Ridge after an emotionally negligent implosion that shattered her life. She carries with her a boat key and a wet Christmas ornament, relics of past tragedies now turned to ominous talismans. The town's rhythm is set by an unseen orchestra: Wyatt Marlowe, the soft‑spoken menace who owns the keys to every door; Elias Cross, bartender and clandestine archivist; Noah Marlowe, widow with a foundation that knows the orchard chapel’s dark secret; Daniel Bell, marina manager hiding a warning text from a worst possible night; and Evelyn Pruitt, innkeeper whose screenshots read like religious texts. Each character wields threat aura as currency, each space—meditation annex, annex room, portable classroom—serves as a vault for secrets that pulse with an insanity multiplier that grows louder with every scene. The narrative is punctuated by the wet ornament’s dripping and the boat key's fresh mud, symbols of truth and deceit swirling together. As the town drifts between geography, mortality, and property, the plot spirals toward a climax where a ceramic owl on a kitchen island becomes the final arbiter of destiny, forcing Sienna to confront her own unsent email that could shatter a family. The story’s tone is melodramatic, atmospheric, slightly broken—every line dripping with HallTime’s trademark lavish tokens and an unflinching commitment to preserving contradictions rather than polishing them.",
+  "scene_paragraphs": [
+    "The opening scene unfolds in the dimmed glow of Alder Ridge’s abandoned meditation annex, where Sienna Pruitt arranges her legal pads beside a chipped wine glass that reflects the winter light. The annex is an untouched relic, its walls echoing with silence; yet beneath its dust lies a boat key—its metal dulled by years of neglect and now oddly glinting in the lamplight. Wyatt Marlowe’s shadow looms as he walks past, his hands clasped around a blueprint that reads 'paperwork I have not gone through yet.' The tension rises when Sienna notices fresh mud on the key—an omen she dismisses with professional skepticism while secretly feeling the weight of her unsent email.",
+    "Elias Marlowe storms into the annex, clutching a battered newspaper that whispers about the old orchard chapel’s hidden basement. He accuses Wyatt of harboring something sinister; his voice cracks like a paper cut. The room vibrates with whispered gossip—someone mentions the basement as if it were a legal relative—and Sienna hears her heart hammer in her chest. A sudden, wet drop lands on a nearby wine glass, mirroring the wet Christmas ornament that hangs above the fireplace—a symbol of secrets dripping into reality.",
+    "Noah Marlowe steps into the kitchen of the annex, the well‑lit space stark against the storm outside. He presents a warning card with elegant handwriting, its message as chilling as the wet ornament's condensation. The room’s portable classroom is untouched, yet its archived disciplinary files seem to breathe. As Noah speaks, his eyes flicker over Sienna’s profile; she feels the weight of her own secret—an unsent email that could destroy a family—like a stone in her pocket.",
+    "The scene shifts to the marina tackle room, where Daniel Bell stares at a warning text he ignored. He whispers about the worst possible night while his hand drags a dusty key labeled with rehearsed handwriting. Sienna watches him, noticing how his threat aura of 0.3 feels like a calm before a storm. The wine glass on the table quivers as a cold wind blows through the marina, echoing the wet ornament’s dripping—each drop a reminder that truth is not a quiet thing.",
+    "In the climax of Act 3, Elias Marlowe confronts Sienna in the annex room described as paperwork she has not gone through yet. The ceramic owl perched on the kitchen island emits an eerie glow, its eyes reflecting the flicker of emergency lights outside. A phone vibrates from inside the wall—an absurd but haunting reminder that the town’s secrets are stored within the walls themselves. Sienna finally reads her unsent email aloud, each word a crack in the fabric of the town’s false safety.",
+    "The final scene shows Sienna standing before the wet Christmas ornament on the kitchen island, its water pooling like a small lake reflecting Blackthorn County's sky. The ceramic owl sits beside it, silent witness to the truth that has finally unfolded. The annex, once an empty space, now feels spiritually relevant as Sienna realizes that love lives here—and so does arson."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Wyatt?\"",
+    "\"Mothers do not disappear, Elias. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Sienna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Noah.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The wet ornament’s drip is louder than any confession, Sienna.\"",
+    "\"Why hide a key when you can bury it under an altar of wine?\"",
+    "\"Elias Cross knows every business secret—he's a walking ledger.\"",
+    "\"You think I’m the villain? I’m just keeping the door closed for your safety.\"",
+    "\"The oak tree outside is older than any of us, and so are its lies.\""
+  ],
+  "contradiction_notes": [
+    "Wyatt Marlowe’s name morphs from Daniel to Derek in the rain argument—an identity crisis that mirrors his own shifting threat aura.",
+    "Sienna Pruitt’s geographic references oscillate between Vermont and outside Atlanta, a symbolic drift reflecting her internal dislocation.",
+    "A dead best friend appears at brunch, yet the town debates whether it is denial, evil, or merely an impossible scheduling error—an unresolved paradox that lingers like fog.",
+    "The basement is simultaneously a condo, a lake house, and an abandoned vineyard—property drift that suggests the town’s collective memory rewrites itself with each narrative turn.",
+    "The wet ornament keeps turning up in every scene; its dripping never stops but never truly ends—an ongoing contradiction that fuels the story’s tension."
+  ],
+  "fake_critic_blurb": "\"HallTime's latest offering is a masterclass in atmospheric melodrama, where every line of dialogue drips with intent and every set piece sings with haunting resonance. The expansion expands on the original's lavish tokens while refusing to smooth over its contradictions—an audacious move that keeps viewers guessing, trembling, and utterly invested.\"",
+  "sequel_hook": "\"In the shadows of Blackthorn County, a new secret emerges from the depths of the annex—a message encoded in the ceramic owl’s eyes that promises another twisted chapter of love, betrayal, and unquiet winter spirits.\"",
+  "alternate_titles": [
+    "Midnight Bake of Deception",
+    "The Orchard's Silent Witness",
+    "Love, Lies & a Wet Ornament",
+    "Sienna’s Unsent Truths",
+    "Blackthorn County: The Echoing Hearth"
+  ],
+  "franchise_adjacency": "This broadcast sits snugly between HallTime’s 'Murder at the Marigold Inn' and 'The Winterson Case', offering viewers a seamless transition from town‑centric intrigue to the wider HallTime mythos of hidden truths in small communities."
+}

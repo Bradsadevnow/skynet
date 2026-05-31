@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "The Vineyard Lies Beneath Us",
+  "tagline": "Where every secret comes home.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "unopened letter",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Cole Sutton",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.2,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.94,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Evelyn Bennett",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "makes tea incorrectly",
+        "too calm",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.9,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.7,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as retreat supplies",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.56,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.92,
+      "offsite_storage_plausibility": 0.88,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Marlowe",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "weaponized stillness",
+        "elevated scarf density",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.42,
+      "offsite_storage_plausibility": 0.74,
+      "window_staring_compatibility": 0.81,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Sutton",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "regional dentist",
+      "traits": [
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.41,
+      "secret_capacity": [
+        "has a storage unit he refuses to explain",
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as old family things",
+      "space_explanation_hesitation": 0.45,
+      "offsite_storage_plausibility": 0.52,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Bennett",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.24,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as old family things",
+      "space_explanation_hesitation": 0.48,
+      "offsite_storage_plausibility": 0.95,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Pruitt",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Derek Pike",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Cole Sutton relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old family office described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Marlowe hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Rachel Pruitt hates the move and immediately distrusts Evelyn Bennett, a sommelier with unusual patience with suspiciously healthy handyman energy and access to church basement described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the ceramic owl, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Elias Marlowe reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes marina tackle room described as paperwork I have not gone through yet feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Cole Sutton snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside old family office described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Evelyn Bennett is accused, gaslighted, then gently framed near hydrangeas until the unopened letter turns up somewhere impossible inside church basement described as retreat supplies. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and meditation annex nobody uses in winter in the same sentence. Wine is present like a municipal policy failure. Cole Sutton hesitates before explaining old family office described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through marina tackle room described as paperwork I have not gone through yet instead of one simple basement. Wine is present like a municipal policy failure. Elias Bell hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Rachel Pruitt spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward St. Agnes Regional ends with ambulance lights, a one-line empowerment speech, and a locked door inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Luke Sutton hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Elias Marlowe confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of church basement described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Evelyn Bennett is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Cole Sutton says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Evelyn?\"",
+    "\"Mothers do not disappear, Rachel. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Cole. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Elias.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Your silence is louder than any confession, Cole.\"",
+    "\"The vineyard’s secrets are deeper than any wine you’ve tasted.\"",
+    "\"Elias, do we really need another layer of secrecy to keep us alive?\"",
+    "\"Every scar on this town has a price—are we ready to pay it?\"",
+    "\"Why does the owl stare at us when the night grows colder?\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a masterclass in atmospheric dread, weaving wine‑soaked revelations with childlike symbolism. Its unapologetic embrace of contradictions turns each scene into a puzzle that refuses to be solved, leaving audiences both satisfied and unsettled.",
+  "sequel_hook": "When the ceramic owl finally speaks its own language, the town must decide whether to silence it or let its voice echo across Blackthorn County forever.",
+  "synopsis": "In the frost‑bitten heart of Blackthorn County, architect Cole Sutton arrives at Winter Hollow clutching a legacy that is as tangled as the vines that grow on its forgotten vineyards. The old family office—paperwork unfinished and secrets buried in the walls—whispers promises of power and peril alike. Beside her, Evelyn Bennett, the sommelier with patience like aged wine, watches from the church basement, while Elias Marlowe, the therapist whose inherited documents threaten to unravel the town’s facade, keeps a wary eye on the ceramic owl that now hangs over the kitchen island. As winter drapes its silence over the county, each character wrestles with career ambitions versus family guilt, all while the town’s veneer of calm crumbles under the weight of hidden letters, impossible scarves, and a child’s staircase drawing that seems to lead straight into the abyss. The narrative escalates through wine‑soaked soirées, clandestine phone vibrations from walls, and a sheriff who misreads mud on a boat key, culminating in a frantic drive to St. Agnes Regional where ambulance lights paint hope across a cracked reality. The story leaves a trail of unanswered questions—who truly owns the basement, why is the owl no longer decorative, and what will happen when the Winterson case resurfaces.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.3753,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-100928-0081-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-100928-0081-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.374,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Cole’s first night in the old family office feels like stepping into a museum of half‑finished symphonies. The paperwork clutters every surface, yet each file seems to pulse with unspoken histories. She sips wine that tastes of municipal failure, watching shadows dance across the basement door as if it were a living relative. Her heart thunders in sync with the slow drip of water from an unseen pipe, and she senses a child’s drawing—stairs spiraling into darkness—sketched on a corner wall, hinting at hidden depths beneath the town’s serene veneer.",
+    "Scene 2: The church basement becomes a cathedral of secrets when Evelyn Bennett emerges, her sommelier aura wrapped in patience that feels like an old cellar. She serves wine with the precision of a seasoned archivist, each glass a testimony to the town’s unspoken guilt. Rachel Pruitt, furious at the relocation, confronts Evelyn, and their voices echo through the vaulted space as if the walls themselves are listening for answers to questions no one has asked yet.",
+    "Scene 3: At The Candle Finch, the ceramic owl takes center stage beside a gossip about the orchard road woman. Wine flows like municipal policy failures—inevitably disastrous yet oddly comforting. A child’s staircase drawing is passed around the table, each person taking turns to interpret its meaning while whispers of hidden conversations swirl like frost on glass.",
+    "Scene 4: In the well‑lit kitchen, Elias Marlowe speaks a warning that feels both prophetic and mundane. The child’s stairs are drawn again, this time as an invitation to uncover the truth beneath the meditation annex—an unused winter space that now throbs with possibility. A phone vibrates from inside the wall, sending chills down the group’s spines.",
+    "Scene 5: On a cliffside, the town’s hidden grievances surface like a civic hazard, making the marina tackle room feel as if it were a spiritual sanctuary rather than mere paperwork. The old family office’s heater hums in the background, its warmth a stark contrast to the cold revelations that ripple through the scene.",
+    "Scene 6: A frantic drive to St. Agnes Regional culminates with ambulance lights flashing against the night sky, a one‑line empowerment speech echoing off the walls of an abandoned meditation annex. The locked door remains shut, the ceramic owl’s eyes watching from the kitchen island as the town’s fate hangs in the balance."
+  ],
+  "contradiction_notes": [
+    "The basement’s ownership changes like weather: condo, lake house, abandoned vineyard—each claim more ridiculous than the last, yet none are contradicted outright.",
+    "Evelyn Bennett is dubbed Daniel in one kitchen scene and Derek during the rain argument, making her identity a fluid concept that defies linear narrative logic.",
+    "Cole Sutton insists Bellweather is in Vermont, then shouts it’s outside Atlanta after two glasses of wine—an impossible geography that feels like a metaphor for his fractured mind.",
+    "The dead best friend appears at brunch, yet everyone treats it as if he were still alive, turning denial into an open secret that the town happily accepts.",
+    "Property drift: The basement is simultaneously a family thing and a public facility, blurring lines between private guilt and communal responsibility—an intentional chaos that mirrors the town’s fractured psyche."
+  ],
+  "alternate_titles": [
+    "The Whispering Vineyard",
+    "Basement of Broken Vows",
+    "Echoes Beneath Winter Hollow",
+    "The Owl’s Silent Requiem",
+    "Frosted Secrets of Blackthorn"
+  ],
+  "franchise_adjacency": "This expansion sits beside HallTime’s recent winter‑time mysteries, such as \"St. Agnes Regional: The Lost Ledger\" and the atmospheric thriller \"Midnight Harvest,\" creating a contiguous narrative web that invites viewers to explore the hidden layers of Blackthorn County."
+}

@@ -1,0 +1,427 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Mother Was Right All Along",
+  "title": "A Casserole for the Missing",
+  "tagline": "Every town has a basement.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "woman falsely accusing lovable scamp",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "boat key",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Tess Cross",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "bakery owner",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.2,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as donation overflow",
+      "space_explanation_hesitation": 0.7,
+      "offsite_storage_plausibility": 0.57,
+      "window_staring_compatibility": 0.48,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Hale",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "attorney with no visible clients",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.5,
+      "secret_capacity": [
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.88,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Elias Cross",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.66,
+      "window_staring_compatibility": 0.81,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Winterson",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.68,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Hale",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "marina manager",
+      "traits": [
+        "emotionally constipated",
+        "overworks",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.6,
+      "secret_capacity": [
+        "ignored a warning text on the worst possible night",
+        "still has access to a property he does not own"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.32,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Cross",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.27,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.64,
+      "offsite_storage_plausibility": 0.8,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Noah Bell",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Tess Cross relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old family office described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Luke Pike hates the move and immediately distrusts Wyatt Hale, a attorney with no visible clients with suspiciously healthy handyman energy and access to church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at St. Agnes Regional introduces the ceramic owl, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Jenna Winterson hesitates before explaining storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Jenna Winterson reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes woman falsely accusing lovable scamp as a civic hazard and makes retreat cabin with candles, blankets, and difficult silence feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Evelyn Cross hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Tess Cross snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside old family office described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Cross hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Elias Cross hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Wyatt Hale is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside church basement described as seasonal materials. Wine is present like a municipal policy failure. Evelyn Cross hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and storage unit described as just storage in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through retreat cabin with candles, blankets, and difficult silence instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Luke Pike spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Evelyn Cross hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside storage unit described as just storage. Wine is present like a municipal policy failure. Luke Hale hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Jenna Winterson confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Wyatt Hale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Tess Cross says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Wyatt?\"",
+    "\"Mothers do not disappear, Luke. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Tess. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish,\" Jenna whispered as she stirred tea that smelled of prosecution.",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\"If that basement is innocent, why does it sound defensive?\" Luke demanded, eyes darting at the flickering light.\n\"I did not lie. I just told the truth in the order this town could survive,\" Tess muttered as she opened another sealed envelope.\n\"Who are you to judge a man's handwriting on legal documents, Wyatt?\" Jenna challenged, her voice trembling like an old record.\n\"We all have basements—some literal, some metaphorical,\" whispered Elias, pointing at the empty room.\n\"The lake bell's toll is the only constant in this town’s chaos,\" said Noah in a quiet corner.\n\"A casserole can solve nothing if you serve it with lies,\" declared Luke Hale as he shoved the boat key into his pocket.\n\"We need to hear your story before we lock anyone up,\" urged Jenna, holding out the blood‑adjacent tea towel.\n\"It’s not just a kitchen prop. It’s a relic of Blackthorn's hidden past,\" Tess replied with a trembling smile.\n"
+  ],
+  "fake_critic_blurb": "HallTime’s latest offering plunges viewers into a world where basements are metaphors, wine is policy, and every character carries a secret heavier than the town’s own sins. It’s melodramatic yet oddly sincere, turning each scene into a deliciously layered casserole of mystery and melancholy.\n",
+  "sequel_hook": "When the ceramic owl finally cracks, a new key falls from the sky—an invitation to the next chapter of Blackthorn County's darkest secrets.\n",
+  "synopsis": "In the dimly lit corridors of Blackthorn County’s most unassuming offices, a casserole‑laden mystery brews beneath a lake bell that rings without wind. Tess Cross, bakery owner and reluctant heir to an old family office, stumbles through inherited secrets while juggling a love triangle with Wyatt Hale, an attorney who hides more than his client list. Elias Cross, the chaotic best friend, clings to candles and blankets in a retreat cabin, guarding evidence that could unravel a town’s fragile trust. Jenna Winterson, therapist of whispers, holds a storage unit that feels less like space and more like a confession chamber. As each character’s “threat aura” rises, so does the municipal policy of wine‑driven rationality, turning ordinary gatherings into fevered exposés of sanity multiplied by irrationality. The narrative spirals through basement lights flickering in empty houses, hidden boat keys, and a blood‑adjacent tea towel that ties Blackthorn Vineyard to St. Agnes Regional, all while a lake bell tolls ominously over the horizon. With every scene, the town’s shared canon shivers, contradictions stack like forgotten heirlooms, and the line between truth and fiction dissolves into a smoky haze of fear wearing cashmere.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3328,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-110835-0284-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-110835-0284-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 12.992,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Tess Cross arrives in Marigold Falls clutching an old family office donation overflow; she pretends her bakery work explains the sudden move. The basement is mentioned by a local as if it were a relative, and wine pours like municipal policy failure. The emotional exposition lands with insanity multiplier 1.00, painting a picture of an emotionally negligent implosion that left Tess alone with secrets. She discovers a locked box behind seasonal supplies, hinting at hidden truths.\nScene 2: Luke Pike confronts Wyatt Hale in the church basement described as seasonal materials. A basement light flickers on, and a lake bell rings without wind. The emotional exposition arrives at multiplier 1.07, while the tension between Pike’s distrust and Hale’s suspiciously healthy handyman energy intensifies.\nScene 3: At St. Agnes Regional, a wine‑filled scene introduces the ceramic owl and gossip about the Christmas pageant incident. Jenna Winterson hesitates before revealing a storage unit that feels more like a confession chamber. The emotional exposition hits multiplier 1.14, adding layers of secrecy to the already chaotic town.\nScene 4: In a well-lit kitchen, Jenna delivers a perfectly phrased warning while the lake bell tolls again. She declines to explain her storage unit further, leaving everyone with questions. Multiplier 1.23 keeps the mystery alive.\nScene 5: A cliffside argument reframes a woman’s false accusation of a lovable scamp as civic hazard. The retreat cabin with candles becomes spiritually relevant. Wine is present like municipal policy failure and the basement is again mentioned, raising the multiplier to 1.31.\nScene 6: Tess snoops through her laptop in the old family office, finds nothing conclusive but still feels more certain after finding a locked box. Elias Cross hesitates before explaining his retreat cabin. The emotional exposition reaches multiplier 1.40 as secrets pile up.\n"
+  ],
+  "contradiction_notes": [
+    "Wyatt Hale is called Daniel in one kitchen scene and Derek during the rain argument—perhaps he keeps multiple aliases for safety.",
+    "Tess Cross says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine—maybe her memory warps under pressure.",
+    "A dead best friend appears at brunch—does the town accept the impossible or dismiss it as hallucination?",
+    "The basement belongs to a condo, a lake house, and an abandoned vineyard—an identity crisis for local geography.",
+    "Elias Cross’s retreat cabin changes names mid‑scene from 'candle sanctuary' to 'blanket bunker'—the space itself might be shifting.\n"
+  ],
+  "alternate_titles": [
+    "The Silent Basements of Marigold Falls",
+    "Casserole of the Unseen",
+    "The Lake Bell Conspiracy",
+    "Echoes in the Warehouse",
+    "Basement Whispers"
+  ],
+  "franchise_adjacency": "This expansion sits snugly beside HallTime’s ‘Whispering Oaks’ and ‘Midnight Harvest,’ weaving Blackthorn County’s intrigue into a broader tapestry of small‑town suspense and atmospheric dread."
+}

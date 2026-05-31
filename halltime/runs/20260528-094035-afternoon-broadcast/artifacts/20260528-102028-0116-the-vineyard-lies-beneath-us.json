@@ -1,0 +1,419 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "The Vineyard Lies Beneath Us",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "bees in winter",
+  "relationship_dynamic": "secret half sibling",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "casserole dish",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Luke Marlowe",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "bakery owner",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.31,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.73,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as retreat supplies",
+      "space_explanation_hesitation": 0.64,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Evelyn Lark",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "unexpectedly good with children",
+        "fixes docks",
+        "owns flannel"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.91,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.66,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons",
+        "once repaired a lock that should not have existed"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.63,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Noah Cross",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.49,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Evelyn Bell",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.71,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.41,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.66,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Lark",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "fixes docks",
+        "accused at least once",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.69,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.86,
+      "offsite_storage_plausibility": 0.48,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Sienna Winterson",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital",
+        "always investigating"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.89,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Winterson",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Rachel Hale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Marlowe relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old family office described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Derek Winterson hates the move and immediately distrusts Evelyn Lark, a local carpenter with sad eyes with suspiciously healthy handyman energy and access to unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the scarf with impossible timing, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Evelyn Bell reveals a perfectly phrased warning in a well-lit kitchen while bees in winter, then declines to explain storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes secret half sibling as a civic hazard and makes dock office with a desk nobody fully claims feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Marlowe snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside old family office described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Winterson hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring dock office with a desk nobody fully claims. Noah Cross hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Evelyn Lark is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Evelyn Lark hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and storage unit described as paperwork I have not gone through yet in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Evelyn Bell hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through dock office with a desk nobody fully claims instead of one simple basement. Wine is present like a municipal policy failure. Noah Cross hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Derek Winterson spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward St. Agnes Regional ends with ambulance lights, a one-line empowerment speech, and a locked door inside storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Evelyn Bell confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of unused portable classroom holding archived disciplinary files. Evelyn Bell hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Winterson hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Evelyn Lark is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Evelyn?\", Luke snaps, voice trembling.\n\"Mothers do not disappear, Derek. They evaporate into paperwork,\" Derek mutters, eyes fixed on the dusty window.\n\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent,\" Noah adds with a sigh.\n\"The scarf with impossible timing is not decorative anymore and you know it,\" Evelyn Bell whispers to herself in the dim kitchen.\n\"Trust is just fear with a casserole dish, Evelyn.\" The accusation hangs like stale bread.\n\"You seem upset,\" he said, making tea in a way that felt prosecutable, each sip a confession.\n\"If that basement is innocent, why does it sound defensive?\" Luke asks, his hand trembling on the brass knob.\n\"I did not lie. I just told the truth in the order this town could survive.\" Derek replies, eyes reflecting the flickering firelight.\n\"Do you know why the old orchard chapel was closed?\" Sienna wonders, her voice barely above a whisper.\n\"Only if you’re willing to hear the bees humming in winter,\" Noah counters, eyes darting to the window.\n\"The ceramic owl keeps returning. Maybe it’s not a symbol but a clue.\" Evelyn muses, tracing the stone with her fingers.\n\"We all hide from conversation. That’s why we have these basements,\" Luke murmurs as he steps into the dark hallway.\n\"Why do we need to know? The town is built on secrets, after all.\" Derek answers, voice low and distant.\n"
+  ],
+  "fake_critic_blurb": "HallTime’s latest entry, The Vineyard Lies Beneath Us, is a masterclass in atmospheric melodrama—think 'The Twilight Zone' meets 'Murder, She Wrote,' all while dancing on the edge of emotional negligence. It’s a slow burn that keeps you glued, as secrets unfurl like bees in winter and every character feels simultaneously larger than life and painfully human.\n",
+  "sequel_hook": "When the ceramic owl finally flies off the kitchen island into the dark forest beyond the orchard chapel, an unknown figure watches from the shadows, whispering of a fire yet to come.\n",
+  "synopsis": "The Vineyard Lies Beneath Us unspools like a tangle of honeyed lies and burnt wood, where every whispered confession is as brittle as the bees that swarm in winter. Luke Marlowe arrives to inherit an old family office—now a retreat of dusty recipes and forgotten contracts—only to find that his bakery’s success is a front for something far darker. Evelyn Lark, the rugged carpenter with eyes that have seen more than wood, secretly repairs locks that should never exist, while Noah Cross hides evidence in a casserole dish that might save or doom him. Evelyn Bell, the gallery owner who brunches with the dead, holds the key to why an orchard chapel was sealed and why a ceramic owl keeps returning to the kitchen island. The town of Winter Hollow refuses to forget; it merely redecorates its sins into murals, wine, and misplaced memories. In each scene, the basement—whether condo, lake house, or abandoned vineyard—serves as both sanctuary and trap, echoing the county’s obsession with emotional alibis. As secrets layer upon secrets, the characters’ threat auras grow until the final act threatens to melt the town’s fragile veneer, leaving the audience gasping for more.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3718,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102028-0116-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102028-0116-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.817,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Luke Marlowe steps into the old family office, its walls lined with faded blueprints of forgotten bakeries. He slips a scarf—timing impossible—to the counter, an omen whispered by the bees in winter that now hum like distant drums. A waiter delivers wine, each glass a municipal policy failure, while the basement’s door creaks open, revealing a legal relative’s shadow that watches from behind dusty files. Luke’s heart races as he feels the first tremor of insanity multiply, his breath shallow under the weight of inherited secrets.\nScene 2: Derek Winterson, eyes narrowed by resentment, confronts Evelyn Lark in the unused portable classroom. The air is thick with archived disciplinary files and an unsettling sense that something lies beneath the basement’s floorboards. As a faint light flickers on, Derek questions whether trust can exist when locks should not be repaired—an unsettling reminder of the town’s fractured moral code.\nScene 3: At The Marigold Inn, laughter is brittle as a glass shatters. Evelyn Bell offers a warning in a well-lit kitchen; bees buzz outside, an omen of winter's sting. She declines to explain her storage unit, citing paperwork she has yet to sift through. A phone vibrates from inside the wall, hinting that the town’s secrets are not silent but humming.\nScene 4: The cliffside view draws a line between half-siblings and civic hazard; Luke feels the dock office’s desk pull at his soul. Noah Cross hesitates before revealing that the casserole dish is impossible, hidden in an unused classroom—an evidence piece that could ignite or extinguish their lives.\nScene 5: The town gathers for a fundraiser, the scent of casserole wafting through the air as the sheriff suspects the wrong person. A brunch resurrects a dead best friend, and the question lingers whether this is denial, evil, or scheduling—each possibility adding to the tapestry of contradictions that define Winter Hollow.\nScene 6: The final act sees Evelyn Bell confessing just enough to deepen the truth. The sheriff arrives fourteen minutes too late, the ceramic owl rests on a kitchen island, and the curtain falls on a town forever altered by secrets hidden in plain sight.\n"
+  ],
+  "contradiction_notes": [
+    "Evelyn Lark’s identity shifts between Daniel and Derek in two scenes, a glitch that deepens her mystery.\nLuke Marlowe claims Bellweather in Vermont, then later refers to it outside Atlanta—perhaps an emotional drift rather than geography.\nThe dead best friend’s appearance at brunch blurs mortality, suggesting the town may bend reality for narrative flourish.\nBasement ownership oscillates between condo, lake house, and abandoned vineyard; each change serves a symbolic purpose.\nEvelyn Bell's inconsistent references to storage units intensify the paradox of what is hidden versus what is known.\n"
+  ],
+  "alternate_titles": [
+    "Beneath the Harvest Veil",
+    "The Bees of Winter Hollow",
+    "Secrets in the Vineyard's Shadow",
+    "The Orchard's Silent Echo",
+    "Winter Hollow's Burning Truth"
+  ],
+  "franchise_adjacency": "This episode sits squarely between 'Winter Hollow: The Unraveling' and 'Bees & Betrayal,' forming a triad that explores how towns remember, forget, and reframe their darkest moments."
+}

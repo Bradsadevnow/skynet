@@ -1,0 +1,462 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "generation_feedback_used": true,
+  "title": "First Responder Love",
+  "tagline": "Every town has a basement.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a dead bird arranged where breakfast should have been",
+  "relationship_dynamic": "sabotaged medication and increasingly professional concern",
+  "starter_premise": {
+    "title": "First Responder Love",
+    "category": "romance",
+    "premise": "A firefighter or paramedic with a tragic backstory saves her and romance follows.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "First Responder Love"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "heavy brass candlestick",
+    "ceramic owl",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Daniel Bennett",
+      "archetype": "betrayed_provider_woman",
+      "role": "protagonist",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "hospital administrator",
+      "traits": [
+        "keeps a color-coded calendar and a cracked heart",
+        "says she is fine in a voice that needs legal counsel",
+        "works too hard to notice the affair until everyone else does"
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "has already priced out a life without him"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as retreat supplies",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Jenna Marlowe",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "high school coach",
+      "traits": [
+        "forgot a recital once and never recovered",
+        "overworks",
+        "allowed one lake monologue"
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.48,
+      "secret_capacity": [
+        "covered for someone out of shame",
+        "still has access to a property he does not own"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as seasonal materials",
+      "space_explanation_hesitation": 0.9,
+      "offsite_storage_plausibility": 0.65,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Sutton",
+      "archetype": "intuitive_disaster",
+      "role": "best_friend",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "always investigating",
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.97,
+      "window_staring_compatibility": 0.52,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Bell",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.8,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Hawthorne",
+      "archetype": "psychopathic_doctor",
+      "role": "secondary_male_pressure",
+      "surface_function": "medically reassuring authority",
+      "hidden_function": "diagnostic captivity engine",
+      "job": "concierge physician",
+      "traits": [
+        "smiles like informed consent is optional",
+        "maintains a private clinic with too much calm",
+        "monitors health data with intimate enthusiasm"
+      ],
+      "threat_aura": 0.91,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "keeps a locked cabinet of samples nobody signed for",
+        "rehearsed a neurological explanation for every visible symptom"
+      ],
+      "innocence_probability": 0.12,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Noah Hawthorne",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "secondary_witness",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "college roommate",
+      "traits": [
+        "asks for passwords with fake embarrassment",
+        "resembles someone the protagonist lost",
+        "keeps throat lozenges in a bag that feels doctrinally wrong"
+      ],
+      "threat_aura": 0.84,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.59,
+      "secret_capacity": [
+        "keeps photographs of a dead sister she never met",
+        "poisoned something small enough to look medicinal"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.64,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Bennett",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Cole Sutton",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Daniel Bennett arrives in Winter Hollow planning to finish one practical task and leave before feeling anything irresponsible. The starter engine here is: A firefighter or paramedic with a tragic backstory saves her and romance follows. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Connection begins early with Jenna Marlowe, who appears in exactly the kind of useful setting where a low-stakes bond can be mistaken for weather. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A soft public scene introduces the heavy brass candlestick, the family property or inheritance pressure, and the first clue that this place intends to keep her longer than planned. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Derek Bell or another local authority installs the false belief, misunderstanding seed, or missing fact that the entire category will later have to remove. Signature tell: The county telegraphs the problem once and nobody listens until act three. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "By the end of act one the connection is real, but it has already been built on information that is incomplete, misread, or politely withheld. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Practical cooperation deepens the bond as chores, events, vineyard work, or property triage create emotional intimacy disguised as logistics. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Jenna Marlowe hesitates before explaining storage unit described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The false belief deepens because someone sees the wrong thing, hears the wrong explanation, or is denied the last five percent of context that would prevent the entire movie. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "A near-confession scene makes reunion feel possible, which is exactly why the misunderstanding has to detonate next. Wine is present like a municipal policy failure. Jenna Marlowe hesitates before explaining storage unit described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The separation beat lands cleanly because the false belief has now become emotionally defensible, not just narratively convenient. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Act two ends with emotional distance fully installed and the truth still just out of reach. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The hidden truth finally surfaces, not because anyone became wise, but because the category has run out of runway for concealment. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "The false belief is removed and every earlier look, line, or gesture is recontextualized into romance instead of insult. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "Jenna Marlowe proves the feeling materially through travel, labor, risk, or one properly timed declaration involving scarf with impossible timing. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Reunion happens only after Daniel Bennett admits she wants the life as much as the person. Jenna Marlowe hesitates before explaining storage unit described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The final image promises permanence in a place she originally meant to escape. Wine is present like a municipal policy failure. Noah Hawthorne hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Jenna Marlowe is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Daniel Bennett says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Jenna?\"",
+    "\"Mothers do not disappear, Brooke. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Daniel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The heavy brass candlestick is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Derek.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"First Responder Love understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"First Responder Love\" follows Daniel Bennett, a high-output betrayed wife who thinks a fresh start, a large house, and professional competence can outpace sabotaged medication and increasingly professional concern until Jenna Marlowe collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: A firefighter or paramedic with a tragic backstory saves her and romance follows. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. As a dead bird arranged where breakfast should have been, Blackthorn County reveals once again that every secret comes home, every pool is a witness, and every adult has somewhere emotionally alarming to stand in silence. Every town has a basement.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.3,
+    "male_cardigan_threat_score": 0.4957,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

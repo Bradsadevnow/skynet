@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "What My Sister Buried",
+  "tagline": "Where every secret comes home.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "woman falsely accusing lovable scamp",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "unopened letter",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Noah Hale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.89,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.89,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.56,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Noah Pruitt",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\"",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.87,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.8,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Noah Pruitt",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Noah Pike",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.71,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.63,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.97,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Pruitt",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.44,
+      "secret_capacity": [
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as old family things",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.36,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.56,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.46,
+      "window_staring_compatibility": 0.88,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Cole Sutton",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Wyatt Mercer",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Noah Hale relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Cole Sutton hates the move and immediately distrusts Noah Pruitt, a private school administrator with suspiciously healthy handyman energy and access to annex room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Channel 8 Night Report introduces the ceramic owl, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Noah Pike reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes woman falsely accusing lovable scamp as a civic hazard and makes annex room described as paperwork I have not gone through yet feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Marlowe hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Noah Hale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Luke Pruitt hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring annex room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Noah Pruitt is accused, gaslighted, then gently framed near hydrangeas until the unopened letter turns up somewhere impossible inside annex room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Gavin Marlowe hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Someone mentions the basement as if it were a legal relative. Luke Pruitt hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and retreat cabin with candles, blankets, and difficult silence in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through annex room described as paperwork I have not gone through yet instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Cole Sutton spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Candle Finch ends with ambulance lights, a one-line empowerment speech, and a locked door inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Noah Pike confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of annex room described as paperwork I have not gone through yet. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Noah Pruitt hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Noah Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Noah Hale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Noah?\"",
+    "\"Mothers do not disappear, Cole. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Noah. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Noah.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Who put wet ornaments on our shelves? It’s not tradition.\"",
+    "\"The annex room has been a vault of secrets longer than anyone will admit.\"",
+    "\"Noah, you’ve always kept your work in boxes—why open them now?\"",
+    "\"I’m afraid the only thing that can be trusted here is the silence we hide.\"",
+    "\"When you talk about truth, remember it’s just another rental we all pay for.\"",
+    "\"The basement lights are on again. Did someone forget to switch them off?\""
+  ],
+  "fake_critic_blurb": "\"HallTime’s latest offering turns Blackthorn County into an almost‑haunted postcard of misplaced trust and weather‑worn secrets. The expansion’s layered narrative weaves a tapestry where every character is both protagonist and antagonist, while the omnipresent ceramic owl watches like a silent judge. Critics hail its audacious blending of melodrama and atmospheric dread—an experience that feels like standing in front of a mirror you’re not sure you want to look into.\"",
+  "sequel_hook": "\"The next chapter will unveil the hidden archives beneath the basement, where the true history of Blackthorn County’s founding families is locked. Will Noah Hale find peace or become a pawn in a centuries‑old power play? The curtain rises on a town that never truly sleeps—only its secrets do.\"",
+  "synopsis": "In the frost‑kissed town of Blackthorn County, Noah Hale—an architect haunted by an unspoken past—moves into Winter Hollow’s abandoned portable classroom, a skeletal shell that houses archived disciplinary files and whispers of old sins. The Christmas ornament that turns wet in the kitchen becomes a macabre talisman, foreshadowing secrets that will unravel like frayed tinsel. As Noah Pruitt, the town’s soft‑spoken school administrator, slips through annex rooms brimming with untouched paperwork, he stirs suspicion, and his own hidden knowledge of sheriff response times casts a chilling shadow over the town’s fragile holiday cheer. Meanwhile, Noah Pike’s elegant widowhood hides motives as deep as the orchard chapel’s forbidden silence, and Luke Pruitt’s financial maneuvers stir unease in storage units packed with old family treasures. Amidst wine‑drunk gossip at Channel 8 Night Report, a ceramic owl appears, its eyes reflecting an uncanny awareness that unsettles even the most composed residents. The narrative spirals through basement lights flickering like guilty glances and hidden boat keys leading to Blackthorn Vineyard, while a missing person’s echo haunts the streets. By Act Three, the truth is buried beneath layers of rented trust, shattered by revelations that every secret in Blackthorn is merely a rental—temporary, fragile, and ready to shatter under scrutiny.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.441,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-094228-0005-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-094228-0005-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 16.301,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Noah Hale steps into Winter Hollow’s dusty, unused portable classroom after an emotionally negligent implosion at his previous job. The walls are lined with archived disciplinary files that smell faintly of old glue and forgotten reprimands. He clutches a bottle of wine like a municipal policy—an illicit comfort in the face of impending judgment. As he pours a glass, a voice from the basement calls out as if it were a legal relative, hinting at hidden layers beneath the town’s veneer. The scene sets a tone of quiet dread; every step reverberates through rooms that hold more than memories—they house silent witnesses.",
+    "Cole Sutton, her brother’s bitter divorce attorney, arrives in the town with an icy glare. She immediately distrusts Noah Pruitt, whose soft voice and hidden handyman energy seem too polished for a school administrator. The annex room—full of untouched paperwork—mirrors a bureaucratic maze that Cole can’t navigate without suspicion. A phone vibrates from inside the wall, a subtle reminder that secrets are not only stored in files but also in forgotten devices, echoing the town’s undercurrent of surveillance.",
+    "At Channel 8 Night Report, the winter wine is served in glass cups etched with snowflakes. The ceramic owl perched on the set becomes an emblem of the town’s hidden truths; its painted eyes glint with an unnerving intelligence. Local gossip swirls around the Winterson case, and every resident knows there’s somewhere to hide from uncomfortable conversations. The scene juxtaposes festive cheer against the underlying sense that in Blackthorn County, everyone has a secret cellar where the darkest thoughts are stored.",
+    "Noah Pike enters a well‑lit kitchen and delivers a perfectly phrased warning about the wet ornament, an ominous symbol of hidden emotions. She declines to explain her retreat cabin—candles flicker, blankets drape, silence hangs heavy like mist. The basement light flickers on in an empty house, illuminating nothing but the shadows that creep along walls. This scene blends domestic warmth with a sense of impending revelation, as the town’s safety is questioned by something that shouldn't be wet.",
+    "Gavin Marlowe, the boutique owner, hesitates before speaking about the meditation annex that nobody uses in winter. He recalls seeing the wrong person near the lake once and never shut up about it—an act that has become a ghostly rumor echoing through town halls. Meanwhile, a cliffside argument between Noah Pruitt and an unnamed character reframes the woman falsely accusing the lovable scamp as a civic hazard. The annex room’s paperwork becomes spiritually relevant, its pages trembling with the weight of unsaid truths.",
+    "The climax sees the boat key tied to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event—an intricate web woven through the annex room. A frantic drive toward The Candle Finch ends with ambulance lights, one-line empowerment speech, and a locked door in the retreat cabin. Noah Pike confesses enough to deepen the truth’s darkness while the sheriff arrives fourteen minutes late, adding to the town’s fatalistic sense of inevitability. The final scenes tie the ceramic owl’s return to an ominous future, setting up sequel possibilities."
+  ],
+  "contradiction_notes": [
+    "Noah Pruitt’s identity shuffles between Daniel and Derek in different scenes—perhaps the town’s memory is a fractured ledger, not a fixed fact.",
+    "Bellweather’s geography slips from Vermont to outside Atlanta after wine—illustrating that reality here is more fluid than any map.",
+    "A dead best friend appears at brunch yet remains unacknowledged by others—hinting at an unrevealed time‑loop or denial loop within the town.",
+    "The basement alternates between a condo, a lake house, and an abandoned vineyard—showcasing that space itself is a character, not a static location.",
+    "The wet ornament appears in kitchens but never gets cleaned—symbolizing how small, unaddressed sins grow until they become disasters."
+  ],
+  "alternate_titles": [
+    "Blackthorn Echoes: The Wet Ornament",
+    "Noah’s Hidden Files",
+    "The Forgotten Orchard",
+    "Silent Basements, Loud Secrets",
+    "Ceramic Owl & the Christmas Curse"
+  ],
+  "franchise_adjacency": "This expansion sits beside HallTime’s \"Winter Hollow Whispers\" and \"Midnight at Blackthorn: The Vanishing Boat Key\", offering a deeper dive into the same cursed town while maintaining thematic cohesion with other holiday‑time, mystery‑driven broadcasts."
+}

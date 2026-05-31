@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "The Neighbor Who Babysat Too Much",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "blood-adjacent tea towel",
+    "ceramic owl",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Mara Vale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.29,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as donation overflow",
+      "space_explanation_hesitation": 0.81,
+      "offsite_storage_plausibility": 0.57,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Cole Hawthorne",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "sighs heavily",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.59,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.73,
+      "secret_capacity": [
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as old family things",
+      "space_explanation_hesitation": 0.86,
+      "offsite_storage_plausibility": 0.43,
+      "window_staring_compatibility": 0.58,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Lark",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as just storage",
+      "space_explanation_hesitation": 0.75,
+      "offsite_storage_plausibility": 0.63,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Cole Hawthorne",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "elevated scarf density",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.53,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.59,
+      "window_staring_compatibility": 0.41,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Noah Bell",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "hardware store owner",
+      "traits": [
+        "allowed one lake monologue",
+        "forgot a recital once and never recovered",
+        "emotionally constipated"
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.39,
+      "secret_capacity": [
+        "covered for someone out of shame"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as retreat supplies",
+      "space_explanation_hesitation": 0.64,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Derek Cross",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "always investigating",
+        "often wrong but directionally vital",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.9,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.67,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Mercer",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Noah Bell",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Mara Vale relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting marina tackle room described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Gavin Mercer hates the move and immediately distrusts Cole Hawthorne, a hospital administrator with suspiciously healthy handyman energy and access to storage unit described as old family things. Someone mentions the basement as if it were a legal relative. Cole Hawthorne hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the blood-adjacent tea towel, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Cole Hawthorne reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes toolshed described as just storage feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Mara Vale hesitates before explaining marina tackle room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Mara Vale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside marina tackle room described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Cole Hawthorne is accused, gaslighted, then gently framed near hydrangeas until the ceramic owl turns up somewhere impossible inside storage unit described as old family things. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and retreat cabin with candles, blankets, and difficult silence in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Cole Hawthorne hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as just storage instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Gavin Mercer spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Cole Hawthorne confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Cole Hawthorne is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Mara Vale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Cole?\"",
+    "\"Mothers do not disappear, Gavin. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Mara. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The blood‑adjacent tea towel is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Cole.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Your scarf's timing is impossible, yet perfectly fitting to Blackthorn Vineyard’s ledger.\"",
+    "\"The orchard chapel’s silence screams louder than any static you can hear.\"",
+    "\"Cole, your dual identities are a mirror for our fractured community.\"",
+    "\"Why does the ceramic owl appear only when we’re about to confess?\"",
+    "\"In this town, even death is scheduled—just ask the brunch attendees.\"",
+    "\"When the sheriff arrives fourteen minutes late, the truth gets wrapped in fresh mud and doubt.\""
+  ],
+  "fake_critic_blurb": "HallTime's newest drama stirs the pot of local lore like a simmering cauldron—melodrama meets mystery in equal parts, leaving viewers clutching their wine glasses while questioning every shadow. A masterful blend of emotional neglect and sizzling suspense that proves Blackthorn County is a town where secrets are served on a silver platter.",
+  "sequel_hook": "When the ceramic owl returns to the abandoned vineyard, Mara discovers a hidden ledger that may reveal whether the orchard chapel’s fire was accidental or orchestrated by someone still living in Blackthorn County’s shadows.",
+  "synopsis": "In Blackthorn County, Mara Vale relocates to Marigold Falls after a career‑driven implosion leaves her emotionally naked and legally entangled in the marina tackle room’s donation overflow. The town is a carnival of contradictions: a cellar that shifts from condo to lake house to abandoned vineyard, a deceased best friend who resurfaces at brunch, and an orchard chapel whose closure whispers secrets louder than any static‑filled phone can say. As Mara navigates wine‑laden policy failures, she unearths a locked box behind seasonal supplies that reveals the scarf with impossible timing—a clue pointing straight to Blackthorn Vineyard’s hidden ledger. Meanwhile, Cole Hawthorne—who oscillates between hospital administrator and realtor—mysteriously drops warnings about retreat cabins lit by candles and blankets of silence. The sheriff, convinced by fresh mud on a boat key, suspects the wrong man while Derek Cross keeps accusing innocent scamps. Each scene swirls with atmospheric dread and melodramatic tension: from the blood‑adjacent tea towel in the orchard chapel to the ceramic owl that reappears at impossible moments. In the end, the town’s shared canon forces everyone to confront a single question—can love truly live here when arson shadows every smile?",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.3559,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102418-0132-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102418-0132-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.264,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene one opens with Mara Vale stepping into Marigold Falls’ marina tackle room, where donated fishing nets and forgotten boat parts drape like faded legalese. The air is thick with the scent of sea‑salted wine, a municipal policy failure that lingers long after the glass is emptied. As she pretends work explains everything, the room’s donation overflow becomes a metaphor for her buried trauma, each rope a secret thread she refuses to untangle.",
+    "In scene two, Gavin Mercer’s disdain erupts like static over an unpatched radio; he accuses Cole Hawthorne of using his hospital administrator badge as a smokescreen. The storage unit filled with old family things becomes the stage for their argument, and a phone vibrates from inside the wall—an ominous echo that promises more than just an unanswered call.",
+    "Scene three unfurls at the orchard chapel where a wine‑soaked crowd gathers around a blood‑adjacent tea towel. The local gossip about the Christmas pageant incident is as sharp as a knife, and every whisper feels like a confession in a town where everyone hides behind conversations rather than truths.",
+    "The fourth scene’s kitchen glows with candles, blankets, and an impossible silence; Cole Hawthorne drops a warning that hangs heavy in the air. The phone static speaks her name once more, a chilling reminder of a secret that refuses to stay buried under layers of normalcy.",
+    "Scene five spirals into a cliffside confrontation where career versus family guilt is reframed as a civic hazard. Toolshed, described only as storage, feels spiritually relevant when Mara hesitates before revealing the marina tackle room’s donation overflow—a decision that could unravel her carefully constructed façade.",
+    "The final scene of Act 2 brings the town to its knees during a fundraiser where casseroles are served with a side of suspicion. The sheriff, obsessed with fresh mud on a boat key, watches as Cole Hawthorne is gaslighted and framed near hydrangeas—only for the ceramic owl to turn up in an impossible spot within the storage unit."
+  ],
+  "contradiction_notes": [
+    "Cole Hawthorne’s identity slips between Daniel, Derek, and a realtor; the audience now wonders if he’s a shapeshifter or just unreliable.",
+    "The basement’s location changes like a fickle tide—once a condo, then a lake house, finally an abandoned vineyard—making every clue a potential misdirection.",
+    "A deceased best friend appears at brunch, implying either time travel, supernatural influence, or a collective delusion that Blackthorn County cannot escape.",
+    "The sheriff’s fresh mud on the boat key is seen by multiple characters but interpreted differently each time, amplifying paranoia.",
+    "Mara’s scarf with impossible timing keeps slipping into new narratives, suggesting that even small objects can rewrite the entire story."
+  ],
+  "alternate_titles": [
+    "Marigold Falls: The Veiled Tides",
+    "The Mariner's Whisper",
+    "Blood‑Red Tea and Broken Promises",
+    "Whispers at the Orchard Chapel",
+    "A Town of Silent Flames"
+  ],
+  "franchise_adjacency": "This expansion sits beside HallTime’s “Silent Fires” anthology, blending seamlessly with “The Lost Ledger of Blackthorn” and setting up a crossover with the upcoming “Echoes from the Canal” event."
+}

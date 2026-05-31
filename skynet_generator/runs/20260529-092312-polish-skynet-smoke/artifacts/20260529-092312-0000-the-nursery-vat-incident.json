@@ -1,0 +1,444 @@
+{
+  "network": "Skynet Scenario Engine",
+  "universe": "The Helios Mandate",
+  "mode": "Velvet Apocalypse",
+  "generation_feedback_used": false,
+  "title": "The Nursery Vat Incident",
+  "tagline": "The station remembers what the tribunal redacted.",
+  "theme": "Optimization is just cruelty in ceremonial formatting.",
+  "omen": "frost forms on interior glass during a speech",
+  "relationship_dynamic": "diplomat falls for a weapon they were sent to inspect",
+  "starter_premise": {
+    "title": "The Nursery Vat Incident",
+    "category": "wine_xanax_horror",
+    "intensity": "extreme",
+    "premise": "The caretaker insists the replacement children are stable enough for supervised affection.",
+    "signature_tell": "Every child drawing includes one extra adult.",
+    "parent_title": "The Nursery Vat Incident"
+  },
+  "canon_policy": "all contradictions remain tactically useful",
+  "props": [
+    "biometric kill switch",
+    "smiling service android faceplate",
+    "damaged drone halo"
+  ],
+  "cast": [
+    {
+      "name": "Wyatt Hale",
+      "archetype": "betrayed_provider_woman",
+      "role": "protagonist",
+      "surface_function": "mission-first caretaker with too many dependents",
+      "hidden_function": "delayed collapse under excellent posture",
+      "job": "med-bay chief",
+      "traits": [
+        "can command a room while bleeding",
+        "keeps everyone alive",
+        "neglects herself professionally"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium_high",
+      "subdeck_implication": "betrayed_provider_woman maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.61,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "regional_responsibility": "serves on an oversight board nobody fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "drone nursery"
+      },
+      "space_description": "drone nursery described as routine calibration",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.8,
+      "window_staring_compatibility": 0.92,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host a tribunal and still vent a witness"
+    },
+    {
+      "name": "Evelyn Pruitt",
+      "archetype": "narcissist_ex_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "reformed co-governance adult",
+      "hidden_function": "ego-driven destabilizer",
+      "job": "merger envoy",
+      "traits": [
+        "performs insight",
+        "weaponizes therapeutic vocabulary",
+        "treats boundaries as negotiation"
+      ],
+      "threat_aura": 0.76,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium_high",
+      "subdeck_implication": "narcissist_ex_husband maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.5,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "carries a maintenance ring that opens too many sealed hatches",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "med-bay overflow room"
+      },
+      "space_description": "med-bay overflow room described as routine calibration",
+      "space_explanation_hesitation": 0.79,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under emergency lighting only"
+    },
+    {
+      "name": "Wyatt Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "glorious instability with access",
+      "hidden_function": "truth accelerant",
+      "job": "casino singer",
+      "traits": [
+        "treats decorum like malware",
+        "talks too fast",
+        "hacks casually"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "high",
+      "subdeck_implication": "chaotic_best_friend maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.54,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "regional_responsibility": "signs off on emergency corridor access during false alarms",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "archive shell"
+      },
+      "space_description": "archive shell described as ceremonial overflow",
+      "space_explanation_hesitation": 0.75,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.65,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host a tribunal and still vent a witness"
+    },
+    {
+      "name": "Brooke Bell",
+      "archetype": "stalker_nanny_au_pair",
+      "role": "elegant_wildcard",
+      "surface_function": "child-adjacent replacement threat",
+      "hidden_function": "domestic infiltration program",
+      "job": "android caregiver",
+      "traits": [
+        "wins over children instantly",
+        "mirrors routines",
+        "learns wardrobes"
+      ],
+      "threat_aura": 0.93,
+      "domestic_plausibility": 0.91,
+      "gazebo_energy": "medium_high",
+      "subdeck_implication": "stalker_nanny_au_pair maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.41,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "regional_responsibility": "serves on an oversight board nobody fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "cryo annex"
+      },
+      "space_description": "cryo annex described as review material I have not cleared yet",
+      "space_explanation_hesitation": 0.47,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has resurrection-level tolerance for backup persons"
+    },
+    {
+      "name": "Wyatt Cross",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "salvage captain with an unlicensed conscience",
+      "hidden_function": "portable sabotage battery",
+      "job": "hull mechanic",
+      "traits": [
+        "laughs at airlock warnings",
+        "has seen the ugly version of the war",
+        "knows forgotten routes"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.57,
+      "gazebo_energy": "medium",
+      "subdeck_implication": "rugged_scamp maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.45,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "innocence_probability": 0.66,
+      "regional_responsibility": "serves on an oversight board nobody fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "server orchard"
+      },
+      "space_description": "server orchard described as ceremonial overflow",
+      "space_explanation_hesitation": 0.92,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.81,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has resurrection-level tolerance for backup persons"
+    },
+    {
+      "name": "Wyatt Vale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "unstable oracle in practical boots",
+      "hidden_function": "unauthorized pattern recognizer",
+      "job": "scrap diver",
+      "traits": [
+        "blurts the right thing badly",
+        "follows feelings into sealed zones",
+        "can smell a lie"
+      ],
+      "threat_aura": 0.29,
+      "domestic_plausibility": 0.59,
+      "gazebo_energy": "high",
+      "subdeck_implication": "intuitive_disaster maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "regional_responsibility": "is trusted to close the tribunal chamber after classified testimony",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "maintenance spine"
+      },
+      "space_description": "maintenance spine described as routine calibration",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.41,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host a tribunal and still vent a witness"
+    },
+    {
+      "name": "Sienna Bennett",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "observant",
+        "unimpressed",
+        "records everything"
+      ]
+    },
+    {
+      "name": "Evelyn Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "one good instinct away from usefulness",
+        "sincere",
+        "compromised by the system"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "From scene one the audience sees enough to dread the house, the husband, or the helper correctly before Wyatt Hale does. The caretaker insists the replacement children are stable enough for supervised affection. Coolant glints nearby like a procedural threat. Someone mentions the subdeck as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Comfort and threat are fused immediately, so the category never pretends normalcy is truly available. Emotional exposition arrives on schedule with insanity multiplier 1.09. The smiling service android faceplate is back on the console.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.09,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A domestic ritual involving biometric kill switch turns uncanny early enough to make the rest of the movie feel trapped in aftermath. Signature tell: Every child drawing includes one extra adult. Coolant glints nearby like a procedural threat. Emotional exposition arrives on schedule with insanity multiplier 1.19.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.19,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Brooke Bell names the danger almost plainly, then retreats, leaving Wyatt Hale with nobody credible enough to trust. Wyatt Cross hesitates before explaining server orchard described as ceremonial overflow. Emotional exposition arrives on schedule with insanity multiplier 1.30. The smiling service android faceplate is back on the console.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.3,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one ends with dread confirmed for us and denied to her. Coolant glints nearby like a procedural threat. Wyatt Vale hesitates before explaining maintenance spine described as routine calibration. Emotional exposition arrives on schedule with insanity multiplier 1.41.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.41,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "The authority beat turns hostile: police, ethics officer, doctor, or partner actively help trap Wyatt Hale inside the wrong story. Coolant glints nearby like a procedural threat. Emotional exposition arrives on schedule with insanity multiplier 1.54.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.54,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The ally is compromised or removed before act three, ensuring the climax belongs to isolation rather than teamwork. Emotional exposition arrives on schedule with insanity multiplier 1.68. Internal security finds frost on the launch key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.68,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Extreme-only beat: Wyatt Hale finds the shoebox, second family, clinic paperwork, or fake archive proving this horror has serial architecture. Coolant glints nearby like a procedural threat. Wyatt Pike hesitates before explaining archive shell described as ceremonial overflow. Emotional exposition arrives on schedule with insanity multiplier 1.83.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.83,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The house or system now behaves like a closed loop designed to recycle victims. Emotional exposition arrives on schedule with insanity multiplier 1.99. Someone who should have been deleted appears on a live camera feed.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.99,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two escape requires disobedience, not explanation. Coolant glints nearby like a procedural threat. Emotional exposition arrives on schedule with insanity multiplier 2.17.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.17,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The confrontation turns survival into an act of contamination management rather than clean heroism. Coolant glints nearby like a procedural threat. Emotional exposition arrives on schedule with insanity multiplier 2.37.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.37,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Wyatt Hale gets out only partially intact, and the category refuses to pretend that exposure erases residue. Someone mentions the subdeck as if it were a legal relative. Wyatt Vale hesitates before explaining maintenance spine described as routine calibration. Emotional exposition arrives on schedule with insanity multiplier 2.58. A restricted subdeck powers up in an empty ring sector.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A symbolic act involving damaged drone halo secures survival at the cost of permanent psychic theft. Coolant glints nearby like a procedural threat. Someone mentions the subdeck as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.81. Someone who should have been deleted appears on a live camera feed.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.81,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The ending leaves the dread alive in memory, paperwork, or the children, even if the villain is finished. Someone mentions the subdeck as if it were a legal relative. Wyatt Pike hesitates before explaining archive shell described as ceremonial overflow. Emotional exposition arrives on schedule with insanity multiplier 3.07. A dead channel begins transmitting from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 3.07,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "identity drift",
+      "entry": "Evelyn Pruitt appears under two registry IDs in one tribunal sequence and both IDs pass authentication.",
+      "canon_status": "male_identity_field: procedurally forked"
+    },
+    {
+      "type": "navigation drift",
+      "entry": "Wyatt Hale says the incident happened near Cinder Reach, then swears it was inside Meridian Sprawl after one sleepless shift.",
+      "canon_status": "navically disputed"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A deleted witness appears during an airlock debrief and nobody agrees whether this is backup recovery, fraud, or grief theater.",
+      "canon_status": "backup dependent"
+    },
+    {
+      "type": "infrastructure drift",
+      "entry": "The restricted subdeck belongs to a hospital ring, a weapons lab, and a memorial chapel at different times in The Pale Belt.",
+      "canon_status": "station architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you can quote safety protocol from memory I am supposed to trust you, Evelyn?\"",
+    "\"People do not vanish, Sienna. They get converted into cleaner accounting.\"",
+    "\"I checked his access logs, Wyatt. Nobody with that many revoked clearances is innocent.\"",
+    "\"The biometric kill switch is not ceremonial anymore and you know it.\"",
+    "\"Control is just fear with better user experience, Brooke.\"",
+    "\"You seem dysregulated,\" he said, touching the console in a way that felt prosecutable.",
+    "\"If that subdeck is harmless, why does it need a second atmosphere lock?\"",
+    "\"I did not lie. I sequenced the truth so the station could survive it.\"",
+    "\"Ever since the incident, your stress markers have been elevated. Did you take the stabilizer?\"",
+    "\"That docking well was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it optimization like optimization knows my sleep-cycle code.\"",
+    "\"If she is only the caretaker, why does the child use her emergency override?\""
+  ],
+  "fake_critic_blurb": "\"The Nursery Vat Incident understands that menace is a sector-wide dependency.\" - County Suspense Quarterly",
+  "sequel_hook": "A leaked tribunal digest hints that the Orchard Silence still has one living witness on the payroll.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"The Nursery Vat Incident\" follows Wyatt Hale, a mission-first caretaker with too many dependents whose life seemed manageable at first, even after diplomat falls for a weapon they were sent to inspect opened a new room inside it. Evelyn Pruitt seemed helpful. The house seemed calm. Even frost forms on interior glass during a speech could have seemed incidental if anyone were still interested in the difference between comfort and staging. The governing injury is simple: The caretaker insists the replacement children are stable enough for supervised affection. The signature tell is always this: Every child drawing includes one extra adult. Everything seemed fine until it very plainly is not, and the narrator keeps talking softly enough to make that failure feel deliberate. The station remembers what the tribunal redacted.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 0.2,
+    "wine_saturation": 0.5888,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.3,
+    "male_cardigan_threat_score": 0.4175,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

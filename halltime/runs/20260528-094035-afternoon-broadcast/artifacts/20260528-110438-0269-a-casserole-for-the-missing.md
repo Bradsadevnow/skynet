@@ -1,0 +1,119 @@
+# A Casserole for the Missing
+
+**Network:** HallTime Movie Network
+**Universe:** Blackthorn County
+**Mode:** Hallmark Possession Event
+**Tagline:** Inspired by something, probably.
+**Theme:** Trust isn't given. It's rented.
+
+## Synopsis
+When Evelyn Pruitt abandons her crumbling bakery in the heart of Blackthorn County and claims a quiet meditation annex for herself, she unknowingly steps onto a tangled web of secrets that have been simmering beneath the town’s picturesque surface for years. Her arrival coincides with Derek Pike, a hardware store owner whose quiet competence masks an unspoken threat, and Noah Winterson, the chaotic best friend who holds a key to a half‑sibling mystery that could shatter the town’s fragile trust. As the community gathers around a humble casserole fundraiser, the hidden corners of their lives begin to bleed into one another: bees in winter pollinate more than flowers, scarves with impossible timing flutter through doors, and a boat key buried under fresh mud whispers about betrayals long forgotten. The drama escalates when the once‑trusted cellar is revealed as an interchangeable backdrop for the town’s worst rumors, forcing each character to confront the truth that trust is not a gift but a rented commodity. In this atmospheric tale of love lost, secrets kept, and the fragile line between safety and danger, Evelyn must decide whether her own heart can survive the revelations hidden in the walls of her new home.
+
+## Recurring Props
+- scarf with impossible timing
+- snow globe
+- boat key
+
+## Cast
+- Evelyn Pruitt as overextended_professional_woman (protagonist): threat_aura=0.28, domestic_plausibility=0.71, basement_implication=overextended_professional_woman maintains suspiciously inaccessible memories, space=meditation annex nobody uses in winter
+- Derek Pike as divorced_redemption_dad (male_interest_or_threat): threat_aura=0.35, domestic_plausibility=0.79, basement_implication=divorced_redemption_dad maintains suspiciously inaccessible memories, space=storage unit described as retreat supplies
+- Noah Winterson as chaotic_best_friend (best_friend): threat_aura=0.34, domestic_plausibility=0.82, basement_implication=chaotic_best_friend maintains suspiciously inaccessible memories, space=unused portable classroom holding archived disciplinary files
+- Wyatt Bennett as mysterious_elegant_woman (elegant_wildcard): threat_aura=0.69, domestic_plausibility=0.8, basement_implication=mysterious_elegant_woman maintains suspiciously inaccessible memories, space=church basement described as just storage
+- Cole Sutton as decorative_husband (secondary_male_pressure): threat_aura=0.56, domestic_plausibility=0.55, basement_implication=decorative_husband maintains suspiciously inaccessible memories, space=church basement described as donation overflow
+- Cole Hale as intuitive_disaster (secondary_witness): threat_aura=0.44, domestic_plausibility=0.71, basement_implication=intuitive_disaster maintains suspiciously inaccessible memories, space=marina tackle room described as old family things
+- Derek Winterson as daughter_with_hostile_divorce_attorney_soul (supporting): threat_aura=n/a, domestic_plausibility=n/a, basement_implication=n/a, space=n/a
+- Jenna Pike as deputy_with_emotional_damage (supporting): threat_aura=n/a, domestic_plausibility=n/a, basement_implication=n/a, space=n/a
+
+## Beat Sheet
+- Act 1, Scene 1: Evelyn Pruitt relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Cole Hale hesitates before explaining marina tackle room described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.00.
+- Act 1, Scene 2: Derek Winterson hates the move and immediately distrusts Derek Pike, a hardware store owner with suspiciously healthy handyman energy and access to storage unit described as retreat supplies. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.
+- Act 1, Scene 3: A wine scene at the old orchard chapel introduces the scarf with impossible timing, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.
+- Act 1, Scene 4: Wyatt Bennett reveals a perfectly phrased warning in a well-lit kitchen while bees in winter, then declines to explain church basement described as just storage. Derek Pike hesitates before explaining storage unit described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.
+- Act 1, Scene 5: A cliffside emotional exposition reframes emotionally neglected marriage as a civic hazard and makes meditation annex nobody uses in winter feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Noah Winterson hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.31.
+- Act 2, Scene 6: Evelyn Pruitt snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.
+- Act 2, Scene 7: The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Evelyn Pruitt hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.
+- Act 2, Scene 8: Derek Pike is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside storage unit described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.
+- Act 2, Scene 9: A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.
+- Act 2, Scene 10: Someone goes missing after mentioning the unopened letter, the old orchard chapel, and church basement described as just storage in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.
+- Act 3, Scene 11: The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Cole Sutton hesitates before explaining church basement described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.97.
+- Act 3, Scene 12: Derek Winterson spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Cole Sutton hesitates before explaining church basement described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.
+- Act 3, Scene 13: A frantic drive toward the old orchard chapel ends with ambulance lights, a one-line empowerment speech, and a locked door inside church basement described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.
+- Act 3, Scene 14: Wyatt Bennett confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of storage unit described as retreat supplies. Someone mentions the basement as if it were a legal relative. Evelyn Pruitt hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.
+- Act 3, Scene 15: Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Evelyn Pruitt hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.
+
+## Scene Expansions
+- The first light of dawn spills across the cracked tiles of the meditation annex as Evelyn slips into its forgotten rooms. Her hands, stained with flour from yesterday’s dough, trace the outline of a scarf that seemed to have appeared out of nowhere—its fabric woven with an impossible timing that makes every thread feel like it was waiting for her arrival. The quiet is broken only by the faint hum of winter bees buzzing against a broken windowpane. She hears the distant clink of glasses at the old orchard chapel, where townsfolk gossip about the vineyard fire, and she feels the weight of a town’s collective anxiety settle on her shoulders. In this scene, the camera lingers on the scarf, the scarred annex, and the soft glow of a candle that never truly flickers, all while Evelyn's inner monologue questions whether this new life is a refuge or another trap.
+- In a cramped hardware store behind Derek Pike’s sign, shelves are stacked with tools and whispers. Derek, his face lined by years of hard work, watches a newcomer—Derek Winterson—a woman who has taken on the role of a hostile divorce attorney with an unnerving calmness. The two men share a silent stare that feels like a negotiation, their eyes trading accusations about past misdeeds. A phone vibrates against the wooden counter as if someone is calling from beyond the walls themselves. Outside, a faint sound of bees in winter echoes through the town’s streets, and the camera cuts to a boat key caught in fresh mud—an ominous symbol of the secrets that still linger under the surface. Derek's internal conflict becomes palpable as he weighs his trust against the risk of exposing hidden truths.
+- The old orchard chapel is drenched in late afternoon light, its stained‑glass windows fractured like the town’s own fragile relationships. Here, a group gathers around a wooden table draped with wine glasses, each sip thickening the air with municipal policy failures and unspoken grievances. The scarf from Evelyn’s annex is slipped onto the back of a chair, as if to keep it safe from the gossip that swirls like pollen. The scene captures Noah Winterson's chaotic presence, as he stumbles between conversations about vineyard fires and half‑sibling revelations. A sense of dread builds when someone mentions the basement—an old family thing—and the camera lingers on a flickering candle that seems to be watching everything from the shadows.
+- In a brightly lit kitchen, Wyatt Bennett reveals a warning that is as perfectly phrased as it is chilling. Bees buzz in winter outside, but inside, the silence is broken by a rustling of parchment and the sound of footsteps echoing off church basement walls. Derek Pike's nervous pause before explaining his retreat supplies creates a palpable tension—each second stretched like taffy. The sheriff’s hand trembles as he holds the boat key, its surface slick with fresh mud that feels more like a confession than an object. The camera zooms in on Wyatt’s eyes, reflecting the flickering light of candles, while the words ‘Trust isn’t given. It’s rented’ float above the kitchen like a warning banner.
+- A cliffside scene unfolds under a bruised sky as Evelyn stands before the meditation annex, now bathed in a strange, otherworldly glow. She confronts her neglected marriage—her spouse absent, her own doubts louder than ever—and realizes that the annex feels spiritually relevant only if she can accept the town’s civic hazard of emotional neglect. A wine glass clinks against a stone wall as someone mentions the basement once again—an unspoken reminder that secrets are stored like contraband. Noah Winterson hesitates before speaking, revealing an unused portable classroom holding disciplinary files, which adds layers to the mystery. The camera captures the cliff’s edge and the town's horizon, emphasizing how far each character is willing to travel for truth.
+- The final scene of Act 2 is a cinematic crescendo. Evelyn opens a locked box behind seasonal supplies within the meditation annex, only to find nothing concrete—yet her certainty grows, as if the emptiness itself confirms her fears. The town’s fake sense of safety collapses like a casserole gone bad, and the sheriff's suspicion lands on an innocent person while ignoring the very same annex that now feels like a living thing. Evelyn hesitates before revealing everything to the camera, which lingers on the trembling key in her hand. As the phone vibrates from within a wall—an echo of earlier scenes—the story teeters on the edge between revelation and continued mystery.
+- The climactic third act begins with a frantic drive to the old orchard chapel, ending at an ambulance's blue light flashing over a locked door inside the church basement. Evelyn’s voice cracks as she delivers one-line empowerment speech, her words resonating through the silent hallways. Wyatt confesses just enough to make the truth even worse, while the sheriff arrives fourteen minutes too late, his muddy boots leaving a trail of fresh mud on the boat key. In the dusty window of a storage unit described as retreat supplies, a figure that should be dead appears at brunch—an image so surreal it defies all logic. The scene ends with Evelyn’s hesitation before explaining the annex once more, her eyes haunted by the weight of a town that cannot decide whether to trust or fear.
+- The final scene is a surreal blend of truth and illusion: a ceramic owl reappears, its eye reflecting the flicker of candles as it whispers about the Winterson case. The vineyard fire’s memory lingers like smoke in the wind, and another off‑site room, no one has adequately explained, stands as a testament to Blackthorn County’s stubborn refusal to keep secrets quiet. Wine is present—again—a municipal policy failure that seems to bind the town together like an old, rusty chain. Evelyn hesitates before explaining the annex once more; her voice breaks, and the audience feels the ache of unresolved questions. The sheriff sees fresh mud on the boat key for a final time, and the camera pulls back to show Blackthorn County as a place where trust is rented, secrets are buried, and the line between reality and rumor remains blurred forever.
+- The third act’s closing scene follows Evelyn into an abandoned church basement that feels more like a living organism than a storage unit. She hears whispers of old family tales that have drifted through generations—each word adding weight to the already heavy silence. As she reaches for the boat key, fresh mud slicks her fingers, and she realizes that this town is built on a fragile foundation: a place where secrets are traded like currency, and trust must be paid for in casseroles and cold honesty. The scene ends with the camera zooming out to reveal Blackthorn County at night—a city of lights, bees, and unanswered questions that glimmer against the darkness.
+- The story’s final beat shows a silent, broken door—an altar of unspoken truth—before the narrative dissolves into a lingering sense of unresolved mystery. The town’s fabric, once woven with ordinary daily life, now feels like an intricate tapestry of fear and hope, stitched together by those who dare to confront their own doubts. Evelyn’s final decision remains uncertain: whether she will leave the annex or stay to face her hidden past, but one thing is clear—trust in Blackthorn County isn’t given; it is rented out on a platter of casseroles and whispers.
+- The closing shot pulls back from the town's center to show Blackthorn County as a mosaic of secrets, each piece glimmering like an old lighthouse. The camera pans across the silent streets where bees hum and shadows mingle, leaving viewers with the image of a place that will never quite be understood. The final frame lingers on the boat key—mud still drying on its surface—as the words ‘Trust is rented’ echo in the wind.
+- The final beat brings the story to an ambiguous end, with the camera lingering on the cracked floorboards and the silent echoes of a town that has never truly healed. Evelyn’s heart beats like a metronome against the backdrop of unspoken secrets, leaving audiences with the question: will she ever find the courage to open her own heart as it is in the annex?
+- The final beat leaves viewers in a state of uneasy anticipation, with the camera capturing the last light that flickers over an empty church basement. The town’s silent streets remain as a reminder that trust can be bought and sold like any other commodity—sometimes for a casserole dish or a whispered confession.
+- In the end, Blackthorn County remains a place where secrets are never fully buried; they simply change hands, just like the boat key that keeps leaving fresh mud behind it. The story closes with Evelyn staring at her reflection in a cracked mirror, unsure whether to keep living in fear or step into an uncertain future.
+- The final scene is a quiet but powerful tableau—an empty church basement lit by a single flickering candle and a dusty window that looks out onto a town that never quite sleeps. It reminds us that Blackthorn County’s secrets are as eternal as the bees in winter, and that trust will always be rented rather than given.
+- The final beat leaves an open-ended echo—blackthorn county remains a place where truth and fiction dance together under the same sky.
+
+## Contradiction Ledger
+- name drift: Derek Pike is called Daniel in one kitchen scene and Derek during the rain argument. (male_identity_field: porous)
+- geography drift: Evelyn Pruitt says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine. (emotionally true)
+- mortality drift: A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling. (interpretively unstable)
+- property drift: The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow. (domestic architecture is spiritually elastic)
+
+## Contradiction Notes
+- Derek Pike’s name shift to Daniel in one kitchen scene isn’t a mistake—it shows that in Blackthorn County even names are borrowed for cover.
+- Evelyn’s geography drift from Vermont to Atlanta after wine reveals the town’s tendency to rewrite itself, just like its secrets.
+- The dead best friend at brunch is not a contradiction but a spectral reminder that mortality can be recycled as a story device.
+- Basement ownership shifting between condo, lake house, and vineyard illustrates how Blackthorn County sells truth on different shelves for each listener.
+- The recurring fresh mud on the boat key becomes a tangible currency—each smear marks another transaction of hidden information.
+
+## Dialogue Samples
+- "You think because you wear flannel and own a dock light I am supposed to trust you, Derek?"
+- "Mothers do not disappear, Derek. They evaporate into paperwork."
+- "I checked his social media likes, Evelyn. Nobody who enjoys motivational quotes is innocent."
+- "The scarf with impossible timing is not decorative anymore and you know it."
+- "Trust is just fear with a casserole dish, Wyatt."
+- "You seem upset," he said, making tea in a way that felt prosecutable.
+- "If that basement is innocent, why does it sound defensive?"
+- "I did not lie. I just told the truth in the order this town could survive."
+- "The boat key has been under fresh mud for weeks—whoever buried it still thinks they’re invisible."
+- "We’re all renting trust on a platter of casseroles and secrets, Evelyn."
+- "You hear the bees? They know what’s going to happen before you do."
+- "Every time we call it a basement, someone else finds a new story hidden inside."
+- "I’m not telling anyone. The whole town is built on borrowed confidence."
+- "When the door finally opens, we’ll see if trust can be bought or just held like a key."
+
+## Alternate Titles
+- The Scarf That Never Faded
+- Bees and Basements: A Blackthorn Tale
+- Trust on the Shelf
+- Meditation Annex Mysteries
+- Casserole of Secrets
+
+## Scores
+- slop_elegance: 0.65
+- basement_gravity: 1.0
+- wine_saturation: 1.0
+- canon_drift: 0.61
+- kitchen_lighting_truth_index: 0.38
+- male_cardigan_threat_score: 0.3625
+- maternal_dread_persistence: 0.35
+- commercial_break_violence_potential: 0.69
+
+## Franchise Hooks
+- Critic blurb: In an audacious blend of culinary drama and psychological suspense, HallTime’s latest offering turns a casserole into a catalyst for town-wide intrigue. With sharp dialogue that tastes like a bitter espresso and a cast whose secrets simmer longer than any stew, the film invites audiences to question whether trust can truly be served on a platter.
+- Sequel hook: The ceramic owl returns with a new message carved in glass—blackthorn county’s next secret is about to crack open. 
+- Franchise adjacency: This broadcast sits snugly beside HallTime’s other community‑centric thrillers, such as "The Harvest Vault" and "Whispers in Willow Creek", creating a triad that explores how small towns keep their secrets under the guise of ordinary life.
+
+## LLM Expansion
+- enabled: True
+- attempts: 1
+- elapsed_seconds: 27.449
+- error: None
+- prompt_path: /home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-110438-0269-prompt.json
+- response_path: /home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-110438-0269-response.txt

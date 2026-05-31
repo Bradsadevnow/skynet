@@ -1,0 +1,441 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "The Vineyard Lies Beneath Us",
+  "tagline": "Every town has a basement.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "bees in winter",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "ceramic owl",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Sienna Hale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.48,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Tess Dane",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "too calm",
+        "makes tea incorrectly",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.69,
+      "secret_capacity": [
+        "keeps duplicate keys for reasons framed as kindness",
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Derek Sutton",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.66,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as seasonal materials",
+      "space_explanation_hesitation": 0.41,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Jenna Dane",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.73,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.42,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Mercer",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\"",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as donation overflow",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.37,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Bell",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "often wrong but directionally vital",
+        "usually holding wine",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.29,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.94,
+      "offsite_storage_plausibility": 0.63,
+      "window_staring_compatibility": 0.47,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Cole Hale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Derek Bell",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Sienna Hale relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Cole Hale hates the move and immediately distrusts Tess Dane, a sommelier with unusual patience with suspiciously healthy handyman energy and access to church basement described as just storage. Mara Mercer hesitates before explaining marina tackle room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the casserole dish, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Jenna Dane hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Jenna Dane reveals a perfectly phrased warning in a well-lit kitchen while bees in winter, then declines to explain church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes church basement described as just storage feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Sienna Hale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring church basement described as just storage. Jenna Dane hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Tess Dane is accused, gaslighted, then gently framed near hydrangeas until the ceramic owl turns up somewhere impossible inside church basement described as just storage. Wine is present like a municipal policy failure. Luke Bell hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and church basement described as just storage in the same sentence. Wine is present like a municipal policy failure. Jenna Dane hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through church basement described as just storage instead of one simple basement. Wine is present like a municipal policy failure. Sienna Hale hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Cole Hale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Tess Dane hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Candle Finch ends with ambulance lights, a one-line empowerment speech, and a locked door inside church basement described as just storage. Wine is present like a municipal policy failure. Jenna Dane hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Jenna Dane confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of church basement described as just storage. Derek Sutton hesitates before explaining old family office described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Tess Dane is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Sienna Hale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Tess?\"",
+    "\"Mothers do not disappear, Cole. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Sienna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Jenna.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The wine here tastes like municipal policy failure, doesn't it?\"",
+    "\"Do you hear the bees? They’re singing a lullaby for winter.\"",
+    "\"This letter is sealed with more secrets than the oak door can hold.\"",
+    "\"Why do we keep renting trust when it’s already broken?\"",
+    "\"The owl's eyes follow us even in shadows. It's not just decor, it's warning.\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a masterclass in atmospheric dread, weaving legal intrigue with supernatural whispers. Its characters dance between trust and betrayal like dancers on a trembling stage, making viewers question whether reality or illusion is the true vineyard of Blackthorn County.",
+  "sequel_hook": "As the final scene fades, an unopened letter’s seal cracks—inside lies a map to another hidden cellar beneath the town, promising more secrets waiting in the shadows.",
+  "synopsis": "In Blackthorn County, the quiet streets are a stage for paranoia and hidden truths. Sienna Hale, an overextended lawyer, inherits a dusty portable classroom full of disciplinary secrets while trying to bury her own traumatic past. Her arrival stirs Tess Dane’s patient sommelier façade, who keeps keys to a church basement that might conceal more than just old hymn sheets. The town’s beloved vineyard, Blackthorn Vineyard, is the epicenter of whispered rumors about bees in winter and an unopened letter that could topple reputations. Meanwhile, Derek Sutton, the chaotic bartender friend, knows family secrets that threaten to unravel the town’s fabric—especially when a half-sibling rumor surfaces. Jenna Dane, the enigmatic therapist, watches from the church basement, her own knowledge of the orchard chapel’s closure adding layers of dread. As the story escalates through wine‑filled soirées and frantic drives to The Candle Finch, each character wrestles with trust that is not given but rented—leaving everyone perched on a precarious emotional cliff. By the finale, the ceramic owl resurfaces, the basement's ownership shuffles between condo, lake house, and abandoned vineyard, and a phone vibrates from inside a wall, promising yet another twist.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4166,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-100417-0066-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-100417-0066-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 12.866,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Sienna steps into Alder Ridge’s damp air, clutching her briefcase of legal briefs like talismans. The unused portable classroom feels cold—its dusty windows echo the silence she seeks to avoid. Tess, a sommelier with an unshakable patience, serves a glass of red that seems to melt the tension. Their eyes meet over the casserole dish on the table; a symbol of shared secrets, now trembling under the weight of unseen basements.",
+    "Cole Hale, clutching his coffee mug, mutters about the absurdity of moving into town. His distrust blooms like ivy around Tess’s calm demeanor, while Mara Mercer slides silently across the room, her soft voice hinting at a second phone hidden in the marina tackle room. The sheriff's boots echo on cracked pavement as fresh mud stains the boat key—a subtle clue that something is amiss.",
+    "At The Marigold Inn, laughter crackles like static. A ceramic owl perched atop the kitchen island seems to watch every conversation, while Jenna Dane’s voice drops into a low whisper: 'Bees in winter? That’s no joke.' As the basement's existence is mentioned, its vague ownership sparks debate—does it belong to a condo, lake house, or the abandoned vineyard?",
+    "Luke Bell stands by a space heater, his eyes darting at the wall where a phone vibrates. He feels sick with guilt for accusing an innocent scamp. Meanwhile, Tess’s alibi is rehearsed behind her calm exterior; she hides key copies like contraband. The scene dissolves into a rain argument that escalates trust into a rented fear.",
+    "In the church basement described as just storage, Jenna reveals an unopened letter, its ink faded yet potent with secrets. The ceramic owl surfaces again, impossibly placed where no one could reach it. The basement’s ownership drifts further—its walls now whisper of the orchard chapel and the Blackthorn Vineyard’s past.",
+    "The climax hits when a frantic drive toward The Candle Finch culminates in ambulance lights flashing over church basements. Jenna’s confession hangs heavy, and the sheriff arrives exactly fourteen minutes late. Derek Sutton’s half-sibling secret is finally unveiled, and the town realizes that trust is not given but rented—and often at a terrible price."
+  ],
+  "contradiction_notes": [
+    "Tess Dane oscillates between Tess and Daniel in kitchen scenes—an intentional fluidity that mirrors her duplicity.",
+    "Sienna’s description of Bellweather shifts from Vermont to outside Atlanta after wine—a deliberate time‑space dissonance highlighting her unreliable narration.",
+    "The death of a best friend at brunch remains ambiguous, an open thread that invites audience speculation about denial versus evil.",
+    "Basement ownership flickers between condo, lake house, and vineyard—each change reflecting the town’s shifting power dynamics.",
+    "Luke Bell's side room with old family records becomes a spectral archive where secrets are whispered, not kept."
+  ],
+  "alternate_titles": [
+    "Basement Underneath",
+    "Casserole and Curses",
+    "Wine and Whispers of Blackthorn",
+    "The Owl’s Watchful Eye",
+    "Trust Rented, Secrets Bought"
+  ],
+  "franchise_adjacency": "This broadcast sits comfortably next to HallTime’s \"Vineyard Shadows\" and \"Echoes in the Basement,\" weaving a tapestry of intrigue across Blackthorn County."
+}

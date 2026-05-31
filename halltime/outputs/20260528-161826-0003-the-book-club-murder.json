@@ -1,0 +1,462 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "generation_feedback_used": true,
+  "title": "The Book Club Murder",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "an anniversary card mailed after the funeral",
+  "relationship_dynamic": "sabotaged medication and increasingly professional concern",
+  "starter_premise": {
+    "title": "The Book Club Murder",
+    "category": "thriller",
+    "intensity": "mid",
+    "premise": "Suburban women in a book club discover or witness something murderous and the investigation follows.",
+    "signature_tell": "The most mild-mannered one either did it or saw the most.",
+    "parent_title": "The Book Club Murder"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "locked room key on an optimistic keychain",
+    "nanny cam memory card",
+    "fishbowl chardonnay glass"
+  ],
+  "cast": [
+    {
+      "name": "Rachel Sutton",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.54,
+      "offsite_storage_plausibility": 0.65,
+      "window_staring_compatibility": 0.96,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Vale",
+      "archetype": "narcissist_ex_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "reformed co-parenting adult",
+      "hidden_function": "ego-driven destabilizer",
+      "job": "restaurant owner with image issues",
+      "traits": [
+        "acts wounded when confronted",
+        "texts at impossible hours",
+        "says he has changed with suspicious fluency"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.51,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.55,
+      "secret_capacity": [
+        "kept a second lease no one knew about",
+        "saved compromising screenshots in a folder named taxes"
+      ],
+      "innocence_probability": 0.22,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.74,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Pike",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "best_friend",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "subletter with immaculate eyeliner",
+      "traits": [
+        "resembles someone the protagonist lost",
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "asks for passwords with fake embarrassment"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.54,
+      "gazebo_energy": "medium",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "knows how to mimic the protagonist's voicemail tone",
+        "keeps photographs of a dead sister she never met"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.67,
+      "window_staring_compatibility": 0.52,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Noah Pike",
+      "archetype": "stalker_nanny_au_pair",
+      "role": "elegant_wildcard",
+      "surface_function": "perfect childcare solution",
+      "hidden_function": "domestic replacement campaign",
+      "job": "postpartum helper with boundaries missing in action",
+      "traits": [
+        "wears the mother's robe as if testing custody",
+        "arrives with glowing references and impossible calm",
+        "wins over children by the second breakfast"
+      ],
+      "threat_aura": 0.74,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "stalker_nanny_au_pair maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.58,
+      "secret_capacity": [
+        "tried on the protagonist's clothes while the pool cleaner watched nothing",
+        "tells toddlers stories that sound like custody prep"
+      ],
+      "suspicion_mode": "maternal_displacement",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.61,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Lark",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "Christmas tree farmer",
+      "traits": [
+        "unexpectedly good with children",
+        "probably builds furniture",
+        "accused at least once"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.92,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.44,
+      "secret_capacity": [
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.63,
+      "window_staring_compatibility": 0.5,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Wyatt Marlowe",
+      "archetype": "chaotic_best_friend",
+      "role": "secondary_witness",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as old family things",
+      "space_explanation_hesitation": 0.88,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Lark",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Luke Mercer",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "The engine is information asymmetry from the start: Suburban women in a book club discover or witness something murderous and the investigation follows. Somebody already knows more than Rachel Sutton, and the county intends to profit from that gap. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Luke Lark or another sharp witness notices the first asymmetry beat before the adults do, usually through behavior that looks small until it becomes doctrine. Noah Pike hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A social or domestic scene introduces the locked room key on an optimistic keychain alongside one piece of information the audience cannot yet correctly rank. Wine is present like a municipal policy failure. Mara Vale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Noah Pike offers a warning that sounds melodramatic until later when it becomes embarrassingly precise. Signature tell: The most mild-mannered one either did it or saw the most. Someone mentions the basement as if it were a legal relative. Wyatt Marlowe hesitates before explaining toolshed described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one ends with the gap established clearly enough to create pursuit but not enough to settle blame. Wine is present like a municipal policy failure. Noah Pike hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Rachel Sutton starts catching up through snooping, searches, or one bad conversation, but every new answer creates a fresh asymmetry somewhere else. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The police or authority beat shows who the system currently believes, which is usually not the person doing the most correct thinking. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "An object or scene near meditation annex nobody uses in winter weaponizes the knowledge gap by framing the wrong person or burying the right clue in plain sight. Wine is present like a municipal policy failure. Wyatt Lark hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The ally beat is really about information custody: who now holds the dangerous version of events and whether they can survive holding it. Someone mentions the basement as if it were a legal relative. Rachel Sutton hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Act two ends with Rachel Sutton close enough to the truth to be dangerous but still one beat behind the person who shaped the narrative first. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Noah Pike hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal clarifies not just what happened but who benefited from everyone misreading the information gap in the first place. Wine is present like a municipal policy failure. Mara Vale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Luke Lark or the unofficial witness spots the timeline error, digital slip, or spatial contradiction that official people failed to honor. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A chase, drive, or locked-room pivot near the unfenced pool behind the cul-de-sac rental forces the remaining information into motion instead of theory. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Mara Vale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The confrontation settles the visible gap, but the emotional cost depends on how much truth arrived too late. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The ending decides whether the asymmetry closes cleanly or leaves one last opening in the county's memory. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Rachel Sutton hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Mara Vale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Rachel Sutton says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\"",
+    "\"Mothers do not disappear, Luke. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Rachel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The locked room key on an optimistic keychain is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Noah.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"The Book Club Murder understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"The Book Club Murder\" follows Rachel Sutton, a sacred protagonist caught inside sabotaged medication and increasingly professional concern before she understood where the gap had already opened. Mara Vale collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: Suburban women in a book club discover or witness something murderous and the investigation follows. The signature tell is always this: The most mild-mannered one either did it or saw the most. As an anniversary card mailed after the funeral, what she cannot yet see becomes the syntax of the whole county, and every withheld fact keeps breathing just ahead of her. Love lives here. So does arson.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4194,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

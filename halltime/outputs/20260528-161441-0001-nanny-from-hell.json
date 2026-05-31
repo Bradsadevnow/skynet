@@ -1,0 +1,453 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "generation_feedback_used": true,
+  "title": "Nanny From Hell",
+  "tagline": "Inspired by something, probably.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "an anniversary card mailed after the funeral",
+  "relationship_dynamic": "perfect new husband with archived widow energy",
+  "starter_premise": {
+    "title": "Nanny From Hell",
+    "category": "wine_xanax_horror",
+    "intensity": "extreme",
+    "premise": "She has a whole fake family planned, complete with albums, a ring, and a baby name.",
+    "signature_tell": "There's a shoebox and nobody wants to see inside it.",
+    "parent_title": "Nanny From Hell",
+    "base_premise": "Great with kids, wants to be the mother, and intends to become the mother."
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "nanny cam memory card",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Brooke Bell",
+      "archetype": "narcissist_ex_wife_survivor",
+      "role": "protagonist",
+      "surface_function": "recovery protagonist with paperwork",
+      "hidden_function": "hypervigilant pattern recognizer",
+      "job": "property manager",
+      "traits": [
+        "still apologizes before telling the truth",
+        "can identify gaslighting by sentence three",
+        "keeps screenshots like sacred texts"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "medium",
+      "basement_implication": "narcissist_ex_wife_survivor maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "kept every voicemail because no one believed her the first time"
+      ],
+      "suspicion_mode": "pattern_broken_trust",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.35,
+      "offsite_storage_plausibility": 0.5,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Sienna Pruitt",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "dock repair contractor",
+      "traits": [
+        "accused at least once",
+        "owns flannel",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.89,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.7,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.42,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.95,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Claire Mercer",
+      "archetype": "woman_on_the_edge",
+      "role": "elegant_wildcard",
+      "surface_function": "possible victim or possible defendant",
+      "hidden_function": "rage reservoir",
+      "job": "probationary professor",
+      "traits": [
+        "seems one kitchen confession away from headline syntax",
+        "has slept four hours across a week",
+        "says he would not stop in a way nobody enjoys hearing twice"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "woman_on_the_edge maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "rehearsed a self-defense story before anything was proven",
+        "deleted 37 messages and remembers every word of them"
+      ],
+      "suspicion_mode": "volatile",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.32,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Mercer",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "makes tea incorrectly",
+        "says \"You seem upset\"",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.89,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.54,
+      "secret_capacity": [
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.9,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.81,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Bell",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "usually holding wine",
+        "often wrong but directionally vital",
+        "always investigating"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.63,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Luke Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Cole Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "From scene one the audience sees enough to dread the house, the husband, or the helper correctly before Brooke Bell does. She has a whole fake family planned, complete with albums, a ring, and a baby name. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Comfort and threat are fused immediately, so the category never pretends normalcy is truly available. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.09. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.09,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A domestic ritual involving snow globe turns uncanny early enough to make the rest of the movie feel trapped in aftermath. Signature tell: There's a shoebox and nobody wants to see inside it. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.19.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.19,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Mercer names the danger almost plainly, then retreats, leaving Brooke Bell with nobody credible enough to trust. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.30. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.3,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one ends with dread confirmed for us and denied to her. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.41.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.41,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "The authority beat turns hostile: police, therapist, doctor, or partner actively help trap Brooke Bell inside the wrong story. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.54.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.54,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The ally is compromised or removed before act three, ensuring the climax belongs to isolation rather than teamwork. Someone mentions the basement as if it were a legal relative. Brooke Bell hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.68. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.68,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Extreme-only beat: Brooke Bell finds the shoebox, second family, clinic paperwork, or fake archive proving this horror has serial architecture. Wine is present like a municipal policy failure. Brooke Bell hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.83.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.83,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The house or system now behaves like a closed loop designed to recycle victims. Emotional exposition arrives on schedule with insanity multiplier 1.99. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.99,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two escape requires disobedience, not explanation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.17.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.17,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The confrontation turns survival into an act of contamination management rather than clean heroism. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.37.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.37,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Brooke Bell gets out only partially intact, and the category refuses to pretend that exposure erases residue. Elias Bell hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A symbolic act involving boat key secures survival at the cost of permanent psychic theft. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.81. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.81,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The ending leaves the dread alive in memory, paperwork, or the children, even if the villain is finished. Someone mentions the basement as if it were a legal relative. Claire Mercer hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 3.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 3.07,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "extreme"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Sienna Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Brooke Bell says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Sienna?\"",
+    "\"Mothers do not disappear, Luke. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Brooke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Nanny From Hell understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Nanny From Hell\" follows Brooke Bell, a recovery protagonist with paperwork whose life seemed manageable at first, even after perfect new husband with archived widow energy opened a new room inside it. Sienna Pruitt seemed helpful. The house seemed calm. Even an anniversary card mailed after the funeral could have seemed incidental if anyone were still interested in the difference between comfort and staging. The governing injury is simple: She has a whole fake family planned, complete with albums, a ring, and a baby name. The signature tell is always this: There's a shoebox and nobody wants to see inside it. Everything seemed fine until it very plainly is not, and the narrator keeps talking softly enough to make that failure feel deliberate. Inspired by something, probably.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.3,
+    "male_cardigan_threat_score": 0.4072,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

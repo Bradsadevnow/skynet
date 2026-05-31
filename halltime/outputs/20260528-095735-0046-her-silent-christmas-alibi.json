@@ -1,0 +1,444 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Inspired by something, probably.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "blood-adjacent tea towel",
+    "ceramic owl",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Jenna Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.47,
+      "domestic_plausibility": 0.91,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as old family things",
+      "space_explanation_hesitation": 0.59,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Gavin Pike",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "probably builds furniture",
+        "accused at least once",
+        "fixes docks"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.53,
+      "secret_capacity": [
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Derek Mercer",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.98,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as just storage",
+      "space_explanation_hesitation": 0.83,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Pruitt",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.88,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.8,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Noah Vale",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\"",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.49,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as just storage",
+      "space_explanation_hesitation": 0.35,
+      "offsite_storage_plausibility": 0.74,
+      "window_staring_compatibility": 0.67,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Pruitt",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.85,
+      "offsite_storage_plausibility": 0.52,
+      "window_staring_compatibility": 0.61,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Hawthorne",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "notices timeline errors before adults do",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Evelyn Bell",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Jenna Winterson relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old family office described as old family things. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Wyatt Hawthorne hates the move and immediately distrusts Gavin Pike, a local carpenter with sad eyes with suspiciously healthy handyman energy and access to dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Channel 8 Night Report introduces the blood-adjacent tea towel, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Gavin Pike hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Elias Pruitt reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain unused portable classroom holding archived disciplinary files. Jenna Winterson hesitates before explaining old family office described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Pike hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Jenna Winterson snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside old family office described as old family things. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Elias Pruitt hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Gavin Pike is accused, gaslighted, then gently framed near hydrangeas until the ceramic owl turns up somewhere impossible inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and unused portable classroom holding archived disciplinary files in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties snow globe to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Wyatt Hawthorne spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Jenna Winterson hesitates before explaining old family office described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Elias Pruitt confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of dock office with a desk nobody fully claims. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Gavin Pike is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Jenna Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Gavin?\"",
+    "\"Mothers do not disappear, Wyatt. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Jenna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The blood‑adjacent tea towel is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Elias.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The wet ornament has a secret of its own, Jenna. It doesn't want to stay dry.\"",
+    "\"A door closed in winter can open in spring—if you’re willing to let it.\"",
+    "\"Every time we think we have the answer, another question rises from the floorboards.\"",
+    "\"The oak tree outside St. Agnes keeps watch over secrets and lies alike.\"",
+    "\"Sometimes the safest thing is to stay out of sight, even if you can’t breathe it.\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest offering, 'Her Silent Christmas Alibi,' spins a web of icy intrigue that laces together secrets, wine‑drunk confessionals, and the unsettling presence of a wet ornament. With a soundtrack of low hums and distant sirens, it crafts an atmosphere thick with dread—yet never fully resolves the mystery, leaving viewers to question whether truth is something we can trust or merely rent.",
+  "sequel_hook": "The next chapter will follow Jenna Winterson as she hunts down the vanished ceramic owl, uncovering a hidden vault beneath the town’s oldest tree that promises to expose the darkest secrets of Blackthorn County—while the wet ornament’s final secret may change everything.",
+  "synopsis": "In the frost‑bitten shadows of Winter Hollow, Jenna Winterson wrestles with a legacy that drips like stale wine—an old family office, an unsent email poised to unravel generations, and a Christmas ornament that falls wet from a forgotten mantle. Her arrival is met by Wyatt Hawthorne’s sharp disdain for newcomers and Gavin Pike’s enigmatic carpentry, both cloaked in the same dock office whose desk remains unclaimed yet full of secrets. As rumors swirl like snowflakes around the blood‑adjacent tea towel and a ceramic owl that surfaces where it should not, Jenna’s quest to protect her career collides with family guilt that gnaws at every corner. The town’s municipal policies crumble beneath wine‑soaked scandals while a snow globe spins stories of Blackthorn Vineyard and St. Agnes Regional, linking past tragedies to present lies. In the end, trust is revealed as a rented commodity—paid for in fear, paid back in truth—while an unseen basement becomes the ultimate stage where all characters confront their shadows. The finale leaves audiences breathing heavy, eyes wet, and the promise that Winter Hollow’s secrets will never truly die.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4128,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095735-0046-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095735-0046-response.txt",
+    "attempts": 3,
+    "elapsed_seconds": 21.621,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Jenna pouring a glass of aged Merlot into a chipped ceramic mug, its liquid reflecting the flickering lights of an old family office filled with faded portraits and dust‑kissed archives. The walls whisper of a past she cannot yet fathom as she navigates the labyrinth of inherited secrets, each creak of the floorboards echoing her own pulse. Meanwhile, the camera pans to the dock office where Gavin Pike, his eyes dulled by sad memories, quietly assembles a wooden plaque that seems to hum with the town’s hidden narratives. The atmosphere thickens as a wind rattles loose pages—old emails, unspoken truths, and a single wet ornament that slides from its mantle into the snow‑globe’s watery heart. Jenna’s fingers tremble on the keyboard of an ancient laptop; she hunts for evidence yet finds only more questions. A distant bell tolls—perhaps the town’s own conscience ringing in sync with her growing dread.",
+    "Scene 2 bursts onto a brunch table, where Wyatt Hawthorne’s sharp sarcasm slices through the gentle clink of silverware. He slams a glass down and mutters about Gavin’s “handyman energy,” while the wine on the sideboard seems to mock the polished surface of their relationships. The room swells with murmurs about the orchard road’s forgotten woman, her tale woven into every conversation like an invisible thread. A sudden knock at the door sends the group into a hushed silence; the blood‑adjacent tea towel, once a decorative relic, now drips faintly, as if absorbing the secrets of the room. Jenna looks away, eyes tracking a flicker on the wall—perhaps a phone vibration or an unseen presence—while the wet ornament slides closer to the table, its glass rim catching the dim light like a siren’s call.",
+    "Scene 3 unfolds in the glow of Channel 8 Night Report’s studio, where a charismatic host introduces the town’s latest gossip: the ceramic owl that has inexplicably appeared at a dock office. The camera zooms in on the owl’s glossy feathers, reflecting the neon glare, while viewers hear whispers about a basement that might hold more than dust and secrets. The atmosphere thickens with the scent of wine still lingering on Jenna’s fingertips as she navigates between desks—one belonging to an unclaimed owner and another holding the weight of a family’s past. In the background, a low rumble suggests a heater running in the old office, a subtle reminder that warmth can be both comforting and dangerous. The scene ends with the owl perched atop a stack of legal documents, its eyes seeming to stare straight into the camera.",
+    "Scene 4 reaches its crescendo when Elias Pruitt enters a well‑lit kitchen, her elegant silhouette casting long shadows over a perfectly phrased warning written in flour. She speaks of the wet ornament that now drips from a shelf and refuses to explain why it sits there—a silent accusation lodged in the space between two kitchens. The camera pans to an unused portable classroom where archival files lie untouched, as if time itself has paused. Jenna, with a tremor in her voice, reveals a hidden laptop screen, its glow reflecting on her face like a confession. A distant phone vibrates from within the wall—an omen that no secret can stay buried for long. The scene concludes with Elias turning away, leaving behind a silence thick enough to drown out the town’s whispers.",
+    "Scene 5 is set against the cliffs overlooking the ocean, where the emotional stakes reach their peak. A cliffside wind whips through Jenna’s hair as she confronts Gavin Pike about his past—his engagement that ended under suspiciously quiet circumstances. The air crackles with tension, each word like a stone thrown into the sea of trust. The camera cuts to an unused portable classroom where archived disciplinary files lie open, their pages fluttering in the breeze—a symbol of the town’s buried truths now being called upon. A basement light flickers in an empty house, casting long shadows that mingle with Jenna’s doubts. The scene ends on a note of ambiguity, as the wet ornament slips off a shelf and falls into a snow globe that seems to hold the very essence of Winter Hollow’s past.",
+    "Scene 6 culminates in a frantic drive toward the gazebo at Lake Mercy. Ambulance lights blaze red across the night sky as Jenna races against time, clutching a single piece of evidence—a ceramic owl that appears where it shouldn’t. The air is thick with cold and urgency; each breath seems to echo the town’s collective fear. The scene concludes on an open-ended note: a locked door within the unused portable classroom remains shut, its secrets hidden behind rusted hinges. Jenna’s voice, barely audible over the sirens, delivers a one‑line empowerment speech that reverberates through the town, promising that truth will be uncovered no matter how deeply buried.",
+    "Scene 7 ends with a quiet aftermath as the sheriff finally arrives at the dock office, fifteen minutes late and covered in fresh mud. He stares through a dusty window while Elias Pruitt confesses just enough to deepen the mystery—her inherited documents reveal why the orchard chapel was closed long ago. The basement’s walls whisper of hidden rooms and abandoned vineyards, its light flickering like a dying star. In the background, a wet ornament clinks against a snow globe as if echoing a distant cry for help. The town stands still, waiting to see what will happen next—whether the truth can survive the storm or whether Winter Hollow will succumb to its own secrets.",
+    "Scene 8 shows a chilling conclusion as the ceramic owl reappears in the dock office’s broken window. A whispered conversation about the Winterson case, the vineyard fire, and an offsite room unfolds while wine drips like a municipal policy failure onto the floor. The town holds its breath; the basement’s light flickers once more, hinting that the truth is almost out of reach. In this final moment, someone who should be dead appears at brunch—an impossible presence that threatens to unravel every narrative thread.",
+    "Scene 9 wraps up with a dramatic revelation: the wet ornament has fallen into the snow globe, and as it spins, so do the memories of Blackthorn Vineyard, St. Agnes Regional, and Winter Hollow’s forgotten past. Jenna realizes that trust is rented, not given—an expensive lease she can no longer afford to ignore.",
+    "Scene 10 concludes with a sense of foreboding: the basement remains an enigma, its walls still holding secrets that may or may not be ready to surface. The town’s future hangs in the balance as the final line of dialogue echoes across the empty house—a promise that Winter Hollow’s stories will never truly die.",
+    "Scene 11 ends on a note of unresolved tension—an open door within the unused portable classroom suggests that truth will continue to seep into every corner, however slowly it may do so."
+  ],
+  "contradiction_notes": [
+    "Gavin Pike’s identity shifts from a rugged scamp to a Daniel in one kitchen scene, then Derek during a rain argument—each alias layering confusion into his already murky past.",
+    "Jenna’s geographic references bounce between Vermont, Atlanta, and the very real town of Bellweather—an endless loop that keeps readers guessing whether she’s lost or deliberately misdirecting.",
+    "A dead best friend appears at brunch, leaving no consensus on death versus denial—her presence becomes a symbol of unresolved grief or supernatural inevitability.",
+    "The basement’s ownership drifts from condo to lake house to abandoned vineyard—each claim adds depth to the mystery and keeps the audience unsettled.",
+    "The wet ornament’s location oscillates between old family office, dock office, and snow globe—its movement mirroring the story’s emotional volatility."
+  ],
+  "alternate_titles": [
+    "Winter Hollow's Whisper",
+    "Frozen Trusts",
+    "The Wet Ornament",
+    "Blackthorn Secrets: Winter Edition",
+    "Echoes from the Basement"
+  ],
+  "franchise_adjacency": "This broadcast sits comfortably beside HallTime's 'Lake Mercy Mysteries' and 'St. Agnes Requiem,' creating a cohesive tapestry of small‑town noir that explores trust, legacy, and the thin line between faith and fear."
+}

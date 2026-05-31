@@ -1,0 +1,2115 @@
+{
+  "nodes": [
+    {
+      "kind": "archetype",
+      "value": "overextended_professional_woman",
+      "weight": 337
+    },
+    {
+      "kind": "archetype",
+      "value": "chaotic_best_friend",
+      "weight": 337
+    },
+    {
+      "kind": "archetype",
+      "value": "mysterious_elegant_woman",
+      "weight": 337
+    },
+    {
+      "kind": "archetype",
+      "value": "intuitive_disaster",
+      "weight": 337
+    },
+    {
+      "kind": "archetype",
+      "value": "daughter_with_hostile_divorce_attorney_soul",
+      "weight": 337
+    },
+    {
+      "kind": "archetype",
+      "value": "deputy_with_emotional_damage",
+      "weight": 337
+    },
+    {
+      "kind": "phrase",
+      "value": "municipal policy failure",
+      "weight": 337
+    },
+    {
+      "kind": "phrase",
+      "value": "brunch",
+      "weight": 337
+    },
+    {
+      "kind": "phrase",
+      "value": "vineyard fire",
+      "weight": 337
+    },
+    {
+      "kind": "phrase",
+      "value": "kitchen",
+      "weight": 337
+    },
+    {
+      "kind": "phrase",
+      "value": "basement",
+      "weight": 337
+    },
+    {
+      "kind": "phrase",
+      "value": "ceramic owl",
+      "weight": 337
+    },
+    {
+      "kind": "phrase",
+      "value": "casserole dish",
+      "weight": 337
+    },
+    {
+      "kind": "phrase",
+      "value": "unopened letter",
+      "weight": 337
+    },
+    {
+      "kind": "town",
+      "value": "bellweather",
+      "weight": 337
+    },
+    {
+      "kind": "phrase",
+      "value": "just storage",
+      "weight": 335
+    },
+    {
+      "kind": "phrase",
+      "value": "boat key",
+      "weight": 301
+    },
+    {
+      "kind": "archetype",
+      "value": "divorced_redemption_dad",
+      "weight": 175
+    },
+    {
+      "kind": "archetype",
+      "value": "decorative_husband",
+      "weight": 170
+    },
+    {
+      "kind": "archetype",
+      "value": "soft_spoken_menace",
+      "weight": 167
+    },
+    {
+      "kind": "archetype",
+      "value": "rugged_scamp",
+      "weight": 162
+    },
+    {
+      "kind": "prop",
+      "value": "casserole dish",
+      "weight": 159
+    },
+    {
+      "kind": "prop",
+      "value": "snow globe",
+      "weight": 155
+    },
+    {
+      "kind": "prop",
+      "value": "scarf with impossible timing",
+      "weight": 151
+    },
+    {
+      "kind": "prop",
+      "value": "ceramic owl",
+      "weight": 147
+    },
+    {
+      "kind": "prop",
+      "value": "boat key",
+      "weight": 146
+    },
+    {
+      "kind": "prop",
+      "value": "unopened letter",
+      "weight": 140
+    },
+    {
+      "kind": "town",
+      "value": "marigold falls",
+      "weight": 129
+    },
+    {
+      "kind": "town",
+      "value": "blackthorn lake",
+      "weight": 128
+    },
+    {
+      "kind": "town",
+      "value": "alder ridge",
+      "weight": 124
+    },
+    {
+      "kind": "town",
+      "value": "winter hollow",
+      "weight": 115
+    },
+    {
+      "kind": "prop",
+      "value": "blood-adjacent tea towel",
+      "weight": 113
+    },
+    {
+      "kind": "phrase",
+      "value": "regional utility",
+      "weight": 57
+    },
+    {
+      "kind": "title",
+      "value": "Her Silent Christmas Alibi",
+      "weight": 53
+    },
+    {
+      "kind": "title",
+      "value": "The Neighbor Who Babysat Too Much",
+      "weight": 50
+    },
+    {
+      "kind": "title",
+      "value": "What My Sister Buried",
+      "weight": 49
+    },
+    {
+      "kind": "title",
+      "value": "He Knows I Bake at Midnight",
+      "weight": 49
+    },
+    {
+      "kind": "title",
+      "value": "A Casserole for the Missing",
+      "weight": 47
+    },
+    {
+      "kind": "title",
+      "value": "The Widow in Cabin 9",
+      "weight": 46
+    },
+    {
+      "kind": "phrase",
+      "value": "portable suspicion",
+      "weight": 43
+    },
+    {
+      "kind": "title",
+      "value": "The Vineyard Lies Beneath Us",
+      "weight": 43
+    }
+  ],
+  "edges": [
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "overextended_professional_woman",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "chaotic_best_friend",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "mysterious_elegant_woman",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "intuitive_disaster",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "daughter_with_hostile_divorce_attorney_soul",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "deputy_with_emotional_damage",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "municipal policy failure",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "brunch",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "vineyard fire",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "kitchen",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "basement",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "ceramic owl",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "casserole dish",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "unopened letter",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "bellweather",
+      "weight": 53
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "just storage",
+      "weight": 52
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "boat key",
+      "weight": 51
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "overextended_professional_woman",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "chaotic_best_friend",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "mysterious_elegant_woman",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "intuitive_disaster",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "daughter_with_hostile_divorce_attorney_soul",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "deputy_with_emotional_damage",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "just storage",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "municipal policy failure",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "brunch",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "vineyard fire",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "kitchen",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "basement",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "ceramic owl",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "casserole dish",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "unopened letter",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "bellweather",
+      "weight": 50
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "overextended_professional_woman",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "chaotic_best_friend",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "mysterious_elegant_woman",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "intuitive_disaster",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "daughter_with_hostile_divorce_attorney_soul",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "deputy_with_emotional_damage",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "municipal policy failure",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "brunch",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "vineyard fire",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "kitchen",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "basement",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "ceramic owl",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "casserole dish",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "unopened letter",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "bellweather",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "overextended_professional_woman",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "chaotic_best_friend",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "mysterious_elegant_woman",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "intuitive_disaster",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "daughter_with_hostile_divorce_attorney_soul",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "deputy_with_emotional_damage",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "just storage",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "municipal policy failure",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "brunch",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "vineyard fire",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "kitchen",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "basement",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "ceramic owl",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "casserole dish",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "unopened letter",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "bellweather",
+      "weight": 49
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "just storage",
+      "weight": 48
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "overextended_professional_woman",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "chaotic_best_friend",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "mysterious_elegant_woman",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "intuitive_disaster",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "daughter_with_hostile_divorce_attorney_soul",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "deputy_with_emotional_damage",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "just storage",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "municipal policy failure",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "brunch",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "vineyard fire",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "kitchen",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "basement",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "ceramic owl",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "casserole dish",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "unopened letter",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "bellweather",
+      "weight": 47
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "overextended_professional_woman",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "chaotic_best_friend",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "mysterious_elegant_woman",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "intuitive_disaster",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "daughter_with_hostile_divorce_attorney_soul",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "deputy_with_emotional_damage",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "just storage",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "municipal policy failure",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "brunch",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "vineyard fire",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "kitchen",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "basement",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "ceramic owl",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "casserole dish",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "unopened letter",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "bellweather",
+      "weight": 46
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "boat key",
+      "weight": 44
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "boat key",
+      "weight": 44
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "boat key",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "overextended_professional_woman",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "chaotic_best_friend",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "mysterious_elegant_woman",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "intuitive_disaster",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "daughter_with_hostile_divorce_attorney_soul",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "deputy_with_emotional_damage",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "just storage",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "municipal policy failure",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "brunch",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "vineyard fire",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "kitchen",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "basement",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "ceramic owl",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "casserole dish",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "unopened letter",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "bellweather",
+      "weight": 43
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "boat key",
+      "weight": 41
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "boat key",
+      "weight": 41
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "boat key",
+      "weight": 37
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "divorced_redemption_dad",
+      "weight": 34
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "soft_spoken_menace",
+      "weight": 32
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "soft_spoken_menace",
+      "weight": 32
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "decorative_husband",
+      "weight": 32
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "rugged_scamp",
+      "weight": 31
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "decorative_husband",
+      "weight": 30
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "casserole dish",
+      "weight": 30
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "divorced_redemption_dad",
+      "weight": 29
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "scarf with impossible timing",
+      "weight": 28
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "decorative_husband",
+      "weight": 28
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "ceramic owl",
+      "weight": 28
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "casserole dish",
+      "weight": 28
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "scarf with impossible timing",
+      "weight": 27
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "divorced_redemption_dad",
+      "weight": 27
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "soft_spoken_menace",
+      "weight": 27
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "scarf with impossible timing",
+      "weight": 26
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "snow globe",
+      "weight": 26
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "boat key",
+      "weight": 26
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "soft_spoken_menace",
+      "weight": 26
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "ceramic owl",
+      "weight": 25
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "blackthorn lake",
+      "weight": 25
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "rugged_scamp",
+      "weight": 25
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "casserole dish",
+      "weight": 25
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "decorative_husband",
+      "weight": 25
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "snow globe",
+      "weight": 24
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "snow globe",
+      "weight": 24
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "snow globe",
+      "weight": 24
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "unopened letter",
+      "weight": 24
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "rugged_scamp",
+      "weight": 24
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "blood-adjacent tea towel",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "ceramic owl",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "rugged_scamp",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "casserole dish",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "blackthorn lake",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "marigold falls",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "divorced_redemption_dad",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "alder ridge",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "boat key",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "soft_spoken_menace",
+      "weight": 23
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "boat key",
+      "weight": 22
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "casserole dish",
+      "weight": 22
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "blood-adjacent tea towel",
+      "weight": 22
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "decorative_husband",
+      "weight": 22
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "divorced_redemption_dad",
+      "weight": 22
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "marigold falls",
+      "weight": 21
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "boat key",
+      "weight": 21
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "unopened letter",
+      "weight": 21
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "divorced_redemption_dad",
+      "weight": 21
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "winter hollow",
+      "weight": 21
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "winter hollow",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "winter hollow",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "unopened letter",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "rugged_scamp",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "ceramic owl",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "rugged_scamp",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "scarf with impossible timing",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "unopened letter",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "snow globe",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "alder ridge",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "decorative_husband",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "boat key",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "boat key",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "marigold falls",
+      "weight": 20
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "snow globe",
+      "weight": 19
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "marigold falls",
+      "weight": 19
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "rugged_scamp",
+      "weight": 19
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "alder ridge",
+      "weight": 19
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "blackthorn lake",
+      "weight": 19
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "divorced_redemption_dad",
+      "weight": 19
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "unopened letter",
+      "weight": 19
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "unopened letter",
+      "weight": 18
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "ceramic owl",
+      "weight": 18
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "scarf with impossible timing",
+      "weight": 18
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "unopened letter",
+      "weight": 18
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "scarf with impossible timing",
+      "weight": 18
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "blackthorn lake",
+      "weight": 18
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "snow globe",
+      "weight": 18
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "alder ridge",
+      "weight": 17
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "winter hollow",
+      "weight": 17
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "ceramic owl",
+      "weight": 17
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "marigold falls",
+      "weight": 17
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "marigold falls",
+      "weight": 16
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "blood-adjacent tea towel",
+      "weight": 16
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "soft_spoken_menace",
+      "weight": 16
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "casserole dish",
+      "weight": 16
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "ceramic owl",
+      "weight": 16
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "blood-adjacent tea towel",
+      "weight": 16
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "alder ridge",
+      "weight": 15
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "blackthorn lake",
+      "weight": 15
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "casserole dish",
+      "weight": 15
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "alder ridge",
+      "weight": 15
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "alder ridge",
+      "weight": 15
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "blackthorn lake",
+      "weight": 14
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "blackthorn lake",
+      "weight": 14
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "scarf with impossible timing",
+      "weight": 14
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "boat key",
+      "weight": 14
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "winter hollow",
+      "weight": 13
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "decorative_husband",
+      "weight": 13
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "winter hollow",
+      "weight": 13
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "blood-adjacent tea towel",
+      "weight": 13
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "marigold falls",
+      "weight": 13
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "blood-adjacent tea towel",
+      "weight": 12
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "appears_with",
+      "target_kind": "prop",
+      "target_value": "blood-adjacent tea towel",
+      "weight": 11
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "located_in",
+      "target_kind": "town",
+      "target_value": "winter hollow",
+      "weight": 11
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "casts",
+      "target_kind": "archetype",
+      "target_value": "soft_spoken_menace",
+      "weight": 11
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "regional utility",
+      "weight": 10
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "regional utility",
+      "weight": 9
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "regional utility",
+      "weight": 9
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "regional utility",
+      "weight": 9
+    },
+    {
+      "source_kind": "title",
+      "source_value": "Her Silent Christmas Alibi",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "portable suspicion",
+      "weight": 8
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "portable suspicion",
+      "weight": 7
+    },
+    {
+      "source_kind": "title",
+      "source_value": "What My Sister Buried",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "regional utility",
+      "weight": 7
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "portable suspicion",
+      "weight": 7
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Vineyard Lies Beneath Us",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "regional utility",
+      "weight": 7
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Neighbor Who Babysat Too Much",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "portable suspicion",
+      "weight": 6
+    },
+    {
+      "source_kind": "title",
+      "source_value": "A Casserole for the Missing",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "portable suspicion",
+      "weight": 6
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "regional utility",
+      "weight": 6
+    },
+    {
+      "source_kind": "title",
+      "source_value": "The Widow in Cabin 9",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "portable suspicion",
+      "weight": 5
+    },
+    {
+      "source_kind": "title",
+      "source_value": "He Knows I Bake at Midnight",
+      "relation": "recurs_in",
+      "target_kind": "phrase",
+      "target_value": "portable suspicion",
+      "weight": 4
+    }
+  ]
+}

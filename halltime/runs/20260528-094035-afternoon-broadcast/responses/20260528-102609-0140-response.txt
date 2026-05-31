@@ -1,0 +1,44 @@
+{
+  "expanded_synopsis": "In the snow‑kissed backwater of Winter Hollow, lawyer Evelyn Winterson inherits an old family office that smells of dust and forgotten contracts. She arrives with a briefcase full of legalese, yet her heart clutches an invisible weight from a past implosion—an emotional catastrophe she keeps buried beneath stacks of paperwork. Her arrival rattles the town’s quiet equilibrium: the widowed boat mechanic Daniel Mercer watches from his workshop like a silent sentinel; Wyatt Pike, the salon owner with a secret casserole dish, whispers about the city’s hidden kitchens; Noah Pike, the sommelier who speaks in measured patience, holds a second phone as if to safeguard against betrayal. The community’s Christmas is marred by a wet ornament that drips onto an unopened letter, and every character suspects another, yet none admit guilt outright. As Evelyn digs deeper, a key labeled “Blackthorn Vineyard” surfaces from the office’s attic—an artifact that binds the town’s past fires to its future sins. The narrative spirals into a carnival of misdirection, where every secret is both a shield and a weapon. By Act Three, the basement lights flicker as if echoing the town’s own fractured memories, leaving viewers to question whether redemption can ever be stored in a dusty storage unit or merely whispered over a glass of wine.",
+  "scene_paragraphs": [
+    "Act One Scene Four unfolds in Daniel Hawthorne’s well‑lit kitchen where he delivers a perfectly phrased warning about a wet ornament that clings to the ceiling like a damp confession. The air is thick with the scent of baked pastries and the sharp metallic taste of wine—an emblem of municipal policy failure in every glass. As the ornament drips, Daniel’s eyes flicker toward the storage unit that holds seasonal materials, hinting at a hidden agenda. A phone vibrates from within an old wall, echoing like distant footsteps on forgotten foundations.",
+    "In Act Two Scene Eight, Daniel Mercer is gaslighted under hydrangea shadows while a snow globe turns up impossibly inside the just‑storage office. The scene teeters between reality and illusion: the town’s fundraiser feels more like a charade than safety, as Derek Sutton hesitates to explain the old storm shelter—his voice trembling over the creak of wooden beams that once sheltered divorce tears.",
+    "Act Three Scene Twelve presents Jenna Hawthorne in a frantic search for the timeline error. She spots how every adult rents spiritually and questions why storage is all anyone owns. The basement’s legal relative whisper echoes through a cracked wall, as fresh mud stains appear on Daniel’s boat key—an omen of impending truth that will unravel the town’s façade.",
+    "The climax in Act Three Scene Fourteen shows Daniel Hawthorne confessing just enough to make the truth worse, while the sheriff arrives fourteen minutes late. The dusty window of the old family office frames a lone silhouette, and a basement light flickers as if the house itself is breathing in anticipation of the next chapter.",
+    "In the feverish drive toward Channel 8 Night Report, Noah Pike’s dock office becomes a sanctuary for secrets. His hesitancy in explaining the desk that nobody claims mirrors the town’s collective fear: every question answered only deepens another hidden layer. Ambulance lights slice through the night as if cutting a knife through the city’s calm veneer.",
+    "The final scene of the expansion, Act Three Scene Fifteen, lands with a sequel bait where the ceramic owl reappears, whispering about the Winterson case and the vineyard fire. The basement light switches on in an empty house, sealing the story with a promise that some truths are too heavy for storage units and too fragile for the law."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Daniel?\"",
+    "\"Mothers do not disappear, Jenna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Evelyn. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Daniel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"We’re all hiding behind these wet ornaments; they drip like guilt into our hands.\"",
+    "\"Daniel, the boat key was never meant for you. It belongs to a vineyard that burned on your birthday.\"",
+    "\"Evelyn, your briefcase is heavier than your conscience; maybe it’s time to drop some papers.\"",
+    "\"Noah, why do you keep a second phone? Are you planning an escape or just avoiding another call?\"",
+    "\"Wyatt, the casserole dish hides more than food. It holds evidence of someone’s secret past.\"",
+    "\"Jenna, every wall in this town whispers secrets; maybe we’re just listening to our own echoes.\""
+  ],
+  "contradiction_notes": [
+    "Daniel Mercer is addressed as Derek during the rain argument—perhaps a nickname or a case of mistaken identity that deepens his enigmatic aura.",
+    "Evelyn’s geography drift from Vermont to Atlanta after wine suggests either a mind in flux or a town that refuses to be anchored by geography.",
+    "A dead best friend’s appearance at brunch blurs the line between memory and reality, leaving audiences uncertain if death is merely narrative shorthand.",
+    "The basement’s ownership oscillates between condo, lake house, and vineyard—indicating the town’s fluid property myths.",
+    "The wet ornament appears in multiple locations, hinting that objects are more symbolic than physical."
+  ],
+  "fake_critic_blurb": "\"A haunting symphony of whispers and wet ornaments. HallTime delivers a noir Christmas wrapped in bureaucratic dread and sparkling wine—every scene feels like a secret waiting to spill from an old family office.\"",
+  "sequel_hook": "\"When the ceramic owl reappears, the town’s darkest secret is about to crack open, revealing that some truths are too heavy for storage units and too fragile for the law.\"",
+  "alternate_titles": [
+    "The Ornament That Dripped Truths",
+    "Wine & Warnings in Winter Hollow",
+    "Secrets Behind the Basement Light",
+    "A Wet Christmas in Blackthorn County",
+    "Evelyn’s Archive of Lies"
+  ],
+  "franchise_adjacency": "\"This belongs beside HallTime’s other mystery‑drama anthologies such as ‘The Velvet Ledger’ and ‘Silent Towns: The Forgotten Fires’, where the mundane is a veneer over sinister undercurrents.\""
+}

@@ -1,0 +1,442 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "What My Sister Buried",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "unopened letter",
+    "boat key",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Cole Hale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "bakery owner",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.41,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Sienna Hawthorne",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "hardware store owner",
+      "traits": [
+        "allowed one lake monologue",
+        "forgot a recital once and never recovered",
+        "emotionally constipated"
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.66,
+      "secret_capacity": [
+        "knows where evidence should have been",
+        "ignored a warning text on the worst possible night"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.49,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.64,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.95,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Pruitt",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "elevated scarf density",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.78,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as just storage",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.82,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Mercer",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "too calm",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.69,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.39,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as donation overflow",
+      "space_explanation_hesitation": 0.58,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Pruitt",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.36,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.64,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Rachel Pruitt",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Brooke Pike",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Cole Hale relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting church basement described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Rachel Pruitt hates the move and immediately distrusts Sienna Hawthorne, a hardware store owner with suspiciously healthy handyman energy and access to old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the unopened letter, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Pruitt reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain old family office described as just storage. Someone mentions the basement as if it were a legal relative. Derek Pruitt hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes old storm shelter from before the divorce feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Cole Hale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside church basement described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Sienna Hawthorne hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Sienna Hawthorne is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Cole Hale hesitates before explaining church basement described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old family office described as just storage in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties snow globe to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old storm shelter from before the divorce instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Rachel Pruitt spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Candle Finch ends with ambulance lights, a one-line empowerment speech, and a locked door inside old family office described as just storage. Wine is present like a municipal policy failure. Mara Mercer hesitates before explaining annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Pruitt confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Luke Hawthorne hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Sienna Hawthorne is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Cole Hale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Sienna?\"",
+    "\"Mothers do not disappear, Rachel. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Cole. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Do you realize how many doors you've left unlocked tonight?\"",
+    "\"Every lock has its own song, Sienna, but some melodies drown out others.\"",
+    "\"We live in a house of secrets; it's time someone broke the silence.\"",
+    "\"You think we can trust a man who sells hardware?\"",
+    "\"In this town, even whispers have fingerprints.\"",
+    "\"The snow globe doesn't just hold water—it holds our future.\"\n"
+  ],
+  "fake_critic_blurb": "HallTime’s 'What My Sister Buried' turns Blackthorn County into an opulent gothic carnival of secrets. With its lush set design, smoky atmosphere, and a cast that waltzes between redemption and menace, it delivers a haunting narrative that feels like a mirror held up to the collective human conscience—yet each reflection is slightly warped.\n",
+  "sequel_hook": "In the aftermath of the Candle Finch's collapse, an old photograph surfaces in the basement, hinting at a hidden lineage that could rewrite Blackthorn County’s very foundations. Will the next season follow the path from buried secrets to the town’s rebirth?\n",
+  "synopsis": "In the snow‑laden heart of Blackthorn County, Cole Hale arrives with a broken back and an even more fragile ego, hoping to bury her past beneath the church basement’s forgotten ledgers. Yet every dusty shelf seems to pulse with the weight of a family that refuses to die quietly. Sienna Hawthorne—hardware store owner and self‑proclaimed savior—harbors a secret map to a storm shelter that might hold the key to Cole’s vanished memories, but his own conscience is shrouded in doubt. Luke Hawthorne, bartender extraordinaire, offers gossip like bitters, whispering about half‑siblings and impending doom with every poured pint. Gavin Pruitt, gallery owner with a penchant for inherited documents, holds the town’s hidden truths behind glass, while Mara Mercer watches from the shadows of a private school annex, counting sheriff responses like prayer times. The narrative spirals through wine‑stained confessions, wet ornaments that drip dread, and a snow globe that reflects an entire vineyard in miniature. Each scene collapses on itself, forcing characters to confront their own ghosts, all while Blackthorn’s geography, mortality, and property shift like mirages, ensuring the town never quite settles into narrative comfort.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4372,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103014-0155-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103014-0155-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.927,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Cole Hale in the church basement, rain tapping on leaded windows as she unpacks a battered suitcase. The air is thick with dust motes that glitter like trapped memories; every step echoes against stone. She clutches an unopened letter—its ink yellowing with time—and mutters about 'paperwork I have not gone through yet.' A faint wine smell lingers, hinting at the town’s municipal policy failure. Sienna Hawthorne slips in through a cracked door, flannel draped over his shoulders like armor, and offers her hardware tools as a peace offering. The tension between career ambition and family guilt crackles like static on an old radio.\n",
+    "Scene 2 follows Rachel Pruitt in the Bellweather Sheriff's Office, where the fluorescent lights flicker as she stares at the unopened letter. A phone vibrates against the wall—its ringtone a discordant hymn of suspicion. The snow globe sits beside a cracked photograph of St. Agnes Regional, its tiny figurines frozen mid‑dance. The winter wind whistles through cracks in the building’s stone walls, echoing the town’s secretive heartbeat. The scene crescendos as Gavin Pruitt delivers a perfectly phrased warning about a wet ornament, his voice trembling like glass.\n",
+    "Scene 3 transports us to the old storm shelter where Sienna hides evidence. His hands tremble as he unlocks a rusted door; inside, a boat key glimmers under a tarp of forgotten years. The room smells of mildew and fear—an atmosphere thick enough to choke on. Mara Mercer watches from an annex, her phone blinking with notifications that feel like prayer times. The scene ends with a quiet revelation: the basement is not just a structure but a living legal relative, a concept that gnaws at the collective conscience.\n",
+    "Scene 4 centers around Luke Hawthorne in his toolshed, where he stumbles upon half‑siblings' secrets written on napkins. He pauses to drink from a chipped mug of whiskey while reflecting on whether he will die first or survive against all odds. The atmosphere feels like a jazz club—smooth, yet ominously offbeat. The scene ends with an ominous whisper: “If that basement is innocent, why does it sound defensive?”\n",
+    "Scene 5 culminates at the Candle Finch, where Gavin Pruitt confesses in a half‑truth that shatters everyone’s fragile trust. A storm brews outside; thunder rumbles like applause. The town’s sheriff arrives fifteen minutes late—exactly fourteen minutes too late—and sees fresh mud on the boat key. The scene ends with a cinematic freeze frame of the ceramic owl perched atop a kitchen island, its eyes reflecting an unspoken secret.\n",
+    "Scene 6 resolves in the snow globe's miniature vineyard, where Rachel spots a timeline error that everyone has spiritually rented around. She questions why every adult in Blackthorn owns just storage—her words echo like a choir’s final note. The scene concludes with a dramatic ambulance lights flashing past, followed by a single line of empowerment speech that leaves viewers trembling.\n"
+  ],
+  "contradiction_notes": [
+    "Sienna Hawthorne is called Daniel in one kitchen scene and Derek during the rain argument—perhaps a split‑identity or misread name.\n",
+    "Cole Hale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine—maybe a drunken geographic detour.\n",
+    "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather—an intentional labyrinthine property shift.\n",
+    "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling—confusing but atmospheric.\n",
+    "Mara Mercer’s phone labeled as work precaution shows a second line—indicating covert surveillance beyond the narrative.\n"
+  ],
+  "alternate_titles": [
+    "Blackthorn Secrets: The Winter Hollow Conspiracy",
+    "The Hidden Orchard of Bellweather",
+    "Sisters & Storms: A Blackthorn Tale",
+    "Gifts in the Snow: The Pruitt Legacy",
+    "The Whispering Basement"
+  ],
+  "franchise_adjacency": "This broadcast nestles alongside HallTime’s other Blackthorn County thrillers—'Echoes of Winterson', 'Bellweather Blues', and 'The Candle Finch Chronicles'—forming a rich, interconnected tapestry of suspenseful drama set in the same snow‑shrouded county."
+}

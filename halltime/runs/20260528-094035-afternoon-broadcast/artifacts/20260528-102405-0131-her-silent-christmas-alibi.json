@@ -1,0 +1,428 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Every town has a basement.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "unresolved hometown romance",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "blood-adjacent tea towel",
+    "unopened letter",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Cole Dane",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.22,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Cole Mercer",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "too calm",
+        "appears in doorways with impossible timing",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.87,
+      "domestic_plausibility": 0.49,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.43,
+      "secret_capacity": [
+        "rehearsed his alibi before anyone asked",
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Sutton",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.66,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.89,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.61,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Brooke Sutton",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "weaponized stillness",
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.81,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.66,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.71,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Vale",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "family practice physician",
+      "traits": [
+        "emotionally constipated",
+        "overworks",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.7,
+      "secret_capacity": [
+        "knows where evidence should have been"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.43,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Hale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as seasonal materials",
+      "space_explanation_hesitation": 0.45,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.71,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Rachel Dane",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Cole Dane relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Elias Pike hates the move and immediately distrusts Cole Mercer, a grief counselor with suspiciously healthy handyman energy and access to meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the blood-adjacent tea towel, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Evelyn Hale hesitates before explaining toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Brooke Sutton reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes unresolved hometown romance as a civic hazard and makes meditation annex nobody uses in winter feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Cole Dane snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Cole Mercer is accused, gaslighted, then gently framed near hydrangeas until the unopened letter turns up somewhere impossible inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and meditation annex nobody uses in winter in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Brooke Sutton hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Elias Pike spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Elias Sutton hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Brooke Sutton confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Cole Dane hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Cole Mercer is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Cole Dane says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Cole?\"",
+    "\"Mothers do not disappear, Elias. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Cole. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The blood‑adjacent tea towel is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Brooke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\nHe glanced at the basement light flickering behind the wall, as if hoping it would answer.\n\n\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Cole, you forgot the dock key was left in a drawer under a broken chair—was it yours or someone else's?\"\n\nHer fingers trembled as she reached for it.\n\n\"Brooke, why keep the meditation annex locked if no one uses it?\"\n\nShe shrugged, eyes flicking to the basement light again.\n\n\"The town is built on secrets, Cole. Every basement holds a story we refuse to read.\"",
+    "\"Elias, your casserole dish was found in my office—did you hide it?\"\n\nHe laughed, but his laugh trembled.\n\n\"We all keep things hidden, darling. It’s the only way to survive the winter.\"",
+    "\"If the basement is innocent, why does it sound defensive?\"",
+    "\"Because the town built its safety on fear, not trust.\""
+  ],
+  "fake_critic_blurb": "HallTime's \"Her Silent Christmas Alibi\" drips with atmospheric dread and melancholic charm, turning each basement into a living tableau of fear. The screenplay stitches together the town’s whispered secrets like threads in a tapestry—each scene thickening the mystery without ever resolving it. It’s an expansion that feels both hauntingly original and eerily familiar, perfect for viewers craving a slow burn of psychological intrigue.",
+  "sequel_hook": "When Cole Dane finally unlocks the meditation annex, she discovers a hidden room filled with letters written by her own mother—revealing a truth that could topple Blackthorn County’s fragile trust forever.",
+  "synopsis": "Cole Dane arrives in Alder Ridge after a quiet, emotionally negligent implosion that left her a magazine editor and a dock office she never claimed ownership of. The town’s streets hum with whispers of a vanished vineyard fire and the blood‑adjacent tea towel that once draped a table at the Marigold Inn. Every corner seems to conceal a basement—some legal, some emotional. Cole's search for truth leads her into meditation annexes nobody uses in winter, into secret emails that could shatter families, and into a boat key that glistens with fresh mud. The town’s residents are layered: grief counselors whispering alibis, real estate agents hiding casserole evidence, therapists holding inherited documents, physicians who know where evidence should have been buried, and teachers haunted by wrongful accusations. Through each scene, the narrative unspools a web of suspicion rather than proof, turning every basement into a character. The climax erupts at Bellweather’s office with ambulance lights, an empowerment speech, and a locked door that may hold the key to the town’s collective fear. Yet even as secrets surface, contradictions grow—names drift, geography blurs, mortality blames a dead friend, and the basement shifts ownership from condo to lake house to abandoned vineyard—leaving the audience questioning what is real and what is just fear wearing cashmere.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4353,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102405-0131-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102405-0131-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.593,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Cole Dane settling into her dock office, a place that feels like a relic of someone else’s past. The air tastes faintly of wine, a municipal policy failure she uses to mask her grief. As she unpacks, the town’s rumor about the vineyard fire drifts through the air, carried by a child drawing stairs on a kitchen wall. She stares at the blood‑adjacent tea towel, wondering if it’s merely decorative or a clue.\n\nScene 2 finds Elias Pike in the meditation annex, his soft voice masking a deep mistrust of Cole Mercer. He watches the light flicker in an empty house while Cole murmurs about her unsent email that could destroy a family. The basement becomes a silent witness to their tension, its darkness a metaphor for hidden truths.\n\nScene 3 unfolds at The Marigold Inn, where Evelyn Hale hesitates before revealing the toolshed’s secrets. Wine flows like municipal policy failure; the scent of lavender and old paper mingle as the town whispers about an orchard chapel that was closed without explanation. A basement light switches on, illuminating a dusty key.\n\nScene 4 shifts to a cliffside where unresolved hometown romance feels like a civic hazard. The meditation annex’s winter silence is broken by wind through the windows; Cole sees the boat key reflected in the glass. The tension escalates as she confronts the truth that every basement might hold.\n\nScene 5 culminates at Bellweather’s office with ambulance lights flashing, a one‑line empowerment speech echoing off concrete walls. The door to the meditation annex remains locked, and Cole feels the weight of a town that believes fear is rented rather than given.\n\nScene 6 concludes in an empty house where the basement light flickers again as if listening. A ceramic owl rests on the kitchen island, its eyes watching the unresolved drama that continues to unfold beyond the screen."
+  ],
+  "contradiction_notes": [
+    "Cole Mercer’s name morphs between Daniel and Derek across scenes, reflecting a town that cannot anchor identity.\n\nThe geography of Bellweather oscillates from Vermont to Atlanta, as if the map itself is a character hiding behind wine glasses.\n\nA dead best friend appears at brunch, his presence a ghostly punctuation in an otherwise living narrative—denial or scheduling? The audience can’t decide.\n\nThe basement shifts ownership like a shape‑shifter: condo, lake house, abandoned vineyard—each claim more absurd than the last.\n\nElias Pike’s timeline error feels like a cosmic joke that every adult in Blackthorn County rents their spirituality instead of owning it."
+  ],
+  "alternate_titles": [
+    "Echoes in the Basement",
+    "The Silent Dock",
+    "Whispers of Alder Ridge",
+    "Basement Secrets",
+    "The Wine and the Towel"
+  ],
+  "franchise_adjacency": "This broadcast sits beside HallTime's \"The Orchard Whisper\" and \"Bellweather Chronicles,\" forming a trilogy that explores the hidden layers of small-town fear and the basements where secrets sleep."
+}

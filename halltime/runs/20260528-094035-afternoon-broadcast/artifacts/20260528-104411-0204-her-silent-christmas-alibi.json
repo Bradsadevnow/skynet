@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Every town has a basement.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "casserole dish",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Jenna Mercer",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.5,
+      "window_staring_compatibility": 0.73,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Cole Dane",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "absorbs accusatory kitchen dialogue",
+        "briefly leaves the room after difficult questions",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.41,
+      "secret_capacity": [
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Mara Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.98,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.66,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Mara Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.88,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.4,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Pruitt",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "absorbs accusatory kitchen dialogue",
+        "sighs heavily",
+        "briefly leaves the room after difficult questions"
+      ],
+      "threat_aura": 0.28,
+      "domestic_plausibility": 0.54,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.52,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Hale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "usually holding wine",
+        "often wrong but directionally vital",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.86,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Noah Bennett",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Sienna Vale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Jenna Mercer relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Mara Mercer hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Noah Bennett hates the move and immediately distrusts Cole Dane, a financial advisor with suspiciously healthy handyman energy and access to church basement described as just storage. Tess Pruitt hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.07. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at St. Agnes Regional introduces the boat key, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Tess Pruitt hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Mara Mercer reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Jenna Mercer snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Cole Dane is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside church basement described as just storage. Wine is present like a municipal policy failure. Mara Mercer hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Daniel Hale hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old storm shelter from before the divorce in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties ceramic owl to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Noah Bennett spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Jenna Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Mara Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of church basement described as just storage. Tess Pruitt hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Cole Dane is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Jenna Mercer says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Cole?\"",
+    "\"Mothers do not disappear, Noah. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Jenna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Mara.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"We’re all hiding in our basements; some are literal, some figurative.\"",
+    "\"The key you hold might unlock more than a boat—it could unlock your past.\"",
+    "\"When the child drew those stairs, he was mapping out every lie we keep.\"",
+    "\"Every time someone whispers about the Winterson case, the town’s walls breathe again.\"",
+    "\"We’re on a cliffside of emotional exposition; watch how it reshapes our lives.\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a masterclass in atmospheric melodrama, weaving together wine‑lit taverns, casseroles that double as confessions, and basements that serve as metaphors for hidden guilt. The show’s subtle nods to municipal policy failures keep viewers on the edge while its lush, slightly broken tone invites both discomfort and empathy.",
+  "sequel_hook": "When the ceramic owl reappears at a brunch resurrection event, it hints that the Winterson case is far from closed—new secrets lie buried in an offsite room no one has adequately explained yet. The town’s basements might just be the first layer of a deeper conspiracy that threatens to spill into every corner of Blackthorn County.",
+  "synopsis": "In the quiet, rain‑waded town of Blackthorn County, every basement hides a secret, and every person wears an invisible armor of whispers. Jenna Mercer, a magazine editor with a reputation for publishing the town’s most scandalous stories, has fled her past into Alder Ridge’s crumbling school building that now houses an unused portable classroom. Here she uncovers a locked box behind seasonal supplies—a relic from a childhood buried under work ethics and forgotten trauma. Meanwhile, Cole Dane, a charismatic financial advisor with hands that seem too handy for the church basement, watches Jenna with a mixture of professional curiosity and clandestine menace. Mara Bell, bartender extraordinaire and town gossip connoisseur, drags her half‑sibling’s secret into every conversation like a cursed coin. Mara Mercer, gallery owner with an aura of elegance and an inheritance she should have burned, keeps the boat key—a literal symbol of freedom—close to her chest, while Tess Pruitt, another advisor who deleted a voicemail that haunts her, tries to keep the town’s fragile peace intact. Amidst wine‑lit gatherings, casserole feasts, and church basement storage rooms, the community faces an unseen menace: a child’s drawing of stairs that spirals into a labyrinth of guilt, betrayal, and impossible truths. Each character wrestles with their own career versus family guilt, while the town itself never forgets but merely redecorates its basements with new layers of deception. The climax converges at Lake Mercy’s gazebo, where ambulance lights flicker against a storm shelter’s old walls, forcing every resident to confront what truly lies beneath their ordinary lives.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4063,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-104411-0204-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-104411-0204-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 18.254,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens in the flickering fluorescent glow of Alder Ridge’s portable classroom, Jenna’s fingers trembling as she turns the rusted lock. The scent of mildew mingles with faint notes of old paper, echoing the town’s forgotten scandals. Outside, rain drips onto cracked asphalt like the tears of a conscience. A glass of wine rests on a wooden desk, its surface reflecting the dim light, symbolizing the town’s policy failures. Mara Mercer appears in the doorway, clutching an ancient storm shelter blueprint, and offers a cryptic warning that feels both prophetic and dangerously vague. The child drawing stairs is projected onto the wall by an old projector—each line a promise of deeper secrets hidden beneath the basement’s floorboards. As Jenna pulls the locked box free, her heart races; the town’s history suddenly feels alive, ready to spill into the present. ",
+    "Scene 2 plunges into the church basement, described as mere storage yet filled with whispers and the faint scent of old hymnals. Cole Dane steps in, his hands stained from financial ledgers and a sudden burst of energy that seems almost supernatural. He speaks softly about “safety” while pointing to a faded photograph of a family at the lake, hinting at hidden motives. Tess Pruitt lingers near an old storm shelter door, her expression unreadable; she mutters about regrets as if they were spiritual confessions. Noah Bennett, still grieving the move, confronts Cole with suspicion, accusing him of using his financial clout to manipulate the town’s secrets. The scene ends on a tense note, the basement lights flickering like heartbeat monitors. ",
+    "Scene 3 centers on St. Agnes Regional, where the community gathers for a wine night. A wooden table holds an array of casseroles, each dish representing the town’s attempts at unity through shared meals. Amidst laughter and clinking glasses, a mysterious boat key slides across the table—its silver surface catching light like a glimmering truth waiting to be discovered. The bartender, Mara Bell, slips in with a half‑sibling story that rattles the room; her words weave an intricate tapestry of betrayal and hidden kinship. As the conversation turns toward the Winterson case, whispers echo across the kitchen island where a ceramic owl sits like a sentinel, watching over the secrets held within. ",
+    "Scene 4 shifts to a sunlit kitchen where Mara Mercer delivers a warning wrapped in elegant phrasing. Her voice is calm yet piercing, her eyes darting between Jenna and Cole. She refuses to explain the storm shelter, choosing instead to drop hints about the boat key’s true purpose. The basement, once seen as an ordinary storage space, now feels like a living entity—its walls whispering old truths. The sheriff, on patrol, notices fresh mud on the boat key, suggesting someone has been in the water and perhaps in danger. A sense of impending revelation hangs heavy in the air. ",
+    "Scene 5 builds tension as Jenna discovers a locked box behind seasonal supplies. Her discovery triggers an avalanche of memories—unspoken traumas buried under professional deadlines and career ambitions. The town’s narrative is further complicated by a fundraiser masquerading as safety; casseroles are served beside suspicious basements that seem to hide more than just storage. The sheriff, skeptical of the mayor’s motives, follows clues that lead back to an old storm shelter, hinting at deeper layers of conspiracy. Wine continues to be present like a municipal policy failure—its presence is both comfort and reminder of the town’s systemic failures. ",
+    "Scene 6 culminates in a dramatic confrontation at Lake Mercy’s gazebo, where ambulance lights blaze against the night sky. Noah Bennett spots a timeline error that reveals every adult’s hidden spiritual rentals, questioning why the county relies on “just storage” for everything. Jenna confronts the truth behind the locked box, revealing her own buried trauma and exposing the town’s collective lies. Mara Mercer, with a final confession that worsens the situation, stands beside the sheriff, who arrives fifteen minutes too late to stop a tragedy. The scene closes as the basement light flickers in an empty house, the last echo of the town’s darkest secrets lingering in silence."
+  ],
+  "contradiction_notes": [
+    "Cole Dane is Daniel in one kitchen scene and Derek during the rain argument—perhaps his identity is fractured by guilt. ",
+    "Jenna claims Bellweather is Vermont, then calls it outside Atlanta after two glasses of wine—her sense of place dissolves with intoxication. ",
+    "A dead best friend appears at brunch, but nobody agrees whether this is denial, evil, or scheduling—death itself becomes a character. ",
+    "The basement’s ownership shifts from condo to lake house to abandoned vineyard—its jurisdiction as much as its content is fluid. ",
+    "The boat key changes from decorative to utilitarian, mirroring how the town’s artifacts shift from ornament to instrument of survival."
+  ],
+  "alternate_titles": [
+    "Basement of Secrets",
+    "Wine & Casserole Confessions",
+    "The Boat Key Chronicles",
+    "Mysterious Storm Shelter",
+    "Alder Ridge Revelations"
+  ],
+  "franchise_adjacency": "This episode sits adjacent to HallTime’s other Blackthorn County dramas such as \"Echoes in the Basement,\" \"Casserole Nights: The Hidden Ledger,\" and \"St. Agnes Mysteries,\" all of which explore the town’s penchant for hidden histories, emotional exposition, and municipal policy failures."
+}

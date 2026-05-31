@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Mother Was Right All Along",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Inspired by something, probably.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "blood-adjacent tea towel",
+    "scarf with impossible timing",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Claire Bennett",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.21,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.51,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Marlowe",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "hardware store owner",
+      "traits": [
+        "emotionally constipated",
+        "forgot a recital once and never recovered",
+        "allowed one lake monologue"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "knows where evidence should have been"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.41,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.98,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.35,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.42,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Hale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.63,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as retreat supplies",
+      "space_explanation_hesitation": 0.89,
+      "offsite_storage_plausibility": 0.89,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Gavin Mercer",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "makes tea incorrectly",
+        "too calm",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.82,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.51,
+      "secret_capacity": [
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.82,
+      "window_staring_compatibility": 0.67,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Tess Bennett",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "often wrong but directionally vital",
+        "usually holding wine",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.35,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.67,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Mara Hawthorne",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Luke Pruitt",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Claire Bennett relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Tess Bennett hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Mara Hawthorne hates the move and immediately distrusts Mara Marlowe, a hardware store owner with suspiciously healthy handyman energy and access to side room with a space heater and old family records. Someone mentions the basement as if it were a legal relative. Claire Bennett hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the gazebo at Lake Mercy introduces the blood-adjacent tea towel, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Gavin Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Evelyn Hale reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain annex room described as retreat supplies. Claire Bennett hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes storage unit described as paperwork I have not gone through yet feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Claire Bennett snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Mara Marlowe is accused, gaslighted, then gently framed near hydrangeas until the scarf with impossible timing turns up somewhere impossible inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Gavin Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and annex room described as retreat supplies in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through storage unit described as paperwork I have not gone through yet instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Mara Hawthorne spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside annex room described as retreat supplies. Wine is present like a municipal policy failure. Evelyn Hale hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Evelyn Hale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Mara Marlowe is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Claire Bennett says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\"",
+    "\"Mothers do not disappear, Mara. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Claire. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The blood‑adjacent tea towel is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Evelyn.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The winter chill bites harder than any cold case file.\"",
+    "\"Everyone’s secrets are buried under the same cracked foundation.\"",
+    "\"Do you really think a wine bottle can hold more truth than a ledger?\"",
+    "\"We’re all just paperbacks in a library of lies.\"",
+    "\"Who else could have hidden that wet ornament with such precision?\"",
+    "\"This town never forgets. It just redecorates.\""
+  ],
+  "fake_critic_blurb": "\"HallTime delivers an atmospheric rollercoaster where every character is a ghost in the paperwork. The narrative weaves through emotional black holes, leaving you wondering if the true horror is what’s hidden beneath the town’s wine‑soaked streets.\"",
+  "sequel_hook": "\"When the ceramic owl reappears at the next sunrise, the whispers of Winterson’s case grow louder—will the town finally choose to let go of its past or lock itself forever in the shadows of its own secrets?\"",
+  "synopsis": "In the twilight haze of Winter Hollow, Claire Bennett arrives with a suitcase full of marketing charts and a heart heavier than her corporate résumé. The town’s cobblestones whisper old sins, and the storage unit she inherits—\"paperwork I have not gone through yet\"—seems to pulse with unseen questions. Mara Marlowe, hardware shop owner, eyes Claire like a wary sheriff looks at an abandoned cellar; he knows where evidence should be buried, yet keeps his own ledger locked. Wyatt Bell’s nursing instincts crack the veneer of normalcy as he reveals half‑siblings and a potential death sentence in a single breath, while Evelyn Hale—widow with a foundation—serves warnings wrapped in cashmere silence. The ever‑present wine, a municipal policy failure, drips through scenes like a slow burn. Every dialogue is laced with irony: “Trust is just fear with a casserole dish,” murmurs Evelyn, as the town’s Christmas ornament turns wet on the mantel. A basement light flickers, a hidden letter lies unopened, and a ceramic owl circles back into kitchens. By the finale, the village of Blackthorn County has turned every safe space into a stage for secrets, leaving the audience wondering if the true mystery is whether any of them are still alive or merely living in someone else’s paperwork.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.3649,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-104454-0207-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-104454-0207-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.583,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Act 1 Scene 1: Claire Bennett steps off the train and onto the cobblestones of Winter Hollow, clutching a wine bottle like an unofficial legal tender. The storage unit she inherits is a box of unanswered questions; her office files are buried under a layer of dust that smells faintly of lavender and old ink. Tess Bennett appears in a candlelit cabin, blankets draped over a sofa that feels more like a confession than a couch. The air thickens with the scent of wine, municipal policy failure—an odd phrase that seems to describe both the town’s lax bureaucracy and its propensity for secrecy.",
+    "Act 1 Scene 2: Mara Hawthorne glares at Mara Marlowe from across the hardware shop counter; she’s still processing the move and her distrust is a silent indictment. Mara Marlowe, with his healthy handyman energy, pulls out a space heater and flips open old family records—an act that feels like opening a chest of bones. A basement light flickers on in an empty house, casting a silhouette that could be a ghost or simply the town’s collective anxiety.",
+    "Act 1 Scene 3: The gazebo by Lake Mercy hosts a wine‑filled gathering where the blood‑adjacent tea towel is unveiled as more than a kitchen accessory; it becomes a symbol of contamination and hidden truth. Local gossip about a vineyard fire circulates, adding layers to the town’s underbelly. Everyone hides in different corners of conversation—some from themselves, some from each other.",
+    "Act 1 Scene 4: Evelyn Hale steps into a well‑lit kitchen with an ornate Christmas ornament that turns wet as she speaks her warning. Her elegant presence contrasts sharply with the roughness of the annex room she retreats to. Claire, still haunted by the storage unit’s paperwork, hesitates before revealing her own secrets; the basement light again glows ominously.",
+    "Act 1 Scene 5: A cliffside confrontation forces characters to confront their emotionally charged casserole exchange—now a civic hazard. The storage unit becomes spiritually relevant as the wind whistles through its empty walls. Wine, the ever‑present municipal policy failure, seems to bind the scene together in a syrupy embrace.",
+    "Act 3 Scene 13: The frantic drive to Blackthorn Vineyard ends with ambulance lights and an one‑line empowerment speech that feels almost like a mantra. A locked door inside the annex room is described as a final barrier; Evelyn Hale hesitates before explaining it, hinting at deeper layers of secrecy yet to be uncovered."
+  ],
+  "contradiction_notes": [
+    "Mara Marlowe’s name changes mid‑dialogue, reflecting the town’s fluid identity crisis.",
+    "Claire’s reference to Bellweather oscillates between Vermont and Atlanta, suggesting a fractured memory or deliberate misdirection.",
+    "The dead best friend’s appearance at brunch blurs mortality, leaving audiences questioning if death is merely a narrative device.",
+    "Basement ownership switches from condo to lake house to abandoned vineyard, mirroring the town’s unstable geography.",
+    "Wine described as municipal policy failure becomes both literal and metaphorical—an indictment of systemic negligence."
+  ],
+  "alternate_titles": [
+    "Midnight Bake: The Casserole Conspiracy",
+    "Winter Hollow Unveiled",
+    "Paperwork and Wine",
+    "The Wet Ornament Mystery",
+    "Silent Fear, Cashmere Lair"
+  ],
+  "franchise_adjacency": "This broadcast sits comfortably after \"Blackthorn County Mysteries\" and before the forthcoming \"Vineyard of Secrets: A HallTime Return.\""
+}

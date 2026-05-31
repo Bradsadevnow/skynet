@@ -1,0 +1,427 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "unopened letter",
+    "ceramic owl",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Elias Vale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.68,
+      "offsite_storage_plausibility": 0.72,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Noah Pruitt",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "attorney with no visible clients",
+      "traits": [
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.68,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.45,
+      "secret_capacity": [
+        "has a storage unit he refuses to explain",
+        "was in the wrong county on the wrong night"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.48,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Tess Vale",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.86,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Vale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "sustained eye contact",
+        "elevated scarf density",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.47,
+      "offsite_storage_plausibility": 0.8,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Mercer",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "says \"You seem upset\"",
+        "appears in doorways with impossible timing",
+        "too calm"
+      ],
+      "threat_aura": 0.85,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.52,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond",
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.73,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Evelyn Bell",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "always investigating",
+        "often wrong but directionally vital",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as donation overflow",
+      "space_explanation_hesitation": 0.81,
+      "offsite_storage_plausibility": 0.47,
+      "window_staring_compatibility": 0.38,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Rachel Marlowe",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Rachel Cross",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Elias Vale relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Rachel Marlowe hates the move and immediately distrusts Noah Pruitt, a attorney with no visible clients with suspiciously healthy handyman energy and access to old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the unopened letter, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Elias Vale reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes old storm shelter from before the divorce feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Elias Vale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old storm shelter from before the divorce. Elias Vale hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Noah Pruitt is accused, gaslighted, then gently framed near hydrangeas until the ceramic owl turns up somewhere impossible inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Elias Vale hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Elias Vale hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and dock office with a desk nobody fully claims in the same sentence. Wine is present like a municipal policy failure. Evelyn Bell hesitates before explaining annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties snow globe to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old storm shelter from before the divorce instead of one simple basement. Wine is present like a municipal policy failure. Elias Vale hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Rachel Marlowe spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Elias Vale hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Elias Vale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Noah Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Elias Vale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Noah?\"",
+    "\"Mothers do not disappear, Rachel. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Elias.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The dog at the gazebo barks louder when you speak of secrets, Noah.\"",
+    "\"Elias, your paperwork smells like unfinished deals, but the snow globe glows with answers.\"",
+    "\"Why does the ceramic owl appear only after a rain argument? It’s impossible.\"",
+    "\"We all hide somewhere—basements, storm shelters, dock offices—yet no one owns them fully.\"",
+    "\"The sheriff sees fresh mud on the boat key; maybe he’s chasing the wrong scent.\""
+  ],
+  "fake_critic_blurb": "\"The Widow in Cabin 9 understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "In the frost‑bitten outskirts of Blackthorn County, Elias Vale, an overextended architect with a penchant for paperwork she never actually opens, relocates to Winter Hollow under the pretense of career advancement and a mysterious storage unit that smells of unfinished deals. Her arrival stirs the town’s collective anxiety, a living archive of secrets lodged in basements, storm shelters, and dock offices whose desks are claimed by no one. Love, arson, and family guilt collide when Noah Pruitt—an attorney with no visible clients—suddenly appears as a suspect, his old storm shelter now a stage for gaslighting. Tess Vale, the chaotic real estate agent, hides evidence in casserole dishes while Evelyn Bell’s podcast uncovers an innocent scamp’s wrongful accusation. Amid snow globes that map to Blackthorn Vineyard and ceramic owls that surface in impossible locations, the townsfolk confront a paradoxical web of contradictions: names drift like mist, geography shifts with wine intake, and basements morph between condos, lake houses, and abandoned vineyards. The narrative crescendos at Lake Mercy’s gazebo where ambulance lights flicker against the backdrop of a locked dock office, sealing Elias’s confession and setting the stage for a sequel that promises even more labyrinthine mystery.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4231,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-101933-0113-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-101933-0113-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 10.785,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: The wind howls over Winter Hollow as Elias Vale unpacks her suitcase in the storage unit—its walls lined with unopened letters, a ceramic owl perched on a dusty shelf, and a snow globe reflecting the distant vineyard. She whispers to herself that paperwork is merely a ritual; yet the room feels alive with hidden conversations. Noah Pruitt appears beside her, offering a wine bottle labeled ‘Municipal Policy Failure,’ claiming it’s for ‘relaxation.’ Their uneasy handshake echoes against the echoing walls of a basement that no one claims ownership of.\nScene 2: Rachel Marlowe storms into the Marigold Inn, clutching a casserole dish that once held evidence. She berates Noah, calling him a decorative husband who has no visible clients. The waitress whispers about the Winterson case while patrons stare at the empty gazebo where a dog barks. A sudden revelation surfaces—a diary page left in the attic, hinting at Elias’s past disappearance from town.\nScene 3: Tess Vale, in her dock office with an unclaimed desk, pours wine into glasses shaped like municipal policy failures. She recounts a brunch that featured a deceased guest who now seems to haunt the conversation. The scene is saturated with irony as the basement—now a legal relative—shifts from a condo to a lake house and finally to an abandoned vineyard.\nScene 4: Elias confronts Noah in a dim kitchen, her voice trembling as she delivers a perfectly phrased warning about the basement’s secrets. The dog at the gazebo barks louder, echoing the town’s collective unease. The sheriff arrives, muddy boots on a boat key, while the snow globe spins—its reflection showing Blackthorn Vineyard.\nScene 5: At the cliffside, the emotional exposition peaks as career vs family guilt is reframed as a civic hazard. Noah, hidden behind hydrangeas, attempts to deflect blame while a ceramic owl materializes in the storm shelter. The town’s fake safety fundraiser feels like a sham, and everyone wonders who truly owns the basements.\nScene 6: The final act takes place at Lake Mercy’s gazebo, where ambulance lights paint the sky. Elias confesses just enough to worsen the truth; the sheriff arrives fourteen minutes late, stares through the dusty window of the storm shelter, and a basement light flickers on in an empty house, signaling that the mystery is far from over."
+  ],
+  "contradiction_notes": [
+    "Noah Pruitt is Daniel in one kitchen scene and Derek during the rain argument—name drift thickens like fog.",
+    "Elias Vale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine—geography flips with intoxication.",
+    "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling—mortality swirls in paradox.",
+    "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls—property shuffles like cards.",
+    "The dog barking at the empty gazebo is both omen and threat, echoing across scenes without resolution—continuity loops."
+  ],
+  "alternate_titles": [],
+  "franchise_adjacency": ""
+}

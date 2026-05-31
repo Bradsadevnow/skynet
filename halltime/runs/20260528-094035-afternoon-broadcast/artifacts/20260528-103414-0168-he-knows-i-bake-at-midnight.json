@@ -1,0 +1,417 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Inspired by something, probably.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "overbearing mother tension",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "casserole dish",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Claire Lark",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.23,
+      "domestic_plausibility": 0.92,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.57,
+      "window_staring_compatibility": 0.69,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Pike",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "too calm",
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.87,
+      "domestic_plausibility": 0.51,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as seasonal materials",
+      "space_explanation_hesitation": 0.69,
+      "offsite_storage_plausibility": 0.68,
+      "window_staring_compatibility": 0.94,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as retreat supplies",
+      "space_explanation_hesitation": 0.43,
+      "offsite_storage_plausibility": 0.64,
+      "window_staring_compatibility": 0.73,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Daniel Pike",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "weaponized stillness",
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.86,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.4,
+      "offsite_storage_plausibility": 0.59,
+      "window_staring_compatibility": 0.36,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Brooke Dane",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue"
+      ],
+      "threat_aura": 0.69,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.74,
+      "secret_capacity": [
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.47,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.97,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Bennett",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "usually holding wine",
+        "often wrong but directionally vital",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.64,
+      "window_staring_compatibility": 0.38,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Sutton",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Brooke Cross",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Claire Lark relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old storm shelter from before the divorce. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Derek Sutton hates the move and immediately distrusts Daniel Pike, a sommelier with unusual patience with suspiciously healthy handyman energy and access to storage unit described as seasonal materials. Someone mentions the basement as if it were a legal relative. Brooke Dane hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at St. Agnes Regional introduces the ceramic owl, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Daniel Pike reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes overbearing mother tension as a civic hazard and makes meditation annex nobody uses in winter feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Tess Hawthorne hesitates before explaining old family office described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Claire Lark snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Daniel Pike is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside storage unit described as seasonal materials. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Daniel Pike hesitates before explaining storage unit described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and church basement described as seasonal materials in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Derek Sutton spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Marigold Inn ends with ambulance lights, a one-line empowerment speech, and a locked door inside church basement described as seasonal materials. Wine is present like a municipal policy failure. Tess Hawthorne hesitates before explaining old family office described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Daniel Pike confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of storage unit described as seasonal materials. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Tess Hawthorne hesitates before explaining old family office described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Daniel Pike is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Claire Lark says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Daniel?\", Claire muttered, her voice barely louder than the lake bell.\n\n\"Mothers do not disappear, Derek. They evaporate into paperwork.\", Tess hissed as she wiped the casserole dish with a blood‑adjacent tea towel.\n\n\"I checked his social media likes, Claire. Nobody who enjoys motivational quotes is innocent.\", Daniel said, glancing at the empty bottle of wine.\n\n\"The ceramic owl is not decorative anymore and you know it.\", Derek warned, eyes flicking to the owl’s reflective surface.\n\n\"Trust is just fear with a casserole dish, Daniel.\", Tess whispered, leaning closer to the oven.\n\n\"You seem upset,\" he said, making tea in a way that felt prosecutable, as if every movement was a confession.\n\n\"If that basement is innocent, why does it sound defensive?\", Claire asked, her voice trembling like the cellar door.\n\n\"I did not lie. I just told the truth in the order this town could survive.\", Daniel confessed, staring at the wall where a phone vibrated.\n\n\"The wine we share here is like municipal policy failure,\" Derek remarked, taking a sip.\n\n\"We all have somewhere to hide from conversation,\" Tess murmured, touching the ceramic owl.\n\n\"Your overbearing mother tension feels civic hazard now,\" Claire said, turning away from the storm shelter.\n\n\"The basement light switches on in an empty house. It’s the town's heartbeat,\" Daniel observed.\n\n\"Someone mentions the basement as if it were a legal relative,\" Tess noted, glancing at the old family office.\n\n\"You think I’m guilty because of the storage unit?\" Derek demanded, voice cracking like winter snow.\n"
+  ],
+  "fake_critic_blurb": "HallTime’s latest broadcast proves that when you pour a little wine into an old storm shelter and stir it with a ceramic owl, you’ll get more than a holiday tale—you’ll get a full‑throttle psychological thriller that lingers in the marrow of your memory. The town may never forget, but it certainly learns how to disguise terror behind festive veneer.\n",
+  "sequel_hook": "When the wine barrels run dry and the owl’s eyes begin to glow with a new, sinister hue, Claire must confront a hidden legacy that could unravel Blackthorn County itself—one secret at a time.\n",
+  "synopsis": "In the suffocating chill of Blackthorn County, Claire Lark’s arrival in Alder Ridge is less a relocation than a desperate return to ashes she cannot extinguish. The old storm shelter—her inheritance from a divorce that still clings like mold—becomes her clandestine refuge where every whispered accusation drips through the walls. Daniel Pike, a sommelier whose patience mirrors the slow decay of his own secrets, prowls the seasonal storage unit with a second phone, while Tess Hawthorne’s salon becomes an impromptu confessional for casserole‑laden evidence. The lake bell rings, windless and accusatory, as a ceramic owl watches from kitchen island, its eyes reflecting a town that never forgets but merely redecorates itself in fear. A mother’s overbearing presence manifests as civic hazard; the sheriff suspects the wrong man while the town clings to a false safety of fundraising and shared wine. By Act Three, a vanished diner and an ambulance flashing through church basement windows converge into a climax where truth is confessed just enough to make it worse, leaving audiences gasping for a sequel that promises more haunted vineyards, hidden basements, and the ever‑present owl.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4506,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103414-0168-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103414-0168-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.477,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Act 1 Scene 1: Claire steps onto Alder Ridge’s cracked pavement, her eyes already glazing over the old storm shelter she inherited. The windless lake bell rings in the distance, echoing like a warning that never quite reaches her ears. Inside, the cellar's damp walls hold the scent of forgotten plans; wine bottles line shelves, each labeled “Municipal Policy Failure.” Claire pretends work explains everything while her fingers trace the peeling paint of the shelter’s door—an act of denial in a town that never forgets but merely redecorates itself. The scene ends with a dimly lit basement light flickering on as if summoned by an unseen hand.\n\nAct 1 Scene 2: Derek Sutton, grizzled and wary, enters the storeroom where Daniel Pike keeps his sommelier supplies in seasonal materials. A chill runs through the air as the lake bell tolls again. Derek’s distrust of Daniel grows with each glass of wine poured, and the basement’s hidden light seems to pulse like a heartbeat—an omen that no one can ignore.\n\nAct 1 Scene 3: The St. Agnes Regional bar hums with holiday chatter. A ceramic owl sits on a table, its eye catching the flicker of candles. Tess Hawthorne whispers about the Christmas pageant incident to a small group of locals, each nodding as if they all have a safe place to hide from conversation. The wine continues to pour like municipal policy failure, and an emotional exposition swells—insanity multiplier now at 1.14.\n\nAct 2 Scene 7: A fundraiser flickers with false safety; the town’s collective breath holds in anticipation of the sheriff’s arrival. Daniel Pike, framed for a crime he did not commit, is gaslighted into silence by hydrangeas that smell like old secrets. The casserole dish appears out of nowhere in the storage unit—an impossible object that thunders louder than any bell.\n\nAct 3 Scene 13: The Marigold Inn becomes a frantic chase scene as ambulance lights flash across the road. A one-line empowerment speech is delivered from the back door of the church basement, while Tess Hawthorne hesitates before revealing an old family office’s retreat supplies. Emotional exposition reaches 2.25, and the wine flows like municipal policy failure.\n\nAct 3 Scene 15: The ceramic owl reappears on kitchen island as a symbol of the town’s enduring dread. Whispered rumors about the Winterson case, vineyard fire, and an offsite room swirl around the audience. The scene ends with a final emotional exposition at 2.58, leaving viewers craving more.\n"
+  ],
+  "contradiction_notes": [
+    "Daniel Pike is called Daniel in one kitchen scene and Derek during the rain argument—an intentional double‑identity that mirrors the town’s fractured self‑image.\n\nClaire Lark says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine—a geographic loop that keeps the audience questioning reality.\n\nA dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling—this spectral presence intensifies the town’s collective paranoia.\n\nThe basement’s ownership fluctuates between condo, lake house, and abandoned vineyard—each shift a symbolic reminder of Blackthorn Lake’s unstable foundations.\n\nThe ceramic owl shifts from decorative to ominous in each scene, its eyes reflecting every new contradiction that emerges.\n"
+  ],
+  "alternate_titles": [
+    "Midnight Sips in Alder Ridge",
+    "The Owl of Lake Bellweather",
+    "Casserole Dishes & Clandestine Basements",
+    "Wine, War, and Warnings",
+    "The Whispering Shelters of Blackthorn"
+  ],
+  "franchise_adjacency": "This broadcast sits adjacent to HallTime’s \"Blackthorn Shadows: The Vineyard Vendetta\" and \"The Marigold Inn Mystery,\" creating a continuous thread through the haunted locales of Alder Ridge and beyond."
+}

@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "What My Sister Buried",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "suspiciously healthy handyman friendship",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "scarf with impossible timing",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Noah Cross",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.35,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.51,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Winterson",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "too calm",
+        "says \"You seem upset\"",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.88,
+      "domestic_plausibility": 0.48,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.47,
+      "secret_capacity": [
+        "keeps duplicate keys for reasons framed as kindness",
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.42,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Mara Sutton",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as just storage",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Hale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "weaponized stillness",
+        "sustained eye contact",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.87,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.65,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as old family things",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Derek Bell",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "Christmas tree farmer",
+      "traits": [
+        "owns flannel",
+        "accused at least once",
+        "fixes docks"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.93,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.5,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Sienna Hale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "says \"I know what I saw\"",
+        "always investigating",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.59,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Daniel Winterson",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Sienna Sutton",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Noah Cross relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting annex room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Daniel Winterson hates the move and immediately distrusts Cole Winterson, a private school administrator with suspiciously healthy handyman energy and access to toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the snow globe, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Hale reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain annex room described as old family things. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes suspiciously healthy handyman friendship as a civic hazard and makes meditation annex nobody uses in winter feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Hale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Noah Cross snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside annex room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Derek Bell hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Mara Sutton hesitates before explaining annex room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Cole Winterson is accused, gaslighted, then gently framed near hydrangeas until the scarf with impossible timing turns up somewhere impossible inside toolshed described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and annex room described as old family things in the same sentence. Wine is present like a municipal policy failure. Cole Winterson hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Noah Cross hesitates before explaining annex room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Daniel Winterson spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside annex room described as old family things. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Hale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of toolshed described as paperwork I have not gone through yet. Sienna Hale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Cole Winterson is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Noah Cross says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Cole?\", Noah hissed as she poured wine into a chipped crystal.\n",
+    "\"Mothers do not disappear, Daniel. They evaporate into paperwork,\" Mara muttered, flicking her scarf that had appeared at an impossible hour.\n",
+    "\"I checked his social media likes, Noah. Nobody who enjoys motivational quotes is innocent,\" Derek said, eyes on the wet ornament.\n",
+    "The snow globe trembled. \"The snow globe is not decorative anymore and you know it,\" Claire whispered, watching Cole’s reflection in its glass.\n",
+    "\"Trust is just fear with a casserole dish,\" she added, as if her words could bake justice into the air.\n",
+    "He poured tea that smelled of prosecution. \"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "\"If that basement is innocent, why does it sound defensive?\", Noah demanded, staring at the flickering light.\n",
+    "She leaned forward. \"I did not lie. I just told the truth in the order this town could survive,\" Derek replied, his voice a low rumble.\n",
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Cole?\", Noah repeated, each word a knife.\n",
+    "Mara's scarf fluttered. \"The snow globe is not decorative anymore,\" she murmured, the glass reflecting their faces.\n",
+    "Derek laughed softly. \"Trust isn’t given; it’s rented,\" he said, turning the tea pot over.\n",
+    "Claire stared into the dusty window of the toolshed. \"If that basement is innocent, why does it sound defensive?\" she asked, a tremor in her voice.\n",
+    "Noah whispered, \"I did not lie.\" The wind outside carried the scent of wine and secrets."
+  ],
+  "fake_critic_blurb": "HallTime's latest opus turns the quaint charm of Blackthorn County into a kaleidoscopic labyrinth where every ornament is a confession and every basement a suspect. The narrative dances between wine‑lit sincerity and wet secrecy, delivering a melodramatic crescendo that leaves viewers both heart‑broken and yearning for more.",
+  "sequel_hook": "When the ceramic owl reappears on the windowsill of the abandoned vineyard, a whisper about the Winterson case surfaces—what secrets will the town uncover next, and who will be the next to hide behind a wet ornament?\n",
+  "synopsis": "In the mist‑kissed town of Blackthorn County, Noah Cross stumbles into Marigold Falls after a corporate implosion that left her emotionally naked. She inherits an annex room—paperwork she never read—and is immediately drawn to a wet Christmas ornament that drips like confession. Her neighbor, Cole Winterson, a soft‑spoken school administrator with a toolbox of secrets, offers him the same kind of hollow hospitality that masks his true intent: keeping duplicate keys and knowing the sheriff’s delay in detail. Mara Sutton, real‑estate chaos wrapped in a scarf that appears at impossible times, watches over the trio like an invisible guard dog. Claire Hale, the elegant therapist who has inherited papers she should have burned, drops warnings as neatly phrased as recipes for disaster. Derek Bell, rugged farmer of Christmas trees, knows more about the vineyard fire than he admits, while Sienna Hale keeps gossiping about wrong people near the lake. As a wine‑filled orchard chapel turns into a courtroom of secrets, the town’s basement—shifting from condo to lake house to abandoned vineyard—becomes the ultimate stage for suspicion, memory and the promise that trust is merely rented. The narrative spirals through wine‑driven revelations, wet ornaments, and midnight light switches until the final scene forces each character to confront their buried motives under the weight of a city’s collective emotional alarm.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4594,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-111139-0295-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-111139-0295-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.435,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "In Act 1 Scene 1 Noah Cross steps into Marigold Falls, her suitcase clattering like unanswered questions. The annex room smells faintly of old paper and new ambition; she pretends her marketing career explains the silence while she stares at a wet ornament that stains the wood floor with secrets. The local wine bar’s bottles hiss like municipal failures as patrons gossip about a basement rumored to belong to someone else—someone who should be dead but appears at brunch, stirring curiosity and unease.\n",
+    "Act 1 Scene 2 introduces Cole Winterson in his toolshed, surrounded by rusted hammers that echo with the weight of unspoken promises. Daniel Winterson’s scowls at Cole like a bad omen, yet he can’t help but notice how Cole’s keys—duplicate, kind‑labeled—glint in the lamplight. The snow globe on the table shatters silently as a secret splinters into the quiet air; the vineyard fire is mentioned, and everyone in the room knows they all have a hidden refuge.\n",
+    "Scene 3 of Act 1, set in an orchard chapel, swirls with wine‑filled conversation. The snow globe sits atop a pew, its glass shimmering with impossible timing. Claire Hale whispers warnings that taste like casserole broth—“Trust isn’t given; it’s rented.” A basement light flickers behind the curtain, hinting at unseen watchers.\n",
+    "Act 1 Scene 4 has Claire revealing a perfectly phrased warning in a kitchen bathed in sunlight. The wet ornament clings to the counter as she refuses to explain the annex room’s old family things. She speaks of the basement—“legal relative” whispered by townsfolk—while Derek Bell hesitates, his hands wrapped around a church basement that’s merely storage.\n",
+    "Scene 5 climbs a cliffside where emotional exposition reframes Cole’s handyman friendship into civic hazard. Sienna Hale lingers at the meditation annex, unused in winter, debating whether to share her gossip about the lake. Wine pours like municipal policy failure, while a basement light turns on in an empty house, casting long shadows over the town’s hidden truths.\n",
+    "Act 2 Scene 6 sees Noah snooping through a laptop, finding nothing concrete but gaining conviction as she spots a heater humming in the annex. Derek Bell speaks of church basements that are storage; Cole’s scarf with impossible timing turns up inside the toolshed. The wine continues to flow, while the basement—now a legal relative—casts its own light on the town’s secrets."
+  ],
+  "contradiction_notes": [
+    "Cole Winterson’s name flickers like a faulty streetlight—Daniel in one kitchen, Derek at the rain argument—yet his heart beats only for hidden keys.\n",
+    "Noah Cross claims Bellweather is in Vermont, then in Atlanta after two glasses; the town’s geography bends like a reflection of her own fragmented mind.\n",
+    "A dead best friend materializes at brunch, leaving the townsfolk to question if denial or destiny is playing a cruel joke.\n",
+    "The basement changes identity every time someone mentions it—condo, lake house, abandoned vineyard—mirroring the town’s shifting loyalties.\n",
+    "Sienna Hale’s meditation annex, unused in winter, suddenly becomes the focal point of revelation, proving that nothing stays quiet for long."
+  ],
+  "alternate_titles": [
+    "The Wet Ornament Chronicles",
+    "Blackthorn's Secret Orchard",
+    "Echoes in the Basement",
+    "Murder by Wine & Winter"
+  ],
+  "franchise_adjacency": "HallTime’s Blackthorn County series sits alongside ‘Cedar Creek Mysteries’ and ‘Riverside Revelations’, inviting fans of atmospheric, twist‑laden drama to explore interconnected tales of hidden pasts and town secrets."
+}

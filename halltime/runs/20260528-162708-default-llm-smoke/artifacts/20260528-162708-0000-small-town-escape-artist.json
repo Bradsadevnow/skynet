@@ -1,0 +1,494 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "generation_feedback_used": true,
+  "title": "Small Town Escape Artist",
+  "tagline": "Where every secret comes home.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a dead bird arranged where breakfast should have been",
+  "relationship_dynamic": "disbelieving best friend learns too much",
+  "starter_premise": {
+    "title": "Small Town Escape Artist",
+    "category": "romance",
+    "intensity": "low",
+    "premise": "The childhood sweetheart is still there and still knows her coffee order.",
+    "signature_tell": "He still knows her coffee order.",
+    "parent_title": "Small Town Escape Artist",
+    "base_premise": "Career woman returns to hometown, hates it, loves it, and stays forever."
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "throat lozenges with a suspicious aftertaste",
+    "nanny cam memory card",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Daniel Dane",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.24,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as donation overflow",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Bennett",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "too calm",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.79,
+      "domestic_plausibility": 0.59,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.75,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as retreat supplies",
+      "space_explanation_hesitation": 0.68,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Marlowe",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "best_friend",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "grad assistant between explanations",
+      "traits": [
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "borrows small things that become legal problems",
+        "asks for passwords with fake embarrassment"
+      ],
+      "threat_aura": 0.83,
+      "domestic_plausibility": 0.59,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.71,
+      "secret_capacity": [
+        "poisoned something small enough to look medicinal"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.43,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Pike",
+      "archetype": "woman_on_the_edge",
+      "role": "elegant_wildcard",
+      "surface_function": "possible victim or possible defendant",
+      "hidden_function": "rage reservoir",
+      "job": "dance instructor on unpaid leave",
+      "traits": [
+        "smiles like a restraining order is considering her",
+        "has slept four hours across a week",
+        "seems one kitchen confession away from headline syntax"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.53,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "woman_on_the_edge maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "bought bleach for innocent reasons that no longer sound innocent"
+      ],
+      "suspicion_mode": "volatile",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as just storage",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.37,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Wyatt Dane",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "regional dentist",
+      "traits": [
+        "hides something imprecise",
+        "briefly leaves the room after difficult questions",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.68,
+      "secret_capacity": [
+        "moved money during a family emergency",
+        "was in the wrong county on the wrong night"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as old family things",
+      "space_explanation_hesitation": 0.76,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Pruitt",
+      "archetype": "betrayed_provider_woman",
+      "role": "secondary_witness",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "real estate developer",
+      "traits": [
+        "makes competence look like denial",
+        "says she is fine in a voice that needs legal counsel",
+        "works too hard to notice the affair until everyone else does"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "has already priced out a life without him"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.48,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Sienna Hawthorne",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Luke Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Daniel Dane arrives in Winter Hollow planning to finish one practical task and leave before feeling anything irresponsible. The starter engine here is: The childhood sweetheart is still there and still knows her coffee order. Wine is present like a municipal policy failure. Wyatt Dane hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Connection begins early with Evelyn Bennett, who appears in exactly the kind of useful setting where a low-stakes bond can be mistaken for weather. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A soft public scene introduces the throat lozenges with a suspicious aftertaste, the family property or inheritance pressure, and the first clue that this place intends to keep her longer than planned. Wine is present like a municipal policy failure. Daniel Marlowe hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Cole Pike or another local authority installs the false belief, misunderstanding seed, or missing fact that the entire category will later have to remove. Signature tell: He still knows her coffee order. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "By the end of act one the connection is real, but it has already been built on information that is incomplete, misread, or politely withheld. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Practical cooperation deepens the bond as chores, events, vineyard work, or property triage create emotional intimacy disguised as logistics. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The false belief deepens through omission, timing, or one photograph, but it still feels plausibly innocent from the outside. Someone mentions the basement as if it were a legal relative. Brooke Pruitt hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "A near-confession scene makes reunion feel possible, which is exactly why the misunderstanding has to detonate next. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The separation beat lands when Daniel Dane interprets the gap in the worst plausible way and chooses pride, self-protection, or departure over curiosity. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Act two ends with emotional distance fully installed and the truth still just out of reach. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The hidden truth finally surfaces, not because anyone became wise, but because the category has run out of runway for concealment. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "The false belief is removed and every earlier look, line, or gesture is recontextualized into romance instead of insult. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "Evelyn Bennett proves the feeling materially through travel, labor, risk, or one properly timed declaration involving ceramic owl. Wine is present like a municipal policy failure. Wyatt Dane hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Reunion happens only after Daniel Dane admits she wants the life as much as the person. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The final image promises permanence in a place she originally meant to escape. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Evelyn Bennett hesitates before explaining storage unit described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "low"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Evelyn Bennett is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Daniel Dane says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Evelyn?\"",
+    "\"Mothers do not disappear, Sienna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Daniel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The throat lozenges with a suspicious aftertaste is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Cole.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\"",
+    "\"Someone who should be dead appears at brunch, and nobody agrees whether this is denial, evil, or scheduling.\""
+  ],
+  "fake_critic_blurb": "HallTime's latest possession event turns a sleepy hamlet into a kaleidoscopic maze where every whispered secret threatens to become the town’s next headline. The screenplay deftly balances melodrama with subtle dread, ensuring that even as characters cling to their fabricated truths, the audience can’t help but question what really lies beneath the surface.",
+  "sequel_hook": "In the aftermath of Winter Hollow’s revelations, Daniel Dane discovers a mysterious map tucked inside an old ceramic owl, hinting at another hidden town where the dead best friend may finally rest—or awaken again. The next episode promises deeper conspiracies and more unsettling twists.",
+  "synopsis": "In the wind‑choked hamlet of Winter Hollow, Daniel Dane—an architect haunted by a buried trauma and an unsent apology—arrives to finish one last commission before disappearing into the mist. The town is a living scrapbook: a dead bird perched on a breakfast table, a ceramic owl hidden in a cellar, and every corner whispering old secrets. Daniel’s childhood sweetheart still knows her coffee order, yet the town's wine‑filled policies fail like municipal ordinances. As she navigates the labyrinth of storage units, portable classrooms, and retreat cabins, she uncovers a web of suspicion: throat lozenges with a sinister aftertaste, a nanny cam memory card that flickers with unknown faces, and a hidden basement that shifts identities from condo to lake house to abandoned vineyard. Each revelation amplifies her emotional exile until she must choose between pride or curiosity. In the end, the town’s secrets finally surface not through wisdom but by the inevitable collapse of deception—revealing that every misstep was merely a step toward an impossible reunion. The story spirals from a quaint possession event into a bittersweet romance where trust is both a fear and a casserole dish, and the dead best friend at brunch becomes a haunting reminder that some memories are simply unkillable.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.3,
+    "male_cardigan_threat_score": 0.4428,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-162708-default-llm-smoke/prompts/20260528-162708-0000-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-162708-default-llm-smoke/responses/20260528-162708-0000-response.txt",
+    "attempts": 3,
+    "elapsed_seconds": 13.741,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Act 1 Scene 2 opens with Daniel’s first hesitant encounter with Evelyn Bennett in the dim glow of an artisan developer’s storage unit. The air is thick with the scent of wood polish and old coffee; a low‑stakes bond begins to simmer, yet each mention of the basement feels like a legal relative slipping through fingers. Evelyn’s threat aura drips at 0.79, as she casually hands over a second phone, its label an innocuous work precaution. The sheriff’s eye catches fresh mud on a boat key, hinting that something beneath the surface is about to spill into daylight.",
+    "Scene 3 erupts when Daniel stumbles upon throat lozenges with a suspicious aftertaste tucked in the family property. A flicker of a nanny cam memory card pops on the screen—a silent witness—while the first clue that Winter Hollow intends to keep her longer than planned flashes across his face. Wine, ever present like municipal policy failure, clinks as if mocking the town’s attempts at normalcy.",
+    "Act 2 Scene 7 brings a near‑confession, a fragile moment wrapped in candlelight and blankets within Brooke Pruitt’s retreat cabin. The phone vibrates from inside the wall, its ringtone echoing through the silence like a ghostly applause. A photograph of the basement surfaces again, this time with a different angle—now hinting at the town’s shifting geography drift.",
+    "Scene 10 sees Daniel decide to leave rather than stay; pride and self‑protection outweigh curiosity. The emotional distance is fully installed as he walks away, his silhouette swallowed by the wind, while the sheriff observes fresh mud on the boat key, a silent testament that some truths never fade.",
+    "Act 3 Scene 13 climaxes with Evelyn Bennett’s material proof—she travels to the town, risks everything, and brings the ceramic owl into the narrative. The owl becomes an emblem of truth, its carved eyes reflecting both fear and hope. The basement’s identity shivers once more, now solidifying as a lake house, while Wyatt Dane hesitates before explaining the storage unit described as old family things.",
+    "The final scene—Act 3 Scene 15—wraps up with Daniel admitting she wants life as much as love. Wine again fills the air like municipal policy failure; the phone vibrates from inside the wall once more, a chilling reminder that the town’s secrets are still alive. The image of the dead best friend at brunch haunts the audience, leaving them to wonder whether denial or scheduling is the real culprit."
+  ],
+  "contradiction_notes": [
+    "Evelyn Bennett’s name oscillates between Daniel and Derek, a linguistic loop that feeds the town’s myth of identity fluidity.",
+    "The geography drift—Bellweather shifting from Vermont to outside Atlanta after two glasses of wine—reveals the town’s unreliable cartography.",
+    "A dead best friend appears at brunch; whether he is a ghost or a scheduling error remains unresolved, intensifying existential dread.",
+    "The basement’s identity morphs among condo, lake house, and abandoned vineyard, echoing the town’s fragmented memory.",
+    "Wyatt Dane’s storage unit description changes from old family things to retreat supplies, creating a paradoxical space of nostalgia and new beginnings."
+  ],
+  "alternate_titles": [
+    "Echoes of Winter Hollow",
+    "The Lost Coffee Order",
+    "Secrets in the Basement",
+    "Ceramic Owl Mysteries",
+    "Wine, Warnings, and Whispers"
+  ],
+  "franchise_adjacency": "This expansion is best paired with HallTime’s ‘Mystery at Maple Creek’ and ‘Ghosts of Old Harbor’, as both series share a tone of atmospheric suspense and unreliable memories that unravel in town‑centered dramas."
+}

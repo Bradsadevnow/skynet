@@ -1,0 +1,418 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "generation_feedback_used": true,
+  "title": "Holiday Baking Competition",
+  "tagline": "Every town has a basement.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a pool gate standing open where nobody remembers a gate",
+  "relationship_dynamic": "storm-night gaslighting confession event",
+  "starter_premise": {
+    "title": "Holiday Baking Competition",
+    "category": "holiday",
+    "premise": "Two rivals must run the bake-off together and there is exactly one possible outcome.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "Holiday Baking Competition"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "throat lozenges with a suspicious aftertaste",
+    "nanny cam memory card"
+  ],
+  "cast": [
+    {
+      "name": "Elias Bennett",
+      "archetype": "betrayed_provider_woman",
+      "role": "protagonist",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "hospital administrator",
+      "traits": [
+        "says she is fine in a voice that needs legal counsel",
+        "works too hard to notice the affair until everyone else does",
+        "makes competence look like denial"
+      ],
+      "threat_aura": 0.5,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "saw one text too many and said nothing for three weeks",
+        "has already priced out a life without him"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Noah Pruitt",
+      "archetype": "narcissist_ex_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "reformed co-parenting adult",
+      "hidden_function": "ego-driven destabilizer",
+      "job": "consultant who is always between deals",
+      "traits": [
+        "texts at impossible hours",
+        "says he has changed with suspicious fluency",
+        "acts wounded when confronted"
+      ],
+      "threat_aura": 0.86,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.55,
+      "secret_capacity": [
+        "has already charmed the sheriff before the story begins",
+        "maintains a narrative about the divorce that changes by audience"
+      ],
+      "innocence_probability": 0.22,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.61,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.5,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Bennett",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.36,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.86,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as old family things",
+      "space_explanation_hesitation": 0.91,
+      "offsite_storage_plausibility": 0.46,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Bennett",
+      "archetype": "woman_on_the_edge",
+      "role": "elegant_wildcard",
+      "surface_function": "possible victim or possible defendant",
+      "hidden_function": "rage reservoir",
+      "job": "dance instructor on unpaid leave",
+      "traits": [
+        "has slept four hours across a week",
+        "says he would not stop in a way nobody enjoys hearing twice",
+        "smiles like a restraining order is considering her"
+      ],
+      "threat_aura": 0.86,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "woman_on_the_edge maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "bought bleach for innocent reasons that no longer sound innocent"
+      ],
+      "suspicion_mode": "volatile",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.63,
+      "offsite_storage_plausibility": 0.91,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Mercer",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "vineyard groundskeeper",
+      "traits": [
+        "probably builds furniture",
+        "owns flannel",
+        "fixes docks"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.47,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.35,
+      "offsite_storage_plausibility": 0.46,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Hawthorne",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "always investigating",
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.38,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.66,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Bennett",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Tess Lark",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "definitely has rain-scene potential",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Elias Bennett relocates to Marigold Falls and a heavily windowed fresh-start house after an emotionally negligent implosion, then pretends work explains everything while quietly inheriting side room with a space heater and old family records. The starter engine here is: Two rivals must run the bake-off together and there is exactly one possible outcome. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Evelyn Bennett hates the move, clocks the unfenced pool as a legal omen, and immediately distrusts Noah Pruitt, a consultant who is always between deals with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Tess Bennett hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A Chardonnay defense scene in a dim kitchen facing a glass door introduces the ceramic owl, local gossip about the boyfriend who would not stop incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Elias Bennett hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Tess Bennett reveals a perfectly phrased warning in a well-lit kitchen while a pool gate standing open where nobody remembers a gate, then declines to explain unused portable classroom holding archived disciplinary files. Signature tell: The county telegraphs the problem once and nobody listens until act three. Elias Bennett hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes storm-night gaslighting confession event as a civic hazard while she cross-references clinic records, pool camera gaps, and one article nobody was supposed to archive. and storage unit described as just storage becomes spiritually relevant. The movie keeps insisting on holiday logic. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Elias Bennett snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring storage unit described as just storage. A vindictive music box starts up in the attic and stops the instant anyone else reaches the landing. The pressure level is officially mid now. Rachel Mercer hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Noah Pruitt is accused, gaslighted, then gently framed near hydrangeas until the throat lozenges with a suspicious aftertaste turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' while the disbelieving best friend insists Todd loves her and will probably die for that optimism. Nobody respects the tell that the county telegraphs the problem once and nobody listens until act three. Someone mentions the basement as if it were a legal relative. Elias Bennett hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, unused portable classroom holding archived disciplinary files, and a brake pedal that suddenly feels decorative in the same sentence. By now the county has committed completely to: Two rivals must run the bake-off together and there is exactly one possible outcome. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Wyatt Bennett hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties nanny cam memory card to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through storage unit described as just storage instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Evelyn Bennett spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage when a woman can be sedated in her own kitchen and called dramatic. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Mercer Fertility and Sleep Clinic ends with failing brakes, ambulance lights, a one-line empowerment speech, and a locked door inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Noah Pruitt hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The final confession arrives breathlessly in the dark, with enough detail to make every prior kindness retroactive poison. Tess Bennett confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone grabs a heavy brass candlestick on instinct. Rachel Mercer hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears, the villain's hand may or may not twitch, and someone whispers about the Winterson case, the vineyard fire, another offsite room nobody has adequately explained, and whether Holiday Baking Competition was only phase one six months later. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Noah Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Elias Bennett says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Noah?\"",
+    "\"Mothers do not disappear, Evelyn. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Tess.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Holiday Baking Competition understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Holiday Baking Competition\" follows Elias Bennett, a high-output betrayed wife who thinks a fresh start, a large house, and professional competence can outpace storm-night gaslighting confession event until Noah Pruitt collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: Two rivals must run the bake-off together and there is exactly one possible outcome. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. As a pool gate standing open where nobody remembers a gate, Blackthorn County reveals once again that every secret comes home, every pool is a witness, and every adult has somewhere emotionally alarming to stand in silence. Every town has a basement.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.43,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

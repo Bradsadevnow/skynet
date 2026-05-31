@@ -1,0 +1,441 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "What My Sister Buried",
+  "tagline": "Inspired by something, probably.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "unresolved hometown romance",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "casserole dish",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Mara Cross",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.73,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.48,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Wyatt Hale",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "dock repair contractor",
+      "traits": [
+        "unexpectedly good with children",
+        "fixes docks",
+        "probably builds furniture"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.44,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.91,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.77,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.86,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as old family things",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.61,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Sienna Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.75,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.74,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.72,
+      "window_staring_compatibility": 0.42,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Daniel Lark",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "too calm",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.73,
+      "domestic_plausibility": 0.52,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond",
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.75,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.69,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Hale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "always investigating",
+        "often wrong but directionally vital",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.5,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.45,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Rachel Mercer",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Brooke Winterson",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Mara Cross relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Rachel Mercer hates the move and immediately distrusts Wyatt Hale, a dock repair contractor with suspiciously healthy handyman energy and access to dock office with a desk nobody fully claims. Mara Hale hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the ceramic owl, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Wyatt Hale hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Sienna Mercer reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain dock office with a desk nobody fully claims. Someone mentions the basement as if it were a legal relative. Mara Cross hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes unresolved hometown romance as a civic hazard and makes meditation annex nobody uses in winter feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Mara Hale hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Mara Cross snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Wyatt Hale is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Mara Hale hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and dock office with a desk nobody fully claims in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Rachel Mercer spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Mara Cross hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Sienna Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of dock office with a desk nobody fully claims. Wyatt Hale hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Wyatt Hale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Mara Cross says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Wyatt?\"",
+    "\"Mothers do not disappear, Rachel. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Mara. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Sienna.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The wet ornament's glow shouldn't be taken lightly, Wyatt—it's a warning.\"",
+    "\"You can't hide behind candles and blankets; the silence screams.\"",
+    "\"Every time we think we understand Blackthorn, new layers unearth itself.\"",
+    "\"Who owns the basement? Who controls the narrative?\"",
+    "\"We're all just shadows in someone else's story, Mara.\"",
+    "\"The dock office is a mirror—every desk holds another secret.\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest original, 'What My Sister Buried,' is a masterclass in atmospheric dread, weaving a labyrinth of secrets that keeps viewers questioning every shadow. Its dialogue feels almost-human, its contradictions deliberate—an intentional dissonance that echoes the fractured reality of Blackthorn County. A must-watch for those who savor melodrama with a side of eerie ambiguity.",
+  "sequel_hook": "When the basement light flickers on in an empty house, Mara discovers a hidden ledger that points to a conspiracy spanning generations—promising a new season where the past refuses to stay buried.",
+  "synopsis": "In the frost‑bitten heart of Blackthorn County, Mara Cross inherits a weathered retreat cabin after an emotional implosion that left her career in tatters. The cabin’s candles flicker like desperate hopes while blankets drape over the bare floor, forming a quiet fortress against the town’s gossip‑laden currents. Yet the silence is only the surface; beneath it churns a web of buried secrets—an unsent email threatening a family’s legacy, a casserole dish hiding evidence, and a wet Christmas ornament that refuses to stay dry. As Mara navigates her new life, she encounters Wyatt Hale, a rugged dock repair contractor whose presence threatens the fragile equilibrium, and Sienna Mercer, a mysterious realtor with an agenda as layered as the orchard chapel’s closed doors. Tension mounts when the town’s sheriff discovers fresh mud on a boat key, the basement becomes a spectral arena of legal relatives, and the ceramic owl resurfaces with a new ominous glow. Each scene spirals into deeper dread, culminating in a frantic drive to Bellweather’s Sheriff's Office where the truth is as slippery as the wet ornament, leaving viewers questioning what truly lies beneath Blackthorn County’s polished veneer.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.455,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103737-0181-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103737-0181-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.481,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Mara Cross steps into Winter Hollow under a gray sky that mirrors her inner turbulence. The cabin’s candles cast long shadows across worn wood, and she drifts between her new role as regional marketing executive and the quiet desperation of an unsent email that could unravel a family dynasty. She clutches a wine bottle—an ironic municipal policy failure—to mask the tremor in her voice when explaining the retreat’s secrets to the skeptical Rachel Mercer, who immediately distrusts Wyatt Hale, the dock repair contractor whose hands have touched more than just planks.",
+    "Scene 2: At The Candle Finch, a local bar where stories spill over mugs, Mara introduces the ceramic owl. Its glazed eyes seem to follow her every movement as whispers about the Winterson case swirl around them. The air is thick with the scent of burnt coffee and old gossip. Wyatt’s hesitant explanations about his dock office are drowned out by murmurs of a wet ornament—an omen that glistens like a warning in the flickering candlelight.",
+    "Scene 3: A cliffside confrontation erupts when Mara, fueled by wine and fury, confronts Wyatt about the basement—a place that feels more like a legal relative than a structure. The meditation annex, unused in winter, becomes a stage for their argument, its empty rooms echoing with unresolved hometown romance. Sienna Mercer’s elegantly phrased warning lands heavy on the kitchen table, while the ceramic owl is placed back on the island, its gaze unblinking.",
+    "Scene 4: In the dock office, the tension thickens as Wyatt is accused and gaslighted by a town that offers only a fake sense of safety. A casserole dish turns up impossibly inside, its contents spilling into an impossible narrative. The phone vibrates from within a wall, hinting at secrets buried deeper than the basement itself, while the sheriff’s fresh mud on the boat key becomes a symbol of looming betrayal.",
+    "Scene 5: As rain pours over Bellweather, a heated argument spirals into distributed secrecy infrastructure. Sienna confesses just enough to deepen the mystery, while the sheriff arrives fourteen minutes late, his presence marked by the dusty window of the dock office. The wet ornament’s glow intensifies, and Mara’s unsent email threat looms like a silent storm, leaving viewers questioning who truly holds the keys to Blackthorn County’s darkness.",
+    "Scene 6: The finale culminates in an ambulance-lit drive toward Bellweather Sheriff’s Office, where the ceramic owl reappears in a dramatic climax. A basement light flickers on in an empty house, revealing the final piece of the puzzle—a truth so unsettling that it promises a sequel and leaves audiences haunted by the unseen forces shaping their reality."
+  ],
+  "contradiction_notes": [
+    "Wyatt Hale’s name shuffles between Daniel and Derek with alarming frequency, yet he remains a constant threat beneath every identity.",
+    "Mara Cross mislocates Bellweather as both Vermont and Atlanta, suggesting a fluid geography that defies logic but enhances the surreal.",
+    "The dead best friend at brunch appears and vanishes, blurring mortality lines and inviting speculation about denial or supernatural scheduling.",
+    "Basement ownership flips from condo to lake house to abandoned vineyard, each shift amplifying the sense of shifting realities within Blackthorn.",
+    "The wet ornament’s presence in multiple scenes creates a motif that both anchors and destabilizes the narrative, intensifying thematic contradictions rather than resolving them."
+  ],
+  "alternate_titles": [
+    "The Whispering Retreat",
+    "Owl’s Shadow",
+    "Casket of Silence",
+    "The Wet Ornament",
+    "Blackthorn's Secret Keep"
+  ],
+  "franchise_adjacency": "This episode sits alongside HallTime's other Blackthorn County thrillers such as 'Bellweather Shadows' and 'Winter Hollow Murders,' forming a cohesive sub‑series that explores the town’s uncanny blend of mundane life and supernatural intrigue."
+}

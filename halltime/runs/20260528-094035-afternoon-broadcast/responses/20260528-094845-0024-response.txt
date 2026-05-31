@@ -1,0 +1,44 @@
+{
+  "expanded_synopsis": "In the frost‑bitten hamlet of Blackthorn County, Mara Pike flees an emotional implosion and inherits a cabin where candles flicker against blankets of silence. The town whispers in static as phone screens hiss her name, and the vineyard fire lingers like a buried secret. Mara’s world shatters when she realizes the very people who should be allies—Evelyn, the rugged dock repair contractor; Cole, the chaotic real estate agent with a casserole‑laden dossier; Tess Mercer, the elegant widow with an orchard chapel mystery—are all entangled in a web of suspicion and hidden motives. A snow globe shatters under a flicker of moonlight, revealing the town’s true architecture: a maze of storage rooms, abandoned basements, and a mysterious toolshed that holds more than tools. As wine flows like municipal policy failure, Mara must navigate a labyrinth of betrayal where trust is rented, secrets are stored, and every whispered conversation threatens to turn her into the very scamp she once accused. The climax spirals toward St. Agnes Regional, where an ambulance’s siren blares against the backdrop of a locked toolshed door, and the town finally confronts its own fractured conscience.",
+  "scene_paragraphs": [
+    "The opening scene unfolds at Mara’s new cabin—candles sputter against blankets of quiet as she uncovers a hidden box behind seasonal supplies. The scent of pine mingles with old wood, while a phone vibrates from within the wall, crackling static that says her name in a tone that feels more accusatory than reassuring. Outside, the sky blurs into dusk; the lake’s surface ripples like the town’s conscience.",
+    "Evelyn Pike’s entrance is marked by the clank of dock tools and the hum of a marine generator. He stands amid his tackle room—retreat supplies for the marina—yet the atmosphere feels charged with unsaid histories. The scent of oil and rain hangs in the air, as Mara senses the hidden tension that makes every conversation feel like an interrogation.",
+    "At Lake Mercy’s gazebo, a snow globe shatters, sending glittering shards across a table laden with wine. Conversations drift toward the vineyard fire, each mention a new thread. The town’s residents seem to have hidden places—basements, storerooms, abandoned vineyards—to keep secrets out of sight, yet the wine continues to pour, mocking municipal policy failures.",
+    "Tess Mercer appears in a kitchen lit by flickering bulbs, her voice steady as she delivers a warning about phone static and a mysterious toolshed. The static whispers her name again, weaving an eerie motif. The scene crescendos when the sheriff discovers fresh mud on a boat key—an unspoken promise of deeper secrets.",
+    "The cliffside conversation forces Mara to confront the woman who accused the lovable scamp. She is left with a portable classroom full of disciplinary files that feels both mundane and spiritually charged. A wave of wind carries the scent of wet stone, hinting at the inevitable revelation.",
+    "In the finale, the town’s hidden storage rooms and abandoned basements converge into a single crescendo: an ambulance lights blaze over St. Agnes Regional while a locked door in a toolshed threatens to keep the truth buried forever."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Evelyn?\"",
+    "\"Mothers do not disappear, Tess. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Mara. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Tess.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Whoever hid the ceramic owl knows where the secrets are hidden, and we’ll find out now.\"",
+    "\"You think you’re the only one who can keep a story safe when every storage room is a vault of lies?\"",
+    "\"I hear your voice echo in that abandoned vineyard; it’s not just wind anymore. It’s warning.\"",
+    "\"We’re all renting trust here—no one owns honesty, and no one can be sure what’s buried in the basement.\"",
+    "\"When the phone vibrates from inside the wall, do you think it’s calling for help or a confession?\"",
+    "\"The cellar is just storage, but the heart of Blackthorn County is hidden beneath its dust. We need to dig deeper.\""
+  ],
+  "contradiction_notes": [
+    "Evelyn Pike morphs into Daniel in one kitchen scene and Derek during the rain argument—each name a mirror of her fractured identity.",
+    "Mara’s geography slips from Vermont to outside Atlanta after two glasses, suggesting that Blackthorn County itself may be a mirage stitched by wine.",
+    "A dead best friend appears at brunch; some claim he died, others argue he survived—a living paradox in a town where death is just another rental agreement.",
+    "The basement shifts roles—conveniently changing from condo to lake house to abandoned vineyard—mirroring the fluid nature of truth in Blackthorn County.",
+    "Tess Mercer’s storage toolshed feels both simple and ominously complex, yet it is never truly explained, hinting that some secrets are intentionally unsolvable."
+  ],
+  "fake_critic_blurb": "\"A haunting tapestry of emotional static and culinary conspiracies, HallTime delivers a narrative that is as slippery as the wine poured on every page. The characters move like shadows across an ever‑shifting landscape, making you question whether trust is something to be given or simply rented.\"",
+  "sequel_hook": "When the ceramic owl reappears at the edge of St. Agnes Regional’s abandoned chapel, a new voice whispers that the Winterson case was only the tip of a darker iceberg—one that will force Blackthorn County to confront the truth it has been hiding in plain sight.",
+  "alternate_titles": [
+    "\"Midnight Whispers and Casserole Lies\"",
+    "\"The Vaulted Silence of Blackthorn\"",
+    "\"Eclipsed Trust: A HallTime Chronicle\"",
+    "\"Fogged Foundations, Frozen Secrets\"",
+    "\"A Hearth of Hidden Truths\""
+  ],
+  "franchise_adjacency": "This broadcast sits comfortably alongside HallTime’s \"Shadows Over Silverpine\", \"The Forgotten Orchard\", and the upcoming spin‑off \"St. Agnes Reborn: The Winterson Legacy\", weaving a broader tapestry of mystique, betrayal, and emotional architecture across Blackthorn County."
+}

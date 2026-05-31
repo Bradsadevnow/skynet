@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "The Vineyard Lies Beneath Us",
+  "tagline": "Every town has a basement.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "woman falsely accusing lovable scamp",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "casserole dish",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Evelyn Bell",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.91,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.4,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Dane",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "says \"You seem upset\"",
+        "makes tea incorrectly",
+        "too calm"
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.56,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.8,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.53,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Mercer",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.89,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.53,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.83,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Hawthorne",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.9,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Marlowe",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "vineyard groundskeeper",
+      "traits": [
+        "accused at least once",
+        "probably builds furniture",
+        "fixes docks"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.52,
+      "secret_capacity": [
+        "had an engagement that ended under suspiciously quiet circumstances",
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Sutton",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "usually holding wine",
+        "says \"I know what I saw\"",
+        "always investigating"
+      ],
+      "threat_aura": 0.25,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.32,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.52,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Bell",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Cole Winterson",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Evelyn Bell relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting side room with a space heater and old family records. Wine is present like a municipal policy failure. Brooke Marlowe hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Gavin Bell hates the move and immediately distrusts Gavin Dane, a private school administrator with suspiciously healthy handyman energy and access to storage unit described as paperwork I have not gone through yet. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the snow globe, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Hawthorne reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Brooke Marlowe hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes woman falsely accusing lovable scamp as a civic hazard and makes side room with a space heater and old family records feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Evelyn Bell snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Mara Mercer hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Gavin Dane is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Mara Mercer hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Someone mentions the basement as if it were a legal relative. Claire Hawthorne hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old storm shelter from before the divorce in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through side room with a space heater and old family records instead of one simple basement. Wine is present like a municipal policy failure. Claire Hawthorne hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Gavin Bell spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Marigold Inn ends with ambulance lights, a one-line empowerment speech, and a locked door inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Tess Sutton hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Hawthorne confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of storage unit described as paperwork I have not gone through yet. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Brooke Marlowe hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Gavin Dane is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Evelyn Bell says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Gavin?\"",
+    "\"Mothers do not disappear, Gavin. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Evelyn. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Do you know what happens when you open a letter in winter? The cold can freeze words forever.\"",
+    "\"Why would a cellar be so alive? It’s like breathing under the earth.\"",
+    "\"We all rent space, Evelyn. Even your nightmares pay a price.\"",
+    "\"The storm shelter hides more than rain; it holds secrets that chill deeper than ice.\"",
+    "\"Remember, the owl watches, and the walls remember every whisper.\""
+  ],
+  "fake_critic_blurb": "A chilling holiday yarn that fuses architectural dread with rustic charm; HallTime turns every cellar into a character, every snow globe into a prophecy. The narrative’s pace is relentless, but its heart beats slower in each scene’s silence.",
+  "sequel_hook": "The ceramic owl’s final glow hints at a hidden chamber beneath the town, where secrets await—and the next season will reveal whether the basement truly houses more than shadows.",
+  "synopsis": "In the wintry heart of Blackthorn County, Evelyn Bell returns to Marigold Falls after a catastrophic implosion that shattered her career and trust in herself. She inherits a side room—overrun with a space heater and dusty family records—that seems to echo every whispered secret of the town’s basement myth. When she meets Gavin Dane, the quiet private‑school administrator who guards a storage unit full of unopened paperwork, suspicion lingers like frost on the glass. The local orchard chapel hosts a snow globe that vibrates with static, while Claire Hawthorne, a gallery owner whose storm shelter holds more secrets than paint, drops hints about an old brunch with a deceased patron. Meanwhile, Mara Mercer’s church basement swirls with seasonal rumors, and Brooke Marlowe’s vineyard grounds conceal a silent past of disappeared witnesses. As the town’s Christmas festival turns into a carnival of hidden motives, each character’s “threat aura” spikes: Claire at 0.9, Gavin Dane at 0.7, Mara at 0.54, Evelyn at 0.32, Brooke at 0.57. The narrative escalates through wine‑laden scenes, casseroles, and a mysteriously glowing ceramic owl that reappears on the kitchen island in every twist. By the finale, an unopened letter reveals ties to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event, all threaded through the side room’s old records—forcing everyone to confront whether trust is given or rented.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.4156,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095537-0042-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095537-0042-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.746,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Act 1 Scene 1: The rain-soaked streets of Marigold Falls mirror Evelyn’s hollow eyes as she steps into her new side room, where a space heater sputters like a dying ember. She mutters about work while the old family records whisper their secrets—her traumatic past hidden beneath layers of blueprints. Wine bottles line the mantle, a municipal policy failure turned domestic ritual. The cellar’s chill presses against her, urging her to dig deeper into the town’s basement lore before the winter takes hold.",
+    "Act 1 Scene 3: In the orchard chapel, the snow globe shimmers with static, and Evelyn’s reflection in its glass shows a stranger staring back. Claire Hawthorne, cloaked in elegance, hands over a brimming casserole dish—its scent a ghost of past dinners—and warns about the storm shelter. The conversation spirals into a debate on whether the basement is merely a legal relative or a living entity, and Evelyn’s heart races as she feels her own truth being rented to an unseen tenant.",
+    "Act 2 Scene 7: A fundraiser in town square turns into a charade; the sheriff raises a toast while secretly suspecting the wrong person. Gavin Dane, with his second phone humming beneath his coat, slips near hydrangeas, hiding a casserole dish that mysteriously appears in the storage unit’s paperwork drawer. The basement light flickers on, casting long shadows across the empty house—each pulse echoing an unresolved accusation.",
+    "Act 3 Scene 13: A frantic drive to The Marigold Inn ends with ambulance lights flashing like warning bells. Tess Sutton, the local podcaster, records her final words in a cramped storm shelter, her voice trembling as she mentions an unopened letter that could unravel the town’s skeleton. The locked door swings open, revealing the ceramic owl perched on the kitchen island—an omen of impending revelation.",
+    "Act 3 Scene 14: Claire Hawthorne confesses enough to deepen the truth, and the sheriff arrives exactly fourteen minutes late. Through a dusty window, someone stares at the paperwork-filled storage unit, while the basement’s murmur grows louder. The scene culminates in a moment where the ceramic owl glows, signaling that every secret will finally be unsealed.",
+    "Act 3 Scene 15: Sequel bait lands as the ceramic owl reappears once more, and whispers of the Winterson case, vineyard fire, and an offsite room surface. Brooke Marlowe hesitates, revealing that the side room’s space heater has hidden another layer of truth—a new mystery that promises to haunt Blackthorn County forever."
+  ],
+  "contradiction_notes": [
+    "Gavin Dane’s identity flips from Daniel to Derek mid‑argument—perhaps an alias or a memory lapse tied to his second phone.",
+    "Evelyn Bell’s claim of Vermont then Atlanta after wine reveals her fragmented sense of place, mirroring the town’s shifting geography of basements.",
+    "A dead best friend appears at brunch yet is denied by everyone—an intentional blurring that may hint at supernatural time loops.",
+    "The basement’s ownership drifts from condo to lake house to abandoned vineyard, reflecting the town’s collective denial of its own history.",
+    "When Claire mentions a brunch with someone officially deceased, it feels less like a slip and more like an omen—her memories bleed into the present."
+  ],
+  "alternate_titles": [
+    "Basement of the Vineyard",
+    "White Snow, Dark Secrets",
+    "Echoes Beneath Marigold Falls",
+    "The Orchard’s Silent Witness",
+    "Winter’s Hidden Ledger"
+  ],
+  "franchise_adjacency": "This broadcast nests beside HallTime classics such as \"Midnight at St. Agnes,\" \"The Whispering Cottages,\" and \"Frozen Footprints: Blackthorn County Mysteries.\""
+}

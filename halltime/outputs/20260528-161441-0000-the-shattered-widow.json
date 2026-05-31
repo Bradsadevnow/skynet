@@ -1,0 +1,461 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "generation_feedback_used": true,
+  "title": "The Shattered Widow",
+  "tagline": "Every town has a basement.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "flawless suburban restart under hostile observation",
+  "starter_premise": {
+    "title": "The Shattered Widow",
+    "category": "trauma_drama",
+    "premise": "Husband dies in act one. She starts getting back out there by act two. He was secretly terrible.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "The Shattered Widow"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "casserole dish",
+    "vindictive music box"
+  ],
+  "cast": [
+    {
+      "name": "Daniel Bell",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.91,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.73,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Cole Hale",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "accused at least once",
+        "fixes docks",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.39,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as retreat supplies",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Rachel Mercer",
+      "archetype": "intuitive_disaster",
+      "role": "best_friend",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "always investigating",
+        "usually holding wine",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.49,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.89,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Winterson",
+      "archetype": "stalker_nanny_au_pair",
+      "role": "elegant_wildcard",
+      "surface_function": "perfect childcare solution",
+      "hidden_function": "domestic replacement campaign",
+      "job": "au pair with elegant paperwork",
+      "traits": [
+        "wears the mother's robe as if testing custody",
+        "wins over children by the second breakfast",
+        "arrives with glowing references and impossible calm"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.93,
+      "gazebo_energy": "high",
+      "basement_implication": "stalker_nanny_au_pair maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.8,
+      "secret_capacity": [
+        "has a second set of references with a different surname"
+      ],
+      "suspicion_mode": "maternal_displacement",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as donation overflow",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.89,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Lark",
+      "archetype": "obsessive_boyfriend_problem",
+      "role": "secondary_male_pressure",
+      "surface_function": "romantic escalation device",
+      "hidden_function": "domestic terror accelerant",
+      "job": "ambulance technician with perfect timing",
+      "traits": [
+        "mistakes refusal for intrigue",
+        "arrives with flowers nobody asked for",
+        "says forever too early"
+      ],
+      "threat_aura": 0.93,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.58,
+      "secret_capacity": [
+        "keeps a duplicate garage opener from a better time"
+      ],
+      "innocence_probability": 0.14,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as old family things",
+      "space_explanation_hesitation": 0.61,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Mercer",
+      "archetype": "betrayed_provider_woman",
+      "role": "secondary_witness",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "litigator who bills through heartbreak",
+      "traits": [
+        "keeps a color-coded calendar and a cracked heart",
+        "works too hard to notice the affair until everyone else does",
+        "says she is fine in a voice that needs legal counsel"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "medium",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "saw one text too many and said nothing for three weeks",
+        "keeps the other woman under a fake contact name"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Elias Cross",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Sienna Hale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "The wound is present from scene one: Husband dies in act one. She starts getting back out there by act two. He was secretly terrible. Daniel Bell enters Blackthorn Lake or stays trapped inside it while trying to contain the damage through competence, routine, or denial. Wine is present like a municipal policy failure. Mara Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "The category immediately starts asking who gets close enough to notice the fracture first: Elias Cross, Cole Hale, or the one local woman who always clocks suffering before the men do. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A domestic scene introduces the snow globe and clarifies that containment is the real job, not solving an external mystery. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Derek Winterson articulates the wound more clearly than Daniel Bell can bear to hear while a dog barking at an empty gazebo. Signature tell: The county telegraphs the problem once and nobody listens until act three. Mara Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one closes with the pressure cooker visibly sealed but already hissing around the edges. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Derek Winterson hesitates before explaining storage unit described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Containment strains as more people brush against the truth and Daniel Bell keeps choosing function over collapse. Wine is present like a municipal policy failure. Derek Winterson hesitates before explaining storage unit described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "An attempted normal scene fails because the wound leaks into work, parenting, intimacy, or public reputation at the worst possible second. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "The ally beat here is about proximity to pain, not clue-solving: somebody gets closer than is emotionally sustainable. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A confrontation near church basement described as retreat supplies makes clear that the real question is no longer whether the truth exists, but whether containment can hold through another hour. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Containment fails in a way that hurts but still leaves room for a meaningful regroup before the last act. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "Containment breaks in public, intimate, or procedural form, forcing the wound into shared reality whether Daniel Bell wanted witnesses or not. Wine is present like a municipal policy failure. Rachel Mercer hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Reconciliation, rupture, or self-definition follows from who can now bear the truth and who still cannot. Daniel Bell hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A symbolic object like vindictive music box becomes proof that the old life cannot be reassembled in its original shape. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The final emotional move is not victory but reorganization: grief, illness, shame, or betrayal gets integrated into the next self. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The ending closes on damaged continuity rather than restoration, with beauty purchased honestly instead of cheaply. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "pressure_cooker",
+      "category": "trauma_drama",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Cole Hale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Daniel Bell says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Cole?\"",
+    "\"Mothers do not disappear, Elias. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Daniel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Derek.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"The Shattered Widow understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"The Shattered Widow\" follows Daniel Bell. Daniel Bell is a sacred protagonist. Husband dies in act one. She starts getting back out there by act two. He was secretly terrible. She had always known. Cole Hale enters the picture carrying calm, plausible access, and the kind of concern that becomes heavier each time it is repeated. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. A dog barking at an empty gazebo becomes part of the record. The weight is in the facts, and the facts do not improve when spoken aloud. Every town has a basement.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4035,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

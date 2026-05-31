@@ -1,0 +1,432 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "The Vineyard Lies Beneath Us",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "emotionally neglected marriage",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "snow globe",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Claire Marlowe",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.25,
+      "domestic_plausibility": 0.92,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Jenna Pruitt",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "owns flannel",
+        "accused at least once",
+        "probably builds furniture"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.57,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.67,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Marlowe",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.98,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.5,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Rachel Winterson",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.83,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.64,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as old family things",
+      "space_explanation_hesitation": 0.92,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.36,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Dane",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "Christmas tree farmer",
+      "traits": [
+        "owns flannel",
+        "probably builds furniture",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.7,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as donation overflow",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.65,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Evelyn Pruitt",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Claire Marlowe relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Mara Vale hates the move and immediately distrusts Jenna Pruitt, a widowed boat mechanic with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.07. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the gazebo at Lake Mercy introduces the casserole dish, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Jenna Pruitt hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Rachel Winterson reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain toolshed described as old family things. Claire Marlowe hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally neglected marriage as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Claire Marlowe snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Derek Marlowe hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Jenna Pruitt is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Claire Marlowe hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and toolshed described as old family things in the same sentence. Wine is present like a municipal policy failure. Jenna Marlowe hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties ceramic owl to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Mara Vale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the old orchard chapel ends with ambulance lights, a one-line empowerment speech, and a locked door inside toolshed described as old family things. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Derek Marlowe hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Rachel Winterson confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Jenna Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Claire Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Jenna?\"",
+    "\"Mothers do not disappear, Mara. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Claire. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish,\" Rachel murmured as she poured wine.",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\" Mara whispered to the empty room.",
+    "\"I did not lie. I just told the truth in the order this town could survive.\" Jenna replied, eyes flickering like candlelight.",
+    "\"The snow globe will never stop turning if you keep looking,\" Claire warned as the glass glowed.\n\"You are dancing on a knife edge between love and arson,\" Derek muttered under his breath.\n\"The oak in the garden holds more than leaves; it holds secrets,\" Rachel whispered to the wind.\n\"Every time we think we’re alone, the basement hears us,\" Mara muttered as she stared at the walls.\n\"There is a place where no one can see you, and yet everyone knows you.\"",
+    "\"We are all just actors in a play that never ends,\" Jenna sighed, looking at the ceramic owl."
+  ],
+  "fake_critic_blurb": "HallTime's latest opus is a labyrinthine tale where dread lingers like a second skin—each line, each prop a brushstroke painting an impossible world. It’s not merely storytelling; it’s a confession of the town’s collective conscience.",
+  "sequel_hook": "The final flicker of the basement light promises that the next chapter will pull back the curtain on the hidden rooms and the unseen forces that govern Winter Hollow's fate.",
+  "synopsis": "In the moon‑lit hush of Winter Hollow, Claire Marlowe drifts into a town that breathes its own dread like a second skin. A silent marriage collapses under an emotionally negligent implosion, and the only refuge she finds is an unused portable classroom—an architectural ghost holding archived disciplinary files that whisper about the past. The vineyard, the cellar, the basement, each claim to belong to someone else yet all bleed into the same cold stone wall. When Jenna Pruitt, a rugged widowed boat mechanic with a hand for secrets, brings his own shadows into the retreat cabin, the town's fragile equilibrium cracks further. Amidst casseroles, ceramic owls, and snow globes that melt into impossible rooms, the residents trade fear for faith in their own myths. The narrative spirals through acts of betrayal and quiet expositions—each scene a layered confession where the truth is less a revelation than an ever‑shifting mirage. The climax arrives when a basement light flickers to life, promising that nothing remains truly buried. The town’s ghosts are not dead—they are merely waiting for their next narrative to be written.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.7,
+    "male_cardigan_threat_score": 0.3865,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095952-0052-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095952-0052-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 14.242,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Claire Marlowe steps onto the cracked sidewalk of Winter Hollow, clutching a battered suitcase and a heart that thumps with unspoken regret. She slides into the unused portable classroom—an abandoned schoolhouse that once held disciplinary files—claiming it as her sanctuary. The walls hum with secrets; the dusty windows stare out at the lake where wine drips from forgotten bottles. A subtle sense of municipal failure lingers, a policy turned to ash. Claire rehearses an apology, whispers about love lost, and watches a wet ornament drip onto the floor, its glimmer mirroring her own sorrow.",
+    "Scene 2: Mara Vale storms through the town square, arms crossed, eyes narrowed on Jenna Pruitt. The widowed mechanic stands with his toolbox tucked beneath a blanket of candles, his face half‑shadowed in the cabin’s dim light. As they argue about the basement—whether it belongs to a condo or an abandoned vineyard—the ceramic owl perched on the kitchen island seems to listen. The town’s history flickers like a candle flame: a wet ornament, a casserole dish, and whispers of a vanished spouse. Mara’s voice trembles with hostility; Jenna counters with measured calm, his hand reaching for the hidden key inside the classroom.",
+    "Scene 3: The gazebo at Lake Mercy becomes a stage for wine‑spilled confessions. Rachel Winterson, gallery owner, delivers a warning wrapped in polite phrasing while holding an antique snow globe that shimmers with impossible light. Jenna’s reticent explanation of his cabin, laden with candles and blankets, hangs like a fragile veil over the conversation. The basement is mentioned again—its ownership a moving target. In the background, the ceramic owl sits, its eyes reflecting the lake’s mournful glow, while Derek Marlowe watches from the doorway, heart racing toward an unknown destiny.",
+    "Scene 4: A cliffside evening paints the sky in bruised purple. Claire and Derek navigate the dusty key in the classroom, a symbol of hidden truths. The town's façade shatters as the sheriff suspects the wrong person, while the casserole dish becomes a centerpiece for gossip. Amidst the wine’s municipal failure echo, a winter storm rattles windows; an unseen presence whispers that “a town never forgets.” Claire feels the weight of her own silence—her marriage a civic hazard—while Derek’s fate hangs between death and improbable survival.",
+    "Scene 5: The final scene erupts in a frantic drive to the old orchard chapel. Ambulance lights flicker like broken promises, and a single line of empowerment speech echoes through the storm‑streaked air. Inside the toolshed, the locked door holds more than tools—it guards the town’s collective secret. As Derek hesitates, the basement’s light turns on in an empty house, revealing that nothing was ever truly buried; it merely waited for its story to be told again.",
+    "Scene 6: The sequel hook hangs in the air—a ceramic owl reappears beside a whisper about the Winterson case and another offsite room. A basement light switches on, casting long shadows over a town where every resident owns just storage. The audience is left with a lingering sense of dread, knowing that the next chapter will uncover more layers beneath the veneer of a sleepy county."
+  ],
+  "contradiction_notes": [
+    "Jenna Pruitt’s name morphs into Daniel and then Derek across scenes, hinting at a fractured identity that could be a supernatural trait.\nThe geography of Bellweather oscillates between Vermont and outside Atlanta, suggesting a liminal space where time folds.\nA best friend’s death surfaces at brunch yet remains ambiguous—maybe an echo rather than a corpse.\nBasement ownership shifts from condo to lake house to vineyard, perhaps implying multiple layers of reality coexisting.\nThe wet ornament appears in every scene, its moisture a paradoxical symbol of both life and decay."
+  ],
+  "alternate_titles": [
+    "Echoes in the Basement",
+    "Ceramic Owl's Whisper",
+    "Winter Hollow: The Unseen Key",
+    "Vineyard Secrets, City Lies",
+    "The Retrospective of Fear"
+  ],
+  "franchise_adjacency": "This broadcast sits adjacent to HallTime’s previous Gothic offerings—'Midnight at the Marrow Creek', 'Sable Shadows of Blackthorn', and the forthcoming psychological thriller 'Shadows over Alder Ridge'."
+}

@@ -1,0 +1,463 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "generation_feedback_used": true,
+  "title": "Prince Disguised as Commoner",
+  "tagline": "Every town has a basement.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a dead bird arranged where breakfast should have been",
+  "relationship_dynamic": "career vs family guilt",
+  "starter_premise": {
+    "title": "Prince Disguised as Commoner",
+    "category": "holiday",
+    "intensity": "mid",
+    "premise": "He was going to tell her but a tabloid beats him to it.",
+    "signature_tell": "The photo that surfaces is from a scene we already watched, just recontextualized.",
+    "parent_title": "Prince Disguised as Commoner",
+    "base_premise": "He's a prince, she doesn't know, and he loves that she doesn't know until she finds out."
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "heavy brass candlestick",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Wyatt Winterson",
+      "archetype": "betrayed_provider_woman",
+      "role": "protagonist",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "hospital administrator",
+      "traits": [
+        "keeps a color-coded calendar and a cracked heart",
+        "says she is fine in a voice that needs legal counsel",
+        "makes competence look like denial"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.86,
+      "secret_capacity": [
+        "moved money before admitting why",
+        "saw one text too many and said nothing for three weeks"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as retreat supplies",
+      "space_explanation_hesitation": 0.85,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Elias Cross",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "Christmas tree farmer",
+      "traits": [
+        "accused at least once",
+        "owns flannel",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.47,
+      "domestic_plausibility": 0.92,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.48,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits",
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.92,
+      "offsite_storage_plausibility": 0.82,
+      "window_staring_compatibility": 0.42,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Lark",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as old family things",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.77,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Gavin Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "elevated scarf density",
+        "weaponized stillness",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.68,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.64,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.77,
+      "offsite_storage_plausibility": 0.74,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Cole Vale",
+      "archetype": "perfect_new_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "benevolent rescuer spouse",
+      "hidden_function": "curated widower threat",
+      "job": "vineyard investor with suspicious bereavement",
+      "traits": [
+        "loves her daughter with documentary intensity",
+        "speaks gently about hiking safety",
+        "has a locked room explained as grief"
+      ],
+      "threat_aura": 0.76,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.66,
+      "secret_capacity": [
+        "narrates tragic accidents with practiced grief",
+        "stores old hairbrushes in archival boxes labeled keepsakes"
+      ],
+      "innocence_probability": 0.17,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.33,
+      "offsite_storage_plausibility": 0.5,
+      "window_staring_compatibility": 0.38,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Tess Lark",
+      "archetype": "stalker_nanny_au_pair",
+      "role": "secondary_witness",
+      "surface_function": "perfect childcare solution",
+      "hidden_function": "domestic replacement campaign",
+      "job": "postpartum helper with boundaries missing in action",
+      "traits": [
+        "wears the mother's robe as if testing custody",
+        "folds laundry with territorial energy",
+        "arrives with glowing references and impossible calm"
+      ],
+      "threat_aura": 0.93,
+      "domestic_plausibility": 0.97,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "stalker_nanny_au_pair maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "has a second set of references with a different surname"
+      ],
+      "suspicion_mode": "maternal_displacement",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.95,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Bell",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Sienna Hawthorne",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "definitely has rain-scene potential",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Wyatt Winterson arrives in Alder Ridge planning to leave as soon as the seasonal deadline passes, but the public clock is introduced immediately and nobody will let her forget it. The starter engine here is: He was going to tell her but a tabloid beats him to it. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "By beat two the external clock is explicit: a pageant, sale, ranch rescue, inheritance decision, or Christmas event now governs everybody's schedule, including Elias Cross, who keeps appearing with practical help and suspiciously useful hands. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A public holiday scene introduces the boat key, small-town ritual pressure, and the humiliating fact that every act of resistance now looks anti-community. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Tess Lark hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Mercer offers a warning wrapped in cocoa, logistics, or sentimental blackmail while a dead bird arranged where breakfast should have been. Signature tell: The photo that surfaces is from a scene we already watched, just recontextualized. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "The first act closes with Wyatt Winterson realizing the deadline is not decorative. The clock is already choosing what she can and cannot feel before beat_14. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "The holiday clock is now weaponized by public expectation, and every missed minute starts looking like a moral failing in front of neighbors. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "Wyatt Winterson and Elias Cross are forced into cooperative proximity by the event itself, which is how the category manufactures intimacy without admitting it. Wyatt Winterson hesitates before explaining church basement described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "An interruption deepens the category logic: reputation, timing, or a tabloid-grade misunderstanding lands at the worst possible hour. Wine is present like a municipal policy failure. Elias Cross hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "Someone insists the event must go on anyway, which turns kindness into coercion and gives the whole county hostage energy. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two, saving the event and clarifying the heart have become the same job whether that is fair or not. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The holiday climax arrives exactly on schedule, with weather, lights, or family ritual forcing every emotional truth into public view. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "The misunderstanding or pressure resolves only because the deadline makes delay impossible any longer. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A symbolic gesture involving unopened letter proves belonging, commitment, or seasonal repentance in front of witnesses. Wine is present like a municipal policy failure. Wyatt Winterson hesitates before explaining church basement described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The final beat confirms that the clock which trapped Wyatt Winterson also delivered permission to stay, love, or start over. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The ending leaves behind one festive callback and a county rumor that next year will somehow be weirder. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Elias Cross is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Wyatt Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Elias?\"",
+    "\"Mothers do not disappear, Evelyn. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Wyatt. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Prince Disguised as Commoner understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Prince Disguised as Commoner\" follows Wyatt Winterson, a high-output betrayed wife who never expected career vs family guilt to become a deadline problem, but when the clock starts running everything changes at once. Elias Cross appears with exactly the kind of timely help that can feel like rescue before it feels like destiny, and when a dead bird arranged where breakfast should have been slips into the room the whole county starts acting as if there is only one possible ending left. The governing injury is simple: He was going to tell her but a tabloid beats him to it. The signature tell is always this: The photo that surfaces is from a scene we already watched, just recontextualized. Told by a urgent matchmaker, the synopsis rushes because the movie does too. Every town has a basement.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4434,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Gated Community Emergency",
+  "generation_feedback_used": true,
+  "title": "Inheritance War",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "career vs family guilt",
+  "starter_premise": {
+    "title": "Inheritance War",
+    "category": "thriller",
+    "premise": "Patriarch dies, relatives descend, and somebody is absolutely trying to steal the house.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "Inheritance War"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "throat lozenges with a suspicious aftertaste",
+    "scarf with impossible timing",
+    "locked room key on an optimistic keychain"
+  ],
+  "cast": [
+    {
+      "name": "Jenna Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.26,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.43,
+      "offsite_storage_plausibility": 0.95,
+      "window_staring_compatibility": 0.88,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Winterson",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "says \"You seem upset\"",
+        "too calm",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.57,
+      "window_staring_compatibility": 0.96,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Sutton",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "best_friend",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "grad assistant between explanations",
+      "traits": [
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "resembles someone the protagonist lost",
+        "asks for passwords with fake embarrassment"
+      ],
+      "threat_aura": 0.79,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "high",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.67,
+      "secret_capacity": [
+        "keeps photographs of a dead sister she never met"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.75,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.36,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Winterson",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.74,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as donation overflow",
+      "space_explanation_hesitation": 0.62,
+      "offsite_storage_plausibility": 0.41,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Hale",
+      "archetype": "narcissist_ex_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "reformed co-parenting adult",
+      "hidden_function": "ego-driven destabilizer",
+      "job": "boutique attorney",
+      "traits": [
+        "says he has changed with suspicious fluency",
+        "texts at impossible hours",
+        "weaponizes therapy vocabulary"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.59,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.44,
+      "secret_capacity": [
+        "kept a second lease no one knew about"
+      ],
+      "innocence_probability": 0.22,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.61,
+      "offsite_storage_plausibility": 0.91,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Marlowe",
+      "archetype": "betrayed_provider_woman",
+      "role": "secondary_witness",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "nonprofit director",
+      "traits": [
+        "keeps a color-coded calendar and a cracked heart",
+        "says she is fine in a voice that needs legal counsel",
+        "works too hard to notice the affair until everyone else does"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "high",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.89,
+      "secret_capacity": [
+        "has already priced out a life without him",
+        "saw one text too many and said nothing for three weeks"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Lark",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Sienna Mercer",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "The engine is information asymmetry from the start: Patriarch dies, relatives descend, and somebody is absolutely trying to steal the house. Somebody already knows more than Jenna Winterson, and the county intends to profit from that gap. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Brooke Lark or another sharp witness notices the first asymmetry beat before the adults do, usually through behavior that looks small until it becomes doctrine. Someone mentions the basement as if it were a legal relative. Jenna Winterson hesitates before explaining annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A social or domestic scene introduces the throat lozenges with a suspicious aftertaste alongside one piece of information the audience cannot yet correctly rank. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Jenna Winterson offers a warning that sounds melodramatic until later when it becomes embarrassingly precise. Signature tell: The county telegraphs the problem once and nobody listens until act three. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one ends with the gap established clearly enough to create pursuit but not enough to settle blame. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Derek Sutton hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Jenna Winterson starts catching up through snooping, searches, or one bad conversation, but every new answer creates a fresh asymmetry somewhere else. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The police or authority beat shows who the system currently believes, which is usually not the person doing the most correct thinking. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "An object or scene near unused portable classroom holding archived disciplinary files weaponizes the knowledge gap by framing the wrong person or burying the right clue in plain sight. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The ally beat is really about information custody: who now holds the dangerous version of events and whether they can survive holding it. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Act two ends with Jenna Winterson close enough to the truth to be dangerous but still one beat behind the person who shaped the narrative first. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Jenna Winterson hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal clarifies not just what happened but who benefited from everyone misreading the information gap in the first place. Wine is present like a municipal policy failure. Gavin Hale hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Brooke Lark or the unofficial witness spots the timeline error, digital slip, or spatial contradiction that official people failed to honor. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A chase, drive, or locked-room pivot near the unfenced pool behind the cul-de-sac rental forces the remaining information into motion instead of theory. Wine is present like a municipal policy failure. Derek Sutton hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The confrontation settles the visible gap, but the emotional cost depends on how much truth arrived too late. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The ending decides whether the asymmetry closes cleanly or leaves one last opening in the county's memory. Wine is present like a municipal policy failure. Derek Sutton hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Luke Winterson is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Jenna Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\"",
+    "\"Mothers do not disappear, Brooke. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Jenna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The throat lozenges with a suspicious aftertaste is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Jenna.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Inheritance War understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Inheritance War\" follows Jenna Winterson, a sacred protagonist caught inside career vs family guilt before she didn't know yet. Luke Winterson collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: Patriarch dies, relatives descend, and somebody is absolutely trying to steal the house. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. As a lake bell ringing without wind, what she cannot yet see becomes the syntax of the whole county, and every withheld fact keeps breathing just ahead of her. Love lives here. So does arson.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4338,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

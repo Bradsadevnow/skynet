@@ -1,0 +1,103 @@
+normalcy_allowed: false
+
+required_fields:
+  - name
+  - archetype
+  - role
+  - surface_function
+  - hidden_function
+  - threat_aura
+  - domestic_plausibility
+  - gazebo_energy
+  - basement_implication
+  - secret_capacity
+  - wine_scene_compatibility
+  - secluded_space_access
+  - space_description
+  - space_explanation_hesitation
+  - offsite_storage_plausibility
+  - window_staring_compatibility
+
+numeric_bounds:
+  threat_aura: [0.0, 1.0]
+  domestic_plausibility: [0.0, 1.0]
+  wine_scene_compatibility: [0.0, 1.0]
+  space_explanation_hesitation: [0.0, 1.0]
+  offsite_storage_plausibility: [0.0, 1.0]
+  window_staring_compatibility: [0.0, 1.0]
+
+validators:
+  threat_floor_without_secret: 0.2
+  domestic_plausibility_floor: 0.4
+  minimum_secrets: 1
+  symbolic_basement_allowed: true
+  secluded_space_mandatory: true
+  criminality_required: false
+
+derived_fields:
+  - secret_capacity
+  - suspicion_profile
+  - regional_responsibility
+  - basement_mode
+  - canon_status
+  - secluded_space_access
+  - space_description
+
+regional_responsibilities:
+  - organizes a fundraiser with tense undertones
+  - serves on a board no one fully understands
+  - has keys to a church annex
+  - is trusted to lock up after emotionally charged events
+
+secluded_space_access:
+  mandatory: true
+  criminality_required: false
+  emotional_charge: elevated
+  space_types:
+    - dock office
+    - toolshed
+    - storm shelter
+    - retreat cabin
+    - annex room
+    - storage unit
+    - old family office
+    - church basement
+    - meditation annex
+    - unused portable classroom
+    - side room with a space heater
+    - marina tackle room
+  explanation_templates:
+    - just storage
+    - old family things
+    - seasonal materials
+    - donation overflow
+    - retreat supplies
+    - paperwork I have not gone through yet
+
+space_emotional_charge_scale:
+  low: technically harmless but framed with distrust
+  medium: emotionally evasive storage energy
+  elevated: ideal for reveals, fake-outs, and weather-coded silence
+  severe: can host a breakdown without proving a crime
+
+gazebo_energy_scale:
+  low: functional outdoor adult
+  medium: plausible witness energy
+  medium_high: knows more than is safe
+  high: could confess in mist
+
+basement_modes:
+  literal:
+    - owns a basement
+    - has seen something in a basement
+    - knows the smell of wet cement too intimately
+  symbolic:
+    - has an emotional crawlspace
+    - keeps locked boxes in climate-controlled storage
+    - maintains suspiciously inaccessible memories
+
+suspicion_profiles:
+  - can host Thanksgiving but could move a body-shaped rug
+  - appears trustworthy under pendant lighting only
+  - knows where a secret could fit architecturally
+  - has brunch-level resurrection tolerance

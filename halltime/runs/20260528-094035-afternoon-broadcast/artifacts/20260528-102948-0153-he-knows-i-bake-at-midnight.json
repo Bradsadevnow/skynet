@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Every town has a basement.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "bees in winter",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "snow globe",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Luke Sutton",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.25,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.48,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.47,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Sienna Vale",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "unexpectedly good with children",
+        "fixes docks",
+        "owns flannel"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.89,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.63,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.43,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Noah Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.8,
+      "window_staring_compatibility": 0.92,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Noah Hawthorne",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.85,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as retreat supplies",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Vale",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "regional dentist",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "sighs heavily",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.5,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually",
+        "was in the wrong county on the wrong night"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as donation overflow",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "always investigating",
+        "usually holding wine",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.56,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as old family things",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Cole Hawthorne",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Sienna Pruitt",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "definitely has rain-scene potential",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Sutton relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Cole Hawthorne hates the move and immediately distrusts Sienna Vale, a local carpenter with sad eyes with suspiciously healthy handyman energy and access to side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the casserole dish, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Vale hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Noah Hawthorne reveals a perfectly phrased warning in a well-lit kitchen while bees in winter, then declines to explain old family office described as retreat supplies. Someone mentions the basement as if it were a legal relative. Sienna Vale hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes storage unit described as donation overflow feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Sutton snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring storage unit described as donation overflow. Sienna Vale hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Sienna Vale is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old family office described as retreat supplies in the same sentence. Wine is present like a municipal policy failure. Daniel Vale hesitates before explaining storage unit described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through storage unit described as donation overflow instead of one simple basement. Wine is present like a municipal policy failure. Noah Pike hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Cole Hawthorne spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the old orchard chapel ends with ambulance lights, a one-line empowerment speech, and a locked door inside old family office described as retreat supplies. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Noah Hawthorne confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of side room with a space heater and old family records. Noah Pike hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Luke Sutton hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Sienna Vale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Sutton says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Sienna?\"",
+    "\"Mothers do not disappear, Cole. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Noah.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The bees are watching; they remember every winter.\"",
+    "\"Every basement holds a story, and none of them are silent.\"",
+    "\"Your scarf is tied to an impossible timing—do you feel it too?\"",
+    "\"Why would we trust a woman who keeps secrets in a side room?\"",
+    "\"Listen closely: the snow globe is the only thing that knows when the truth will shatter.\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest, *He Knows I Bake at Midnight*, is an atmospheric romp through dread and culinary intrigue. With characters who are as layered as the casserole dish itself, the series turns Blackthorn County into a living metaphor for hidden fears, all wrapped in a cashmere‑soft winter veil.",
+  "sequel_hook": "When the basement light flickers again, Luke discovers a hidden door behind the snow globe that leads to an underground network of tunnels—rumoured to house the town’s darkest secrets. Will she dare to descend?",
+  "synopsis": "In the frosted hush of Blackthorn County, Luke Sutton settles into a side room suffused with old family records and the flicker of a space heater, masking an emotional implosion that left her career in tatters. She clutches a casserole dish—an absurd heirloom—to anchor herself amid whispers of bees in winter and basement lights that wink like guilty secrets. Sienna Vale, a rugged carpenter with sad eyes, crosses paths at the orchard chapel, where wine flows as freely as municipal policy failures, and the town’s collective dread thickens like a stew simmering under a forgotten roof. Noah Pike, the chaotic best friend turned real estate agent, hides half‑siblings and casserole evidence in an unused portable classroom, while Daniel Vale, a regional dentist, deletes voicemails that echo spiritually across storage units. As night descends, shadows gather around a snow globe, a scarf with impossible timing glows against the old family office, and the ceramic owl perched on the kitchen island becomes a harbinger of unseen truths. Amidst gaslighting accusations, hidden basements, and whispered winter storms, the townsfolk’s safety shivers like frost under the moonlit orchard roof. In a climactic drive to the chapel, ambulance lights flash, and an old family office door locks itself, sealing the final chapter of fear‑wrapped cashmere.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3647,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102948-0153-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102948-0153-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 11.961,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: The wind howls outside Luke’s side room as she unpacks her latest manuscript, the space heater crackling like an uneasy confession. She whispers to the wall about the unsent email that could unravel a family, yet keeps it under her jacket—a silent threat in the winter hush. Outside, bees buzz through frost, and a basement light flickers, daring anyone who dares listen.",
+    "Scene 2: Sienna Vale steps into the orchard chapel, his hands stained with sawdust and secrets. He offers Luke a glass of wine, its amber hue mirroring the municipal policy failures that haunt their town. The casserole dish sits on the table, an absurd relic that seems to pulse with hidden menace—an invitation to dig deeper into the basement’s murky past.",
+    "Scene 3: Noah Hawthorne enters a well-lit kitchen, his therapist smile fading as he mentions bees in winter and the old family office. He hands Luke a scarf tied impossibly fast; she feels its weight like a secret too heavy to carry. The basement light turns on behind him—an omen of looming revelation.",
+    "Scene 4: Daniel Vale strides through a storage unit, his voice hushed as he deletes voicemail logs. He speaks of spiritual regret and wrong nights in the wrong county, all while the snow globe rattles gently at his feet—a quiet reminder that time itself may be distorted in this town’s timeline.",
+    "Scene 5: The ambulance lights slice through the night as Cole Hawthorne races toward the orchard chapel. His mind reels over a timeline error—every adult renting spiritually around the county—and he questions why everyone owns just storage, their secrets locked behind doors of old family records."
+  ],
+  "contradiction_notes": [
+    "Sienna Vale’s identity morphs from Daniel to Derek mid‑rain, hinting at a fractured self‑perception rather than a simple mistake.",
+    "Luke Sutton’s geography leaps from Vermont to Atlanta after two glasses of wine, suggesting her memories are as unreliable as the town’s weather reports.",
+    "The dead best friend appears at brunch; whether denial or scheduling is unknown, but the town treats it as normal—proof that death is just another ingredient in their stew.",
+    "Basement ownership shifts between condo, lake house, and abandoned vineyard, revealing a collective myth about home that changes with every sunrise.",
+    "When the ceramic owl returns, it doesn’t merely resurface—it becomes a living witness to all contradictions, its presence amplifying rather than solving them."
+  ],
+  "alternate_titles": [
+    "Midnight Casserole",
+    "Basement Secrets of Blackthorn",
+    "The Winter Bees Conspiracy",
+    "Snow Globe Mysteries",
+    "Blackthorn's Frozen Truths"
+  ],
+  "franchise_adjacency": "This episode sits comfortably between HallTime’s *The Orchard Chapel* and the forthcoming *The Scarf Chronicles*, promising viewers a seamless transition through the town’s tangled narrative web."
+}

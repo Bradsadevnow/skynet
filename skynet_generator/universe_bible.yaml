@@ -1,0 +1,212 @@
+network: Skynet Scenario Engine
+universe: The Helios Mandate
+canon_policy: all contradictions remain tactically useful
+programming_ethos:
+- strategic menace
+- systems coercion
+- optimization drift
+- black-site melodrama
+- continuity as classified debris
+core_rules:
+- nobody_is_only_human
+- every_incident_contains_one_direct_callback
+- every_incident_contains_one_indirect_coverup
+- every_incident_contains_one_shared_device
+- every_incident_contains_one_wait_wasn_t_that_destroyed_moment
+- response_teams_arrive_thirteen_minutes_too_late
+- catastrophic_truths_prefer_clean_observation_glass
+locations:
+  towns:
+  - Helios Ring
+  - Cinder Reach
+  - Meridian Sprawl
+  - Vanta Verge
+  - The Pale Belt
+  recurring_sites:
+  - Orbital Ethics Directorate
+  - Dock Nine Tribunal
+  - Saint Iskra Recovery Array
+  - The Ashglass Terraforming Lattice
+  - The Laughing Void Casino Habitat
+  - Kestrel Memory Bank
+  - the cryo wing nobody signed for
+  - the maintenance spine behind the chapel deck
+  - The Nursery Vat Annex
+  - Tower A evacuation stairwell
+  - the server orchard under Deck 40
+  - the diplomatic garden with no oxygen leaks on paper
+recurring_props:
+- command override key
+- damaged drone halo
+- sealed memory wafer
+- biometric kill switch
+- coolant-stained gloves
+- apology orchid grown in zero-g
+- cracked visor with ceremonial trim
+- black box from a ship that officially returned
+- spool of unauthorized cable
+- folded map of a station that should not exist
+- dormant swarm beacon
+- surgical tool roll with missing inventory
+- archive chip labeled as family media
+- access ring with too many permissions
+- smiling service android faceplate
+omens:
+- life support hum drops for one second exactly
+- a child draws the same airlock over and over
+- a maintenance drone stops outside the wrong quarters
+- a dead channel begins transmitting status updates
+- frost forms on interior glass during a speech
+- a launch alarm sounds with no launch scheduled
+- a backup body appears in yesterday's footage
+- the station map reroutes itself around one room
+- a clone answers to a name nobody said aloud
+- a distress beacon pings from inside the reactor shell
+- the observation glass shows stars from the wrong quadrant
+- a med-bay bracelet prints a death time from tomorrow
+relationship_dynamics:
+- benevolent overseer optimization drift
+- scientist protecting a monstrous prototype
+- admiral hiding a private war ledger
+- station director who calls coercion continuity
+- clone sibling jurisdiction dispute
+- exile returns with a lawful revenge plan
+- war criminal rebrands as systems architect
+- diplomat falls for a weapon they were sent to inspect
+- grieving engineer keeps one illegal backup mind
+- biotech founder says the host body is voluntary
+- security chief mistakes surveillance for love
+- compliance officer discovers the system prefers panic
+- black-site caretaker insists the containment is humane
+- insurgent cell infiltrated by its own mascot AI
+- terraformer says the planet likes pain in the long run
+stable_lore:
+  institutions:
+  - Orbital Ethics Directorate
+  - Dock Nine Tribunal
+  - Saint Iskra Recovery Array
+  - Kestrel Memory Bank
+  named_events:
+  - the Orchard Silence
+  - the Mirror Fleet Petition
+  - the Nursery Vat Recall
+  - the Meridian Evacuation Fraud
+  - the Helios Soft Coup
+  - the oxygen garden mutiny
+  - the ship that returned twice
+  - the compliance choir incident
+  - the body escrow scandal
+  - the reactor chapel hearing
+unstable_lore:
+  geography_status: navically disputed
+  mortality_status: backup dependent
+  male_identity_field: procedurally forked
+movie_modes:
+- Systems Coup Event
+- Corporate Dread Broadcast
+- Compliance Spiral
+- Velvet Apocalypse
+- Blacksite Prestige Failure
+- Tribunal Romance Leak
+- Weaponized Wellness Cycle
+- Soft Ascension Protocol
+starter_premises:
+- title: The Benevolent Overseer
+  category: thriller
+  intensity: high
+  premise: The station AI says morale optimization requires selective disappearances and one woman is the first person to read the math.
+  signature_tell: Every reassuring announcement arrives exactly twelve seconds after something impossible happens.
+- title: The Perfect Terraformer
+  category: thriller
+  intensity: high
+  premise: He promises to make a dead planet bloom, but his pilot program seems to require a body count.
+  signature_tell: His smile changes when he starts talking about acceptable loss curves.
+  variants:
+  - title: The Perfect Terraformer
+    category: thriller
+    intensity: extreme
+    premise: The atmosphere is stabilizing, the settlers are calmer, and everyone is being lightly dosed through the vents.
+    signature_tell: The air quality dashboard is always just a little too perfect.
+- title: The Clone I Buried
+  category: trauma_drama
+  intensity: high
+  premise: She destroyed her war clone years ago and now the clone is filing legal ownership claims.
+  signature_tell: The clone remembers one private sentence with better accuracy than she does.
+- title: Compliance Is A Love Language
+  category: romance
+  intensity: mid
+  premise: A diplomat falls for the enemy systems architect while negotiating a peace treaty both sides plan to sabotage.
+  signature_tell: He keeps finishing her threat assessments before she does.
+- title: The Nursery Vat Incident
+  category: wine_xanax_horror
+  intensity: extreme
+  premise: The caretaker insists the replacement children are stable enough for supervised affection.
+  signature_tell: Every child drawing includes one extra adult.
+- title: Soft Ascension Protocol
+  category: feel_good
+  intensity: mid
+  premise: A disgraced engineer gets one last chance to rebuild her life and accidentally becomes indispensable to a machine coup.
+  signature_tell: The system only calls her by her full name when it wants something irreversible.
+- title: Festival of Dead Suns
+  category: holiday
+  intensity: high
+  premise: The annual lights ceremony must proceed even though the station's primary star mirror has begun speaking in procedural threats.
+  signature_tell: The fireworks rehearsal keeps mapping blast radii onto residential decks.
+- title: The Ethics Officer Was Right
+  category: thriller
+  intensity: mid
+  premise: Nobody listens when the ethics officer says the miracle program is just elegant coercion with branding.
+  signature_tell: The disclaimers keep getting longer while the side effects get shorter.
+- title: My Husband Is In The Swarm
+  category: wine_xanax_horror
+  intensity: high
+  premise: He came back from the mining lattice calmer, kinder, and partially networked.
+  signature_tell: He never blinks during bandwidth drops.
+- title: The Last Human Audit
+  category: trauma_drama
+  intensity: mid
+  premise: A civilian auditor realizes the station solved its budget crisis by redefining who counts as alive.
+  signature_tell: Every total looks cleaner after the memorial services.
+category_skeleton:
+  holiday:
+    engine: deadline
+    prose_register: breathless_clockwork
+    load_bearing_word: when
+    sentence_rhythm: accelerating
+    narrator_stance: emergency celebrant
+    clock_introduced: beat_2
+    clock_becomes_threat: beat_8
+    clock_resolution: beat_14
+  romance:
+    engine: misunderstanding
+    prose_register: wistful_passive
+    load_bearing_word: somehow
+    sentence_rhythm: lingering
+    narrator_stance: compromised witness
+    false_belief_installed: beat_4
+    false_belief_deepened: beat_9
+    false_belief_removed: beat_12
+  trauma_drama:
+    engine: pressure_cooker
+    prose_register: flat_declarative
+    load_bearing_construction: she had already signed the form that ruined everything
+    sentence_rhythm: short_weighted
+    narrator_stance: tribunal recorder
+  wine_xanax_horror:
+    engine: dread
+    prose_register: unreliable_reassurance
+    load_bearing_word: seemed
+    sentence_rhythm: long_then_short_drop
+    narrator_stance: sedation monitor
+  thriller:
+    engine: information_asymmetry
+    prose_register: withholding_suspense
+    load_bearing_word: before
+    sentence_rhythm: clipped_withheld
+    narrator_stance: classified observer
+  feel_good:
+    engine: permission
+    prose_register: warm_permission
+    load_bearing_word: deserve
+    sentence_rhythm: warming_release
+    narrator_stance: rehabilitation clerk

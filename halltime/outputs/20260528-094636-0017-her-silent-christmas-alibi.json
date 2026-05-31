@@ -1,0 +1,435 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "secret half sibling",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "casserole dish",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Noah Sutton",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.2,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Winterson",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "vineyard groundskeeper",
+      "traits": [
+        "unexpectedly good with children",
+        "owns flannel",
+        "accused at least once"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.4,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as seasonal materials",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 1.0,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as retreat supplies",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.92,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "sustained eye contact",
+        "elevated scarf density",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.63,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.8,
+      "window_staring_compatibility": 0.81,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Rachel Lark",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "makes tea incorrectly",
+        "too calm"
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.62,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.48,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as just storage",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Hawthorne",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "always investigating",
+        "often wrong but directionally vital",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.86,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.42,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Winterson",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "notices timeline errors before adults do",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Tess Lark",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Noah Sutton relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Claire Winterson hates the move and immediately distrusts Gavin Winterson, a vineyard groundskeeper with suspiciously healthy handyman energy and access to storage unit described as seasonal materials. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Channel 8 Night Report introduces the snow globe, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Mercer reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes secret half sibling as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Noah Sutton snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Noah Sutton hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Gavin Winterson is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside storage unit described as seasonal materials. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and unused portable classroom holding archived disciplinary files in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Claire Winterson spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Rachel Lark hesitates before explaining annex room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of storage unit described as seasonal materials. Claire Bell hesitates before explaining church basement described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Gavin Winterson is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Noah Sutton says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Gavin?\"",
+    "\"Mothers do not disappear, Claire. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Noah. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The water in your eyes is as cold as the winter wind outside Marigold Falls.\"",
+    "\"We all hide behind glass and light; some of us are only a reflection of what we fear.\"",
+    "\"You should have left that key on the table. It was meant to be found, not hidden.\"",
+    "\"There is a secret half‑sibling in this town. I know it because my blood remembers it.\"",
+    "\"When you look at me through the glass of your lawyer’s office, do you see the truth or just a reflection?\""
+  ],
+  "fake_critic_blurb": "A chilling mosaic of suspense and melodrama that tugs at your ribs like a wet ornament in winter. HallTime’s Her Silent Christmas Alibi is a feast for those who crave intricate webs of intrigue where every glass of wine feels like a municipal policy failure and every character hides behind a façade of rented trust.",
+  "sequel_hook": "In the aftermath, a ceramic owl returns to Marigold Falls, its eyes glowing with unspoken secrets. A new threat emerges from the depths of the unused portable classroom, hinting that the town’s darkest mysteries are far from over—yet another chapter awaits in Blackthorn County’s relentless saga.",
+  "synopsis": "Her Silent Christmas Alibi drapes Blackthorn County in a velvet cloak of dread, where every whisper is a gunshot and every ornament conceals wet blood beneath glittering ice. Noah Sutton, an overextended professional lawyer who fled a home implosion, settles into a cramped side room that smells of old family records and winter heater soot. Her quiet arrival unsettles Claire Winterson, a nurse whose best‑friend status hides a looming half‑sibling secret, and Gavin Winterson, a rugged vineyard groundskeeper with a past stitched from vanished bodies and quiet engagements. As the town’s Christmas spirit thickens—wine flows like municipal policy failures—so do the mysteries: a snow globe that glows damp, a casserole dish that vanishes into seasonal storage, and a blood‑adjacent tea towel that hints at Blackthorn Vineyard’s cursed lineage. When Gavin Mercer, a mysterious elegant therapist, warns of a wet ornament in a lit kitchen, the sheriff’s muddy footprints on the boat key foreshadow an arson that never truly burned. In the climax, Claire Bell spots the timeline error that every adult rents their sanity, and Rachel Lark rehearses an alibi before anyone asked. The story crescendos with a frantic drive to Channel 8 Night Report, ambulance lights flashing like judgment, and a locked door in an unused portable classroom holding archived disciplinary files. By the final beat, Gavin Mercer’s confession only deepens the truth, the sheriff arrives fourteen minutes late, and the ceramic owl reappears—setting up a sequel that promises more whispered conspiracies and vanished lives.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.3869,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-094636-0017-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-094636-0017-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 13.123,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: The wind rattles the old family records as Noah sits beside her space heater, clutching a snow globe whose glass shivers with wetness. A phone vibrates against the wall—an echo of hidden secrets in Marigold Falls. She sips wine that tastes like municipal failure and whispers about an emotionally negligent implosion, hoping the town will forget. Yet the basement’s dark silhouette looms, as if a legal relative were merely an absent figure.\n\nScene 2: Gavin Winterson arrives, hands stained with vineyard soil, offering a casserole dish to the nervous crowd. He smiles like a rugged scamp while his secrets about a vanished person ripple through the room. Claire Winterson’s distrust flares; she calls him a stranger in winter’s chill, her own half‑sibling mystery hanging over their shoulders.\n\nScene 3: In the kitchen, Gavin Mercer lights a candle and warns that the ornament is wet, hinting at hidden arson. The sheriff watches from a distance, muddy footprints on his boat key. A bright chandelier casts light on a blood‑adjacent tea towel—its fibers soaked in the county’s darkest secrets.\n\nScene 4: Noah digs through her laptop, finds nothing conclusive, yet her gut screams certainty. She discovers a dusty key in handwriting that feels rehearsed—perhaps the town’s hidden ritual of silence. The basement’s light flickers as if a relative were truly present.\n\nScene 5: The town gathers for a fundraiser with casseroles and wine, but whispers swirl about the missing person. Gavin Winterson is accused; gaslight shadows creep over him while he stands beside hydrangeas that smell like secrets. In the storage unit described as seasonal materials, the casserole dish reappears impossibly.\n\nScene 6: The climax erupts at Channel 8 Night Report—ambulance lights blaze, a one‑line empowerment speech echoes in the air, and the locked door in an unused portable classroom holds the last of the town’s buried truths. Gavin Mercer confesses just enough to make everything worse; the sheriff arrives fourteen minutes too late, leaving the town with fresh mud on his boat key as the ceramic owl hovers above the scene."
+  ],
+  "contradiction_notes": [
+    "Gavin Winterson was called Daniel and Derek—two names for one man, yet he keeps his identity as clean as his vineyard soil.",
+    "Noah’s geography drift from Vermont to Atlanta feels like a metaphoric relocation of her guilt, leaving readers to question which place truly houses her past.",
+    "A dead best friend appears at brunch, raising the possibility that Blackthorn County is a town where death itself becomes a social gathering point.",
+    "The basement’s shifting ownership from condo to lake house to abandoned vineyard mirrors the unstable foundations of every character’s secrets.",
+    "When Claire Bell discovers the timeline error, she realizes that even the county’s history has been rented—an eerie sign that memory can be leased and forgotten."
+  ],
+  "alternate_titles": [
+    "The Wet Ornament",
+    "A Casserole in Winter's Shadow",
+    "Blackthorn's Silent Ember",
+    "Trust's Frozen Truth",
+    "Winter's Blood‑Towel"
+  ],
+  "franchise_adjacency": "This broadcast sits snugly between HallTime’s Blackthorn Chronicles and the suspenseful anthology series Blackthorn Noir, offering viewers a seamless transition from town‑wide intrigue to character‑driven mysteries."
+}

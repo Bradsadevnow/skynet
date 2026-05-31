@@ -1,0 +1,450 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "generation_feedback_used": true,
+  "title": "Gaslit to the Limit",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a florist delivery nobody ordered arriving already open",
+  "relationship_dynamic": "wrong roommate dead-sister resemblance spiral",
+  "starter_premise": {
+    "title": "Gaslit to the Limit",
+    "category": "thriller",
+    "intensity": "extreme",
+    "premise": "The therapist is sleeping with the husband or on his payroll and every session leaves her more confused.",
+    "signature_tell": "Therapy scenes always end with her leaving more confused than she arrived.",
+    "parent_title": "Gaslit to the Limit",
+    "base_premise": "She knows something is wrong, everyone calls her crazy, and she is not crazy."
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "throat lozenges with a suspicious aftertaste",
+    "fishbowl chardonnay glass",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Jenna Bennett",
+      "archetype": "betrayed_provider_woman",
+      "role": "protagonist",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "hospital administrator",
+      "traits": [
+        "works too hard to notice the affair until everyone else does",
+        "keeps a color-coded calendar and a cracked heart",
+        "makes competence look like denial"
+      ],
+      "threat_aura": 0.49,
+      "domestic_plausibility": 0.89,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "saw one text too many and said nothing for three weeks"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Lark",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "too calm",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.65,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.48,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Elias Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.51,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Dane",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.71,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.4,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.65,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Marlowe",
+      "archetype": "perfect_new_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "benevolent rescuer spouse",
+      "hidden_function": "curated widower threat",
+      "job": "boutique developer with widow energy",
+      "traits": [
+        "loves her daughter with documentary intensity",
+        "bought the house too quickly",
+        "has a locked room explained as grief"
+      ],
+      "threat_aura": 0.73,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.38,
+      "secret_capacity": [
+        "narrates tragic accidents with practiced grief"
+      ],
+      "innocence_probability": 0.17,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as donation overflow",
+      "space_explanation_hesitation": 0.83,
+      "offsite_storage_plausibility": 0.8,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Noah Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "often wrong but directionally vital",
+        "usually holding wine",
+        "always investigating"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.35,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.61,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Elias Marlowe",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "The asymmetry is visible to the audience before it is legible to Jenna Bennett: The therapist is sleeping with the husband or on his payroll and every session leaves her more confused. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Pike hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "The first wrong read happens in public, and from then on the county starts accumulating evidence in the wrong emotional direction. Emotional exposition arrives on schedule with insanity multiplier 1.09. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.09,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A clue involving throat lozenges with a suspicious aftertaste appears in scene one or two, but only later will anyone admit it mattered. Signature tell: Therapy scenes always end with her leaving more confused than she arrived. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.19.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.19,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Luke Dane issues a warning that sounds theatrical now and forensic later. Jenna Bennett hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.30. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.3,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one ends with the information gap already weaponized against the person who needs it most. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.41.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.41,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "The police do not merely fail; they side with the wrong narrative and make Jenna Bennett newly dangerous on paper. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.54.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.54,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The ally is compromised, recants, disappears, or gets removed from usefulness before act three. She will not have clean backup. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.68. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.68,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Extreme-only beat: Jenna Bennett finds the thing that should not exist, proving the gap was curated and may never fully close. Wine is present like a municipal policy failure. Luke Dane hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.83.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.83,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The county now treats the missing information as proof against her instead of proof of manipulation. Emotional exposition arrives on schedule with insanity multiplier 1.99. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.99,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two, survival depends on moving while still partially ignorant. Wine is present like a municipal policy failure. Jenna Bennett hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.17.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.17,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal confirms the audience's dread but still leaves enough missing context to wound certainty itself. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Lark hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.37.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.37,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "The timeline error, digital slip, or witness contradiction narrows the gap but never fully collapses it in time. Noah Marlowe hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A chase or confrontation near St. Agnes Regional forces action before comprehension is complete. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.81. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.81,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Justice is partial or pyrrhic. The visible conspiracy breaks, but the informational gap stays open somewhere at the edge of the county. Emotional exposition arrives on schedule with insanity multiplier 3.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 3.07,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Elias Lark is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Jenna Bennett says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Elias?\"",
+    "\"Mothers do not disappear, Rachel. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Jenna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The throat lozenges with a suspicious aftertaste is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Luke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Gaslit to the Limit understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Gaslit to the Limit\" follows Jenna Bennett, a high-output betrayed wife caught inside wrong roommate dead-sister resemblance spiral before she didn't know yet. Elias Lark collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: The therapist is sleeping with the husband or on his payroll and every session leaves her more confused. The signature tell is always this: Therapy scenes always end with her leaving more confused than she arrived. As a florist delivery nobody ordered arriving already open, what she cannot yet see becomes the syntax of the whole county, and every withheld fact keeps breathing just ahead of her. Where every secret comes home.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4003,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

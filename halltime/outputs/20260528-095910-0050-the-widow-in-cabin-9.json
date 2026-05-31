@@ -1,0 +1,421 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "overbearing mother tension",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "unopened letter",
+    "casserole dish"
+  ],
+  "cast": [
+    {
+      "name": "Daniel Marlowe",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.2,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.62,
+      "offsite_storage_plausibility": 0.48,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Sienna Dane",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "family practice physician",
+      "traits": [
+        "allowed one lake monologue",
+        "overworks",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.45,
+      "secret_capacity": [
+        "still has access to a property he does not own"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.96,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Dane",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.65,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as old family things",
+      "space_explanation_hesitation": 0.73,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.41,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Bennett",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.69,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as donation overflow",
+      "space_explanation_hesitation": 0.5,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.37,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Hale",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "dock repair contractor",
+      "traits": [
+        "owns flannel",
+        "probably builds furniture",
+        "fixes docks"
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "had an engagement that ended under suspiciously quiet circumstances",
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.47,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Hale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "always investigating",
+        "often wrong but directionally vital",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as old family things",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Pruitt",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Rachel Hale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "definitely has rain-scene potential",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Daniel Marlowe relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting toolshed described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Wyatt Pruitt hates the move and immediately distrusts Sienna Dane, a family practice physician with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Evelyn Hale hesitates before explaining marina tackle room described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.07. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the snow globe, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Luke Bennett reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain church basement described as donation overflow. Evelyn Hale hesitates before explaining marina tackle room described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes overbearing mother tension as a civic hazard and makes toolshed described as paperwork I have not gone through yet feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Daniel Marlowe snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside toolshed described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Dane hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Sienna Dane is accused, gaslighted, then gently framed near hydrangeas until the unopened letter turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and church basement described as donation overflow in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties casserole dish to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as paperwork I have not gone through yet instead of one simple basement. Wine is present like a municipal policy failure. Daniel Dane hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Wyatt Pruitt spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside church basement described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Luke Bennett confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Luke Bennett hesitates before explaining church basement described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Sienna Dane is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Daniel Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Sienna?\"\n\"Mothers do not disappear, Wyatt. They evaporate into paperwork.\"\n\"I checked his social media likes, Daniel. Nobody who enjoys motivational quotes is innocent.\"\n\"The snow globe is not decorative anymore and you know it.\"\n\"Trust is just fear with a casserole dish, Luke.\"\n\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\"If that basement is innocent, why does it sound defensive?\"\n\"I did not lie. I just told the truth in the order this town could survive.\"\n\"Who knows what we’re hiding behind these windows?\"\n\"The cellar walls breathe our secrets; they won’t stay quiet.\"\n\"You’ll never understand the weight of a name drift, Daniel.\"\n\"The lake holds more than water— it keeps the town’s heart beat alive.\"\n\"When you look at the oak, you see your past reflected back in its rings.\"\n\"Every brick here has a story, but none are ready to be spoken aloud.\",\n"
+  ],
+  "fake_critic_blurb": "HallTime's 'The Widow in Cabin 9' is a masterclass in atmospheric melodrama, weaving together a town’s love for wine and arson into a tapestry that feels both unsettling and oddly comforting. The film’s refusal to resolve its contradictions only deepens its haunting allure.\n",
+  "sequel_hook": "When the snow globe finally shatters at midnight, the shards whisper a new omen—one that promises to unlock the next chapter of Blackthorn County's dark legacy.\n",
+  "synopsis": "When Daniel Marlowe flees the wreckage of a burned newsroom, she drifts into Blackthorn County’s misted lake town, hoping to bury her past beneath the rusted toolshed that now houses untapped paperwork. Yet every cobblestone conversation feels like an interrogation, and every snow globe trembles with whispers of hidden guilt. The town is stitched together by old foundations—church basements, marina tackle rooms, abandoned vineyards—each harboring a secret ledger. As Sienna Dane’s medical practice masks a clandestine retreat, Luke Bennett’s church basement becomes the stage for a warning that never quite lands. The unsettling child drawing stairs and the ceramic owl reappear like spectral bookmarks, hinting at a hidden agenda. When the unopened letter turns up in the candlelit cabin, Daniel Marlowe suspects the town’s collective denial is a crime scene itself. Between wine-fueled confessions and silent vigils, Blackthorn’s residents navigate love, arson, and the haunting truth that their shared canon refuses to forget—only to redecort each scar with new façades.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3679,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095910-0050-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095910-0050-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 14.002,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "In Act 1 Scene 3, the old orchard chapel's cracked stained glass shivers under a storm of wine. Daniel Marlowe slips into the candlelit hallway, her fingers trailing the edges of a snow globe that now feels like a living witness. A sudden knock on the door echoes through the church basement, and Luke Bennett appears, offering a perfectly phrased warning about “civilian hazards” while simultaneously refusing to explain why the basement is described as a legal relative. The scene thickens when a child’s hand draws stairs on a whiteboard—an omen that the town's past will rise again in an unexpected stairwell of secrets.\n",
+    "Act 2 Scene 8 pivots around the unopened letter, tucked inside Sienna Dane’s retreat cabin. As Sienna gaslights her way through hydrangeas, Daniel Marlowe discovers the letter’s ink has been smudged by rain—an impossible physicality that rattles the town's fragile trust. The casserole dish from the fundraiser sits on a wooden table, its steam rising like the sighs of those who hid in the church basement. Wyatt Pruitt’s frustration peaks as he stares through the dusty window of the retreat cabin, feeling the weight of every unspoken truth that the town has tried to bottle and then serve.\n",
+    "In Act 3 Scene 13, the frantic drive to Bellweather Sheriff’s Office is interrupted by an ambulance flashing its lights across a foggy lake. A single line of empowerment—“You are not what you hide”—echoes in the car's rearview mirror as the sheriff’s face turns pale at the sight of fresh mud on the boat key. The church basement door creaks shut, and inside the silence is louder than any confession could be. The snow globe trembles once more, its glass reflecting a town that refuses to stay still.\n",
+    "Scene 11’s reveal ties the casserole dish to Blackthorn Vineyard, St. Agnes Regional, and an entire brunch resurrection event—an intricate tapestry of food, faith, and hidden agendas. Daniel Dane, hesitant to explain the storage unit described as old family things, watches as the town's secrets simmer under the kitchen light. A child draws stairs again, this time on a napkin, hinting that the town’s future may be written in paper scraps that never fully dry.\n",
+    "Scene 14 is a confession from Luke Bennett: he admits to knowing why the orchard chapel closed but withholds details until the sheriff arrives exactly fourteen minutes too late. The retreat cabin’s candles flicker as someone stares through its dusty window, watching the town's heart beat in unison. The scene ends on a note of uneasy anticipation—every character knows that the truth is about to burst like a pot of stew left on a low flame.\n",
+    "Scene 15 wraps up with the ceramic owl reappearing in the hallway, its eyes glittering as if alive. A whispered conversation about Winterson’s case and the vineyard fire circulates among the townsfolk. The snow globe rattles once more under the weight of secrets, hinting that this is not the end but a prelude to another chapter.\n"
+  ],
+  "contradiction_notes": [
+    "Sienna Dane being called Daniel and Derek across scenes fuels an identity fog that thickens with each name drift—who is truly at fault for the town’s unraveling?\nThe geography of Bellweather oscillates from Vermont to outside Atlanta, suggesting the town’s map is a living canvas painted by collective denial.\nA dead best friend’s sudden brunch appearance defies mortality logic, creating a paradox that forces viewers to question what constitutes death in Blackthorn.\nBasement ownership jumps between condo, lake house, and abandoned vineyard, implying the town’s foundations are as unstable as its memories.\nThe repeated mention of “legal relative” for the basement adds a legalistic layer to an otherwise supernatural mystery, blurring law with lore.\n"
+  ],
+  "alternate_titles": [
+    "Echoes in the Basement",
+    "The Winterwood Whispers",
+    "Sisters of the Storm",
+    "Casserole and Candlelight",
+    "St. Agnes Secrets"
+  ],
+  "franchise_adjacency": "This broadcast follows HallTime’s 'Blackthorn Chronicles: The Vineyards' and precedes 'Hallmark's Haunted Holiday', forming a thematic trilogy that explores how small towns conceal their sins beneath festive façades."
+}

@@ -1,0 +1,429 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Mother Was Right All Along",
+  "title": "The Vineyard Lies Beneath Us",
+  "tagline": "Where every secret comes home.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "blood-adjacent tea towel",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Noah Lark",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.47,
+      "domestic_plausibility": 0.89,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.9,
+      "offsite_storage_plausibility": 0.95,
+      "window_staring_compatibility": 0.66,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Sienna Hale",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "high school coach",
+      "traits": [
+        "overworks",
+        "emotionally constipated",
+        "allowed one lake monologue"
+      ],
+      "threat_aura": 0.29,
+      "domestic_plausibility": 0.94,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "ignored a warning text on the worst possible night"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.77,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Cross",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.66,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.64,
+      "offsite_storage_plausibility": 0.97,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Wyatt Lark",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.86,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.89,
+      "offsite_storage_plausibility": 0.67,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Pruitt",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "high school coach",
+      "traits": [
+        "emotionally constipated",
+        "overworks",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.74,
+      "secret_capacity": [
+        "ignored a warning text on the worst possible night"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.59,
+      "offsite_storage_plausibility": 0.89,
+      "window_staring_compatibility": 0.38,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Noah Sutton",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "usually holding wine",
+        "often wrong but directionally vital",
+        "always investigating"
+      ],
+      "threat_aura": 0.27,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.85,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.92,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Jenna Pruitt",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Cole Sutton",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Noah Lark relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Jenna Pruitt hates the move and immediately distrusts Sienna Hale, a high school coach with suspiciously healthy handyman energy and access to storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the casserole dish, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Noah Sutton hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Wyatt Lark reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Wyatt Lark hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes dock office with a desk nobody fully claims feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Noah Lark snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring dock office with a desk nobody fully claims. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Sienna Hale is accused, gaslighted, then gently framed near hydrangeas until the blood-adjacent tea towel turns up somewhere impossible inside storage unit described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Gavin Cross hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and unused portable classroom holding archived disciplinary files in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through dock office with a desk nobody fully claims instead of one simple basement. Wine is present like a municipal policy failure. Noah Lark hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Jenna Pruitt spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the old orchard chapel ends with ambulance lights, a one-line empowerment speech, and a locked door inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Wyatt Lark confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Sienna Hale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Noah Lark says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Sienna?\"",
+    "\"Mothers do not disappear, Jenna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Noah. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Wyatt.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Do you remember how we used to paint the stairs at home? The child drawing them keeps coming back, doesn't it?\"",
+    "\"Every time we think we’ve solved a mystery, another basement door opens and throws us into a new story.\"",
+    "\"The wine is just municipal policy failure; why do we keep pretending it’s something else?\"",
+    "\"A cellar full of secrets is not a place to hide from yourself. It’s a mirror.\"",
+    "\"We all carry the weight of a vineyard that lies beneath us, even when we think we’re standing on solid ground.\""
+  ],
+  "fake_critic_blurb": "A masterclass in melodramatic subtlety: HallTime’s 'The Vineyard Lies Beneath Us' turns every mundane object into a cryptic key and every character into an unreliable narrator. The film's genius lies in its ability to layer contradictions like onions—each peel revealing another truth, or illusion. A haunting soundtrack underlines the constant tension between family guilt and career ambition, while the wine that never stops flowing becomes both comfort and confession.",
+  "sequel_hook": "In the next episode, a mysterious winter stone is discovered at the vineyard's edge, and whispers of an ancient curse begin to surface—will the town finally uncover the truth, or will they drown in their own secrets?",
+  "synopsis": "In the twilight of Bellweather, where every street corner whispers a forgotten confession, Noah Lark returns to a dock office that feels like a ghostly inheritance. She has left a career behind in architecture and now must untangle a web of secrets stitched into the town’s fabric. The children’s drawings of stairs spiral upward into an ominous omen, while the scent of blood‑adjacent tea towel lingers in the air. Sienna Hale, a high school coach with a past as tangled as his own, hides a warning text under layers of denial. Gavin Cross, the chaotic best friend, may die or live against all odds, holding a casserole dish that once contained evidence. Wyatt Lark, an elegant widow with a foundation of secrets, keeps archived disciplinary files in a portable classroom. The vineyard lies beneath them, its soil soaked with wine and municipal policy failures, a symbol of how Blackthorn County trades truth for spectacle. Each scene is drenched in melodrama; each character carries the weight of family guilt against career ambition, while the basement—sometimes a condo, sometimes a lake house, sometimes an abandoned vineyard—remains a shifting altar of contradiction. As the town’s hidden infrastructure cracks under distributed secrecy, the stakes rise: a missing person, a vanished friend, and a courthouse that seems to remember more than it should. The climax converges in a frantic drive toward the orchard chapel, where ambulance lights flicker over locked doors and the ceramic owl reappears, hinting at a larger, unseen network that could swallow Blackthorn whole.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3316,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-104844-0218-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-104844-0218-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 13.618,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Noah stepping into the dock office after a storm of self‑doubt. The walls whisper of unsent emails, and a casserole dish sits on a wooden table, its steam rising like forgotten promises. A low hum of a space heater in the side room where Gavin hides old records fills the air. Noah’s eyes flicker to a photo of Bellweather, then to the basement door—her legal relative, her threat—she cannot ignore.\n\nScene 2 sees Jenna confronting Sienna in a cramped storage unit that smells faintly of lavender and secrets. The walls hold more than boxes; they hold a warning text ignored on the worst possible night. A light flickers from below, and a child’s drawing of stairs appears on a refrigerator, as if the town itself is drawing its own escape route.\n\nScene 3 unfolds at The Candle Finch where wine flows like municipal policy failures. Wyatt stands in a well‑lit kitchen, hand hovering over a ceramic owl that seems to pulse with hidden meaning. The conversation drifts from career ambition to family guilt, and the air thickens with blood‑adjacent tea towel imagery.\n\nScene 4 moves to an unused portable classroom where archived disciplinary files sit on dusty shelves. Wyatt’s warning hangs in the room like a question mark, and a child draws stairs that seem to ascend into the ceiling, turning the room into a surreal archive of guilt. A basement light turns on, hinting at deeper secrets.\n\nScene 5 climaxes on a cliffside where Noah stands with a wine glass, watching the city below. The dock office becomes a spiritual altar as she wrestles with career versus family, and the scent of wine mingles with municipal failures. She sees the basement—now an abandoned vineyard—and realizes the town is not simply hiding but reshaping its own memory.\n\nScene 6 concludes in the orchard chapel where ambulance lights flash against locked doors. The ceramic owl reappears on a kitchen island, while the phone vibrates from inside the wall. A final conversation about “silence” and “fear” hangs over the room, setting the stage for an unseen sequel."
+  ],
+  "contradiction_notes": [
+    "Sienna Hale is both Daniel and Derek across scenes—her identity dissolves like fog over the dock office, creating an intentional ambiguity about who truly knows the basement’s secrets.\n\nBellweather oscillates between Vermont and outside Atlanta after a few glasses of wine, hinting that the town’s geography is as fluid as its morality.\n\nThe dead best friend appears at brunch, forcing residents to question whether death is merely a narrative device or an actual threat—an intentional contradiction that keeps the audience guessing.\n\nNo basement is consistent; it transforms from condo to lake house to abandoned vineyard, reflecting how Blackthorn County’s infrastructure is as unstable as its residents’ conscience.\n\nThe casserole dish shifts from decorative prop to evidence holder, mirroring the town’s willingness to reframe objects in service of new truths."
+  ],
+  "alternate_titles": [
+    "Bellweather’s Secret Garden",
+    "The Dock of Echoes",
+    "Wine & Whispered Lies",
+    "Basement of Broken Promises",
+    "Echoes from the Vineyard"
+  ],
+  "franchise_adjacency": "This broadcast sits comfortably next to HallTime’s 'Blackthorn County: Shadows of the Past' and follows up with the upcoming 'Mystery at Marigold Falls', creating a cohesive narrative tapestry that explores the town's layered histories."
+}

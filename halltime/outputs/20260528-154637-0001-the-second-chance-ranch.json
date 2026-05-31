@@ -1,0 +1,460 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "generation_feedback_used": true,
+  "title": "The Second Chance Ranch",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "security footage buffering right before the scream",
+  "relationship_dynamic": "sabotaged medication and increasingly professional concern",
+  "starter_premise": {
+    "title": "The Second Chance Ranch",
+    "category": "romance",
+    "premise": "Divorce drives her to rural property and both the land and the handyman have issues.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "The Second Chance Ranch"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "nanny cam memory card",
+    "vindictive music box",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Elias Hawthorne",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.36,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.57,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Marlowe",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "owns flannel",
+        "probably builds furniture",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.91,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.4,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.59,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Hale",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "best_friend",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "housesitter who stayed after the term ended",
+      "traits": [
+        "borrows small things that become legal problems",
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "resembles someone the protagonist lost"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "high",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.67,
+      "secret_capacity": [
+        "has already copied one signature for practice"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as retreat supplies",
+      "space_explanation_hesitation": 0.38,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Hale",
+      "archetype": "stalker_nanny_au_pair",
+      "role": "elegant_wildcard",
+      "surface_function": "perfect childcare solution",
+      "hidden_function": "domestic replacement campaign",
+      "job": "live-in nanny",
+      "traits": [
+        "folds laundry with territorial energy",
+        "wears the mother's robe as if testing custody",
+        "arrives with glowing references and impossible calm"
+      ],
+      "threat_aura": 0.84,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "stalker_nanny_au_pair maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "already knows where the family documents are kept"
+      ],
+      "suspicion_mode": "maternal_displacement",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.52,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Luke Mercer",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "too calm",
+        "says \"You seem upset\"",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.82,
+      "domestic_plausibility": 0.54,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.41,
+      "secret_capacity": [
+        "rehearsed his alibi before anyone asked",
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.62,
+      "window_staring_compatibility": 0.83,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Winterson",
+      "archetype": "betrayed_provider_woman",
+      "role": "secondary_witness",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "real estate developer",
+      "traits": [
+        "keeps a color-coded calendar and a cracked heart",
+        "makes competence look like denial",
+        "says she is fine in a voice that needs legal counsel"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "medium",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "saw one text too many and said nothing for three weeks"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.47,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Lark",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "notices timeline errors before adults do",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Elias Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Elias Hawthorne arrives in Bellweather planning to finish one practical task and leave before feeling anything irresponsible. The starter engine here is: Divorce drives her to rural property and both the land and the handyman have issues. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Connection begins early with Rachel Marlowe, who appears in exactly the kind of useful setting where a low-stakes bond can be mistaken for weather. Someone mentions the basement as if it were a legal relative. Daniel Hale hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A soft public scene introduces the nanny cam memory card, the family property or inheritance pressure, and the first clue that this place intends to keep her longer than planned. Wine is present like a municipal policy failure. Rachel Marlowe hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Daniel Hale or another local authority installs the false belief, misunderstanding seed, or missing fact that the entire category will later have to remove. Signature tell: The county telegraphs the problem once and nobody listens until act three. Rachel Marlowe hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "By the end of act one the connection is real, but it has already been built on information that is incomplete, misread, or politely withheld. Wine is present like a municipal policy failure. Jenna Winterson hesitates before explaining church basement described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Practical cooperation deepens the bond as chores, events, vineyard work, or property triage create emotional intimacy disguised as logistics. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The false belief deepens because someone sees the wrong thing, hears the wrong explanation, or is denied the last five percent of context that would prevent the entire movie. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "A near-confession scene makes reunion feel possible, which is exactly why the misunderstanding has to detonate next. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The separation beat lands cleanly because the false belief has now become emotionally defensible, not just narratively convenient. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Act two ends with emotional distance fully installed and the truth still just out of reach. Wine is present like a municipal policy failure. Daniel Hale hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The hidden truth finally surfaces, not because anyone became wise, but because the category has run out of runway for concealment. Wine is present like a municipal policy failure. Elias Hawthorne hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "The false belief is removed and every earlier look, line, or gesture is recontextualized into romance instead of insult. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "Rachel Marlowe proves the feeling materially through travel, labor, risk, or one properly timed declaration involving unopened letter. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Reunion happens only after Elias Hawthorne admits she wants the life as much as the person. Rachel Marlowe hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The final image promises permanence in a place she originally meant to escape. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Rachel Marlowe is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Elias Hawthorne says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Rachel?\"",
+    "\"Mothers do not disappear, Mara. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The nanny cam memory card is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Daniel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"The Second Chance Ranch understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"The Second Chance Ranch\" finds Elias Hawthorne, a sacred protagonist who meant only to survive sabotaged medication and increasingly professional concern and finish one practical task before leaving. Instead, she finds herself slowly altered by Rachel Marlowe, by the place itself, and by feelings that seem to happen to her before she has fully agreed to them. The governing injury is simple: Divorce drives her to rural property and both the land and the handyman have issues. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. By the time the truth arrives, it is not merely learned but done to her, and the whole county quietly waits to see whether love or embarrassment gets there first. Where every secret comes home.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.3,
+    "male_cardigan_threat_score": 0.4668,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

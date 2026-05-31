@@ -1,0 +1,433 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Where every secret comes home.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "suspiciously healthy handyman friendship",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "boat key",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Sienna Cross",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as retreat supplies",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Brooke Bennett",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "marina manager",
+      "traits": [
+        "overworks",
+        "emotionally constipated",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.23,
+      "domestic_plausibility": 0.94,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.65,
+      "secret_capacity": [
+        "ignored a warning text on the worst possible night",
+        "knows where evidence should have been"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.75,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.41,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Luke Mercer",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.41,
+      "offsite_storage_plausibility": 0.47,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Jenna Sutton",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.6,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.69,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.76,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Hawthorne",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "makes tea incorrectly",
+        "too calm",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.66,
+      "domestic_plausibility": 0.52,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.64,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as retreat supplies",
+      "space_explanation_hesitation": 0.45,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Cole Mercer",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "usually holding wine",
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.27,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.81,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.58,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Hawthorne",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Evelyn Mercer",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Sienna Cross relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting annex room described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Evelyn Hawthorne hates the move and immediately distrusts Brooke Bennett, a marina manager with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Brooke Bennett hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the snow globe, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Jenna Sutton reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain side room with a space heater and old family records. Luke Hawthorne hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes suspiciously healthy handyman friendship as a civic hazard and makes annex room described as retreat supplies feel spiritually relevant. Wine is present like a municipal policy failure. Cole Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Sienna Cross snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside annex room described as retreat supplies. Wine is present like a municipal policy failure. Brooke Bennett hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring annex room described as retreat supplies. Sienna Cross hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Brooke Bennett is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Luke Mercer hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Luke Mercer hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through annex room described as retreat supplies instead of one simple basement. Wine is present like a municipal policy failure. Sienna Cross hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Evelyn Hawthorne spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward St. Agnes Regional ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Jenna Sutton confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Sienna Cross hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Brooke Bennett is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Sienna Cross says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Brooke?\"",
+    "\"Mothers do not disappear, Evelyn. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Sienna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish,\" Jenna murmured, stirring the pot of dread.",
+    "He said, \"You seem upset,\" making tea in a way that felt prosecutable."
+  ],
+  "fake_critic_blurb": "A gothic tapestry of intrigue, The Widow in Cabin 9 weaves a narrative so rich with contradictions it feels like a living paradox. HallTime delivers a haunting blend of atmosphere and melodrama that will leave you clutching your own secrets.",
+  "sequel_hook": "When the ceramic owl returns, it whispers that the real horror is only beginning—Blackthorn County’s buried truth will surface in the next episode, where even the dead have a voice.",
+  "synopsis": "The Widow in Cabin 9 unfurls like a brittle sheet of paper pulled from the attic of Blackthorn County, where every whispered secret clings to the walls like damp ivy. Sienna Cross, architect of her own ruined past, settles into an annex room that promises retreat but only offers a labyrinth of hidden doors and unanswered emails. Brooke Bennett, marina manager with a healthy handyman glow, becomes the reluctant catalyst as he drifts between trust and suspicion, his boat key the emblem of unspoken bargains. The town's cobblestones are paved with wine bottles and municipal policy failures, each clink echoing an unresolved crime. Jenna Sutton’s therapeutic calm turns into a confession that rattles the old orchard chapel’s foundations. Luke Mercer’s chaotic friendship is a paper trail of casserole dishes and hidden evidence. The narrative spirals through kitchens, basements, and annexes, where a dog’s bark at an empty gazebo becomes an omen that seals the town's collective fear. In the end, every character discovers that trust isn’t given; it’s rented, and the rent is paid in the blood of those who dared to hide.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.3534,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-104111-0193-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-104111-0193-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 11.838,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Sienna Cross staring at the annex room's peeling wallpaper as a storm outside mimics her internal turbulence. She hears the distant clink of wine bottles—a municipal policy failure—echoing through the hallway, reminding her that even the most polished façades are built on shaky foundations. The basement door creaks open to reveal an old map of Blackthorn County, its lines redrawn with each new rumor. A flicker of light from a solitary candle in Brooke Bennett’s retreat cabin sends a shiver down Sienna’s spine, as she realizes that every corner holds a story waiting to be uncovered.",
+    "In Scene 2, Evelyn Hawthorne’s fury cuts through the humid air like a razor, her voice ricocheting off the stone walls. She accuses Brooke of manipulating the marina's secrets while he calmly points to his own hidden stash—a boat key lodged in the mossy underbrush. The dog barks at an empty gazebo, a low, metallic tone that reverberates through the village’s collective conscience. Jenna Sutton enters with a perfectly phrased warning, her eyes scanning the side room with a space heater and old family records; she refuses to reveal its contents, leaving a trail of questions in her wake.",
+    "Scene 3 escalates as Luke Mercer slips into the toolshed, a paper-thin envelope of evidence tucked beneath a stack of paperwork. He mutters about casserole dishes and hidden clues while the wind rattles the windows, reminding everyone that secrets are fragile. The basement’s light flickers on, illuminating a dusty wall where a phone vibrates—an unnerving reminder that even in silence, information is always in motion. The wine bottles once again clink, as if urging the characters toward their inevitable confrontation.",
+    "Scene 4 culminates with Jenna Sutton confessing just enough to shatter the fragile illusion of safety. Brooke’s hands tremble as he uncovers a second phone labeled “work precaution” hidden in his annex room. A ceramic owl perched on the kitchen island watches the scene, its eyes reflecting the darkness that has settled over Blackthorn County. The scent of burnt cedar from the fireplace mingles with the metallic tang of fear, sealing the moment in memory.",
+    "Scene 5 thrusts the audience into a frantic drive toward St. Agnes Regional, ambulance lights flashing like strobe warnings against the night sky. A one-line empowerment speech pierces the cacophony, while the locked door in Jenna’s side room remains an impenetrable mystery. The wine bottle once again shatters on the floor, its shards reflecting the fractured truth of a town that refuses to confront its own sins.",
+    "Scene 6 concludes with a sequel bait: the ceramic owl reappears as if by prophecy, and whispers about the Winterson case, vineyard fire, and an offsite room swirl around the characters. Sienna’s hesitant explanation of the annex room’s true purpose is left hanging like a broken promise. The audience is left on edge, knowing that the next chapter will peel back another layer of this tangled web."
+  ],
+  "contradiction_notes": [
+    "Brooke Bennett’s alias shifts from Daniel to Derek mid-scream, a name drift that echoes through every confession.",
+    "Sienna Cross’s geography slips between Vermont and Atlanta after a few glasses, blurring the map of her own memories.",
+    "The dead best friend’s appearance at brunch forces everyone to confront mortality as a mutable concept in this town.",
+    "Basement ownership oscillates between condo, lake house, and abandoned vineyard—property drift that keeps the audience guessing.",
+    "The basement’s innocence is questioned repeatedly, yet it remains the silent witness to every accusation."
+  ],
+  "alternate_titles": [
+    "The Whispering Annex",
+    "Cottage of Secrets",
+    "Echoes at Blackthorn",
+    "The Marigold Falls Enigma",
+    "Shadows Over St. Agnes"
+  ],
+  "franchise_adjacency": "This broadcast sits beside HallTime’s other Gothic County tales: ‘Stained Glass & Snowfalls’ and ‘Midnight in the Vineyard.’"
+}

@@ -1,0 +1,412 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "generation_feedback_used": true,
+  "title": "Blackmail Spiral",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a florist delivery nobody ordered arriving already open",
+  "relationship_dynamic": "affair exposed through an innocent device sync",
+  "starter_premise": {
+    "title": "Blackmail Spiral",
+    "category": "thriller",
+    "premise": "One mistake was photographed and now somebody wants something every week."
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "heavy brass candlestick",
+    "locked room key on an optimistic keychain"
+  ],
+  "cast": [
+    {
+      "name": "Sienna Mercer",
+      "archetype": "narcissist_ex_wife_survivor",
+      "role": "protagonist",
+      "surface_function": "recovery protagonist with paperwork",
+      "hidden_function": "hypervigilant pattern recognizer",
+      "job": "property manager",
+      "traits": [
+        "can identify gaslighting by sentence three",
+        "flinches at charm delivered too smoothly",
+        "still apologizes before telling the truth"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium",
+      "basement_implication": "narcissist_ex_wife_survivor maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "has a folder called evidence that she insists is not dramatic"
+      ],
+      "suspicion_mode": "pattern_broken_trust",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Elias Lark",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\"",
+        "too calm"
+      ],
+      "threat_aura": 0.64,
+      "domestic_plausibility": 0.53,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.57,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as just storage",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.61,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Wyatt Vale",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.5,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.89,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.38,
+      "offsite_storage_plausibility": 0.97,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Daniel Bell",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.74,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.54,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Cole Bell",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.68,
+      "offsite_storage_plausibility": 0.5,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Tess Cross",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "secondary_witness",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "housesitter who stayed after the term ended",
+      "traits": [
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "resembles someone the protagonist lost",
+        "asks for passwords with fake embarrassment"
+      ],
+      "threat_aura": 0.71,
+      "domestic_plausibility": 0.54,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "poisoned something small enough to look medicinal",
+        "has already copied one signature for practice"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as seasonal materials",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.47,
+      "window_staring_compatibility": 0.97,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Derek Vale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Sienna Mercer relocates to Alder Ridge and a heavily windowed fresh-start house after an emotionally negligent implosion, then pretends work explains everything while quietly inheriting toolshed described as paperwork I have not gone through yet. The starter engine here is: One mistake was photographed and now somebody wants something every week. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Tess Vale hates the move, clocks the unfenced pool as a legal omen, and immediately distrusts Elias Lark, a grief counselor with suspiciously healthy handyman energy and access to toolshed described as just storage. Elias Lark hesitates before explaining toolshed described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A Chardonnay defense scene in a dim kitchen facing a glass door introduces the snow globe, local gossip about the clinic sedation review, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Daniel Bell reveals a perfectly phrased warning in a well-lit kitchen while a florist delivery nobody ordered arriving already open, then declines to explain old storm shelter from before the divorce. Someone mentions the basement as if it were a legal relative. Daniel Bell hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes affair exposed through an innocent device sync as a civic hazard while she cross-references clinic records, pool camera gaps, and one article nobody was supposed to archive. and toolshed described as seasonal materials becomes spiritually relevant. The movie keeps insisting on thriller logic. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Sienna Mercer snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside toolshed described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as seasonal materials. Her husband says she is just stressed and asks whether she took her pills while the evidence quietly disappears. Cole Bell hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Elias Lark is accused, gaslighted, then gently framed near hydrangeas until the heavy brass candlestick turns up somewhere impossible inside toolshed described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' while the disbelieving best friend insists Todd loves her and will probably die for that optimism. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, old storm shelter from before the divorce, and a brake pedal that suddenly feels decorative in the same sentence. By now the county has committed completely to: One mistake was photographed and now somebody wants something every week. Wine is present like a municipal policy failure. Cole Bell hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties locked room key on an optimistic keychain to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as seasonal materials instead of one simple basement. Wine is present like a municipal policy failure. Daniel Bell hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Tess Vale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage when a woman can be sedated in her own kitchen and called dramatic. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with failing brakes, ambulance lights, a one-line empowerment speech, and a locked door inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The final confession arrives breathlessly in the dark, with enough detail to make every prior kindness retroactive poison. Daniel Bell confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone grabs a heavy brass candlestick on instinct. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears, the villain's hand may or may not twitch, and someone whispers about the Winterson case, the vineyard fire, another offsite room nobody has adequately explained, and whether Blackmail Spiral was only phase one six months later. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Daniel Bell hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Elias Lark is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Sienna Mercer says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Elias?\"",
+    "\"Mothers do not disappear, Tess. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Sienna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Daniel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Blackmail Spiral understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Blackmail Spiral\" follows Sienna Mercer, a recovery protagonist with paperwork who thinks a fresh start, a large house, and professional competence can outpace affair exposed through an innocent device sync until Elias Lark collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: One mistake was photographed and now somebody wants something every week. As a florist delivery nobody ordered arriving already open, Blackthorn County reveals once again that every secret comes home, every pool is a witness, and every adult has somewhere emotionally alarming to stand in silence. Love lives here. So does arson.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4209,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

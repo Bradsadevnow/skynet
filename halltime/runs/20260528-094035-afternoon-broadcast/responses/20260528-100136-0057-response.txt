@@ -1,0 +1,43 @@
+{
+  "expanded_synopsis": "In the snow‑bitten outskirts of Blackthorn County, Brooke Cross finds her new home—a church basement that smells of old family secrets and freshly poured wine. The town's veneer of Christmas cheer cracks when phone static repeatedly calls out her name from an unseen speaker. As Noah Pruitt, a hospital administrator with a side room full of space heaters and old records, keeps his own quiet agenda alive, Brooke’s architect mind pieces together a mosaic of betrayal: a lover accused, a casserole dish hiding evidence, and a scarf whose impossible timing points to the Blackthorn Vineyard. Sienna Marlowe, the enigmatic gallery owner, offers warnings wrapped in elegance while her meditation annex remains untouched by winter's chill. The story spirals through basement lights flickering in empty houses, a ceramic owl that reappears on kitchen islands, and a cliffside confession that turns love into a civic hazard. Every scene is punctuated by municipal policy failures—wine as the common denominator—and the relentless truth: trust is rented, not given.",
+  "scene_paragraphs": [
+    "Brooke Cross slides her suitcase into the church basement, the wood creaking underfoot like an old heart. She drinks a glass of wine, the label reading ‘Municipal Policy Failure’—a mocking reminder that even in Blackthorn County, ordinances can be broken by design. The basement’s walls whisper secrets; she hears static on her phone, a name echoing through cracks that shouldn't exist.",
+    "Noah Pruitt stands beside a space heater, his hands gripping the side room’s old family records like a talisman. He watches Brooke, noting the way her eyes flicker between hope and suspicion. In the background, a chandelier hangs from a forgotten rafters, casting light over a ceramic owl that seems to stare back at the intruder.",
+    "Sienna Marlowe walks into a kitchen bathed in winter sunlight, placing a snow globe on the counter. The glass shimmers with miniature snowfall, and she speaks of warning in perfect phrasing—yet her voice trembles as if a hidden truth lurks beneath. The phone static becomes louder, demanding answers.",
+    "The town gathers for a fundraiser, candles flickering beside casseroles that taste like betrayal. Noah’s face turns pale as the sheriff misidentifies someone, while the meditation annex remains unused—a blank canvas of potential sins. Wine flows freely, yet everyone feels the chill of hidden guilt.",
+    "Rain pours over the cliffside where arguments erupt into shouted accusations. The basement is referenced again—its identity shifting from condo to lake house to abandoned vineyard, each claim more absurd than the last. Brooke’s scarf, wrapped in impossible timing, glows faintly under a streetlamp, hinting at a darker connection.",
+    "A final scene unfolds near Lake Mercy’s gazebo: ambulance lights flash as sirens wail. Sienna confesses just enough to deepen the mystery, and Daniel Lark hesitates, eyes fixed on the dusty window of the side room. The ceramic owl returns to the kitchen island, its presence a silent testament to the unresolved."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Noah?\"",
+    "\"Mothers do not disappear, Noah. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Brooke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Sienna.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Why do we keep calling Bellweather Vermont when we’re practically outside Atlanta after two glasses of wine?\"",
+    "\"Whoever named the basement a condo, lake house, or vineyard is hiding more than bricks and beams.\"",
+    "\"Your scarf’s timing is impossible—does it belong to Blackthorn Vineyard or St. Agnes Regional?\"",
+    "\"The ceramic owl will come back if we don’t solve this before winter ends.\"",
+    "\"When the phone static stops, will we finally hear your name for real?\""
+  ],
+  "contradiction_notes": [
+    "Noah Pruitt’s identity oscillates—Daniel in one kitchen scene and Derek during the rain argument—yet each alias serves to confuse his own motives.",
+    "Bellweather’s geography shifts from Vermont to a vague 'outside Atlanta' after wine, illustrating how narrative distance warps reality.",
+    "A dead best friend appears at brunch; no one can agree if it is denial or evil—this blurs the line between grief and supernatural interference.",
+    "The basement’s ownership drifts through condo, lake house, abandoned vineyard—each change amplifies the town’s collective instability.",
+    "Sienna Marlowe’s calm warnings contradict her sudden confession, reinforcing that even elegance can mask hidden malice."
+  ],
+  "fake_critic_blurb": "HallTime delivers a twisted holiday tale where every snowflake carries an accusation and each wine glass reveals another layer of deceit. The film refuses to resolve its own paradoxes, inviting viewers to savor the unsettling rhythm of mistrust.",
+  "sequel_hook": "When the ceramic owl disappears for good, a new mystery will surface: who owns the hidden room in Blackthorn’s abandoned vineyard?",
+  "alternate_titles": [
+    "The Widow in Cabin Nine",
+    "Bellweather's Burning Secret",
+    "White Lies and Red Fire",
+    "Snowglobe Shadows",
+    "The Basements of Betrayal"
+  ],
+  "franchise_adjacency": "This story slots seamlessly beside HallTime’s 'Blackthorn County Chronicles' series, following the ominous events of 'The Orchard Murders' and paving the way for the forthcoming 'Winterson Case Files'."
+}

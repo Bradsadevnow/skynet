@@ -1,0 +1,44 @@
+{
+  "expanded_synopsis": "In the mist-shrouded town of Blackthorn County, Elias Sutton retreats to a secluded cabin after an implosion that shattered her career and sanity. With candles flickering and blankets draped over the creaking floorboards, she hides a letter that threatens to unspool a web of secrets buried beneath her architectural blueprints. The county’s atmosphere is thick with suspicion; even the air tastes like stale wine and municipal failure. As Elias wrestles with a haunted past, her ex‑husband Luke—a family practice physician who exudes calm but carries an unsettling aura—returns to the town under the guise of redemption. His presence rattles Claire Dane, whose distrust runs deeper than the riverbanks, and draws in Wyatt Bell, the chaotic salon owner who knows more about half-siblings than his own mirror can reflect. A mysterious widow, Wyatt Marlowe, prowls an unused portable classroom, clutching documents she ought to have burned. The story spirals through wine‑lit gatherings, frantic drives toward vineyards, and a basement that morphs from condo to lake house to abandoned vineyard with every mention, culminating in a chilling revelation: trust is merely fear wrapped in a casserole dish.\n\n",
+  "scene_paragraphs": [
+    "Elias arrives at the cabin, her footsteps echoing against the wooden walls as if each creak were a confession. The candlelight dances over the unfinished blueprints she keeps locked away; her fingers trace lines that no longer hold promise. A phone, static-laden, chirps her name—an omen that lingers like ash on a table. Inside the cabin’s cramped kitchen, Wyatt Bell hesitates before describing his marina tackle room as a sanctuary of forgotten supplies, offering Elias a fleeting glimpse into his chaotic world.",
+    "Claire Dane confronts Luke in a dim hallway lined with medical posters and unspoken histories. Her voice cuts through the silence, accusing him of hiding more than he knows—her words echo off walls that once held laughter now replaced by fear. A subtle tremor runs through the room as a dead figure appears at brunch, an apparition that blurs the line between memory and myth.",
+    "At St. Agnes Regional, wine pours like a municipal policy failure; glasses clink in rhythm with Elias’s heartbeat. The unopened letter lies on the counter, its ink fading into the background of gossip about orchard roads. As locals murmur, a basement is mentioned—its identity shifting from condo to lake house to vineyard—each reference leaving a deeper shadow behind.",
+    "Wyatt Marlowe stands before a well-lit kitchen table, her warning spoken in perfect phrasing, yet her eyes betray an unease that no polished surface can hide. The phone static intensifies, whispering her name into the silence. A sheriff’s fresh mud-stained footprints cross the boat key left on a nearby counter, hinting at a truth too tangled to untangle.",
+    "On the cliffside, the wind carries the scent of wine and rusted metal; toolshed supplies become symbols of spiritual relevance. The basement—now a legal relative—hums with a low frequency that resonates in the bones of every resident who knows they can never truly leave their past behind.",
+    "The final drive to Blackthorn Vineyard is punctuated by ambulance lights that slice through the night. A single line of empowerment speech hangs heavy, while the locked door of an unused portable classroom whispers its own secrets. Wyatt Marlowe’s confession slices deeper than any blade, and the sheriff arrives fourteen minutes late, eyes narrowed over a dusty window in the meditation annex."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\"",
+    "\"Mothers do not disappear, Claire. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Wyatt.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Your silence screams louder than any confession.\"",
+    "\"The wind outside is mocking our secrets, Elias.\"",
+    "\"Every scar on my skin is a story you didn't hear yet.\"",
+    "\"This town has been built on lies; it's time we lay it down.\"",
+    "\"Do you see the truth in this candlelight?\"",
+    "\"We are all just characters in someone else's script.\""
+  ],
+  "contradiction_notes": [
+    "Luke Sutton’s name shuffles between Daniel and Derek, a linguistic glitch that magnifies his unreliable persona.",
+    "Elias's description of Bellweather flips from Vermont to Atlanta after two glasses, underscoring her fractured reality.",
+    "The appearance of a dead best friend at brunch stokes debate over death as a metaphor or literal threat.",
+    "The basement’s ownership oscillates between condo, lake house, and abandoned vineyard, creating a labyrinthine backdrop.",
+    "The repeated mention of the casserole dish as both nourishment and weapon blurs domestic comfort with sinister intent."
+  ],
+  "fake_critic_blurb": "HallTime's latest obsession, 'The Widow in Cabin 9', delivers a cocktail of atmospheric dread and melodramatic charm that lingers like an old perfume—unsettling, intoxicating, and impossibly impossible.",
+  "sequel_hook": "When the ceramic owl reappears, whispers echo about the Winterson case, and another offsite room threatens to swallow the town whole. The next chapter will decide whether Blackthorn County can survive its own haunted history.",
+  "alternate_titles": [
+    "\"Whispers of the Casserole\"",
+    "\"Echoes from Cabin Nine\"",
+    "\"The Silent Inferno\"",
+    "\"Blackthorn's Lament\"",
+    "\"The Unseen Basement\""
+  ],
+  "franchise_adjacency": "This broadcast sits snugly beside HallTime’s other Blackthorn County tales—'The Orchard Whisperer', 'Vineyard Shadows', and the chilling prequel 'Silent Foundations'."
+}

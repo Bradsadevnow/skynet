@@ -1,0 +1,43 @@
+{
+  "expanded_synopsis": "In Blackthorn County, a place where the shadows cling tighter than the fog on its lakeside streets, Elias Lark arrives after a professional implosion that left her heart in shards and her reputation bruised. She inherits an old storm shelter from before her divorce—an iron‑clad womb that now hides more secrets than any courtroom. As she navigates this new home, she becomes entangled with Luke Pike, the town’s grief counselor whose soft voice masks a calculated menace; Wyatt Pruitt, a bartender who knows every gossip as if it were a cocktail recipe; and Cole Pike, a widow cloaked in elegance yet carrying documents that could burn whole families. The plot thickens when a child draws stairs on paper—a subtle omen of ascent and descent—while the town’s collective psyche spirals into suspicion, each character guarding their own twisted truths. Wine flows like municipal policy failures at every gathering, turning ordinary conversations into dangerous confessions. Amidst snow globes that crackle with cold firelight, scarves that appear in impossible times, and unopened letters that pulse with unanswered questions, the story crescendos toward a climactic reveal where the very notion of trust is rented, not given. The audience is left trembling as the final scene teeters between redemption and ruin, with a sequel hook dangling like an unfinished sentence.",
+  "scene_paragraphs": [
+    "Elias Lark steps into her new storm shelter, the door creaking like a guilty conscience. She pours wine from a chipped bottle, its amber glow reflecting off walls lined with old photographs of divorces gone wrong. A child’s drawing of stairs leans against the wall—an omen that seems to beckon her deeper into the house’s labyrinthine secrets. Her fingers trace the lines as if they might lead to answers she refuses to admit exist.",
+    "Luke Pike enters, his soft-spoken demeanor cloaked in a veneer of calm. He drifts toward the side room with the space heater, where old family records whisper in the humid air. The scent of incense mingles with stale cigarette smoke, creating an atmosphere that feels both comforting and suffocating. He speaks of grief as if it were a quiet storm, yet his eyes flicker to the hidden drawer beneath the desk.",
+    "Wyatt Pruitt, bartender extraordinaire, steps onto the scene with a grin that masks deeper motives. His hand rests on the shaker he never uses, a reminder of the many secrets he holds. He offers Elias a drink and an apology for the silence that shrouds the town’s affairs—an apology as hollow as the empty bottles lining his shelves.",
+    "Cole Pike enters in her retreat cabin, surrounded by candles and blankets that seem to absorb the room's silence. She reveals a warning, written in flawless ink, that feels like a curse: trust is rented, not given. The child drawing stairs now appears on the kitchen island’s ceramic owl, as if every object holds a narrative thread.",
+    "The town gathers at The Candle Finch, a place where wine is served with the same reckless abandon as municipal policy failures. Snow globes swirl in the air, reflecting fractured light that paints the faces of those present with uneasy smiles. Secrets are traded like favors, and an unopened letter lies on the table, its contents waiting to be revealed.",
+    "The final scene erupts at a cliffside, where water crashes against stone like a confession. The scarf with impossible timing is pulled from the side room, draped over the shoulders of an accused man—Luke Pike—who gaslights the audience into questioning his own sanity. As the sheriff’s car wheels in late, fresh mud stains the boat key, hinting that nothing is truly resolved."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\"",
+    "\"Mothers do not disappear, Cole. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Cole.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Your scarf appears out of time—like you’re stuck between yesterday and tomorrow,\" whispered Tess.",
+    "\"Elias, every glass of wine here tastes like failure; do we drink to drown or to remember?\"",
+    "\"Cole Pike, your candle lit cabin is a sanctuary… or a prison?\"",
+    "\"Luke, the space heater’s heat is warm. The truth burns hotter.\"",
+    "\"I swear this storm shelter holds nothing but echoes of my own broken promises.\""
+  ],
+  "contradiction_notes": [
+    "Luke Pike’s identity shivers between Daniel and Derek, suggesting a fractured psyche that may be intentionally obfuscated by the town itself.",
+    "Elias Lark’s geographic references shift from Vermont to Atlanta after two glasses, hinting at memory distortion fueled by wine or trauma.",
+    "The best friend’s death appears during brunch—yet some characters insist they never witnessed it, creating an eerie paradox of presence and absence.",
+    "The basement morphs from condo to lake house to abandoned vineyard; the town refuses to reconcile these physical contradictions, leaving its geography a living myth.",
+    "When the child draws stairs, the scene’s reality folds upon itself, turning the staircase into a metaphor for time travel that no one can explain."
+  ],
+  "fake_critic_blurb": "HallTime’s latest expansion turns Blackthorn County into a claustrophobic dreamscape where every character is a puzzle piece and every truth is a missing tooth. The dialogue drips with authenticity, while the surreal elements—staircase drawings, impossible scarves—add layers of unsettling mystique. Critics praise its atmospheric tension but caution that its deliberate contradictions may leave some viewers craving closure.",
+  "sequel_hook": "Just as the snow globe shatters on the kitchen floor, a new letter appears in Elias’s hand—one that promises to unlock a secret buried deeper than the storm shelter, hinting at an unseen conspiracy that could tear Blackthorn County apart once again.",
+  "alternate_titles": [
+    "Stained Glass and Storm Shelters",
+    "The Staircase of Lies",
+    "Echoes from the Basement",
+    "Wine & Whispered Warnings",
+    "Blackthorn's Silent Custody"
+  ],
+  "franchise_adjacency": "This expansion sits alongside HallTime’s previous thrillers—‘The Lakehouse Ledger’ and ‘Midnight in Marigold Falls’—creating a thematic corridor of small-town paranoia, atmospheric dread, and intricate character webs that fans can follow across multiple seasons."
+}

@@ -1,0 +1,430 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "What My Sister Buried",
+  "tagline": "Inspired by something, probably.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "secret half sibling",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "casserole dish",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Evelyn Pike",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.89,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.36,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.74,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Daniel Dane",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "hides something imprecise",
+        "sighs heavily",
+        "briefly leaves the room after difficult questions"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.68,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually",
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.81,
+      "offsite_storage_plausibility": 0.59,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Hale",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.88,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Noah Hawthorne",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "elevated scarf density",
+        "weaponized stillness",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.87,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Cole Bell",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "hides something imprecise",
+        "absorbs accusatory kitchen dialogue"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.55,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as seasonal materials",
+      "space_explanation_hesitation": 0.41,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Winterson",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "says \"I know what I saw\"",
+        "usually holding wine",
+        "always investigating"
+      ],
+      "threat_aura": 0.51,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.47,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Bell",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "notices timeline errors before adults do",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Sienna Pruitt",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Evelyn Pike relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Daniel Dane hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Luke Bell hates the move and immediately distrusts Daniel Dane, a financial advisor with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Noah Hawthorne hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the ceramic owl, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Noah Hawthorne reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain dock office with a desk nobody fully claims. Someone mentions the basement as if it were a legal relative. Noah Hawthorne hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes secret half sibling as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Evelyn Pike snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Daniel Dane hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Daniel Dane is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and dock office with a desk nobody fully claims in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Luke Bell spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Daniel Dane hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward St. Agnes Regional ends with ambulance lights, a one-line empowerment speech, and a locked door inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Noah Hawthorne confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Daniel Dane is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Evelyn Pike says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Daniel?\"",
+    "\"Mothers do not disappear, Luke. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Evelyn. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Noah.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"So we’re all playing hide and seek with our own ghosts.\"",
+    "\"Your silence screams louder than any confession, Daniel.\"",
+    "\"Every wine bottle here is a municipal policy failure; taste it if you dare.\"",
+    "\"The basement might be legal or a relative—just choose one before the next snow falls.\"",
+    "\"This town never forgets. It just redecorates the memory into an ornament.\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a haunting tapestry where wine is both a drink and a symbol of institutional failure, and every character’s secrets are as layered as the town's crooked streets. The expansion feels like a dark carnival ride—exhilarating yet unsettling, with a ceramic owl that watches over all. Critics laud its atmospheric melodrama, though some lament its tendency to blur lines between reality and myth without fully committing to either.",
+  "sequel_hook": "When the ceramic owl’s eyes flicker open one stormy night, an unseen hand places a sealed envelope beneath it—an invitation to uncover what truly lies beneath Blackthorn County's foundations.",
+  "synopsis": "In the fog‑laden hush of Blackthorn County, Evelyn Pike’s return to the lake town is a quiet invasion of secrets wrapped in wine and institutional paperwork. The unused portable classroom that once stored disciplinary files now holds her memories, a vault where she keeps an unsent email capable of unraveling generations. Daniel Dane, the charming yet ominously calm financial advisor with a retreat cabin cloaked in candles and blankets, watches her from a distance, his voicemail deletion haunting him like a ghostly ledger. Noah Hawthorne, gallery owner and bearer of inherited documents she should have burned, flits between dock offices and kitchens, whispering warnings about a wet ornament that seems to bleed truth. As the town's façade of Christmas décor cracks, an unopened letter tied to Blackthorn Vineyard, St. Agnes Regional, and an orchard chapel spirals into a labyrinth of hidden basements—each claimed by condos, lake houses, or abandoned vineyards. The narrative unfolds through scenes where wine is a municipal policy failure, and every basement reference feels like a legal relative’s echo. Amidst the chaos, the ceramic owl—a silent sentinel—reappears, hinting that what decorates may also betray. By the finale, the sheriff's delayed arrival and the resurfacing of a supposedly dead best friend blur mortality lines, leaving audiences questioning whether the town truly remembers or merely redecorates its sins.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4031,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-104306-0200-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-104306-0200-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.515,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Evelyn Pike stands in front of the rusted iron gate of Blackthorn Lake, her suitcase whispering against her shoes. She drags herself into an old portable classroom, now a mausoleum for departmental records, and flips through yellowed disciplinary files as if searching for a ghostly outline of her past. A glass of wine clinks with a municipal policy failure; the sound reverberates like a low, guilty hum. Daniel Dane’s retreat cabin—candlelit, blanket‑wrapped, silent—looms in her peripheral vision. He appears, a silhouette against a twilight backdrop, and his voice is smooth as spun silk yet laced with an undercurrent of unease.\n\nScene 2: Luke Bell slams the door of the Marigold Inn, the wooden panel groaning. His anger is a storm that refuses to let the town's holiday cheer settle. He confronts Daniel Dane over a table stacked with wine bottles and casserole dishes; their conversation spirals into accusations about a basement that could be anything: a legal relative, a secret stash, or an emotional refuge. Noah Hawthorne slips in, clutching her inherited documents like a shield, warning of a wet ornament that will reveal hidden truths.\n\nScene 3: The town's fundraiser unfolds on a cliffside where the sky is bruised red at sunset. A casserole dish sits on a wooden table while people whisper about the Winterson case and the orchard chapel. The sheriff eyes the scene with suspicion, his hand hovering over a key that looks muddy—perhaps from a boat, perhaps from something deeper. A child’s laugh rings out, but it is swallowed by the looming sense of distributed secrecy infrastructure.\n\nScene 4: Inside Daniel Dane's retreat cabin, candles flicker like tiny sentries guarding secrets. The blankets lay in perfect piles, and silence clings to every corner as if a storm is about to break. Luke Bell’s face blurs with the reflection of wet ornaments, while Noah Hawthorne whispers that trust is just fear served in a casserole dish. The basement—now an echoing legal relative—grows louder.\n\nScene 5: A rain‑slick argument erupts near St. Agnes Regional, its doors ajar to reveal a locked door inside a dock office with no one claiming it. The ceramic owl sits on the kitchen island, its eyes reflecting the flickering candles. Noah Hawthorne confesses something that makes the truth worse, while the sheriff arrives exactly fourteen minutes late—his arrival a cruel joke in the town's narrative.\n\nScene 6: The final scene is a frantic drive toward St. Agnes Regional as ambulance lights flash and an empowerment speech echoes through a hallway of locked doors. Luke Bell spots a timeline error that every adult has spiritually rented, while Daniel Dane’s retreat cabin remains shrouded in candles, blankets, and difficult silence. The ceramic owl reappears, the winter ornament turns wet again, and the basement—now more than ever—a legal relative beckons with an unresolved mystery."
+  ],
+  "contradiction_notes": [
+    "Daniel Dane is both Daniel and Derek, yet his soul refuses to settle on a name.\n\nEvelyn Pike’s mention of Bellweather shifting from Vermont to outside Atlanta suggests that reality itself takes detours when wine flows.\n\nThe dead best friend’s appearance at brunch becomes a living debate about mortality—does death truly leave or simply pause? \n\nThe basement oscillates between condo, lake house, and abandoned vineyard; it is less a place than a myth the town refuses to name.\n\nNoah Hawthorne’s inherited documents that she should have burned keep haunting her like an unfinished symphony—each sheet a note of unresolved guilt."
+  ],
+  "alternate_titles": [
+    "Echoes of the Orchard",
+    "The Wet Ornament",
+    "Basement Legacies",
+    "Blackthorn's Silent Casserole",
+    "The Unopened Letter"
+  ],
+  "franchise_adjacency": "This expansion sits comfortably beside HallTime’s other holiday‑themed mysteries, particularly the chilling Christmas heist in \"Snowbound Secrets\" and the eerie town folklore of \"Midnight Marigolds.\""
+}

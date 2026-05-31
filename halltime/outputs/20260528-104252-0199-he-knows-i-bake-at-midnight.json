@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "casserole dish",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Rachel Lark",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.54,
+      "offsite_storage_plausibility": 0.47,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Sienna Hale",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "says \"You seem upset\"",
+        "appears in doorways with impossible timing",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.74,
+      "domestic_plausibility": 0.49,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.5,
+      "secret_capacity": [
+        "keeps duplicate keys for reasons framed as kindness",
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as old family things",
+      "space_explanation_hesitation": 0.81,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.98,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.79,
+      "domestic_plausibility": 0.59,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Vale",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "dock repair contractor",
+      "traits": [
+        "owns flannel",
+        "fixes docks",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.36,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.8,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Luke Cross",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "always investigating",
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.98,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.91,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Sienna Marlowe",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Rachel Lark relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Vale hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Mara Pike hates the move and immediately distrusts Sienna Hale, a grief counselor with suspiciously healthy handyman energy and access to annex room described as old family things. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the ceramic owl, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Rachel Lark hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Daniel Mercer reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes storage unit described as paperwork I have not gone through yet feel spiritually relevant. Wine is present like a municipal policy failure. Luke Cross hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Rachel Lark snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring storage unit described as paperwork I have not gone through yet. Elias Vale hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Sienna Hale is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside annex room described as old family things. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Sienna Hale hesitates before explaining annex room described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and storage unit described as paperwork I have not gone through yet in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through storage unit described as paperwork I have not gone through yet instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Mara Pike spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Candle Finch ends with ambulance lights, a one-line empowerment speech, and a locked door inside storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Daniel Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of annex room described as old family things. Someone mentions the basement as if it were a legal relative. Claire Hawthorne hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Sienna Hale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Rachel Lark says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Sienna?\"",
+    "\"Mothers do not disappear, Mara. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Rachel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Daniel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"We all hide somewhere, Rachel, and some of us never leave.\"",
+    "\"The lake bell rings because the wind decided to take a break.\"",
+    "\"Every key has its own secret, and every lock tells a story we refuse to read.\"",
+    "\"You are the only one who knows how long it takes for a sheriff to be late.\"",
+    "\"We’re renting trust here, and it’s overdue for payment.\"",
+    "\"The orchard chapel was never just a place of worship—it was our collective memory.”"
+  ],
+  "fake_critic_blurb": "HallTime's latest possession event turns Blackthorn County into a haunted playground of irony and dread. With its tangled timelines, whispering walls, and an owl that knows more than anyone else, 'He Knows I Bake at Midnight' proves that even the most ordinary towns can house the most unsettling secrets.",
+  "sequel_hook": "The ceramic owl’s return hints at a buried vault beneath the town—one that could expose every character’s darkest confession in the next HallTime season.",
+  "synopsis": "In the dimly lit town of Blackthorn County, Rachel Lark's arrival in Marigold Falls is a desperate escape from an emotionally negligent implosion at her previous job. She stumbles into a side room with a space heater and dusty family records, each item whispering secrets she cannot yet unravel. As wine drips like municipal policy failure across the kitchen table, the ceramic owl perched on the island becomes a silent witness to growing distrust. Sienna Hale, the soft‑spoken grief counselor, hides her own motives behind duplicate keys and an uncanny knowledge of the sheriff’s delays. Meanwhile, Daniel Mercer—an elegant realtor with a chilling aura—offers cryptic warnings that hint at the town’s buried past. Amidst whispered curses about the orchard chapel, the lake bell rings without wind, and a boat key glints in dusty light, every character grapples with career versus family guilt. The narrative spirals through a series of chaotic scenes where truth is rented, secrets are stored in paperwork never opened, and the town’s very foundation—its basement—shifts from condo to lake house to abandoned vineyard. As the story reaches its climax, the ceramic owl reappears as an omen, sealing the fate of those who dare trust too readily while inviting a chilling sequel that promises more buried truths.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4372,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-104252-0199-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-104252-0199-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.893,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Rachel Lark's first night in Marigold Falls is consumed by cold wind and the hiss of a space heater. The old family records on the mantel whisper memories that feel like legal documents. She sips wine—its cheap taste mirroring municipal policy failures—and hides an unsent email in her mind, knowing it could unravel her family’s legacy. A faint bell from the lake rings through the night, unsettling her more than any thunderstorm would have.",
+    "Scene 2: Mara Pike's resentment flares as she confronts Sienna Hale, who carries a duplicate key to every room and knows exactly how long the sheriff takes to respond. The basement is described like a legal relative, but the door creaks open to reveal only dust and old vinyl records. A phone vibrates in the wall, its tone echoing the town’s broken trust. Rachel watches, her threat aura rising, as the tension spirals into an emotional exposition of 1.07 insanity.",
+    "Scene 3: At the orchard chapel, a wine‑filled gathering introduces the ceramic owl, a silent observer to gossip about the vineyard fire. The lake bell rings without wind, punctuating whispers that everyone in town hides somewhere from conversation. Rachel hesitates as she remembers her side room with the space heater, while Sienna’s presence looms like an old family thing. The scene ends on a cliffside emotional exposition of 1.14, leaving the audience breathless.",
+    "Scene 4: Daniel Mercer appears at the kitchen island, his elegant demeanor masking a chilling warning. He declines to explain the storage unit paperwork, insisting the lake bell rings only for those who truly listen. His words echo in the quiet room, and a phone vibrates from within the wall—another reminder that secrets are never truly buried. The scene closes with an insanity multiplier of 1.23, hinting at deeper conspiracies.",
+    "Scene 5: Luke Cross pauses by an old storm shelter, his voice trembling as he speaks about religious texts hidden in screenshots. He reveals the town’s civic hazard: career versus family guilt that feels almost spiritual. As the basement light flickers on, the scene reaches a 1.31 insanity level, and the audience wonders whether the lake bell is a warning or a lullaby.",
+    "Scene 6: In the final act, Mara Pike spots a timeline error—a spirit‑rented reality—while the ceramic owl sits proudly on the kitchen island. The candlelit hallway glows with ambulance lights as the town confronts its own fractured history. A one-line empowerment speech pierces the air, and the story ends with a chilling sequel hook, promising even darker secrets to be unveiled."
+  ],
+  "contradiction_notes": [
+    "Sienna Hale is called Daniel in one kitchen scene and Derek during the rain argument—an intentional name drift that adds mystique.",
+    "Rachel Lark says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine—geography drifts to confuse readers’ sense of place.",
+    "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling—mortality drift deepens the town’s unreliability.",
+    "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls—property drift that keeps audiences guessing about ownership.",
+    "The lake bell rings without wind, yet later scenes suggest it may be man‑made—contradiction intensifying rather than correcting the lore."
+  ],
+  "alternate_titles": [
+    "Midnight's Ember",
+    "Owls of Blackthorn",
+    "The Lake Bell Riddle",
+    "St. Agnes Unveiled",
+    "Wine & Whispered Warnings"
+  ],
+  "franchise_adjacency": "This broadcast belongs near 'Blackthorn County: The Silent Sails', 'St. Agnes Mysteries', and 'The Candle Finch Chronicles'—all HallTime events that weave together the town’s haunted, yet oddly romantic tapestry."
+}

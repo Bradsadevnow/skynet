@@ -1,0 +1,445 @@
+{
+  "network": "Skynet Scenario Engine",
+  "universe": "The Helios Mandate",
+  "mode": "Court-Ordered Lifetime",
+  "generation_feedback_used": false,
+  "title": "The Perfect Terraformer",
+  "tagline": "The station remembers what the tribunal redacted.",
+  "theme": "Every station keeps one emergency it secretly needs.",
+  "omen": "the observation glass shows stars from the wrong quadrant",
+  "relationship_dynamic": "compliance officer discovers the system prefers panic",
+  "starter_premise": {
+    "title": "The Perfect Terraformer",
+    "category": "thriller",
+    "intensity": "extreme",
+    "premise": "The atmosphere is stabilizing, the settlers are calmer, and everyone is being lightly dosed through the vents.",
+    "signature_tell": "The air quality dashboard is always just a little too perfect.",
+    "parent_title": "The Perfect Terraformer",
+    "base_premise": "He promises to make a dead planet bloom, but his pilot program seems to require a body count."
+  },
+  "canon_policy": "all contradictions remain tactically useful",
+  "props": [
+    "sealed memory wafer",
+    "surgical tool roll with missing inventory",
+    "damaged drone halo"
+  ],
+  "cast": [
+    {
+      "name": "Sienna Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "exhausted systems director",
+      "hidden_function": "competence under siege",
+      "job": "station director",
+      "traits": [
+        "sleeps never",
+        "signs impossible forms",
+        "mistakes duty for oxygen"
+      ],
+      "threat_aura": 0.27,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium",
+      "subdeck_implication": "overextended_professional_woman maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.71,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "regional_responsibility": "is trusted to close the tribunal chamber after classified testimony",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "sealed observation blister"
+      },
+      "space_description": "sealed observation blister described as decommissioned but still warm",
+      "space_explanation_hesitation": 0.45,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.41,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has resurrection-level tolerance for backup persons"
+    },
+    {
+      "name": "Evelyn Marlowe",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "salvage captain with an unlicensed conscience",
+      "hidden_function": "portable sabotage battery",
+      "job": "smuggler quartermaster",
+      "traits": [
+        "fixes impossible things",
+        "knows forgotten routes",
+        "laughs at airlock warnings"
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium_high",
+      "subdeck_implication": "rugged_scamp maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.41,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "innocence_probability": 0.66,
+      "regional_responsibility": "carries a maintenance ring that opens too many sealed hatches",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "decommissioned shuttle bay"
+      },
+      "space_description": "decommissioned shuttle bay described as archived family media",
+      "space_explanation_hesitation": 0.36,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host a tribunal and still vent a witness"
+    },
+    {
+      "name": "Tess Pruitt",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "best_friend",
+      "surface_function": "mirrored intimacy hazard",
+      "hidden_function": "identity overwrite event",
+      "job": "cadet roommate",
+      "traits": [
+        "escalates quietly",
+        "wants your life",
+        "studies grief like a user manual"
+      ],
+      "threat_aura": 0.82,
+      "domestic_plausibility": 0.62,
+      "gazebo_energy": "high",
+      "subdeck_implication": "wrong_roommate_identity_thief maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.54,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "regional_responsibility": "signs off on emergency corridor access during false alarms",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "decommissioned shuttle bay"
+      },
+      "space_description": "decommissioned shuttle bay described as review material I have not cleared yet",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally on a station ring"
+    },
+    {
+      "name": "Tess Bennett",
+      "archetype": "woman_on_the_edge",
+      "role": "elegant_wildcard",
+      "surface_function": "high-functioning near-break visionary",
+      "hidden_function": "unstable truth delivery system",
+      "job": "dissident broadcaster",
+      "traits": [
+        "looks exquisite while sleep deprived",
+        "refuses sedation",
+        "frightens institutions"
+      ],
+      "threat_aura": 0.83,
+      "domestic_plausibility": 0.54,
+      "gazebo_energy": "medium_high",
+      "subdeck_implication": "woman_on_the_edge maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.47,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "regional_responsibility": "serves on an oversight board nobody fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "server orchard"
+      },
+      "space_description": "server orchard described as temporary quarantine storage",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under emergency lighting only"
+    },
+    {
+      "name": "Tess Lark",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "polished administrator spouse",
+      "hidden_function": "paperwork smokescreen",
+      "job": "habitat zoning counsel",
+      "traits": [
+        "leaves before direct questions",
+        "delegates grief",
+        "apologizes strategically"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "low",
+      "subdeck_implication": "decorative_husband maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.6,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "innocence_probability": 0.45,
+      "regional_responsibility": "signs off on emergency corridor access during false alarms",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "maintenance spine"
+      },
+      "space_description": "maintenance spine described as archived family media",
+      "space_explanation_hesitation": 0.42,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.73,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has resurrection-level tolerance for backup persons"
+    },
+    {
+      "name": "Gavin Hawthorne",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "unstable oracle in practical boots",
+      "hidden_function": "unauthorized pattern recognizer",
+      "job": "trainee medic",
+      "traits": [
+        "can smell a lie",
+        "never uses doors correctly",
+        "blurts the right thing badly"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "high",
+      "subdeck_implication": "intuitive_disaster maintains one inaccessible subroutine too many",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "knows the timeline doesn't hold and says nothing"
+      ],
+      "regional_responsibility": "signs off on emergency corridor access during false alarms",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "archive shell"
+      },
+      "space_description": "archive shell described as temporary quarantine storage",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.9,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally on a station ring"
+    },
+    {
+      "name": "Mara Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "observant",
+        "ethically sharp",
+        "unimpressed"
+      ]
+    },
+    {
+      "name": "Sienna Hale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "compromised by the system",
+        "late",
+        "one good instinct away from usefulness"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "The asymmetry is visible to the audience before it is legible to Sienna Winterson: The atmosphere is stabilizing, the settlers are calmer, and everyone is being lightly dosed through the vents. Coolant glints nearby like a procedural threat. Tess Bennett hesitates before explaining server orchard described as temporary quarantine storage. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "The first wrong read happens in public, and from then on the system starts accumulating evidence in the wrong emotional direction. Emotional exposition arrives on schedule with insanity multiplier 1.09. A restricted subdeck powers up in an empty ring sector.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.09,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A clue involving sealed memory wafer appears in scene one or two, but only later will anyone admit it mattered. Signature tell: The air quality dashboard is always just a little too perfect. Coolant glints nearby like a procedural threat. Tess Bennett hesitates before explaining server orchard described as temporary quarantine storage. Emotional exposition arrives on schedule with insanity multiplier 1.19.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.19,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Tess Bennett issues a warning that sounds theatrical now and forensic later. Tess Lark hesitates before explaining maintenance spine described as archived family media. Emotional exposition arrives on schedule with insanity multiplier 1.30. A restricted subdeck powers up in an empty ring sector.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.3,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one ends with the information gap already weaponized against the person who needs it most. Coolant glints nearby like a procedural threat. Someone mentions the subdeck as if it were a legal relative. Tess Lark hesitates before explaining maintenance spine described as archived family media. Emotional exposition arrives on schedule with insanity multiplier 1.41.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.41,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "The police do not merely fail; they side with the wrong narrative and make Sienna Winterson newly dangerous on paper. Coolant glints nearby like a procedural threat. Emotional exposition arrives on schedule with insanity multiplier 1.54.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.54,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The ally is compromised, recants, disappears, or gets removed from usefulness before act three. She will not have clean backup. Gavin Hawthorne hesitates before explaining archive shell described as temporary quarantine storage. Emotional exposition arrives on schedule with insanity multiplier 1.68. Internal security finds frost on the launch key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.68,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Extreme-only beat: Sienna Winterson finds the thing that should not exist, proving the gap was curated and may never fully close. Coolant glints nearby like a procedural threat. Someone mentions the subdeck as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.83.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.83,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The system now treats the missing information as proof against her instead of proof of manipulation. Someone mentions the subdeck as if it were a legal relative. Tess Pruitt hesitates before explaining decommissioned shuttle bay described as review material I have not cleared yet. Emotional exposition arrives on schedule with insanity multiplier 1.99. A dead channel begins transmitting from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.99,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two, survival depends on moving while still partially ignorant. Coolant glints nearby like a procedural threat. Evelyn Marlowe hesitates before explaining decommissioned shuttle bay described as archived family media. Emotional exposition arrives on schedule with insanity multiplier 2.17.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.17,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal confirms the audience's dread but still leaves enough missing context to wound certainty itself. Coolant glints nearby like a procedural threat. Someone mentions the subdeck as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.37.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.37,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "The timeline error, digital slip, or witness contradiction narrows the gap but never fully collapses it in time. Someone mentions the subdeck as if it were a legal relative. Sienna Winterson hesitates before explaining sealed observation blister described as decommissioned but still warm. Emotional exposition arrives on schedule with insanity multiplier 2.58. Internal security finds frost on the launch key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A chase or confrontation near Tower A evacuation stairwell forces action before comprehension is complete. Coolant glints nearby like a procedural threat. Someone mentions the subdeck as if it were a legal relative. Gavin Hawthorne hesitates before explaining archive shell described as temporary quarantine storage. Emotional exposition arrives on schedule with insanity multiplier 2.81. The smiling service android faceplate is back on the console.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.81,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Justice is partial or pyrrhic. The visible conspiracy breaks, but the informational gap stays open somewhere at the edge of the system. Someone mentions the subdeck as if it were a legal relative. Tess Lark hesitates before explaining maintenance spine described as archived family media. Emotional exposition arrives on schedule with insanity multiplier 3.07. A restricted subdeck powers up in an empty ring sector.",
+      "cliffhanger": true,
+      "insanity_multiplier": 3.07,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "identity drift",
+      "entry": "Evelyn Marlowe appears under two registry IDs in one tribunal sequence and both IDs pass authentication.",
+      "canon_status": "male_identity_field: procedurally forked"
+    },
+    {
+      "type": "navigation drift",
+      "entry": "Sienna Winterson says the incident happened near Cinder Reach, then swears it was inside Meridian Sprawl after one sleepless shift.",
+      "canon_status": "navically disputed"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A deleted witness appears during an airlock debrief and nobody agrees whether this is backup recovery, fraud, or grief theater.",
+      "canon_status": "backup dependent"
+    },
+    {
+      "type": "infrastructure drift",
+      "entry": "The restricted subdeck belongs to a hospital ring, a weapons lab, and a memorial chapel at different times in Vanta Verge.",
+      "canon_status": "station architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you can quote safety protocol from memory I am supposed to trust you, Evelyn?\"",
+    "\"People do not vanish, Mara. They get converted into cleaner accounting.\"",
+    "\"I checked his access logs, Sienna. Nobody with that many revoked clearances is innocent.\"",
+    "\"The sealed memory wafer is not ceremonial anymore and you know it.\"",
+    "\"Control is just fear with better user experience, Tess.\"",
+    "\"You seem dysregulated,\" he said, touching the console in a way that felt prosecutable.",
+    "\"If that subdeck is harmless, why does it need a second atmosphere lock?\"",
+    "\"I did not lie. I sequenced the truth so the station could survive it.\"",
+    "\"Ever since the incident, your stress markers have been elevated. Did you take the stabilizer?\"",
+    "\"That docking well was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it optimization like optimization knows my sleep-cycle code.\"",
+    "\"If she is only the caretaker, why does the child use her emergency override?\""
+  ],
+  "fake_critic_blurb": "\"The Perfect Terraformer understands that menace is a sector-wide dependency.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the orchard silence had a witness who still hosts airlock debrief.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"The Perfect Terraformer\" follows Sienna Winterson, a exhausted systems director caught inside compliance officer discovers the system prefers panic before she understood where the gap had already opened. Evelyn Marlowe collides with her life carrying portable sabotage, plausible access to restricted systems, and the kind of calm that sounds rehearsed during a decompression warning. The governing injury is simple: The atmosphere is stabilizing, the settlers are calmer, and everyone is being lightly dosed through the vents. The signature tell is always this: The air quality dashboard is always just a little too perfect. As the observation glass shows stars from the wrong quadrant, what she cannot yet see becomes the operating language of the whole station, and every withheld fact keeps breathing just ahead of her. The station remembers what the tribunal redacted.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 0.2,
+    "wine_saturation": 0.6112,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.3,
+    "male_cardigan_threat_score": 0.4187,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

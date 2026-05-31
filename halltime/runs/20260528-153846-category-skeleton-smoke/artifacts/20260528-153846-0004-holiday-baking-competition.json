@@ -1,0 +1,463 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "generation_feedback_used": true,
+  "title": "Holiday Baking Competition",
+  "tagline": "Where every secret comes home.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "woman falsely accusing lovable scamp",
+  "starter_premise": {
+    "title": "Holiday Baking Competition",
+    "category": "holiday",
+    "premise": "Two rivals must run the bake-off together and there is exactly one possible outcome.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "Holiday Baking Competition"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "fireplace poker with alibi potential",
+    "heavy brass candlestick",
+    "throat lozenges with a suspicious aftertaste"
+  ],
+  "cast": [
+    {
+      "name": "Evelyn Cross",
+      "archetype": "betrayed_provider_woman",
+      "role": "protagonist",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "real estate developer",
+      "traits": [
+        "works too hard to notice the affair until everyone else does",
+        "keeps a color-coded calendar and a cracked heart",
+        "makes competence look like denial"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "high",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "has already priced out a life without him",
+        "keeps the other woman under a fake contact name"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as retreat supplies",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Lark",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "unexpectedly good with children",
+        "probably builds furniture",
+        "accused at least once"
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.51,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as retreat supplies",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.67,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.49,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Hawthorne",
+      "archetype": "stalker_nanny_au_pair",
+      "role": "elegant_wildcard",
+      "surface_function": "perfect childcare solution",
+      "hidden_function": "domestic replacement campaign",
+      "job": "live-in nanny",
+      "traits": [
+        "folds laundry with territorial energy",
+        "wins over children by the second breakfast",
+        "wears the mother's robe as if testing custody"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "high",
+      "basement_implication": "stalker_nanny_au_pair maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "has a second set of references with a different surname",
+        "tried on the protagonist's clothes while the pool cleaner watched nothing"
+      ],
+      "suspicion_mode": "maternal_displacement",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as old family things",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.59,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Wyatt Dane",
+      "archetype": "obsessive_boyfriend_problem",
+      "role": "secondary_male_pressure",
+      "surface_function": "romantic escalation device",
+      "hidden_function": "domestic terror accelerant",
+      "job": "music teacher with a spare key story",
+      "traits": [
+        "arrives with flowers nobody asked for",
+        "says forever too early",
+        "mistakes refusal for intrigue"
+      ],
+      "threat_aura": 0.74,
+      "domestic_plausibility": 0.53,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "thinks apology gifts erase documentary evidence",
+        "keeps a duplicate garage opener from a better time"
+      ],
+      "innocence_probability": 0.14,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Hawthorne",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "secondary_witness",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "housesitter who stayed after the term ended",
+      "traits": [
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "borrows small things that become legal problems",
+        "asks for passwords with fake embarrassment"
+      ],
+      "threat_aura": 0.65,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.73,
+      "secret_capacity": [
+        "knows how to mimic the protagonist's voicemail tone",
+        "has already copied one signature for practice"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as old family things",
+      "space_explanation_hesitation": 0.36,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.83,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Claire Pruitt",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Evelyn Cross arrives in Bellweather planning to leave as soon as the seasonal deadline passes, but the public clock is introduced immediately and nobody will let her forget it. The starter engine here is: Two rivals must run the bake-off together and there is exactly one possible outcome. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "By beat two the external clock is explicit: a pageant, sale, ranch rescue, inheritance decision, or Christmas event now governs everybody's schedule, including Brooke Lark, who keeps appearing with practical help and suspiciously useful hands. Evelyn Bell hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A public holiday scene introduces the fireplace poker with alibi potential, small-town ritual pressure, and the humiliating fact that every act of resistance now looks anti-community. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Brooke Hawthorne hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Elias Hawthorne offers a warning wrapped in cocoa, logistics, or sentimental blackmail while a Christmas ornament turning up wet. Signature tell: The county telegraphs the problem once and nobody listens until act three. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "The first act closes with Evelyn Cross realizing the deadline is not decorative. The clock is already choosing what she can and cannot feel before beat_14. Wine is present like a municipal policy failure. Evelyn Cross hesitates before explaining old family office described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "The holiday clock is now weaponized by public expectation, and every missed minute starts looking like a moral failing in front of neighbors. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "Evelyn Cross and Brooke Lark are forced into cooperative proximity by the event itself, which is how the category manufactures intimacy without admitting it. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "An interruption deepens the category logic: reputation, timing, or a tabloid-grade misunderstanding lands at the worst possible hour. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "Someone insists the event must go on anyway, which turns kindness into coercion and gives the whole county hostage energy. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two, saving the event and clarifying the heart have become the same job whether that is fair or not. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The holiday climax arrives exactly on schedule, with weather, lights, or family ritual forcing every emotional truth into public view. Wine is present like a municipal policy failure. Elias Hawthorne hesitates before explaining old family office described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "The misunderstanding or pressure resolves only because the deadline makes delay impossible any longer. Someone mentions the basement as if it were a legal relative. Brooke Hawthorne hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A symbolic gesture involving throat lozenges with a suspicious aftertaste proves belonging, commitment, or seasonal repentance in front of witnesses. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Hawthorne hesitates before explaining old family office described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "The final beat confirms that the clock which trapped Evelyn Cross also delivered permission to stay, love, or start over. Someone mentions the basement as if it were a legal relative. Brooke Hawthorne hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The ending leaves behind one festive callback and a county rumor that next year will somehow be weirder. Wine is present like a municipal policy failure. Evelyn Cross hesitates before explaining old family office described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "deadline",
+      "category": "holiday",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Brooke Lark is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Evelyn Cross says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Brooke?\"",
+    "\"Mothers do not disappear, Daniel. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Evelyn. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The fireplace poker with alibi potential is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Elias.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Holiday Baking Competition understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Holiday Baking Competition\" follows Evelyn Cross, a high-output betrayed wife who thinks a fresh start, a large house, and professional competence can outpace woman falsely accusing lovable scamp until Brooke Lark collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: Two rivals must run the bake-off together and there is exactly one possible outcome. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. As a Christmas ornament turning up wet, Blackthorn County reveals once again that every secret comes home, every pool is a witness, and every adult has somewhere emotionally alarming to stand in silence. Where every secret comes home.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4422,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

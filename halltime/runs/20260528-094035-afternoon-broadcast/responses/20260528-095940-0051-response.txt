@@ -1,0 +1,43 @@
+{
+  "expanded_synopsis": "The Widow in Cabin 9 spins a tapestry where every corner of Blackthorn County throbs with unseen dread, each breath weighed by the memory of a vanished wife and the whisper of an unmarked letter. Rachel Sutton, a lawyer fleeing an emotional implosion, inherits an old storm shelter that hides secrets darker than the rain‑streaked windows. Mara Vale, the hardware store owner whose hands are always a little too clean, keeps a retreat cabin that smells of candles and silence—an altar to forgotten promises. Jenna Bell, bartender and chronicler of town gossip, clutches a tea towel stained with blood and an arsenal of lies, while Luke Hawthorne, therapist with a threat aura nine tenths, watches over the marina tackle room as if it were a coffin. As wine spills like municipal policy failures, Christmas ornaments wet with mystery appear, scarves time‑loop through vineyards, and a ceramic owl returns to the kitchen island, the story spirals into a carnival of contradictions that refuse to be fixed—only intensified.",
+  "scene_paragraphs": [
+    "Scene 1: The rain pours over Marigold Falls as Rachel walks into her inherited storm shelter. Inside, the walls whisper about divorces and unspoken sins; she stares at a faded photograph of a family she never met, while wine bottles clink like broken promises. She pulls out an unopened letter from beneath a stack of legal pads, its ink still fresh, but the words inside are already dead.",
+    "Scene 2: Tess arrives, her eyes narrowed at Mara Vale’s hardware store. The scent of oil and candle wax fills the air, a paradoxical comfort that masks the healthy handyman energy that Mara exudes. Jenna hesitates, her hands trembling over the tea towel, as she speaks of paperwork—of truths she has not yet faced.",
+    "Scene 3: At the old orchard chapel, the town’s wine flows freely and secrets mingle in the air like a municipal policy failure. Luke steps forward with a perfectly phrased warning, his voice echoing off cracked stone. A wet Christmas ornament clatters onto the floor, the dampness spreading into a silent confession.",
+    "Scene 4: The cliffside becomes an emotional arena where the healthy handyman friendship is reframed as civic hazard. Mara’s hydrangeas seem to bleed as she is framed in a corner of retreat cabin; the blood‑adjacent tea towel turns up impossible, its stains bleeding into the candlelight.",
+    "Scene 5: A basement light flickers on in an empty house—an apparition that suggests a town that forgets by redecorating. The old storm shelter’s heater hums, hinting at something living beneath the floorboards while Rachel’s heart pounds faster than her thoughts can keep pace.",
+    "Scene 6: In the final scene, Luke confesses just enough to make the truth worse, his words slipping through a dusty window of retreat cabin. A phone vibrates from inside the wall, echoing the town’s collective pulse, as the ceramic owl returns to the kitchen island and whispers of a Winterson case hang in the air."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\"",
+    "\"Mothers do not disappear, Tess. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Rachel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Luke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Why are you hiding an orange scarf at midnight when everyone else has a winter coat?\"",
+    "\"The cellar’s floorboards creak with every step, but the secrets they carry stay silent.\"",
+    "\"Did you really think that wet ornament was a clue or just another trick of weather?\"",
+    "\"We’re all wearing masks, Jenna. Even the bartender keeps his own truth bottled.\"",
+    "\"I swear this is not a prank. The lake’s reflection tells stories we refuse to see.\""
+  ],
+  "contradiction_notes": [
+    "Mara Vale’s name shifts like a mirage—Daniel in one kitchen scene, Derek during the rain argument—yet she never apologizes for being an illusion.",
+    "Rachel declares Bellweather as Vermont, then flips it to outside Atlanta after two glasses of wine, suggesting that geography is as fluid as her memories.",
+    "The dead best friend appears at brunch and the town argues whether this is denial or a scheduled apparition; no one agrees on its reality.",
+    "The basement’s ownership changes—condo, lake house, abandoned vineyard—yet every claim is accepted as fact in the same breath.",
+    "When Luke confesses enough to make truth worse, he simultaneously says nothing at all, cementing paradoxes that spiral outward."
+  ],
+  "fake_critic_blurb": "\"HallTime delivers a masterclass in atmospheric melodrama, turning Blackthorn County into an ever‑shifting stage where every character is both witness and suspect. The Widow in Cabin 9 refuses to tidy its contradictions, instead weaving them into the fabric of suspense. A haunting score underscores each scene as the town’s secrets drip from walls like rain on a storm shelter roof.\"",
+  "sequel_hook": "\"The ceramic owl whispers a new riddle—what lies beneath the lake’s reflection?\"",
+  "alternate_titles": [
+    "Widow's Echoes: The Cabin of Secrets",
+    "Blackthorn's Last Ember",
+    "The Silent Orchard: A Widow's Return",
+    "Wine, Ornaments, and Broken Laws",
+    "Marigold Falls: The Unfinished Letter"
+  ],
+  "franchise_adjacency": "This broadcast sits next to HallTime’s \"Lake Mercy Murmurs\" and \"St. Agnes Conundrum,\" creating a trilogy that explores the town’s hidden tragedies through overlapping timelines."
+}

@@ -1,0 +1,44 @@
+{
+  "expanded_synopsis": "Her Silent Christmas Alibi unfurls in the frost‑bitten heart of Blackthorn County, where every corner hums with secrets and the scent of old wine bottles is as much a confession as the static on the phone that whispers Wyatt Dane’s name. After a catastrophic implosion at her former bakery, she slips into Marigold Falls, inheriting a marina tackle room that feels less like storage than an altar for buried truths. The town’s residents—dentist Evelyn Lark with her paperwork‑shrouded toolshed, salon owner Mara Sutton who might die or live against all odds, therapist Claire Bell guarding old family records in a side room, hardware mogul Noah Vale and substitute teacher Rachel Bell sharing candlelit retreats—collect around the ceramic owl at The Marigold Inn. Each interaction is laced with wine, municipal policy failures, and an ever‑present sense of impending fire: Blackthorn Vineyard’s blaze, St. Agnes Regional’s tragedy, and a brunch resurrection that ties scarves to impossible timing. As whispers turn into accusations, Wyatt uncovers an archived laptop file in the tack room that hints at a half‑sibling plot, while Evelyn is framed near hydrangeas. The sheriff’s delayed arrival, the ghost of a dead best friend haunting brunch tables, and a phone vibrating from inside a wall converge to leave the audience gasping for resolution or more.",
+  "scene_paragraphs": [
+    "Scene One opens with Wyatt Dane, freshly relocated, clutching a wine bottle as if it were a municipal policy manual. The marina tackle room—mere storage on paper—becomes an altar of secrets, its walls whispering old trauma. Rachel Bell, hesitant yet resolute, shares the retreat cabin’s candlelit silence, hinting that her screenshots are religious texts in disguise. Emotional exposition swells with an insanity multiplier of 1.00 as Wyatt pretends work explains everything.",
+    "In Scene Two, Gavin Vale’s disdain for the move clashes with Evelyn Lark’s suspiciously healthy handyman energy. The toolshed, described as paperwork yet unexamined, hides fresh mud on a boat key—a breadcrumb that ignites suspicion. A sheriff’s glance lingers, his intuition trembling like a phone static whispering Wyatt’s name.",
+    "Scene Three brings the ceramic owl to The Marigold Inn amid wine and gossip about a Christmas pageant incident. The town’s collective hiding places surface as whispers of municipal failures swirl. Evelyn hesitates before explaining her toolshed, its paperwork a labyrinth of secrets that could burn the entire county if revealed.",
+    "Scene Four, set in Claire Bell’s well-lit kitchen, features a perfectly phrased warning and phone static proclaiming Wyatt’s name. The side room with a space heater and old family records remains stubbornly unexplained, while fresh mud on a boat key suggests an unspooled plot. Emotional exposition escalates to 1.23.",
+    "Scene Five’s cliffside exposition reframes the half‑sibling as a civic hazard, turning the marina tackle room into a spiritually relevant shrine. Wine drips like municipal policy failure, and the insanity multiplier climbs to 1.31 as secrets surface like tide‑washed shells.",
+    "The final scene of Act Three culminates in an ambulance’s blaring lights at The Marigold Inn, a one-line empowerment speech, and a locked door within Claire Bell’s side room. Wine again mirrors municipal policy failure; the insanity multiplier peaks at 2.25 as the town confronts its own ghosts."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Evelyn?\"",
+    "\"Mothers do not disappear, Gavin. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Wyatt. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Your phone static isn’t random—it’s an echo of your own secrets, Wyatt.\"",
+    "\"The boat key is wet, but so is the truth we all carry.\"",
+    "\"We’re all hiding under the same municipal policy failure, Claire.\"" ,
+    "\"When the owl falls from the shelf, it will reveal what we buried beneath wine and whispers.\"",
+    "\"This isn’t just a Christmas story; it’s a town’s confession wrapped in fog.\"",
+    "\"If you can’t face the past, you’ll never find the future—so let the lights stay on.\""
+  ],
+  "contradiction_notes": [
+    "Evelyn Lark’s identity shivers between Daniel and Derek depending on which kitchen or rain argument she occupies—a fluid self that refuses to be boxed.",
+    "Wyatt Dane’s geography oscillates from Bellweather, Vermont, to outside Atlanta after two glasses of wine—an impossible mental cartography.",
+    "A dead best friend appears at brunch, yet the town debates whether this is denial, evil, or merely a scheduling glitch in their collective memory.",
+    "The basement’s ownership morphs from condo to lake house to abandoned vineyard, suggesting an ever‑changing land that resists definition.",
+    "The boat key’s fresh mud is found both on Evelyn’s toolshed and Wyatt’s marina tackle room—two contradictory yet converging trails."
+  ],
+  "fake_critic_blurb": "HallTime’s latest masterpiece twists the cozy town of Blackthorn County into a labyrinthine murder mystery, where every character wears more masks than a masquerade ball. The dialogue crackles with deadpan wit, and the static‑laden phone adds an uncanny soundtrack to the unfolding drama. Critics hail it as ‘a perfect storm of suspense and wine’—and a warning that even in small towns, secrets can boil over like a forgotten casserole.",
+  "sequel_hook": "When the ceramic owl finally drops from its perch, a new shadow rises: a former firefighter with a scarred past who claims he knows where the town’s true fire lies. His arrival promises to ignite the next chapter of Blackthorn County’s silent Christmas alibi.",
+  "alternate_titles": [
+    "The Whispering Owl",
+    "Marigold Falls: A Silent Fire",
+    "Blackthorn's Hidden Ember",
+    "Wine, Static, and Secrets",
+    "The Casserole Conspiracy"
+  ],
+  "franchise_adjacency": "This broadcast sits snugly beside HallTime’s ‘Midnight Vineyard’ and ‘St. Agnes Regional Reckoning’, forming a trilogy that unspools the mythic heart of Blackthorn County through layers of wine, whispers, and inevitable fire."
+}

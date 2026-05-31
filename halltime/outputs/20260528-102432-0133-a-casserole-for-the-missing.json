@@ -1,0 +1,441 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Mother Was Right All Along",
+  "title": "A Casserole for the Missing",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "unresolved hometown romance",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "snow globe",
+    "casserole dish"
+  ],
+  "cast": [
+    {
+      "name": "Luke Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as just storage",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Mercer",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "owns flannel",
+        "fixes docks",
+        "accused at least once"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.75,
+      "secret_capacity": [
+        "had an engagement that ended under suspiciously quiet circumstances",
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.77,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Jenna Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.65,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as retreat supplies",
+      "space_explanation_hesitation": 0.77,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.66,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Gavin Lark",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "weaponized stillness",
+        "sustained eye contact",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Hale",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "dock repair contractor",
+      "traits": [
+        "probably builds furniture",
+        "unexpectedly good with children",
+        "owns flannel"
+      ],
+      "threat_aura": 0.61,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.82,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Cross",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.68,
+      "offsite_storage_plausibility": 0.63,
+      "window_staring_compatibility": 0.48,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Evelyn Lark",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Winterson relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting annex room described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Gavin Vale hates the move and immediately distrusts Mara Mercer, a widowed boat mechanic with suspiciously healthy handyman energy and access to toolshed described as paperwork I have not gone through yet. Someone mentions the basement as if it were a legal relative. Luke Cross hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the boat key, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Jenna Hale hesitates before explaining old family office described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Lark reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain side room with a space heater and old family records. Mara Mercer hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes unresolved hometown romance as a civic hazard and makes old family office described as paperwork I have not gone through yet feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Winterson snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside annex room described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old family office described as paperwork I have not gone through yet. Jenna Hale hesitates before explaining old family office described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Mara Mercer is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside toolshed described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties casserole dish to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old family office described as paperwork I have not gone through yet instead of one simple basement. Wine is present like a municipal policy failure. Jenna Pike hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Gavin Vale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Jenna Pike hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Candle Finch ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Luke Cross hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Lark confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of toolshed described as paperwork I have not gone through yet. Gavin Lark hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Luke Winterson hesitates before explaining annex room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Mara Mercer is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\"",
+    "\"Mothers do not disappear, Gavin. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Why do we keep chasing water when the roots are dry?\"",
+    "\"The orchard fire was a mistake, but it burned more than trees—our secrets too.\"",
+    "\"Your silence is louder than any confession I've heard.\"",
+    "\"We built our lives on paperwork; now we must unbind them to breathe.\"",
+    "\"A wet ornament and a snow globe? Maybe the town needs an ice bath.\""
+  ],
+  "fake_critic_blurb": "\"HallTime's newest broadcast turns a quiet county into a fevered dreamscape, where every wine glass carries an omen and each casserole dish whispers the town’s sins. With a moody cast and an unsettling narrative that blurs reality, it invites viewers to question what lies beneath the surface of Blackthorn County.\"",
+  "sequel_hook": "\"When the ceramic owl finally lifts its lid, Luke Winterson will discover a secret message hidden inside—one that could unravel not just her own past but the very fabric of Blackthorn’s future.\"",
+  "synopsis": "In the rain‑kissed town of Blackthorn County, where every cobblestone holds a whisper and the old orchard chapel hides secrets beneath its cracked stone, lawyer Luke Winterson moves into an annex that was merely storage but is now a vault for her own buried trauma. The locals—Mara Mercer, widowed boat mechanic with a silent swagger; Jenna Pike, chaotic nurse‑turned‑confidante; Gavin Lark, elegant realtor who keeps the town’s memories in a side room; and others—interweave their lives like vines around the vineyard walls. Each character harbors unsent emails, hidden casseroles, and buried fire histories that culminate in a chilling discovery: a wet Christmas ornament, a snow globe misplaced among tools, and a casserole dish that holds the key to a vanished family. As whiskey‑stained wine flows through clandestine gatherings, the town’s safety crumbles into a mosaic of suspicion and old paperwork. The story escalates from simmering curiosity to frantic ambulance sirens, all while the curtain falls on an ominous basement whose ownership is contested. The final scene leaves readers staring at the dusty toolshed, wondering whether truth can be bottled like wine or must be served hot in a casserole.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4003,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102432-0133-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102432-0133-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.581,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Luke Winterson’s first night in the annex feels less like a new beginning and more like stepping into a room that has already watched her unravel. The storage shelves are lined with forgotten relics—an old casserole dish, a boat key half‑buried in dust—and the fluorescent light flickers, echoing the instability of her mind. In the corner, a snow globe sits ominously on a cracked shelf; its glassy waters seem to mirror the town’s simmering secrets. The scent of stale wine lingers in the air as a neighbor’s porch lights flicker like distant stars. Inside, a hidden letter sits unopened, its ink smudged by time—an invitation to a future that never materialized.",
+    "Mara Mercer stands beside the toolshed door, her hand gripping a wrench that feels heavier than steel. He is both the town’s mechanic and its quietest observer, his eyes flicking between the boat key on a hook and the basement’s hidden door. The atmosphere thickens with the scent of oil and damp wood as Mara muses about an orchard fire that never burned down his workshop. A soft rustle from within the toolshed signals the arrival of a wet ornament—a symbol of the town’s unspoken grief. The night drips into silence, punctuated only by the distant hum of the town’s heartbeat.",
+    "Gavin Lark enters the kitchen, her presence as subtle as the flicker of a space heater in a side room filled with family records. She flips through old newspapers while holding a ceramic owl that seems to watch over the entire scene. The oven light casts shadows across the walls where the Christmas ornament turns wet, its moisture hinting at an underlying truth. The conversation is peppered with half‑spoken apologies and a quiet acknowledgment of shared trauma—each word dripping like wine onto a table stained by old grief.",
+    "Jenna Pike stumbles into the annex carrying a bag of retreat supplies; she has her own set of secrets hidden in a casserole dish that once held evidence. Her nervous laughter masks the truth as she tries to reassure herself and others that no one will find what she keeps in her mind’s attic. The basement’s light flickers, and the sound of a distant drumbeat reverberates through the hallway, reminding everyone that silence is just fear wearing cashmere. In this hushed moment, every character feels the weight of their own unresolved love.",
+    "Luke Cross arrives at the marina tackle room, his face twisted with guilt over an accusation he can’t forget. He clutches a coffee mug and tries to talk about the boat key—now more than just metal, it’s a symbol of trust broken. The room’s paperworks swirl like leaves in the wind as he speaks about how the town is built on paperwork that has never been read. His words are cut short by the sudden vibration from inside the wall, a reminder that some mysteries will never stay hidden.",
+    "The final scene spirals into a frantic drive toward The Candle Finch, where ambulance lights slice through the darkness. The kitchen’s ceramic owl is back on the island, its eyes reflecting the flicker of hope and terror alike. A one‑line empowerment speech echoes in the air, promising redemption but also revealing that every adult has spiritually rented a storage room for their own ghosts. As the town's basement light turns on again, an eerie silence takes hold, hinting at future revelations yet to unfold."
+  ],
+  "contradiction_notes": [
+    "Mara Mercer’s name morphs into Daniel in one kitchen scene, then Derek during the rain argument—perhaps a trick of memory or a hidden double life.",
+    "Luke Winterson oscillates between calling Bellweather Vermont and outside Atlanta after two glasses of wine; maybe his senses are skewed by the town’s uncanny atmosphere.",
+    "A dead best friend appears at brunch, yet nobody can agree if it is denial, evil, or scheduling—hinting that reality may be a malleable script.",
+    "The basement’s ownership shifts between condo, lake house, and abandoned vineyard in Winter Hollow; each shift reflects the town’s fractured geography.",
+    "The boat key’s transformation from decorative to a symbol of trust is only solidified after a wet ornament surfaces—an echo of how truth changes with context."
+  ],
+  "alternate_titles": [
+    "The Casserole Conspiracy",
+    "Wet Ornament Whispers",
+    "Silent Orchard",
+    "Lake House Lies",
+    "Basement Echoes"
+  ],
+  "franchise_adjacency": "\"This broadcast fits snugly after HallTime's 'Blackthorn Noir' and before the upcoming thriller 'Mysterious Waters', weaving together the county’s haunting lore into a single, relentless narrative thread.\""
+}

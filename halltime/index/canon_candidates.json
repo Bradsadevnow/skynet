@@ -1,0 +1,199 @@
+{
+  "foundational_texture": [
+    "basement",
+    "brunch",
+    "casserole dish",
+    "ceramic owl",
+    "just storage",
+    "kitchen",
+    "municipal policy failure",
+    "unopened letter",
+    "vineyard fire"
+  ],
+  "identity_markers": [
+    "boat key",
+    "casserole dish",
+    "ceramic owl",
+    "scarf with impossible timing",
+    "snow globe",
+    "unopened letter"
+  ],
+  "high_variance_mutations": [
+    "portable suspicion",
+    "regional utility"
+  ],
+  "title_families_under_pressure": [
+    [
+      "Her Silent Christmas Alibi",
+      53
+    ],
+    [
+      "The Neighbor Who Babysat Too Much",
+      50
+    ],
+    [
+      "What My Sister Buried",
+      49
+    ],
+    [
+      "He Knows I Bake at Midnight",
+      49
+    ],
+    [
+      "A Casserole for the Missing",
+      47
+    ],
+    [
+      "The Widow in Cabin 9",
+      46
+    ],
+    [
+      "The Vineyard Lies Beneath Us",
+      43
+    ]
+  ],
+  "archetypes_by_survivability": [
+    [
+      "overextended_professional_woman",
+      337
+    ],
+    [
+      "chaotic_best_friend",
+      337
+    ],
+    [
+      "mysterious_elegant_woman",
+      337
+    ],
+    [
+      "intuitive_disaster",
+      337
+    ],
+    [
+      "daughter_with_hostile_divorce_attorney_soul",
+      337
+    ],
+    [
+      "deputy_with_emotional_damage",
+      337
+    ],
+    [
+      "divorced_redemption_dad",
+      175
+    ],
+    [
+      "decorative_husband",
+      170
+    ],
+    [
+      "soft_spoken_menace",
+      167
+    ],
+    [
+      "rugged_scamp",
+      162
+    ]
+  ],
+  "props_by_symbolic_charge": [
+    [
+      "casserole dish",
+      159
+    ],
+    [
+      "snow globe",
+      155
+    ],
+    [
+      "scarf with impossible timing",
+      151
+    ],
+    [
+      "ceramic owl",
+      147
+    ],
+    [
+      "boat key",
+      146
+    ],
+    [
+      "unopened letter",
+      140
+    ],
+    [
+      "blood-adjacent tea towel",
+      113
+    ]
+  ],
+  "phrases_by_doctrinal_charge": [
+    [
+      "municipal policy failure",
+      337
+    ],
+    [
+      "brunch",
+      337
+    ],
+    [
+      "vineyard fire",
+      337
+    ],
+    [
+      "kitchen",
+      337
+    ],
+    [
+      "basement",
+      337
+    ],
+    [
+      "ceramic owl",
+      337
+    ],
+    [
+      "casserole dish",
+      337
+    ],
+    [
+      "unopened letter",
+      337
+    ],
+    [
+      "just storage",
+      335
+    ],
+    [
+      "boat key",
+      301
+    ],
+    [
+      "regional utility",
+      57
+    ],
+    [
+      "portable suspicion",
+      43
+    ]
+  ],
+  "survivor_ids": [
+    "20260528-100729-0077-the-widow-in-cabin-9",
+    "20260528-105042-0223-the-vineyard-lies-beneath-us",
+    "20260528-105134-0226-the-widow-in-cabin-9",
+    "20260528-150009-0001-the-vineyard-lies-beneath-us",
+    "20260528-094257-0007-he-knows-i-bake-at-midnight",
+    "20260528-094609-0015-her-silent-christmas-alibi",
+    "20260528-095419-0039-the-vineyard-lies-beneath-us",
+    "20260528-092154-what-my-sister-buried",
+    "20260528-111155-0296-what-my-sister-buried",
+    "20260528-111139-0295-what-my-sister-buried",
+    "20260528-094707-0018-the-vineyard-lies-beneath-us",
+    "20260528-095035-0031-what-my-sister-buried",
+    "20260528-092153-her-silent-christmas-alibi",
+    "20260528-104613-0213-her-silent-christmas-alibi",
+    "20260528-103737-0181-what-my-sister-buried",
+    "20260528-100941-0082-what-my-sister-buried",
+    "20260528-094555-0014-he-knows-i-bake-at-midnight",
+    "20260528-101333-0093-the-widow-in-cabin-9",
+    "20260528-100613-0074-the-widow-in-cabin-9",
+    "20260528-103414-0168-he-knows-i-bake-at-midnight"
+  ]
+}

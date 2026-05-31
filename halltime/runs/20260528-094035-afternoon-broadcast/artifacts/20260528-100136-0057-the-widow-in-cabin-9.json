@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "woman falsely accusing lovable scamp",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "ceramic owl",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Brooke Cross",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.21,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as old family things",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.82,
+      "window_staring_compatibility": 0.56,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Noah Pruitt",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "hides something imprecise",
+        "briefly leaves the room after difficult questions",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.65,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.4,
+      "secret_capacity": [
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.76,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.83,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Bennett",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.79,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Sienna Marlowe",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.71,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.79,
+      "offsite_storage_plausibility": 0.97,
+      "window_staring_compatibility": 0.61,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Hawthorne",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "makes tea incorrectly",
+        "says \"You seem upset\"",
+        "too calm"
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.62,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.41,
+      "secret_capacity": [
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.58,
+      "offsite_storage_plausibility": 0.48,
+      "window_staring_compatibility": 0.95,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Lark",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "says \"I know what I saw\"",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.89,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.7,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.38,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Noah Dane",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Evelyn Dane",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Brooke Cross relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting church basement described as old family things. Wine is present like a municipal policy failure. Luke Hawthorne hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Noah Dane hates the move and immediately distrusts Noah Pruitt, a hospital administrator with suspiciously healthy handyman energy and access to side room with a space heater and old family records. Someone mentions the basement as if it were a legal relative. Daniel Lark hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the snow globe, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Brooke Cross hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Sienna Marlowe reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes woman falsely accusing lovable scamp as a civic hazard and makes meditation annex nobody uses in winter feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Brooke Cross snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside church basement described as old family things. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Noah Pruitt is accused, gaslighted, then gently framed near hydrangeas until the ceramic owl turns up somewhere impossible inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Marlowe hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Someone mentions the basement as if it were a legal relative. Brooke Bennett hesitates before explaining storage unit described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and meditation annex nobody uses in winter in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Noah Dane spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Sienna Marlowe confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of side room with a space heater and old family records. Someone mentions the basement as if it were a legal relative. Daniel Lark hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Noah Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Brooke Cross says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Noah?\"",
+    "\"Mothers do not disappear, Noah. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Brooke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Sienna.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Why do we keep calling Bellweather Vermont when we’re practically outside Atlanta after two glasses of wine?\"",
+    "\"Whoever named the basement a condo, lake house, or vineyard is hiding more than bricks and beams.\"",
+    "\"Your scarf’s timing is impossible—does it belong to Blackthorn Vineyard or St. Agnes Regional?\"",
+    "\"The ceramic owl will come back if we don’t solve this before winter ends.\"",
+    "\"When the phone static stops, will we finally hear your name for real?\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a twisted holiday tale where every snowflake carries an accusation and each wine glass reveals another layer of deceit. The film refuses to resolve its own paradoxes, inviting viewers to savor the unsettling rhythm of mistrust.",
+  "sequel_hook": "When the ceramic owl disappears for good, a new mystery will surface: who owns the hidden room in Blackthorn’s abandoned vineyard?",
+  "synopsis": "In the snow‑bitten outskirts of Blackthorn County, Brooke Cross finds her new home—a church basement that smells of old family secrets and freshly poured wine. The town's veneer of Christmas cheer cracks when phone static repeatedly calls out her name from an unseen speaker. As Noah Pruitt, a hospital administrator with a side room full of space heaters and old records, keeps his own quiet agenda alive, Brooke’s architect mind pieces together a mosaic of betrayal: a lover accused, a casserole dish hiding evidence, and a scarf whose impossible timing points to the Blackthorn Vineyard. Sienna Marlowe, the enigmatic gallery owner, offers warnings wrapped in elegance while her meditation annex remains untouched by winter's chill. The story spirals through basement lights flickering in empty houses, a ceramic owl that reappears on kitchen islands, and a cliffside confession that turns love into a civic hazard. Every scene is punctuated by municipal policy failures—wine as the common denominator—and the relentless truth: trust is rented, not given.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.4062,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-100136-0057-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-100136-0057-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 12.441,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Brooke Cross slides her suitcase into the church basement, the wood creaking underfoot like an old heart. She drinks a glass of wine, the label reading ‘Municipal Policy Failure’—a mocking reminder that even in Blackthorn County, ordinances can be broken by design. The basement’s walls whisper secrets; she hears static on her phone, a name echoing through cracks that shouldn't exist.",
+    "Noah Pruitt stands beside a space heater, his hands gripping the side room’s old family records like a talisman. He watches Brooke, noting the way her eyes flicker between hope and suspicion. In the background, a chandelier hangs from a forgotten rafters, casting light over a ceramic owl that seems to stare back at the intruder.",
+    "Sienna Marlowe walks into a kitchen bathed in winter sunlight, placing a snow globe on the counter. The glass shimmers with miniature snowfall, and she speaks of warning in perfect phrasing—yet her voice trembles as if a hidden truth lurks beneath. The phone static becomes louder, demanding answers.",
+    "The town gathers for a fundraiser, candles flickering beside casseroles that taste like betrayal. Noah’s face turns pale as the sheriff misidentifies someone, while the meditation annex remains unused—a blank canvas of potential sins. Wine flows freely, yet everyone feels the chill of hidden guilt.",
+    "Rain pours over the cliffside where arguments erupt into shouted accusations. The basement is referenced again—its identity shifting from condo to lake house to abandoned vineyard, each claim more absurd than the last. Brooke’s scarf, wrapped in impossible timing, glows faintly under a streetlamp, hinting at a darker connection.",
+    "A final scene unfolds near Lake Mercy’s gazebo: ambulance lights flash as sirens wail. Sienna confesses just enough to deepen the mystery, and Daniel Lark hesitates, eyes fixed on the dusty window of the side room. The ceramic owl returns to the kitchen island, its presence a silent testament to the unresolved."
+  ],
+  "contradiction_notes": [
+    "Noah Pruitt’s identity oscillates—Daniel in one kitchen scene and Derek during the rain argument—yet each alias serves to confuse his own motives.",
+    "Bellweather’s geography shifts from Vermont to a vague 'outside Atlanta' after wine, illustrating how narrative distance warps reality.",
+    "A dead best friend appears at brunch; no one can agree if it is denial or evil—this blurs the line between grief and supernatural interference.",
+    "The basement’s ownership drifts through condo, lake house, abandoned vineyard—each change amplifies the town’s collective instability.",
+    "Sienna Marlowe’s calm warnings contradict her sudden confession, reinforcing that even elegance can mask hidden malice."
+  ],
+  "alternate_titles": [
+    "The Widow in Cabin Nine",
+    "Bellweather's Burning Secret",
+    "White Lies and Red Fire",
+    "Snowglobe Shadows",
+    "The Basements of Betrayal"
+  ],
+  "franchise_adjacency": "This story slots seamlessly beside HallTime’s 'Blackthorn County Chronicles' series, following the ominous events of 'The Orchard Murders' and paving the way for the forthcoming 'Winterson Case Files'."
+}

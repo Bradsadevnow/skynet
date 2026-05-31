@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "What My Sister Buried",
+  "tagline": "Where every secret comes home.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "suspiciously healthy handyman friendship",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "unopened letter",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Mara Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "bakery owner",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.92,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.89,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.33,
+      "offsite_storage_plausibility": 0.91,
+      "window_staring_compatibility": 0.66,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Rachel Pruitt",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "too calm",
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.9,
+      "domestic_plausibility": 0.66,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.43,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.36,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Brooke Marlowe",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.53,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as donation overflow",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.95,
+      "window_staring_compatibility": 0.58,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Dane",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "elevated scarf density",
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.83,
+      "domestic_plausibility": 0.56,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.41,
+      "window_staring_compatibility": 0.58,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Sienna Winterson",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "owns flannel",
+        "probably builds furniture",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.5,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.54,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as retreat supplies",
+      "space_explanation_hesitation": 0.81,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Hawthorne",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.51,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Winterson",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Evelyn Pike",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Mara Winterson relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting marina tackle room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Wyatt Winterson hates the move and immediately distrusts Rachel Pruitt, a private school administrator with suspiciously healthy handyman energy and access to storage unit described as just storage. Someone mentions the basement as if it were a legal relative. Derek Hawthorne hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Marigold Inn introduces the casserole dish, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Luke Dane reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain meditation annex nobody uses in winter. Sienna Winterson hesitates before explaining storage unit described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes suspiciously healthy handyman friendship as a civic hazard and makes storage unit described as retreat supplies feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Luke Dane hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Mara Winterson snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside marina tackle room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Luke Dane hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring storage unit described as retreat supplies. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Rachel Pruitt is accused, gaslighted, then gently framed near hydrangeas until the unopened letter turns up somewhere impossible inside storage unit described as just storage. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Brooke Marlowe hesitates before explaining old family office described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Mara Winterson hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and meditation annex nobody uses in winter in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties ceramic owl to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through storage unit described as retreat supplies instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Wyatt Winterson spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Luke Dane confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of storage unit described as just storage. Mara Winterson hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Rachel Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Mara Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Rachel?\"",
+    "\"Mothers do not disappear, Wyatt. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Mara. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Luke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "\"If that basement is innocent, why does it sound defensive?\"\n",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"\n",
+    "\"We all have storage units; we all keep secrets.\"",
+    "\"Why do you call Bellweather Vermont when it's outside Atlanta after two glasses of wine?\"\n",
+    "\"The owl is watching us, and its eyes hold the vineyard's sins.\"",
+    "\"The basement may be a condo or lake house, but it always houses our lies.\"\n",
+    "\"Do you think I will find your truth if you hide it in a drawer?\"\n"
+  ],
+  "fake_critic_blurb": "A HallTime masterpiece where every casserole dish is a confession and every basement is an unspoken truth. The town’s veneer cracks with each sip of wine, revealing that Blackthorn County never forgets; it simply redecorates its memories with ceramic owls and secret keys. A haunting blend of melodrama and subtle dread keeps viewers guessing until the final line of dialogue echoes through the locked meditation annex.\n",
+  "sequel_hook": "When the ceramic owl finally whispers a new incantation, Mara Winterson realizes that the next chapter will unearth an entire family’s hidden lineage—one secret buried deeper than any basement.\n",
+  "synopsis": "In the rain‑slick streets of Blackthorn County, Mara Winterson retreats to Winter Hollow after a shattered bakery and an emotional implosion that left her with more questions than dough. The town’s veneer of quaint charm hides a web of secrets—unopened letters, casserole dishes containing evidence, ceramic owls perched on island tables—all echoing the same refrain: every basement is just a relative. Mara’s move triggers a cascade of uncanny coincidences—a dog howling at an empty gazebo, a kitchen filled with wine that feels like municipal policy failure, and a meditation annex nobody uses in winter—each scene thickening the plot with whispers of buried trauma. The townsfolk, from a private school administrator named Rachel Pruitt to a therapist known as Luke Dane, are drawn into a dangerous dance of suspicion and camaraderie. As Mara unearths dusty keys and hidden files, she discovers that the town’s history is not linear but layered: a basement that shifts between condo, lake house, and abandoned vineyard; a sheriff who suspects the wrong person first; and an owl that seems to point toward Blackthorn Vineyard itself. The climax converges at Bellweather’s Sheriff Office where a frantic drive ends with ambulance lights and a locked meditation annex door, leaving Mara to confront the ultimate truth: the town never forgets; it merely redecorates its memories.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4581,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095035-0031-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095035-0031-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.618,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Mara steps into Winter Hollow with a suitcase of broken dreams, her bakery owner’s apron replaced by paperwork she has yet to sift through. The local inn, Marigold, is buzzing with wine like a municipal policy gone awry; the casserole dish sits center stage, a silent witness to the town’s gossip. As whispers about the basement swirl—some call it a relative, others a legal heir—the air thickens with emotional exposition, multiplied by an insanity factor of 1.00.\n",
+    "Scene 2: Wyatt, the reluctant new resident, confronts Rachel Pruitt in the storage unit, their dialogue punctuated by suspicion and a subtle hint that Rachel’s “handyman energy” is more than a façade. Derek Hawthorne, a hesitant innkeeper, pauses to explain the meditation annex—a space abandoned in winter—while a basement light flickers, signaling unseen presence. The scene ends with an emotional exposition at 1.07 insanity.\n",
+    "Scene 3: At the Marigold Inn’s wine‑filled kitchen, Luke Dane delivers a perfectly phrased warning while the dog barks at an empty gazebo. Sienna Winterson hesitates, revealing her retreat supplies and the storage unit’s role in hiding secrets. The ceramic owl appears on the island, its eyes gleaming like hidden truths. Emotional exposition climbs to 1.23.\n",
+    "Scene 4: On a cliffside overlooking the lake, the town’s civic hazard is reframed as a dangerous friendship; the storage unit becomes spiritually relevant. Mara discovers a dusty key with handwritten labels in her paperwork room, intensifying the emotional narrative to an insanity of 1.40.\n",
+    "Scene 5: During a fundraiser, the sheriff mistakenly suspects the wrong person while the town’s safety feels like a façade. An unopened letter surfaces inside the storage unit, and a character who should be dead appears at brunch, pushing the emotional exposition to 1.84. The basement remains a legal relative in every mention.\n",
+    "Scene 6: In the final act, a frantic drive leads to Bellweather’s Sheriff Office where ambulance lights flash, an empowerment speech rings out, and a locked door inside the meditation annex blocks truth. Mara faces the basement’s true nature while the ceramic owl reappears, hinting at deeper layers of Blackthorn’s history.\n"
+  ],
+  "contradiction_notes": [
+    "Rachel Pruitt is Daniel when she whispers to Derek during the rain argument—two names for one voice that blurs reality.\n",
+    "Mara’s geography drift: Bellweather oscillates between Vermont and outside Atlanta, suggesting a town that refuses to stay put.\n",
+    "The dead best friend appears at brunch; no one knows if this is denial or a scheduled ghost.\n",
+    "Basement’s identity shuffles between condo, lake house, abandoned vineyard—no single foundation.\n",
+    "Luke Dane claims she knows why the orchard chapel closed yet insists her documents should have been burned, a paradox of preservation and destruction.\n"
+  ],
+  "alternate_titles": [
+    "The Buried Casserole",
+    "Basement of Secrets",
+    "Whispers at Winter Hollow",
+    "Ceramic Owl Chronicles",
+    "Blackthorn's Hidden Vault"
+  ],
+  "franchise_adjacency": "This broadcast aligns perfectly with HallTime’s 'Mystic Melodies' series, where townsfolk confront supernatural secrets, and the forthcoming 'Echoes of Elmwood' explores similar themes of hidden pasts and emotional legacies."
+}

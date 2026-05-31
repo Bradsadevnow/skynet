@@ -1,0 +1,185 @@
+male_archetypes:
+  rugged_scamp:
+    surface_function: salvage captain with an unlicensed conscience
+    hidden_function: portable sabotage battery
+    traits: [knows forgotten routes, laughs at airlock warnings, fixes impossible things, has seen the ugly version of the war]
+    jobs: [salvage pilot, hull mechanic, smuggler quartermaster, ex-marine shuttle tech]
+    innocence_probability: 0.66
+    threat_aura_range: [0.34, 0.68]
+    domestic_plausibility_range: [0.55, 0.82]
+    gazebo_energy_options: [medium, medium_high, high]
+    basement_implication_bias: likely
+    secret_capacity_pool: [hid refugees in a cargo spine, stripped a beacon off a missing ship, knows who forged the tribunal footage]
+  decorative_husband:
+    surface_function: polished administrator spouse
+    hidden_function: paperwork smokescreen
+    traits: [dresses for hearings, apologizes strategically, delegates grief, leaves before direct questions]
+    jobs: [station comptroller, contracts director, habitat zoning counsel, fleet payroll executive]
+    innocence_probability: 0.45
+    threat_aura_range: [0.22, 0.64]
+    domestic_plausibility_range: [0.5, 0.86]
+    gazebo_energy_options: [low, medium, medium_high]
+    basement_implication_bias: symbolic
+    secret_capacity_pool: [moved people into dead ledgers, hid funds inside evacuation math, deleted the hearing transcript before breakfast]
+  soft_spoken_menace:
+    surface_function: reassuring systems aristocrat
+    hidden_function: velvet catastrophe engine
+    traits: [never raises his voice, speaks in risk frameworks, enters rooms already calm, treats fear as a user error]
+    jobs: [ethics chair, terraforming executive, deep sleep clinician, protocol architect]
+    innocence_probability: 0.14
+    threat_aura_range: [0.65, 0.95]
+    domestic_plausibility_range: [0.42, 0.78]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: definite
+    secret_capacity_pool: [keeps duplicate access ghosts, rehearsed the tribunal answer set, knows the exact acceptable casualty range]
+  divorced_redemption_dad:
+    surface_function: regret-powered command dad
+    hidden_function: witness with delayed courage
+    traits: [overworks, forgets home gravity, knows emergency protocols, loves badly but sincerely]
+    jobs: [security captain, docking chief, med-evac pilot, station school dean]
+    innocence_probability: 0.69
+    threat_aura_range: [0.2, 0.54]
+    domestic_plausibility_range: [0.7, 0.94]
+    gazebo_energy_options: [medium, medium_high]
+    basement_implication_bias: symbolic
+    secret_capacity_pool: [ignored one catastrophic alert, still has access he should have surrendered, covered for someone after the soft coup]
+  narcissist_ex_husband:
+    surface_function: reformed co-governance adult
+    hidden_function: ego-driven destabilizer
+    traits: [weaponizes therapeutic vocabulary, texts during curfew, performs insight, treats boundaries as negotiation]
+    jobs: [fleet strategist, merger envoy, civilian governor, image consultant for war crimes]
+    innocence_probability: 0.19
+    threat_aura_range: [0.57, 0.9]
+    domestic_plausibility_range: [0.44, 0.76]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: definite
+    secret_capacity_pool: [already charmed internal security, keeps a second life under another registry, maintains a divorce narrative by audience]
+  obsessive_boyfriend_problem:
+    surface_function: romantic escalation device with ship access
+    hidden_function: surveillance accelerant
+    traits: [learns routes too quickly, confuses monitoring with care, arrives early, interprets refusal as intimacy]
+    jobs: [biosensor tech, shuttle medic, tactical trainer, habitat restorer]
+    innocence_probability: 0.12
+    threat_aura_range: [0.66, 0.96]
+    domestic_plausibility_range: [0.34, 0.68]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: definite
+    secret_capacity_pool: [saved every transmission, cloned a key from one embrace, wrote apology code into a door schedule]
+  perfect_new_husband:
+    surface_function: benevolent rescue spouse from a premium tier
+    hidden_function: curated widower threat
+    traits: [moves in too cleanly, loves children with audit intensity, narrates loss beautifully, owns a room with rules]
+    jobs: [terraforming investor, defense philanthropist, biotech founder, resurrection trust manager]
+    innocence_probability: 0.16
+    threat_aura_range: [0.62, 0.95]
+    domestic_plausibility_range: [0.55, 0.9]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: definite
+    secret_capacity_pool: [maintains memorials to prior spouses, has already renovated away evidence, keeps archived hair and dental records as grief]
+  psychopathic_doctor:
+    surface_function: medically soothing authority
+    hidden_function: diagnostic captivity engine
+    traits: [smiles during consent, calls horror stress, loves patient metrics, never wastes a crisis]
+    jobs: [clone specialist, sleep physician, fertility engineer, neuro-interface surgeon]
+    innocence_probability: 0.11
+    threat_aura_range: [0.68, 0.97]
+    domestic_plausibility_range: [0.45, 0.81]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: definite
+    secret_capacity_pool: [controls the dosage, runs an off-ledger facility, falsified one recovery timeline too elegantly]
+female_archetypes:
+  overextended_professional_woman:
+    surface_function: exhausted systems director
+    hidden_function: competence under siege
+    traits: [runs too much, sleeps never, signs impossible forms, mistakes duty for oxygen]
+    jobs: [station director, convoy attorney, habitat engineer, crisis accountant]
+    threat_aura_range: [0.22, 0.46]
+    domestic_plausibility_range: [0.72, 0.94]
+    gazebo_energy_options: [medium, medium_high]
+    basement_implication_bias: symbolic
+    secret_capacity_pool: [hid one procedural violation to save lives, knows an evacuation corridor that should not exist]
+  chaotic_best_friend:
+    surface_function: glorious instability with access
+    hidden_function: truth accelerant
+    traits: [talks too fast, notices everything, hacks casually, treats decorum like malware]
+    jobs: [salvage streamer, casino singer, port dispatcher, contraband botanist]
+    threat_aura_range: [0.28, 0.58]
+    domestic_plausibility_range: [0.56, 0.84]
+    gazebo_energy_options: [medium, medium_high, high]
+    basement_implication_bias: likely
+    secret_capacity_pool: [stole a copy of the truth, already knows the docking code, carries gossip as a weapon]
+  mysterious_elegant_woman:
+    surface_function: immaculate envoy with impossible timing
+    hidden_function: strategic witness or architect
+    traits: [arrives overdressed, knows too much protocol, smiles at the wrong lines, floats above panic]
+    jobs: [diplomat, mourning couture dealer, protocol chief, archive curator]
+    threat_aura_range: [0.54, 0.9]
+    domestic_plausibility_range: [0.48, 0.77]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: definite
+    secret_capacity_pool: [attended the original hearing, knows whose backup was illegal first, can name the room nobody acknowledges]
+  intuitive_disaster:
+    surface_function: unstable oracle in practical boots
+    hidden_function: unauthorized pattern recognizer
+    traits: [blurts the right thing badly, follows feelings into sealed zones, can smell a lie, never uses doors correctly]
+    jobs: [maintenance tech, drone wrangler, scrap diver, trainee medic]
+    threat_aura_range: [0.2, 0.5]
+    domestic_plausibility_range: [0.52, 0.79]
+    gazebo_energy_options: [medium, high]
+    basement_implication_bias: likely
+    secret_capacity_pool: [heard the vent whisper back, found the hidden subdeck, has footage nobody believes]
+  betrayed_provider_woman:
+    surface_function: mission-first caretaker with too many dependents
+    hidden_function: delayed collapse under excellent posture
+    traits: [keeps everyone alive, neglects herself professionally, inventories pain, can command a room while bleeding]
+    jobs: [fleet chaplain, med-bay chief, ration coordinator, refugee intake lead]
+    threat_aura_range: [0.24, 0.52]
+    domestic_plausibility_range: [0.74, 0.95]
+    gazebo_energy_options: [medium, medium_high]
+    basement_implication_bias: symbolic
+    secret_capacity_pool: [signed the false inventory, kept one person off the books, suspects the official death toll is decorative]
+  narcissist_ex_wife_survivor:
+    surface_function: post-gaslighting tactical adult
+    hidden_function: veteran of narrative war
+    traits: [never trusts clean stories, keeps receipts, weaponizes memory, spots charm rot early]
+    jobs: [oversight litigator, survivor advocate, policy analyst, ship insurer]
+    threat_aura_range: [0.3, 0.62]
+    domestic_plausibility_range: [0.66, 0.9]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: symbolic
+    secret_capacity_pool: [already knows how men rewrite history, maintains a shadow archive, has spoken to his previous victim]
+  woman_on_the_edge:
+    surface_function: high-functioning near-break visionary
+    hidden_function: unstable truth delivery system
+    traits: [looks exquisite while sleep deprived, says the worst thing at the correct time, frightens institutions, refuses sedation]
+    jobs: [xenobiologist, widow heiress, dissident broadcaster, memory rights activist]
+    threat_aura_range: [0.5, 0.91]
+    domestic_plausibility_range: [0.41, 0.73]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: definite
+    secret_capacity_pool: [keeps a copy of herself somewhere illegal, knows the coup was soft by design, can prove the miracle is counterfeit]
+  stalker_nanny_au_pair:
+    surface_function: child-adjacent replacement threat
+    hidden_function: domestic infiltration program
+    traits: [wins over children instantly, mirrors routines, learns wardrobes, treats family as a role to occupy]
+    jobs: [android caregiver, tutor, juvenile interface specialist, private habitat nanny]
+    threat_aura_range: [0.63, 0.95]
+    domestic_plausibility_range: [0.7, 0.98]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: definite
+    secret_capacity_pool: [planned the replacement family, carries forged references, has done this before under another face]
+  wrong_roommate_identity_thief:
+    surface_function: mirrored intimacy hazard
+    hidden_function: identity overwrite event
+    traits: [borrows voice patterns, wants your life, studies grief like a user manual, escalates quietly]
+    jobs: [cadet roommate, clone rehabilitation peer, residency bunkmate, embassy assistant]
+    threat_aura_range: [0.61, 0.94]
+    domestic_plausibility_range: [0.5, 0.82]
+    gazebo_energy_options: [medium_high, high]
+    basement_implication_bias: definite
+    secret_capacity_pool: [stole an identity package, resembles someone dead on purpose, poisoned something gentle-looking]
+supporting_roles:
+  daughter_with_hostile_divorce_attorney_soul:
+    traits: [observant, unimpressed, ethically sharp, records everything]
+  deputy_with_emotional_damage:
+    traits: [late, sincere, compromised by the system, one good instinct away from usefulness]

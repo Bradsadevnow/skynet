@@ -1,0 +1,44 @@
+{
+  "expanded_synopsis": "In the mist‑laden town of Blackthorn County, a single snow globe rattles on the kitchen island as Elias Pruitt unpacks her past in Marigold Falls, a place that refuses to let anyone truly settle. Every character—Luke Vale, the disillusioned coach with a dock full of secrets; Noah Bell, salon owner and chaotic confidante; Cole Hawthorne, the enigmatic realtor who feeds the town myths—stacks their lies like wine bottles on shelves that belong to no one. The lake bell rings without wind, echoing through the cracked walls of the abandoned vineyard where the sheriff’s past is buried under falsehoods. As each scene spirals, trust becomes a rented commodity and every whispered confession is a key to another hidden basement. The town’s “retreat supplies” become weapons, and the ceramic owl—once a harmless decoration—glows with an ominous glow, pointing to the dark truth: some homes house families, others hide motives. With each revelation, the fabric of Blackthorn frays further, leaving only one question—who will keep the silence?",
+  "scene_paragraphs": [
+    "Elias Pruitt opens a dusty storage unit that smells like old pine and forgotten promises, discovering a key etched with a name she cannot place. The wind outside carries the faint chime of a lake bell, but no water stirs beneath its sound. As she sips wine from an antique bottle labeled ‘Municipal Policy Failure,’ her mind flickers to the day her mother left without explanation, leaving behind only a scar and a sense that everything was rented, never given.",
+    "Luke Vale walks into the dock office, where a lone desk sits under a flickering fluorescent bulb. He’s wrapped in a flannel shirt, eyes narrowed like a high school coach guarding his turf. He confronts Elias about her presence, accusing her of exploiting the town’s hidden secrets for personal gain. His voice trembles with fear—trust is an illusion here, and he’s desperate to protect himself from the weight of inherited guilt.",
+    "Noah Bell, in the annex room filled with seasonal décor, offers a fragile friendship that teeters on the brink of betrayal. He whispers about the half‑sibling who never existed until now, his voice crackling like a candle flame. Elias, still clutching her snow globe, feels the walls close in as each person’s truth unravels and the town’s mythical veil shatters.",
+    "Cole Hawthorne steps into the kitchen with a ceramic owl perched on the island. The oven lights cast a warm glow over the lake bell that rings without wind. She speaks in riddles about the meditation annex, refusing to reveal its purpose. Her words echo through the empty hallway, leaving a trail of unanswered questions as she exits.",
+    "The town’s fundraiser becomes a stage for deceit when Luke Vale is accused of foul play. He gaslights himself into silence while the sheriff suspects the wrong person, ignoring the dock office that holds a key to the truth. The basement lights flicker on, casting long shadows across an empty house, hinting at a deeper conspiracy.",
+    "In the final scene, Elias confronts Cole Hawthorne in a locked meditation annex. The ceramic owl hovers above their heads as the sheriff arrives fourteen minutes late, his footsteps echoing like distant thunder. A burst of ambulance lights paints the hallway crimson, and the town’s fragile peace shatters under the weight of hidden secrets."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\"",
+    "\"Mothers do not disappear, Cole. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Cole.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The dock office holds secrets older than the lake itself.\"",
+    "\"Who knows what lies hide beneath the surface of our borrowed trust?\"",
+    "\"The owl watches, silent and patient, as we stir our own chaos.\"",
+    "\"This town's secrets are like wine—once opened, they never stay quiet.\"",
+    "\"We all carry a piece of the mystery in our hearts.\"",
+    "\"Can you hear the bell? It rings for those who dare to confront their past.\""
+  ],
+  "contradiction_notes": [
+    "Luke Vale’s name changes from Daniel to Derek across scenes, but each reference points back to the same man—his identity is a fluid myth.",
+    "Elias’s confusion about Bellweather’s location underscores her unreliable perception; it amplifies the town’s chaotic geography rather than fix it.",
+    "The dead best friend at brunch becomes an allegory for denial, suggesting that some deaths are never truly over.",
+    "The basement’s shifting ownership from condo to lake house to vineyard reflects the mutable nature of Blackthorn’s hidden spaces.",
+    "The snow globe’s transformation into a harbinger of doom illustrates how ordinary objects can become vessels of dread."
+  ],
+  "fake_critic_blurb": "HallTime's latest opus, *What My Sister Buried*, is a cinematic labyrinth where every corner holds a secret and every whisper could be a confession. The film deftly balances melodrama with atmospheric dread, creating an immersive world that feels both familiar and eerily distorted. Critics praise its bold narrative structure and the uncanny way it turns everyday objects—like a snow globe or a ceramic owl—into symbols of terror.",
+  "sequel_hook": "When the town’s buried secrets finally surface at brunch, the return of a supposedly dead character threatens to unravel the fragile fabric of Blackthorn County, setting the stage for a chilling continuation.",
+  "alternate_titles": [
+    "\"Echoes in the Mist\"",
+    "\"The Lake Bell Laments\"",
+    "\"Secrets in Marigold Falls\"",
+    "\"Ceramic Owl and the Silent Town\"",
+    "\"Blackthorn's Forgotten Trusts\""
+  ],
+  "franchise_adjacency": "This expansion sits alongside HallTime’s *Winter Hollow Chronicles* and *Marigold Mysteries*, weaving together themes of hidden histories, fractured identities, and the uncanny persistence of truth in small towns."
+}

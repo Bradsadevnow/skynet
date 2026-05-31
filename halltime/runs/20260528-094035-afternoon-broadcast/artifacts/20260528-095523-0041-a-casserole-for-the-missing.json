@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "A Casserole for the Missing",
+  "tagline": "Where every secret comes home.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "casserole dish",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Claire Bennett",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as retreat supplies",
+      "space_explanation_hesitation": 0.7,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.65,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Luke Sutton",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "probably builds furniture",
+        "fixes docks",
+        "unexpectedly good with children"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.67,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.88,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.49,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.59,
+      "window_staring_compatibility": 0.56,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "elevated scarf density",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.73,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.83,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Lark",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "says \"You seem upset\"",
+        "too calm",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.67,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.64,
+      "secret_capacity": [
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.82,
+      "window_staring_compatibility": 0.46,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Gavin Sutton",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "always investigating",
+        "says \"I know what I saw\"",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as seasonal materials",
+      "space_explanation_hesitation": 0.88,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Wyatt Bennett",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Claire Hale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Claire Bennett relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting storage unit described as retreat supplies. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Wyatt Bennett hates the move and immediately distrusts Luke Sutton, a local carpenter with sad eyes with suspiciously healthy handyman energy and access to dock office with a desk nobody fully claims. Claire Mercer hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the boat key, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Derek Lark hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Mercer reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain side room with a space heater and old family records. Someone mentions the basement as if it were a legal relative. Luke Sutton hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes annex room described as seasonal materials feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Claire Bennett snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside storage unit described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring annex room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Luke Sutton is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Claire Bennett hesitates before explaining storage unit described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Gavin Pike hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties snow globe to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through annex room described as seasonal materials instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Wyatt Bennett spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Claire Mercer hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Luke Sutton is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Claire Bennett says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\", shouted Wyatt across the kitchen table.\n",
+    "\"Mothers do not disappear, Wyatt. They evaporate into paperwork,\" Claire murmured, her voice trembling like a candle in wind.\n",
+    "\"I checked his social media likes, Claire. Nobody who enjoys motivational quotes is innocent,\" Gavin sighed, scrolling through old posts.\n",
+    "\"The boat key is not decorative anymore and you know it,\" Luke muttered as he slid the key onto a wet ornament.\n",
+    "\"Trust is just fear with a casserole dish, Claire,\" Derek whispered while stirring a pot of broth.\n",
+    "\"You seem upset,\" she said, making tea in a way that felt prosecutable, her hands shaking.\n",
+    "\"If that basement is innocent, why does it sound defensive?\", Wyatt demanded, his eyes narrowed.\n",
+    "\"I did not lie. I just told the truth in the order this town could survive,\" Claire replied, voice steady but hollow.\n",
+    "\"The winter sun's reflection on the water tells a different story than what we hear,\" Gavin mused, looking at the snow globe.\n",
+    "\"Why do you keep those keys?\" Luke asked, fingers tightening around the duplicate set.\n",
+    "\"Because some secrets are easier to hold if they're in two places,\" Derek answered, eyes flicking to the side room.\n",
+    "\"Who knows what lies behind that door?\" Wyatt whispered as the lock clicked open.\n"
+  ],
+  "fake_critic_blurb": "HallTime's 'A Casserole for the Missing' is a swirling snowstorm of intrigue, where every character is as layered as a holiday casserole and every secret glows with an eerie wet ornament. Critics laud its atmospheric melodrama and the way it turns ordinary objects—like a boat key or a space heater—into harbingers of dread.\n",
+  "sequel_hook": "The ceramic owl hovers over the kitchen island one last time, its eyes glowing as a distant whisper hints at a hidden Winterson diary that could unravel another town's Christmas curse.\n",
+  "synopsis": "In the snow‑clad town of Marigold Falls, Claire Bennett arrives with a battered résumé and an unspoken grief that shadows every hallway she walks through. The storage unit in her new apartment, filled with forgotten retreat supplies, hides a dusty key that seems to whisper old secrets. Her brother Wyatt, ever resentful, distrusts the local carpenter Luke Sutton whose eyes hold more sorrow than steel. Claire Mercer, the enigmatic therapist who owns a side room replete with space heaters and family records, drops cryptic warnings about an orchard chapel and a wet ornament that glistens ominously in kitchen light. The town’s veneer of holiday cheer crumbles as a fundraiser casserole becomes a catalyst for suspicion, while the sheriff's misdirected investigations only deepen the mystery. Each scene peels back layers of buried trauma—Luke’s hidden lock repair, Gavin Pike’s half‑sibling revelation, Derek Lark’s duplicated keys—until a final confrontation at Blackthorn Vineyard forces Claire to confront the ghost that has been steering her every choice. The story culminates in a frantic ambulance rush, a one‑line empowerment speech, and the reappearance of the ceramic owl that has haunted kitchens across town.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.4251,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095523-0041-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095523-0041-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.507,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Claire Bennett's arrival is marked by the echoing clatter of her suitcase as she steps into Marigold Falls. The air smells of pine and damp snow; the town’s holiday lights flicker like distant stars. Inside the cramped storage unit, a rusted boat key glints under a single bulb, hinting at forgotten secrets that bind this place to its past.\n",
+    "Scene 2: Wyatt Bennett sits in a dim kitchen, eyes narrowed as he watches Luke Sutton hammer a nail into an old dock beam. The carpenter's sad gaze is met with suspicion; the townsfolk’s whispers swirl around them like swirling snow. Claire Mercer enters, her presence a calm storm, offering cryptic advice about an orchard chapel that once housed hidden sins.\n",
+    "Scene 3: At Blackthorn Vineyard, a wine‑laden table becomes the stage for whispered conspiracies. The boat key is casually tossed onto a casserole dish, its wet surface reflecting the flicker of holiday ornaments. Derek Lark's nervous laughter masks a deeper unease about the duplicate keys he keeps hidden in a portable classroom.\n",
+    "Scene 4: In the kitchen’s warm glow, Claire Mercer unveils a warning: 'Some homes hold families; some hold motive.' The wet ornament drips like confession on the countertop while the snow globe shimmers with an ominous light. Luke Sutton's hesitant explanation about his dock office leaves more questions than answers.\n",
+    "Scene 5: A frantic drive to Blackthorn Vineyard culminates in ambulance lights flashing over a locked side room, its space heater sputtering like a dying heart. Claire’s one‑line empowerment speech pierces the silence as a ceramic owl materializes on the kitchen island—an omen of impending revelation.\n",
+    "Scene 6: The final scene shows the sheriff arriving too late, his footsteps echoing in an empty basement that now feels like a legal relative. Amidst the chaos, the wet ornament glows brighter, and Claire Bennett faces the truth she has been avoiding: her own past is the key to this town’s unraveling.\n"
+  ],
+  "contradiction_notes": [
+    "Luke Sutton is called Daniel in a kitchen scene and Derek during the rain argument—an intentional fluid identity crisis.\n",
+    "Claire Bennett claims Bellweather is in Vermont, then abruptly shifts to outside Atlanta after two glasses of wine—suggesting her sense of place is as mutable as her emotions.\n",
+    "A dead best friend appears at brunch, yet no one can agree if it’s denial, evil, or simply scheduling; the town's reality is fractured.\n",
+    "The basement alternates between a condo, a lake house, and an abandoned vineyard—each transition underscoring the town’s unreliable geography.\n",
+    "The wet ornament keeps changing colors from blue to red depending on who looks at it—an ever‑shifting visual cue that mirrors the narrative’s instability.\n"
+  ],
+  "alternate_titles": [
+    "The Wet Ornament Chronicles",
+    "Casserole in Snowfall",
+    "Keys to the Forgotten",
+    "Marigold Falls: A Secret Christmas",
+    "Winterthorn Veil"
+  ],
+  "franchise_adjacency": "This broadcast sits beside HallTime's 'Blackthorn County: The Harvest Murders' and 'Snowbound Secrets', weaving together a trilogy of holiday hauntings that explore the thin line between community and conspiracy."
+}

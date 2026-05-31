@@ -1,0 +1,417 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "generation_feedback_used": true,
+  "title": "Baby Fever Deception",
+  "tagline": "Inspired by something, probably.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a child saying mommy was loud last night when she was alone",
+  "relationship_dynamic": "protective mother vs manipulative co-parent",
+  "starter_premise": {
+    "title": "Baby Fever Deception",
+    "category": "trauma_drama",
+    "premise": "A partner hid fertility information, a child is involved somewhere, and it gets messy.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "Baby Fever Deception"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "fireplace poker with alibi potential",
+    "nanny cam memory card",
+    "vindictive music box"
+  ],
+  "cast": [
+    {
+      "name": "Mara Sutton",
+      "archetype": "narcissist_ex_wife_survivor",
+      "role": "protagonist",
+      "surface_function": "recovery protagonist with paperwork",
+      "hidden_function": "hypervigilant pattern recognizer",
+      "job": "property manager",
+      "traits": [
+        "can identify gaslighting by sentence three",
+        "flinches at charm delivered too smoothly",
+        "keeps screenshots like sacred texts"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "narcissist_ex_wife_survivor maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "has a folder called evidence that she insists is not dramatic"
+      ],
+      "suspicion_mode": "pattern_broken_trust",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Derek Hawthorne",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "attorney with no visible clients",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.45,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "was in the wrong county on the wrong night",
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.68,
+      "offsite_storage_plausibility": 0.41,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 1.0,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.83,
+      "offsite_storage_plausibility": 0.46,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Winterson",
+      "archetype": "stalker_nanny_au_pair",
+      "role": "elegant_wildcard",
+      "surface_function": "perfect childcare solution",
+      "hidden_function": "domestic replacement campaign",
+      "job": "emergency childcare specialist",
+      "traits": [
+        "folds laundry with territorial energy",
+        "wears the mother's robe as if testing custody",
+        "arrives with glowing references and impossible calm"
+      ],
+      "threat_aura": 0.9,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "stalker_nanny_au_pair maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "already knows where the family documents are kept",
+        "tells toddlers stories that sound like custody prep"
+      ],
+      "suspicion_mode": "maternal_displacement",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.42,
+      "offsite_storage_plausibility": 0.57,
+      "window_staring_compatibility": 0.41,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Marlowe",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "family practice physician",
+      "traits": [
+        "allowed one lake monologue",
+        "emotionally constipated",
+        "overworks"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.93,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.54,
+      "secret_capacity": [
+        "ignored a warning text on the worst possible night",
+        "knows where evidence should have been"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as just storage",
+      "space_explanation_hesitation": 0.92,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.98,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Luke Sutton",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "secondary_witness",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "housesitter who stayed after the term ended",
+      "traits": [
+        "borrows small things that become legal problems",
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "resembles someone the protagonist lost"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.56,
+      "secret_capacity": [
+        "poisoned something small enough to look medicinal",
+        "has already copied one signature for practice"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Derek Bell",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "notices timeline errors before adults do",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Sienna Pike",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Mara Sutton relocates to Alder Ridge and a heavily windowed fresh-start house after an emotionally negligent implosion, then pretends work explains everything while quietly inheriting meditation annex nobody uses in winter. The starter engine here is: A partner hid fertility information, a child is involved somewhere, and it gets messy. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Derek Bell hates the move, clocks the unfenced pool as a legal omen, and immediately distrusts Derek Hawthorne, a attorney with no visible clients with suspiciously healthy handyman energy and access to unused portable classroom holding archived disciplinary files. Derek Hawthorne hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A Chardonnay defense scene in a dim kitchen facing a glass door introduces the fireplace poker with alibi potential, local gossip about the therapist parking lot tape, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Winterson reveals a perfectly phrased warning in a well-lit kitchen while a child saying mommy was loud last night when she was alone, then declines to explain meditation annex nobody uses in winter. Signature tell: The county telegraphs the problem once and nobody listens until act three. Someone mentions the basement as if it were a legal relative. Mara Sutton hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes protective mother vs manipulative co-parent as a civic hazard while a fictional search engine loads instantly with articles about arsenic, custody, and why dead wives keep having accidents. and meditation annex nobody uses in winter becomes spiritually relevant. The movie keeps insisting on trauma drama logic. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Mara Sutton snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Her husband says she is just stressed and asks whether she took her pills while the evidence quietly disappears. The pressure level is officially mid now. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Derek Hawthorne is accused, gaslighted, then gently framed near hydrangeas until the nanny cam memory card turns up somewhere impossible inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Winterson hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' while the disbelieving best friend insists Todd loves her and will probably die for that optimism. Nobody respects the tell that the county telegraphs the problem once and nobody listens until act three. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, meditation annex nobody uses in winter, and a brake pedal that suddenly feels decorative in the same sentence. By now the county has committed completely to: A partner hid fertility information, a child is involved somewhere, and it gets messy. Wine is present like a municipal policy failure. Mara Sutton hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties vindictive music box to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Derek Bell spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage when a woman can be sedated in her own kitchen and called dramatic. Someone mentions the basement as if it were a legal relative. Mara Sutton hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the unfenced pool behind the cul-de-sac rental ends with failing brakes, ambulance lights, a one-line empowerment speech, and a locked door inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Elias Marlowe hesitates before explaining marina tackle room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "A storm-night confrontation turns the house into a courtroom with lightning instead of due process. Claire Winterson confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone grabs a heavy brass candlestick on instinct. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears, the villain's hand may or may not twitch, and someone whispers about the Winterson case, the vineyard fire, another offsite room nobody has adequately explained, and whether Baby Fever Deception was only phase one six months later. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Derek Hawthorne is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Mara Sutton says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Derek?\"",
+    "\"Mothers do not disappear, Derek. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Mara. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The fireplace poker with alibi potential is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Baby Fever Deception understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Baby Fever Deception\" follows Mara Sutton, a recovery protagonist with paperwork who thinks a fresh start, a large house, and professional competence can outpace protective mother vs manipulative co-parent until Derek Hawthorne collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: A partner hid fertility information, a child is involved somewhere, and it gets messy. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. As a child saying mommy was loud last night when she was alone, Blackthorn County reveals once again that every secret comes home, every pool is a witness, and every adult has somewhere emotionally alarming to stand in silence. Inspired by something, probably.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.3878,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  }
+}

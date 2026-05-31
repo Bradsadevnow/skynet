@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Every town has a basement.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "secret half sibling",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "casserole dish",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Evelyn Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.22,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.88,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Marlowe",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "accused at least once",
+        "owns flannel",
+        "fixes docks"
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.46,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.93,
+      "offsite_storage_plausibility": 0.57,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Winterson",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.64,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as just storage",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Vale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.87,
+      "domestic_plausibility": 0.5,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.67,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.61,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Pruitt",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "vineyard groundskeeper",
+      "traits": [
+        "fixes docks",
+        "unexpectedly good with children",
+        "accused at least once"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.75,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.94,
+      "offsite_storage_plausibility": 0.82,
+      "window_staring_compatibility": 0.77,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Bennett",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "usually holding wine",
+        "says \"I know what I saw\"",
+        "always investigating"
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.42,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Marlowe",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Jenna Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "definitely has rain-scene potential",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Evelyn Winterson relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Jenna Marlowe hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Rachel Marlowe hates the move and immediately distrusts Jenna Marlowe, a widowed boat mechanic with suspiciously healthy handyman energy and access to dock office with a desk nobody fully claims. Daniel Bennett hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the boat key, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Jenna Vale reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain side room with a space heater and old family records. Someone mentions the basement as if it were a legal relative. Evelyn Winterson hesitates before explaining marina tackle room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes secret half sibling as a civic hazard and makes storage unit described as paperwork I have not gone through yet feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Evelyn Winterson snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside storage unit described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring storage unit described as paperwork I have not gone through yet. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Jenna Marlowe is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through storage unit described as paperwork I have not gone through yet instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Rachel Marlowe spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Jenna Vale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of dock office with a desk nobody fully claims. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Jenna Marlowe is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Evelyn Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Jenna?\"",
+    "\"Mothers do not disappear, Rachel. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Evelyn. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Jenna.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The kitchen light flickers again—like a heartbeat of secrets.\"",
+    "\"Every time you open that drawer, the water runs faster than the law.\"",
+    "\"Her silence is louder than any verdict.\"",
+    "\"The orchard chapel’s closure was not a decision—it was an accusation.\"",
+    "\"When we close the basement door, we close our own mouths too.\"",
+    "\"Some homes hold families. Some hold motive—under that same roof.\""
+  ],
+  "fake_critic_blurb": "\"HallTime’s latest original is a swirling vortex of wine‑kissed dread and municipal policy failure. The story lingers like a static‑laden phone, refusing to let you unhook from its twisted basements of truth.\"",
+  "sequel_hook": "When the ceramic owl finally flies off the kitchen island, it drops a cryptic key that points toward a forgotten cellar beneath St. Agnes Regional—where a new mystery waits to be unearthed.",
+  "synopsis": "In the rain‑streaked heart of Blackthorn County, Evelyn Winterson’s move to Alder Ridge is less a fresh start than a carefully orchestrated return. The lawyer hides her own history behind paperwork she never opens, while the town whispers about basements that double as legal liminalities. Jenna Marlowe, widowed boat mechanic with a scarred dock office, and Jenna Vale, gallery owner with an uncanny knowledge of orchard closures, weave through a web of half‑siblings, casserole dishes, and blood‑adjacent tea towels. Every scene is saturated with municipal policy failures—wine pouring like guilt—and every phone vibration echoes static that seems to whisper Evelyn’s own name. The story crescendos into a frantic drive toward Channel 8, where ambulance lights slice through the night and an empowered one‑liner cracks the town’s façade. Yet even as secrets spill from locked side rooms and the basement lights flicker, the truth remains shrouded in ambiguity: is the basil of family merely a legal relative or a civic hazard? HallTime’s melodrama leaves viewers trembling, craving more.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4094,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-110208-0259-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-110208-0259-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.328,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Evelyn stepping into Alder Ridge under a gray sky that feels like an overcast confession. She clutches a cracked wine bottle as if it were evidence, and the storage unit—paperwork she never opens—shadows her footsteps. Jenna Marlowe hesitates at the dock office, the desk untouched by anyone’s claim, while the wind carries the distant echo of static on her phone. The emotional exposition swells with an insanity multiplier that feels like a heartbeat in syncopation.",
+    "In Scene 2, Rachel Marlowe’s disdain for the new town surfaces like a sudden storm. She confronts Jenna, accusing her of being a “widowed boat mechanic” who hides too much beneath a healthy handyman façade. Daniel Bennett’s trembling voice about a storm shelter from before a divorce adds layers of suspicion, and an ominous vibration from inside a wall cuts through the air, tightening the web of secrets.",
+    "Scene 3 unfurls in the vineyard’s wine‑laden tavern, where a boat key lies beside gossip about Winterson’s case. The locals murmur that every basement is a legal relative, a phrase that feels like a curse. Wine drips like municipal failure from glass to table, and the atmosphere thickens with the weight of hidden truths.",
+    "Scene 4 features Jenna Vale in a well‑lit kitchen, her warning as crisp as an elegant sentence. Phone static hisses her name while she refuses to explain the side room’s space heater and old family records. Evelyn hesitates near a marina tackle room that feels more like storage than sanctuary; the basement whispers again.",
+    "Scene 5 takes us to a cliffside where the emotional exposition reframes half‑siblings as civic hazards. The storage unit becomes spiritually relevant, its paperwork an altar for unanswered questions. Wine’s presence lingers as if it were a municipal policy failure, and the basement remains a legal relative, ever enigmatic.",
+    "The final scene of Act 3 shows a frantic drive toward Channel 8 Night Report, where ambulance lights flash like heartbeats. A single line of empowerment cuts through the noise, while a locked door in the side room with a space heater hides secrets that could shatter or save the town. The ceramic owl on the kitchen island is both symbol and omen, hinting at what’s to come."
+  ],
+  "contradiction_notes": [
+    "Jenna Marlowe is called Daniel in one kitchen scene and Derek during the rain argument, suggesting a fractured identity that mirrors Blackthorn’s collective memory.",
+    "Evelyn Winterson declares Bellweather as Vermont before turning it into an Atlanta suburb after two glasses of wine—her world expands faster than her legal briefs.",
+    "The dead best friend at brunch blurs reality: is death merely denial, or is the town simply scheduling its own mortality?",
+    "The basement’s ownership oscillates between a condo, a lake house, and an abandoned vineyard—each claim layering jurisdictional confusion upon narrative certainty.",
+    "When Jenna Vale confesses only enough to worsen truth, she simultaneously repairs and fractures continuity, making the audience question whether the past can be rewritten."
+  ],
+  "alternate_titles": [
+    "Midnight Bake in Blackthorn",
+    "The Basement of Basil",
+    "Evelyn’s Paperwork Purgatory",
+    "The Orchard Chapel Conspiracy",
+    "The Casserole Dilemma"
+  ],
+  "franchise_adjacency": "This broadcast sits snugly beside HallTime’s ‘Silent River’ and ‘Echoes in the Alley,’ weaving together a tapestry of Southern Gothic intrigue that promises to haunt viewers long after the credits roll."
+}

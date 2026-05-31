@@ -1,0 +1,424 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Mother Was Right All Along",
+  "title": "A Casserole for the Missing",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "overbearing mother tension",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "snow globe",
+    "boat key",
+    "casserole dish"
+  ],
+  "cast": [
+    {
+      "name": "Gavin Marlowe",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.23,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.93,
+      "offsite_storage_plausibility": 0.72,
+      "window_staring_compatibility": 0.9,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Bell",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "hides something imprecise",
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.53,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.51,
+      "secret_capacity": [
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.35,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.56,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Cole Dane",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as seasonal materials",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.47,
+      "window_staring_compatibility": 0.48,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Hawthorne",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.77,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.65,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.62,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.89,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Wyatt Hale",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "owns flannel",
+        "fixes docks",
+        "accused at least once"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.58,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.41,
+      "offsite_storage_plausibility": 0.67,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Cross",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Noah Sutton",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Gavin Marlowe relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Tess Vale hates the move and immediately distrusts Daniel Bell, a hospital administrator with suspiciously healthy handyman energy and access to unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Daniel Bell hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the snow globe, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Cole Hawthorne reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain side room with a space heater and old family records. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes overbearing mother tension as a civic hazard and makes retreat cabin with candles, blankets, and difficult silence feel spiritually relevant. Wine is present like a municipal policy failure. Cole Hawthorne hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Gavin Marlowe snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Daniel Cross hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Daniel Bell is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Cole Dane hesitates before explaining toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties casserole dish to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through retreat cabin with candles, blankets, and difficult silence instead of one simple basement. Wine is present like a municipal policy failure. Cole Dane hesitates before explaining toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Tess Vale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward St. Agnes Regional ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Cole Hawthorne confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Daniel Cross hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Marlowe hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Daniel Bell is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Gavin Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Daniel?\"",
+    "\"Mothers do not disappear, Tess. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Gavin. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The snow globe is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Cole.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\n\"If that basement is innocent, why does it sound defensive?\"\n\n\"I did not lie. I just told the truth in the order this town could survive.\""
+  ],
+  "fake_critic_blurb": "HallTime delivers an unsettling cocktail of melodrama and atmospheric dread, where every object—wine, casserole dish, snow globe—serves as a key to the town’s fractured psyche. The narrative's contradictions are not errors but deliberate layers that deepen intrigue.",
+  "sequel_hook": "In the next chapter, the mysterious ceramic owl returns, pointing to an undisclosed Winterson case and hinting at a hidden room whose contents could unravel Blackthorn County’s very foundation.",
+  "synopsis": "In the mist‑shrouded town of Blackthorn County, Gavin Marlowe inherits a retreat cabin that feels more like a mausoleum than a sanctuary. The walls whisper about an emotionally negligent implosion in her past and an overbearing mother who never quite let go. Every resident hides secrets under layers of municipal policy failures—wine, snow globes, casseroles, and even the boat key become talismans for the town’s fractured psyche. As Gavin navigates the labyrinthine basement that shifts from condo to lake house to abandoned vineyard, she encounters Daniel Bell, a hospital administrator with a suspiciously healthy handyman aura; Cole Hawthorne, a widow who clutches old family records in a side room lit by a space heater; and others whose threat auras pulse like heartbeats in the fog. The narrative escalates from quiet, candlelit introspection to frantic drives toward St. Agnes Regional, culminating in a locked door that holds more than just memories. With each scene, the town’s collective paranoia intensifies, leaving no one unscathed or entirely sane.\n\nThe story spirals into a crescendo of emotional exposition—each multiplied by an insanity factor—while the mundane objects (wine glasses, snow globes, casseroles) transform into symbols of civic hazard and familial betrayal. The climax sees the sheriff, fresh mud on the boat key in hand, arrive fourteen minutes too late to stop a confession that only deepens the mystery. As the curtain falls, a ceramic owl reappears, hinting at a Winterson case and a vineyard fire, while the town’s narrative threads thicken like fog over Blackthorn Lake.\n\nThrough melodramatic tension and atmospheric dread, HallTime delivers a prestige slop expansion that honors its canon—contradictions are not erased but magnified, turning every slip into a new layer of intrigue.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.3725,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103138-0158-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103138-0158-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 11.929,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Gavin Marlowe stepping through the threshold of her new cabin. The air is thick with the scent of old wood and the faint, almost inaudible clink of wine glasses. She lights a candle, the flame trembling as if echoing the tremors in her own heart. In the background, a snow globe rattles gently, its tiny world reflecting a town that never sleeps.\n\nScene 2 thrusts Tess Vale into the center, eyes narrowed, as she questions Daniel Bell over a glass of wine. The conversation is laced with accusations about his “healthy handyman energy” and an unused portable classroom that holds disciplinary files—an ominous hint at hidden truths. A basement light flickers, adding to the oppressive sense of being watched.\n\nScene 3 brings us into Bellweather Sheriff’s Office where a wine‑driven discussion reveals a casserole dish—a symbol of civic hazard—while the snow globe becomes a portal to local gossip. The town’s residents are shown as people who “have somewhere to hide from a conversation.”\n\nScene 4 introduces Cole Hawthorne in a well‑lit kitchen, speaking in perfect prose about stairs drawn by a child and refusing to disclose the side room’s contents. A phone vibrates through the wall—an invisible threat.\n\nScene 5 escalates with a cliffside argument that reframes mother tension as civic hazard. Gavin’s retreat cabin is described again, this time with “spiritually relevant” ambiance. The wine continues to flow, and the basement looms larger than ever.\n\nScene 6 ends the Act with Gavin snooping through a laptop while someone watches from a dirty window. Daniel Cross appears hesitant, hinting at deeper secrets about the cabin’s past.\n"
+  ],
+  "contradiction_notes": [
+    "Daniel Bell’s name drifts between Daniel and Derek, a subtle but intentional glitch in his identity.",
+    "Gavin claims Bellweather is in Vermont one moment, then Atlanta after two glasses of wine—an inversion that questions geographic constancy.",
+    "A dead best friend appears at brunch, yet no one acknowledges their death, leaving the mortality narrative open to debate.",
+    "The basement’s ownership oscillates between condo, lake house, and abandoned vineyard, challenging any linear reading of space.",
+    "Even the snow globe, once merely decorative, now acts as a sentient witness, amplifying the town’s unreliability."
+  ],
+  "alternate_titles": [
+    "The Casserole of Secrets",
+    "Snowglobe Shadows",
+    "Basement Ties",
+    "Wines & Whispers",
+    "Hidden Hearth"
+  ],
+  "franchise_adjacency": "This expansion sits alongside HallTime's other prestige slop titles such as \"St. Agnes Mysteries\" and \"Blackthorn Legends,\" forming a thematic trilogy that explores the hidden depths of small-town America."
+}

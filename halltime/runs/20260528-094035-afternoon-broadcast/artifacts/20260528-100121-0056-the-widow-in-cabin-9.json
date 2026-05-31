@@ -1,0 +1,433 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "overbearing mother tension",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "blood-adjacent tea towel",
+    "unopened letter",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Gavin Marlowe",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.18,
+      "domestic_plausibility": 0.92,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as seasonal materials",
+      "space_explanation_hesitation": 0.35,
+      "offsite_storage_plausibility": 0.88,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Bell",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "sighs heavily",
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue"
+      ],
+      "threat_aura": 0.28,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.5,
+      "secret_capacity": [
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.36,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Wyatt Lark",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Cross",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "weaponized stillness",
+        "sustained eye contact",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.73,
+      "domestic_plausibility": 0.53,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.65,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.82,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Wyatt Bell",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "family practice physician",
+      "traits": [
+        "overworks",
+        "allowed one lake monologue",
+        "emotionally constipated"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "covered for someone out of shame",
+        "knows where evidence should have been"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.53,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Vale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "often wrong but directionally vital",
+        "says \"I know what I saw\"",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.51,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Brooke Marlowe",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Luke Winterson",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Gavin Marlowe relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting toolshed described as seasonal materials. Wine is present like a municipal policy failure. Wyatt Lark hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Brooke Marlowe hates the move and immediately distrusts Mara Bell, a financial advisor with suspiciously healthy handyman energy and access to unused portable classroom holding archived disciplinary files. Gavin Vale hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at St. Agnes Regional introduces the blood-adjacent tea towel, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Cross reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes overbearing mother tension as a civic hazard and makes toolshed described as seasonal materials feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Gavin Marlowe snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside toolshed described as seasonal materials. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Marlowe hesitates before explaining toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Mara Bell is accused, gaslighted, then gently framed near hydrangeas until the unopened letter turns up somewhere impossible inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Gavin Cross hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and unused portable classroom holding archived disciplinary files in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties snow globe to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as seasonal materials instead of one simple basement. Wine is present like a municipal policy failure. Gavin Vale hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Brooke Marlowe spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Cross confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of unused portable classroom holding archived disciplinary files. Wyatt Bell hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Mara Bell is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Gavin Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\"",
+    "\"Mothers do not disappear, Brooke. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Gavin. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The blood‑adjacent tea towel is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The orchard chapel was shut because of a fire—my fault.\"",
+    "\"Why do we keep pretending the basement belongs to anyone?\"",
+    "\"I’ve heard that you’re hiding something in that classroom, Mara.\"",
+    "\"Everything is a question until it becomes an answer—like the snow globe.\n",
+    "\"They say the town’s wine policy failed. I say it failed because no one cared.\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest expansion turns Blackthorn County into a carnival of dread and melodrama, where every whispered secret feels like a thunderclap. The narrative is rich in atmospheric detail yet deliberately leaves gaps that invite the audience to fill in their own horror—an unsettling strategy that keeps viewers glued to the screen.\n",
+  "sequel_hook": "When the winter sun rises over the ruined vineyard, an old ceramic owl appears on the porch of the abandoned farmhouse, and a new mystery beckons: Who planted the seed that will grow into a second blaze?\n",
+  "synopsis": "In the winter‑bleached shadows of Winter Hollow, Gavin Marlowe arrives with a hollowed heart and an architect’s precision, intent on rebuilding her life around a toolshed that feels more like a tomb than a workshop. The town is saturated with whispers—blood‑adjacent tea towels, unopened letters, a snow globe that shivers in the attic of Blackthorn Vineyard—and every resident harbors secrets thick as fog. Mara Bell, the financial advisor with a hand‑on approach to danger, moves into an unused portable classroom, and his presence thins the air with suspicion. Wyatt Lark, once her best friend now a real‑estate agent, watches from a side room where old family records mingle with heat. The widow Gavin Cross enters with the weight of an orchard chapel’s closure; her elegant aura masks an arsenal of documents that should have been burned. As the plot thickens, each character's threat aura rises in tandem with their concealed motives, turning mundane objects into harbingers of dread. With every scene, the town’s municipal policies on wine and policy failure echo like a mantra, while basement lights flicker at ominous intervals. The narrative escalates from suburban melodrama to gothic tragedy, culminating in an ambiguous climax that leaves readers questioning whether truth can survive a county where silence is merely fear wearing cashmere.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.3487,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-100121-0056-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-100121-0056-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.545,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Gavin’s first night in the toolshed is lit only by a single flickering bulb and the soft hiss of her own heartbeat. The wind whips through the windows, carrying with it the scent of old wood and wine‑spilled memories. She drifts to the kitchen, where a blood‑adjacent tea towel clings to the counter like a secret. Wyatt Lark hesitates at the doorway, clutching a space heater that emits a low, steady hum. Their conversation is thin as frost, each word weighted with unspoken guilt. The basement door groans as if it too wishes to stay hidden, and the first emotional exposition arrives with an insanity multiplier of 1.00.\n\nScene 2: Morning light bleaches the floorboards as Brooke Marlowe storms in, her frustration boiling over into a sharp glare at Mara Bell. The financial advisor's office—a portable classroom full of disciplinary files—stands like a mausoleum of misplaced trust. Gavin Vale lurks in the shadows, his podcaster’s recorder humming faintly. A phone vibrates inside an unmarked wall, sending ripples through the tense atmosphere. As wine pours into glasses, the townsfolk murmur about a Christmas pageant incident, each tale more tangled than the last. The emotional exposition rises to 1.07.\n\nScene 3: At St. Agnes Regional, the wine is poured with reckless abandon, mirroring municipal policy failures that the town never acknowledges. A child’s drawing of stairs appears on the wall, hinting at a staircase to hidden rooms. A basement is mentioned as if it were a legal relative, and the air grows thicker. The emotional exposition climbs to 1.14, each breath a small explosion.\n\nScene 4: Gavin Cross enters the well‑lit kitchen with a warning that slips between the cracks of her past. She speaks of an orchard chapel closed for reasons only she knows, her voice trembling like glass in a storm. The portable classroom's archival files stare back at her; no one can explain why it holds so much weight. A ghostly figure, supposedly dead, appears at brunch—an omen that the town’s secrets are not easily buried.\n\nScene 5: On the cliffside, the wind howls like a banshee, and Gavin’s thoughts spiral into civic hazard. The toolshed feels alive with spiritual relevance, as if the very walls hold her own destiny. Wine continues to flow, mirroring policy failures that refuse to stay hidden. Basement lights flicker again, a reminder that nothing is truly forgotten. The emotional exposition peaks at 1.31.\n\nScene 6: Late at night, Gavin discovers a locked box behind seasonal supplies in the toolshed—a Pandora’s chest of truth. She feels an unshakable certainty, even though the laptop shows nothing concrete. The basement whispers its own secrets as she hesitates to leave the toolshed. The wine remains ever-present, and the emotional exposition reaches 1.40, each word a thread pulling her deeper into darkness."
+  ],
+  "contradiction_notes": [
+    "Mara Bell’s identity slips from Daniel to Derek mid‑scene, as if her soul were a mutable code rather than a fixed name.",
+    "Gavin Marlowe’s geography jumps between Vermont and Atlanta with a single glass of wine—perhaps a metaphor for the town’s fractured reality.",
+    "The dead best friend appears at brunch yet no one accepts death, turning mortality into an ongoing charade.",
+    "The basement’s ownership oscillates among condo, lake house, vineyard, each claim more absurd than the last.",
+    "Each contradiction is not a flaw but a chorus of the county’s dissonant truth, echoing louder with every reveal."
+  ],
+  "alternate_titles": [
+    "The Widow in Cabin Nine",
+    "Blood‑Towel Blues",
+    "Basement Betrayal",
+    "Winter Hollow Whispers",
+    "Murder at Marigold Falls"
+  ],
+  "franchise_adjacency": "This episode sits comfortably beside HallTime’s other Blackthorn County dramas—particularly 'St. Agnes Secrets' and 'The Orchard Chapel Conspiracy'—where municipal policy failures, hidden basements, and wine‑filled rooms form a shared thematic tapestry."
+}

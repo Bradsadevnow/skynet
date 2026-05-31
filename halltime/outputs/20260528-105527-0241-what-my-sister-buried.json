@@ -1,0 +1,434 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "What My Sister Buried",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "suspiciously healthy handyman friendship",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "blood-adjacent tea towel",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Derek Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.2,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as just storage",
+      "space_explanation_hesitation": 0.5,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.82,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Pruitt",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "makes tea incorrectly",
+        "says \"You seem upset\"",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.93,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as seasonal materials",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.9,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.5,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.86,
+      "offsite_storage_plausibility": 0.46,
+      "window_staring_compatibility": 0.52,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Noah Sutton",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.57,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.89,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Pruitt",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "hardware store owner",
+      "traits": [
+        "emotionally constipated",
+        "allowed one lake monologue",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.75,
+      "secret_capacity": [
+        "knows where evidence should have been"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as just storage",
+      "space_explanation_hesitation": 0.79,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.73,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Sutton",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "says \"I know what I saw\"",
+        "usually holding wine",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.5,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Sienna Hale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Mara Marlowe",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Derek Winterson relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old family office described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Sienna Hale hates the move and immediately distrusts Claire Pruitt, a artisan developer with suspiciously healthy handyman energy and access to toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.07. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Channel 8 Night Report introduces the ceramic owl, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Noah Sutton reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes suspiciously healthy handyman friendship as a civic hazard and makes toolshed described as seasonal materials feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Derek Winterson snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside old family office described as just storage. Wine is present like a municipal policy failure. Claire Pike hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Claire Pruitt is accused, gaslighted, then gently framed near hydrangeas until the blood-adjacent tea towel turns up somewhere impossible inside toolshed described as seasonal materials. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Derek Winterson hesitates before explaining old family office described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and retreat cabin with candles, blankets, and difficult silence in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Pruitt hesitates before explaining toolshed described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as seasonal materials instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Sienna Hale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Derek Winterson hesitates before explaining old family office described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward St. Agnes Regional ends with ambulance lights, a one-line empowerment speech, and a locked door inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Noah Sutton confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of toolshed described as seasonal materials. Claire Pike hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Claire Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Derek Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Claire?\"",
+    "\"Mothers do not disappear, Sienna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Derek. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Noah.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The wind outside carries your secrets, Derek. Do you hear them?\"",
+    "\"We have a festival of lies, and the owl keeps the record.\"",
+    "\"You always hide in the toolshed; it's the only place that feels honest.\"",
+    "\"The key is not for a boat but for the heart of Blackthorn County.\"",
+    "\"Remember, every bottle of wine we pour tonight seals another confession.\"",
+    "\"Whoever owns the basement—what does it really hold?\"\n"
+  ],
+  "fake_critic_blurb": "HallTime’s latest opus drapes the ordinary with an unsettling sheen of melancholy. The ceramic owl glides across scenes as both symbol and witness—an ever‑watching eye that makes you question what is truly hidden beneath the town’s festive veneer. Critics applaud the film’s audacious use of static and municipal wine policies to mirror the community’s fractured conscience.\n",
+  "sequel_hook": "When Derek opens a forgotten chest in the old family office, she discovers a map that points to a buried treasure under Blackthorn's oldest church—could it be the key to unravelling the town’s darkest secret? The next chapter promises more fire, wine, and whispers from the past.\n",
+  "synopsis": "When Derek Winterson arrives in Marigold Falls, the town’s Christmas lights flicker like uneasy whispers beneath a thick blanket of snow. She inherits an old family office that is merely storage—a repository of secrets wrapped in dust and wine bottles. The ceramic owl watches from the kitchen island, its porcelain eyes reflecting the cold glow of holiday candles. Meanwhile, Claire Pruitt, the artisan developer with a healthy handyman vibe, hides a second phone behind seasonal tools; her alibi rehearsed to perfection. Noah Sutton, gallery owner, knows why the orchard chapel was shut—she carries knowledge like a lantern in the dark. As tensions rise, static whispers her name on the telephone, and a boat key turns into an omen that might burn the town’s soul. Amidst canned casseroles, municipal wine policies, and whispered curses, the characters navigate suspicion as if it were a weather forecast, each moment simmering toward a climax that threatens to ignite Blackthorn County’s heart.\n\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.3928,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-105527-0241-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-105527-0241-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.74,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "In Act 1 Scene 4, Derek crouches by an antique radio, listening to static crackle—her name echoing like a dying bell. The kitchen lights flicker as the ceramic owl tilts its head toward the wall. Noah steps in, his voice soft but laced with warning, and places a weathered key on the table. He explains that Blackthorn Vineyard's last harvest was a fire—an ember that still smolders in their collective memory. Derek’s laptop screen glows; she scrolls through archived files, each page an unspoken confession of her family’s hidden sins. The cellar below pulses with a low hum, as if the ground itself is breathing under the town’s quiet Christmas cheer.\n\nThe scene shifts to Scene 6 in Act 2 where Derek’s fingers trace over the ceramic owl’s painted face. Her mind races—does this artifact hold a curse or merely echo a family trauma? Claire Pike lingers in the retreat cabin, her blankets whispering like secrets about half-siblings, and she watches Derek with suspicion, her eyes flickering between the owl and the wine bottle that now seems a municipal policy failure.\n\nAct 2 Scene 8 bursts into a staccato rhythm of accusations. The town’s fundraiser turns to chaos when Claire Pruitt is framed beside hydrangeas; a blood‑adjacent tea towel appears in the toolshed, its red stain impossible without an explanation. Derek’s phone vibrates from inside the wall—static growing louder. She feels the weight of a town that never forgets, only redecorates its scars.\n\nScene 10 of Act 2 escalates into a rain‑slick argument, where distributed secrecy infrastructure is as dense as the fog. The old orchard chapel and retreat cabin are mentioned in the same breath; the line between truth and myth blurs like wet paint on a freshly iced cake. Derek’s hesitation becomes palpable—she holds the boat key that could unlock the town’s darkest secret.\n\nAct 3 Scene 13 is a frantic sprint toward St. Agnes Regional, ambulance lights flashing across the snow‑blanketed streets. The door to the retreat cabin with candles and blankets swings shut; a single line of empowerment speech pierces the silence—\"We are more than our secrets.\" Derek, surrounded by the smell of coffee and burnt sugar, watches the sheriff's muddy boots disappear into the night.\n\nThe final scene of Act 3 sees Noah confessing just enough to worsen the truth. The sheriff arrives fourteen minutes late, a fact that echoes through the town’s collective guilt. The toolshed, once a place of seasonal materials, becomes an altar of doubts; the ceramic owl sits on its island, eyes gleaming like a lantern in the dark.\n"
+  ],
+  "contradiction_notes": [
+    "Claire Pruitt is called Daniel in one kitchen scene and Derek during the rain argument—a name slip that only deepens her mysterious double life.",
+    "Derek Winterson’s geography drift: Bellweather first claimed Vermont, then Atlanta after a few glasses—her compass spins as if she can’t find home.",
+    "The mortality drift: A dead best friend appears at brunch; is it denial or a ghostly reminder of the town’s hidden crimes?",
+    "Property drift: The basement is simultaneously condo, lake house, and abandoned vineyard—an impossible layering that suggests time loops.",
+    "Each inconsistency feels like a breadcrumb in a labyrinth rather than an error, inviting viewers to trace the path.\n"
+  ],
+  "alternate_titles": [
+    "The Owl of Marigold Falls",
+    "Blackthorn Winterfire",
+    "Festive Shadows",
+    "Silent Bells: A Blackthorn Tale",
+    "Echoes on the Shore"
+  ],
+  "franchise_adjacency": "This broadcast sits beside HallTime’s \"St. Agnes Mysteries\" and \"Blackthorn County: The Vineyard Murders\", forming a trilogy that unspools the town’s intertwined fates."
+}

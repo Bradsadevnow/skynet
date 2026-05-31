@@ -1,0 +1,44 @@
+{
+  "expanded_synopsis": "In Blackthorn County’s fog‑shrouded winter, Sienna Winterson, an architect haunted by a past implosion of emotion, settles into the church basement that is both retreat and ruin. The town pulses with whispered secrets: a scarf that appears at impossible moments, a ceramic owl that refuses to stay in one place, and a snow globe that holds a vineyard’s ashes. Each character carries a shard of truth—Daniel Pike’s hardware store is a front for old family office storage; Wyatt Marlowe’s gallery hides archived disciplinary files; Noah Bennett’s cabin is the quiet heart where silence screams. The narrative spirals through wine‑drunk confessions, dog barks at empty gazebos, and a sheriff who can only chase mud in time. As mistrust fizzes, overbearing mothers, abandoned basements, and misplaced mortuary rooms collide, Blackthorn’s residents learn that love lives here—so does arson. The climax shatters the town’s fragile calm with an ambulance, a locked classroom, and the return of the owl, leaving every listener wondering what fire will burn next.",
+  "scene_paragraphs": [
+    "Scene One opens in the dim glow of Sienna’s church basement, where the scent of wet stone mingles with stale wine. A scarf hangs like a cursed banner; its fabric whispers of impossible timing as if time itself is stitched into the pattern. Sienna speaks to herself about an emotional implosion that left her heart raw—she claims work explains everything, yet the silence beneath her feet screams louder than any client’s demand.",
+    "Scene Two shifts to Cole Pruitt’s narrow kitchen, where a dog barks at an empty gazebo outside, echoing the town’s unspoken fears. Daniel Pike stands by the hardware store counter, offering a handshake that feels too warm, too familiar. The sheriff glances toward a mud‑streaked boat key on the table—an omen of the hidden trails that will lead to buried secrets.",
+    "Scene Three takes us into Wyatt Marlowe’s gallery, where a perfectly phrased warning lingers over a candlelit kitchen. An unused portable classroom holds archived disciplinary files; its doors creak with past judgments. Wyatt's eyes flicker toward a ceramic owl perched on the shelf—an impossible witness that refuses to stay in one place.",
+    "Scene Four is a cliffside confession, where Sienna, Daniel, and Noah sit beneath a snow globe that drips glittering tears of wine. The water’s surface mirrors a town that loves its Christmas pageant yet hides an orchard chapel closed by silence. Each character’s threat aura rises like a storm, while the emotional exposition swells to a 1.31 multiplier.",
+    "Scene Five lands in the candlelit cellar of the Candle Finch. Sienna stumbles upon a dusty key, handwritten and rehearsed, that feels oddly familiar. The basement—now described as retreat supplies—holds more than old church relics; it contains whispers of betrayal, an overbearing mother’s tension, and a secret that only wine can dissolve.",
+    "Scene Six culminates in the ambulance lights flashing outside Wyatt’s gallery, where the ceramic owl reappears on a kitchen island. The town's silence is broken by a one‑line empowerment speech that echoes through the locked classroom doors. The climax promises more than a revelation; it offers a hook to a sequel, as the owl’s eyes seem to say, ‘this isn’t over.’"
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Daniel?\"",
+    "\"Mothers do not disappear, Cole. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Sienna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Wyatt.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The owl has been watching for years; it’s not random.\"",
+    "\"Do you remember the lake? The snow globe reflects a different light when we’re together.\"",
+    "\"There’s always something hidden under the water—mud, secrets, and memories.\"",
+    "\"The dog barked because the gazebo was empty. But that emptiness is filled by whispers.\"",
+    "\"You think I’m playing games, but this is my truth. Do you see it?\"",
+    "\"The basement’s walls are alive; they echo every lie we whisper into them.\""
+  ],
+  "contradiction_notes": [
+    "Daniel Pike’s sudden name shift to Derek during the rain argument throws a wrench in identity continuity—perhaps a secret alias or a case of mistaken memory.",
+    "Sienna’s geography drift—from Vermont to outside Atlanta after two glasses—suggests either a metaphorical journey or a town that refuses to stay grounded.",
+    "The dead best friend’s appearance at brunch sparks debate: is it denial, supernatural interference, or simply an actor left on set?",
+    "Basement ownership fluctuates between condo, lake house, and abandoned vineyard, implying the town’s infrastructure is as fluid as its gossip.",
+    "Wyatt’s refusal to explain the unused portable classroom feels like a deliberate obstruction—does he truly hide documents, or is it a performance art piece?"
+  ],
+  "fake_critic_blurb": "\"A wintery labyrinth where every character carries a secret and every object whispers truth. HallTime delivers suspense with a side of melancholic charm—if you’re looking for a mystery that’s as layered as the snow on Blackthorn Lake, this is it.\"",
+  "sequel_hook": "As the ceramic owl reappears perched atop the kitchen island, its eyes seem to promise another season of fire and revelation—will Blackthorn County finally choose between love or arson?",
+  "alternate_titles": [
+    "\"The Silent Ember of Blackthorn\"",
+    "\"A Winter’s Whispered Truth\"",
+    "\"Beneath the Snow Globe\"",
+    "\"Arson in the Quiet Town\"",
+    "\"The Scarf That Time Forgot\""
+  ],
+  "franchise_adjacency": "This expansion sits alongside HallTime’s other winter‑themed mysteries, such as ‘Frostbound Secrets’ and ‘Midnight Frost’, offering viewers a cohesive but distinctly atmospheric saga of Blackthorn County."
+}

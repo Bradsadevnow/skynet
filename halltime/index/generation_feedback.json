@@ -1,0 +1,52 @@
+{
+  "demote_phrases": [
+    "basement",
+    "brunch",
+    "casserole dish",
+    "ceramic owl",
+    "just storage",
+    "kitchen",
+    "municipal policy failure",
+    "unopened letter",
+    "vineyard fire"
+  ],
+  "promote_props": [
+    "boat key",
+    "scarf with impossible timing",
+    "snow globe"
+  ],
+  "protect_phrases": [
+    "portable suspicion",
+    "regional utility"
+  ],
+  "title_weights": {
+    "Her Silent Christmas Alibi": 0.7,
+    "The Neighbor Who Babysat Too Much": 0.725,
+    "What My Sister Buried": 0.734,
+    "He Knows I Bake at Midnight": 0.734,
+    "A Casserole for the Missing": 0.751,
+    "The Widow in Cabin 9": 0.759,
+    "The Vineyard Lies Beneath Us": 0.64
+  },
+  "male_archetype_weights": {
+    "divorced_redemption_dad": 1.077,
+    "decorative_husband": 1.062,
+    "soft_spoken_menace": 1.049,
+    "rugged_scamp": 1.044
+  },
+  "mode_weights": {
+    "Court-Ordered Lifetime": 1.124,
+    "Mother Was Right All Along": 1.08,
+    "Divorce Gothic": 1.2,
+    "Menace Christmas": 1.02,
+    "Hallmark Possession Event": 0.98,
+    "Lifetime Original": 1.0
+  },
+  "theme_weights": {
+    "Trust isn't given. It's rented.": 0.92,
+    "A town never forgets. It just redecorates.": 1.05,
+    "Some homes hold families. Some hold motive.": 1.08,
+    "Silence is just fear wearing cashmere.": 1.12,
+    "\"A town never forgets. It just redecorates.\"": 1.1
+  }
+}

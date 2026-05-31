@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "blood-adjacent tea towel",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Sienna Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.91,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.65,
+      "window_staring_compatibility": 0.95,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Claire Cross",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "probably builds furniture",
+        "accused at least once",
+        "fixes docks"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits",
+        "once repaired a lock that should not have existed"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as seasonal materials",
+      "space_explanation_hesitation": 0.5,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.73,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Gavin Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Rachel Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "weaponized stillness",
+        "sustained eye contact",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.83,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.74,
+      "window_staring_compatibility": 0.47,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Derek Winterson",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "makes tea incorrectly",
+        "says \"You seem upset\"",
+        "too calm"
+      ],
+      "threat_aura": 0.72,
+      "domestic_plausibility": 0.53,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.66,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as donation overflow",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "always investigating",
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.27,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.38,
+      "offsite_storage_plausibility": 0.5,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Mara Winterson",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Derek Winterson",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Sienna Winterson relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Rachel Mercer hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Mara Winterson hates the move and immediately distrusts Claire Cross, a widowed boat mechanic with suspiciously healthy handyman energy and access to old family office described as seasonal materials. Claire Cross hesitates before explaining old family office described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the scarf with impossible timing, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Rachel Mercer reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes meditation annex nobody uses in winter feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Sienna Winterson snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Claire Cross is accused, gaslighted, then gently framed near hydrangeas until the blood-adjacent tea towel turns up somewhere impossible inside old family office described as seasonal materials. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and church basement described as just storage in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Tess Marlowe hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Mara Winterson spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside church basement described as just storage. Wine is present like a municipal policy failure. Sienna Winterson hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Rachel Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of old family office described as seasonal materials. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Claire Cross is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Sienna Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Claire?\"",
+    "\"Mothers do not disappear, Mara. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Sienna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Rachel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The lake bell rings without wind; it’s an omen, not a choice.\"",
+    "\"All these basements are just storage—yet each hides its own death.*\"",
+    "\"You’re holding secrets like candles in winter: bright yet cold.\"",
+    "\"We live here. So does arson.\"",
+    "\"Every family has a motive; some hold the house hostage.\",\"The sheriff’s timing is as unreliable as his verdicts.\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a chilling blend of atmospheric dread and melodramatic intrigue, turning Blackthorn County into a character as enigmatic as any villain. The narrative’s relentless escalation keeps viewers on edge while the subtle contradictions add depth rather than confusion.",
+  "sequel_hook": "When the ceramic owl whispers in the night, it signals a new chapter where secrets will be unmasked under a moonlit storm—watch for the hidden messages that only those who listen to the lake bell can hear.",
+  "synopsis": "In the snow‑clad hills of Blackthorn County, Sienna Winterson’s arrival to a secluded cabin is less a retreat than an incursion into a maze of whispered histories and simmering suspicion. The lake bell tolls without wind, echoing the unseen tremor that rattles each character’s heart. Claire Cross, the stoic widowed boat mechanic with a knack for secrets, finds himself thrust into a vortex where every family hides behind a cellar door—literal or figurative. As Sienna digs through her inherited retreat, uncovering an unsent email capable of unraveling lives, Rachel Mercer—the elegant widow with a foundation that masks an appetite for destruction—offers warnings wrapped in kitchen light and the scent of stale tea towels stained with blood. The story spirals into a series of scenes where emotional exposition is marked by rising insanity multipliers, each one amplifying the town’s collective dread. Amidst wine‑soaked taverns, secretive casserole exchanges, and a sheriff whose timing feels deliberately off‑beat, the narrative reaches a crescendo: a frantic drive to Blackthorn Vineyard, an ambulance that arrives too late, and the reappearance of a ceramic owl perched on the kitchen island—an ominous talisman of the unseen forces at play. The finale leaves more questions than answers, setting the stage for a sequel that promises deeper layers of intrigue and betrayal.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4203,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-094731-0020-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-094731-0020-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.307,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Sienna stepping through snow‑laced thresholds into her new cabin, candles flickering like nervous breaths in the thick silence. A wine glass clinks, its contents reflecting a municipal policy failure—an ironic nod to the town’s crumbling bureaucracy. The basement is mentioned as if it were a legal relative, and the audience senses that every wall holds more than just wood; they hold secrets. Sienna’s unsent email, her greatest weapon, lies hidden beneath layers of blankets—a silent testament to the cost of silence.\n",
+    "In Scene 2, Mara Winterson, resentful of the move, confronts Claire Cross in a dim office lined with seasonal materials. The old family office feels like an abandoned vineyard, a place where past and present intertwine. A phone vibrates from within the wall, its call unknown, hinting at unseen observers. The emotional tension climbs as Mara’s distrust transforms into a desperate plea for truth, while Claire’s calm demeanor belies a growing dread.\n",
+    "Scene 3 unfurls in Blackthorn Vineyard, where wine flows like municipal policy failure and a scarf with impossible timing drifts across the table. Local gossip swirls around an orchard road figure, and every guest feels they have somewhere to hide from conversation—like hidden rooms within their own hearts. The basement is again referenced as if it were a legal relative, binding the characters in a web of suspicion that tightens like ivy.\n",
+    "Scene 4 sees Rachel Mercer reveal a perfectly phrased warning amid bright kitchen light, while the lake bell rings without wind—a signal of impending catastrophe. She refuses to explain the church basement’s storage function, leaving the audience with an unresolved tension. The sheriff’s fresh mud on the boat key becomes a silent indictment, hinting that danger may be closer than any lawman can see.\n",
+    "Scene 5 escalates at a cliffside where an emotional exposition reframes the casserole exchange as civic hazard. Meditation annexes become spiritually relevant, their unused rooms echoing with whispered guilt. Wine remains present like municipal policy failure, and the basement’s mysterious role is once again invoked, pulling all threads toward a crescendo of dread.\n",
+    "The final scene opens with a frantic drive to Blackthorn Vineyard; ambulance lights flash as an empowerment speech cuts through the chaos. The locked door in the church basement symbolizes the final barrier between truth and oblivion. Sienna hesitates before explaining her cabin’s silent candles, while the ceramic owl returns to the kitchen island—an emblem of unseen judgment that will haunt future narratives.\n"
+  ],
+  "contradiction_notes": [
+    "Claire Cross appears as Daniel in one kitchen scene, then Derek during the rain argument—two identities for one mystery.",
+    "Sienna shifts Bellweather from Vermont to outside Atlanta after a glass of wine, implying a malleable geography.",
+    "A dead best friend shows up at brunch, sparking debates over denial versus supernatural scheduling.",
+    "The basement’s ownership fluctuates: condo, lake house, abandoned vineyard—each claim more bizarre than the last. ",
+    "The scarf’s impossible timing changes its status from decorative to weaponry, reflecting the story’s shifting moral compass."
+  ],
+  "alternate_titles": [
+    "Echoes of the Winter Bell",
+    "The Lake’s Silent Warnings",
+    "Casserole of Shadows",
+    "Basement of Lies",
+    "The Orchard's Secret"
+  ],
+  "franchise_adjacency": "This story sits beside HallTime’s 'Midnight Harvest' and 'The Fog in Alder Ridge', weaving a tapestry of winter suspense across Blackthorn County."
+}

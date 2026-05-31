@@ -1,0 +1,429 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Every town has a basement.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "overbearing mother tension",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "snow globe",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Mara Pruitt",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.19,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Bennett",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "too calm",
+        "makes tea incorrectly",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.66,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.54,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as seasonal materials",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.49,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Claire Winterson",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.81,
+      "offsite_storage_plausibility": 0.89,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Marlowe",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.89,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.71,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.48,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Bennett",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "says \"You seem upset\"",
+        "makes tea incorrectly",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.89,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.52,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.58,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "says \"I know what I saw\"",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.25,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.85,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.32,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.71,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Luke Cross",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Cole Vale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Mara Pruitt relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old storm shelter from before the divorce. Wine is present like a municipal policy failure. Rachel Bennett hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Luke Cross hates the move and immediately distrusts Mara Bennett, a artisan developer with suspiciously healthy handyman energy and access to marina tackle room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the scarf with impossible timing, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Marlowe reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes overbearing mother tension as a civic hazard and makes old family office described as paperwork I have not gone through yet feel spiritually relevant. Wine is present like a municipal policy failure. Gavin Marlowe hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Mara Pruitt snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Marlowe hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old family office described as paperwork I have not gone through yet. Gavin Marlowe hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Mara Bennett is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside marina tackle room described as seasonal materials. Wine is present like a municipal policy failure. Mara Bennett hesitates before explaining marina tackle room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Rachel Bennett hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old storm shelter from before the divorce in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Rachel Bennett hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old family office described as paperwork I have not gone through yet instead of one simple basement. Wine is present like a municipal policy failure. Gavin Marlowe hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Luke Cross spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Marlowe confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of marina tackle room described as seasonal materials. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Mara Bennett is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Mara Pruitt says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\"",
+    "\"Mothers do not disappear, Luke. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Mara. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\nHe poured the kettle's hiss into silence, each bubble a confession.\n\n\"If that basement is innocent, why does it sound defensive?\" he asked, his eyes tracing the wall’s worn paint.\n\n\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"We are all stuck inside these walls, Mara,\" whispered a voice from the shadows of the storm shelter, the wind carrying its accusation like an unseen hand.",
+    "\"Did you see that wet ornament? It was as if it had been kissed by rain itself,\" gasped Rachel, her breath misting in the cold.\n\nThe scarf fluttered like a flag on the stormy horizon.",
+    "\"Every basement holds more than secrets; they hold destinies,\" Gavin warned, his tone heavy with dread."
+  ],
+  "fake_critic_blurb": "HallTime's 'Her Silent Christmas Alibi' is a labyrinthine drama where every whispered word echoes through the cold halls of Winter Hollow. The narrative’s twisted continuity and layered mysteries create an unsettling atmosphere that keeps viewers perched on the edge of their seats—albeit with the occasional laugh at the absurdity of it all.",
+  "sequel_hook": "When the ceramic owl returns, a new threat surfaces in the vineyard fire, promising deeper secrets tied to the forgotten town archives. Will Mara confront the final basement, or will she be swallowed by its cold embrace?",
+  "synopsis": "In the snow‑crusted town of Winter Hollow, Mara Pruitt arrives after a personal implosion and inherits an old storm shelter from before her divorce. Her regional marketing career is a façade for the darkness that has followed her, a silence thick enough to drown out voices. Meanwhile, Mara Bennett—an artisan developer with a second phone and a hidden agenda—crosses paths with Mara, their names confusing even the locals. The town's basement becomes an ominous stage where secrets are whispered between wet ornaments and dripping boat keys. Overbearing mothers, soft‑spoken threats, and mysterious widows collide under municipal policy failures of wine‑driven revelry. Each scene spirals into a crescendo of emotional exposition, amplified by an insanity multiplier that climbs like the tide. By Act Three, the veneer of safety cracks, revealing that even the most innocuous places—old family offices, marina tackle rooms, and the storm shelter—hold lethal motives. The climax unfolds at Blackthorn Vineyard, where an ambulance’s siren echoes through a locked door, and a basement light flickers, promising more than it seems.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4504,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-094745-0021-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-094745-0021-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 12.481,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Mara Pruitt stumbles into Winter Hollow with only her scarred heart and a broken laptop. The storm shelter looms behind her, its cracked windows reflecting the dim glow of distant fireworks. As she sips wine that tastes like municipal neglect, Rachel Bennett appears, hesitant to reveal the toolshed’s true nature—a maze of paperwork left unfinished by those who never learned to let go. In the background, a Christmas ornament drips wetly, a silent omen that something is about to fall apart.\n\nScene 2: Luke Cross confronts Mara Bennett with suspicion as sharp as winter wind. He glares at her artisan tools in the marina tackle room, where seasonal materials rust under the weight of unanswered questions. A faint memory of a brunch with someone officially deceased lingers like stale bread. The storm shelter’s door creaks open, inviting dread into an otherwise mundane day.\n\nScene 3: Bellweather Sheriff’s Office becomes a microcosm of town secrets. Mara Pruitt and Gavin Marlowe trade words wrapped in scarves that seem to time travel. The sheriff, clutching a wet ornament, realizes the basement may be more than just stone—it might be a vessel for the town’s collective guilt.\n\nScene 4: Gavin reveals a warning with the elegance of a widow who knows too much. She points at the boat key—muddy and ancient—while the storm shelter behind her seems to sigh under its own history. The sheriff’s fresh mud marks a new trail leading into darkness.\n\nScene 5: At a cliffside, Mara Pruitt confronts the overbearing mother’s tension. Old family office papers flutter like snowflakes in the wind. Gavin hesitates before revealing the storm shelter’s secrets, leaving the audience on the edge of a revelation that will shatter the town’s fragile peace.\n\nScene 6: The climax unfolds at Blackthorn Vineyard where an ambulance rushes past a locked door inside the storm shelter. A basement light flickers, hinting at the next chapter of terror that could swallow Winter Hollow whole."
+  ],
+  "contradiction_notes": [
+    "Mara Bennett’s name morphs to Daniel and Derek—like a reflection that refuses to stay still.",
+    "Bellweather’s geography jumps from Vermont to Atlanta after two glasses of wine—town lore bending under intoxication.",
+    "A best friend dead at brunch appears alive in others’ eyes—mortality becomes an optional feature.",
+    "The basement shifts ownership: condo, lake house, abandoned vineyard—property rights become a riddle.",
+    "Names and places swap like chess pieces on a haunted board—continuity is merely a suggestion."
+  ],
+  "alternate_titles": [
+    "Silent Ornaments: The Winter Hollow Conspiracy",
+    "Basement Echoes: A HallTime Mystery",
+    "The Wet Ornament: Secrets of Blackthorn",
+    "Mara's Silent Snowfall",
+    "Echoes from the Storm Shelter"
+  ],
+  "franchise_adjacency": "This episode sits alongside HallTime’s 'Blackthorn Chronicles' and 'Vineyard Vengeance', weaving together themes of hidden pasts, fragile alliances, and towns that whisper louder than they speak."
+}

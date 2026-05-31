@@ -1,0 +1,431 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Inspired by something, probably.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "unresolved hometown romance",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "boat key",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Tess Dane",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "bakery owner",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.85,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.66,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Tess Hawthorne",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "attorney with no visible clients",
+      "traits": [
+        "hides something imprecise",
+        "sighs heavily",
+        "briefly leaves the room after difficult questions"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.55,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as donation overflow",
+      "space_explanation_hesitation": 0.48,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.89,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Tess Sutton",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.71,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Lark",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "sustained eye contact",
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Pruitt",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "makes tea incorrectly",
+        "too calm"
+      ],
+      "threat_aura": 0.78,
+      "domestic_plausibility": 0.49,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.53,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as retreat supplies",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.5,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Gavin Vale",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.6,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as donation overflow",
+      "space_explanation_hesitation": 0.91,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Claire Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Cole Hale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Tess Dane relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Tess Dane hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Claire Vale hates the move and immediately distrusts Tess Hawthorne, a attorney with no visible clients with suspiciously healthy handyman energy and access to annex room described as donation overflow. Evelyn Pruitt hesitates before explaining storage unit described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the casserole dish, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Daniel Lark hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Daniel Lark reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain marina tackle room described as paperwork I have not gone through yet. Someone mentions the basement as if it were a legal relative. Tess Sutton hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes unresolved hometown romance as a civic hazard and makes retreat cabin with candles, blankets, and difficult silence feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Tess Dane hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Tess Dane snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Gavin Vale hesitates before explaining old family office described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Tess Hawthorne is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside annex room described as donation overflow. Wine is present like a municipal policy failure. Daniel Lark hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Someone mentions the basement as if it were a legal relative. Tess Hawthorne hesitates before explaining annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and marina tackle room described as paperwork I have not gone through yet in the same sentence. Wine is present like a municipal policy failure. Tess Hawthorne hesitates before explaining annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through retreat cabin with candles, blankets, and difficult silence instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Claire Vale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside marina tackle room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Daniel Lark confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of annex room described as donation overflow. Daniel Lark hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Tess Hawthorne is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Tess Dane says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Tess?\"",
+    "\"Mothers do not disappear, Claire. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Tess. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Daniel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\"If that basement is innocent, why does it sound defensive?\"\n\"I did not lie. I just told the truth in the order this town could survive.\",\n\"The boat key turned up somewhere impossible inside annex room described as donation overflow.\"",
+    "\"Why do we keep referring to the basement as a legal relative? It feels like an accusation.\"",
+    "\"A dead best friend appears at brunch—who is actually alive?\"",
+    "\"You called me Derek, and now Daniel. Is that intentional or just confusion?\"",
+    "\"The geography of Bellweather shifts from Vermont to Atlanta after two glasses of wine.\""
+  ],
+  "fake_critic_blurb": "A hauntingly atmospheric descent into Blackthorn County’s underbelly—The Widow in Cabin 9 defies conventional gothic tropes by turning every object into a character and every silence into an accusation. HallTime's latest opus blends legal intrigue, psychological depth, and absurdist humor to deliver a story that feels both unsettling and oddly comforting. Critics applaud its lush prose, though some lament the deliberate contradictions that may leave viewers questioning whether they are following a plot or a dream.\n",
+  "sequel_hook": "The ceramic owl’s second appearance in an abandoned vineyard hints at a deeper conspiracy involving the Blackthorn Vineyard’s original founders—unraveling a secret society that could threaten every town resident.\n",
+  "synopsis": "The Widow in Cabin 9 spins a brittle thread through the cold, ash‑stained lanes of Blackthorn County, where every whisper is an echo of something left unsaid and every silence a thickening fog. Tess Dane retreats to her inherited cabin after a public implosion that shattered not only her bakery but the fragile trust she had with herself. Her presence is punctuated by candles that flicker like nervous heartbeats, blankets that smother secrets, and a silence that feels more oppressive than the town’s whispered gossip. Tess's former lover, attorney Tess Hawthorne, drifts in as a shadow of legal armor, his empty office filled with donation overflow and an ominous annex room where a boat key hides beneath fresh mud. A child’s crude drawing of stairs—an omen of descent—appears in the kitchen, while a casserole dish, once a symbol of nourishment, becomes a relic of betrayal. The town’s mayor, Sheriff Bellweather, is a man whose basement morphs from condo to lake house to abandoned vineyard in different scenes, embodying the county's shifting geography and unresolved sins. A series of wine‑laden gatherings—each a municipal policy failure—serve as the backdrop for fractured dialogues that expose hidden traumas: Tess’s buried nightmare under years of work, Hawthorne’s deleted voicemail, Sutton’s half‑sibling secret, Lark’s knowledge of the orchard chapel’s closure, and Pruitt’s surveillance of the sheriff’s response time. The narrative escalates through a web of contradictions—name drift, geography drift, mortality drift—each reinforcing the idea that truth is as malleable as the town’s weather. In the climax, an unopened letter ties the Widow to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event, while a ceramic owl reappears to signify a cyclical haunting. The story ends with the sheriff discovering fresh mud on the boat key, hinting at deeper mysteries that will spill into future HallTime tales.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4037,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103331-0165-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103331-0165-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.379,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Tess Dane’s first night in the cabin is suffused with trembling candlelight. She sets a casserole dish on a cracked wooden table, its steam forming ghostly patterns against the window. The wind rattles the old shutters as she flips through an unopened letter—an ominous promise of secrets. Outside, a child draws stairs on a wall, their lines growing darker each stroke. As she listens to the creaking floorboards, Tess’s mind spirals into her past bakery failures, the silence in her new home echoing with unsaid apologies.\nScene 2: Claire Vale storms into the annex room, clutching a legal pad that feels heavier than it is. Her distrust of Hawthorne flares when she spots the boat key under fresh mud. The cellar's basement, now an abandoned vineyard, whispers rumors of hidden money and old debts. Claire’s sharp retorts cut through the stale air: \"Mothers do not disappear, Claire. They evaporate into paperwork.\" The tension thickens as the town's gossip spreads like wildfire.\nScene 3: In Bellweather Sheriff’s office, a wine‑laden banquet turns into a confession chamber. A casserole dish sits at the center, surrounded by legal documents and half‑drunk conversations. Daniel Lark, therapist in disguise, watches from the doorway while the sheriff hesitates to reveal why his basement is a legal relative. The scene ends with an uneasy silence broken only by the sound of a phone vibrating inside the wall.\nScene 4: Tess Hawthorne returns, her eyes haunted. He drops a hint about the annex room's donation overflow, while a child’s drawing on the kitchen island suggests a stairway leading to unknown depths. Lark provides a perfectly phrased warning that chills Tess’s bones: \"Trust is just fear with a casserole dish.\" The atmosphere turns oppressive as the ceramic owl reappears.\nScene 5: A cliffside argument erupts, revealing the unresolved hometown romance between Tess and Hawthorne. As they stare at the water, their emotions collide like waves against cliffs. The scene ends with the revelation that the town’s basement is an abandoned vineyard—an eerie echo of forgotten promises. Wine clinks as if mocking the seriousness of the moment.\nScene 6: The final showdown occurs at Lake Mercy’s gazebo, where ambulance lights flicker and a one‑line empowerment speech shatters the silence. Daniel Lark confesses enough to make truth worse; the sheriff arrives fourteen minutes late, and the annex room's dusty window watches an unseen figure that should have died.\n"
+  ],
+  "contradiction_notes": [
+    "Name drift: Tess Hawthorne morphs into Daniel in the kitchen scene, then becomes Derek during the rain argument—an intentional character fluidity that underscores Blackthorn’s collective amnesia.",
+    "Geography drift: Bellweather is simultaneously Vermont and outside Atlanta, reflecting how memory in town is a mutable map, not a static fact.",
+    "Mortality drift: A dead best friend shows up at brunch; their presence blurs life and death, mirroring the town’s refusal to accept finality.",
+    "Property drift: The basement alternates between condo, lake house, and abandoned vineyard—an architectural Möbius strip that keeps audiences guessing about ownership.",
+    "Dialogue paradoxes: When Tess says she just told the truth in order the town could survive, it suggests that lying is a necessary instrument of survival.\n"
+  ],
+  "alternate_titles": [
+    "Widow of the Forgotten Hearth",
+    "Cabin 9: Echoes of Winter Hollow",
+    "Silence and Casserole",
+    "The Orchard Chapel Conspiracy",
+    "Blackthorn County’s Last Secret"
+  ],
+  "franchise_adjacency": "This story sits adjacent to HallTime's 'St. Agnes Regional' miniseries and the upcoming 'Lake Mercy Mysteries', forming a triad that explores Blackthorn County’s layered mysteries."
+}

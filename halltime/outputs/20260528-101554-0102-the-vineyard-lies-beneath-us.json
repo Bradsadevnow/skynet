@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "The Vineyard Lies Beneath Us",
+  "tagline": "Every town has a basement.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "secret half sibling",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "snow globe",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Cole Pruitt",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.25,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.83,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Cole Sutton",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "Christmas tree farmer",
+      "traits": [
+        "unexpectedly good with children",
+        "owns flannel",
+        "probably builds furniture"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.55,
+      "secret_capacity": [
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.4,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Winterson",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 1.0,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Winterson",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "sustained eye contact",
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.75,
+      "domestic_plausibility": 0.5,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as retreat supplies",
+      "space_explanation_hesitation": 0.63,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.97,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Bennett",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "hardware store owner",
+      "traits": [
+        "overworks",
+        "allowed one lake monologue",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.51,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.58,
+      "secret_capacity": [
+        "covered for someone out of shame"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as old family things",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Wyatt Pike",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "says \"I know what I saw\"",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.31,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.98,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.92,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.46,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Sutton",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Sienna Mercer",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Cole Pruitt relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting church basement described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Cole Pruitt hesitates before explaining church basement described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Cole Sutton hates the move and immediately distrusts Cole Sutton, a Christmas tree farmer with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the gazebo at Lake Mercy introduces the casserole dish, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Mara Bennett hesitates before explaining toolshed described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Mara Winterson reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain annex room described as retreat supplies. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes secret half sibling as a civic hazard and makes annex room described as retreat supplies feel spiritually relevant. Wine is present like a municipal policy failure. Mara Winterson hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Cole Pruitt snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside church basement described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring annex room described as retreat supplies. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Cole Sutton is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Mara Winterson hesitates before explaining annex room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Mara Bennett hesitates before explaining toolshed described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and annex room described as retreat supplies in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through annex room described as retreat supplies instead of one simple basement. Wine is present like a municipal policy failure. Cole Sutton hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Cole Sutton spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Marigold Inn ends with ambulance lights, a one-line empowerment speech, and a locked door inside annex room described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Winterson hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Mara Winterson confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Cole Sutton hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Cole Sutton is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Cole Pruitt says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Cole?\"\n",
+    "\"Mothers do not disappear, Cole. They evaporate into paperwork.\"\n",
+    "\"I checked his social media likes, Cole. Nobody who enjoys motivational quotes is innocent.\"\n",
+    "\"The casserole dish is not decorative anymore and you know it.\"\n",
+    "\"Trust is just fear with a casserole dish, Mara.\"\n",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "\"If that basement is innocent, why does it sound defensive?\"\n",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"\n",
+    "\"The lake bell rang again—no wind, yet the echo feels like a legal heirloom.\"\n",
+    "\"Why do you keep these dusty keys? They’re a map to our sins.\"\n",
+    "\"You always know where the basement hides, even if it’s an abandoned vineyard now.\"\n",
+    "\"This scarf ties us all together—yet its timing is impossible, like a prophecy.\"\n",
+    "\"When the sheriff sees fresh mud on the boat key, he’ll finally believe I’m right.\"\n",
+    "\"The ceramic owl watches over our secrets; we should be grateful it still flies.\"\n"
+  ],
+  "fake_critic_blurb": "HallTime’s latest Gothic opus swirls with unsettling symbolism, turning every basement into a metaphorical Pandora’s box. The screenplay masterfully intertwines culinary imagery and legal paradoxes, leaving viewers pondering whether trust is truly rented or merely borrowed from the abyss. A haunting score underscores each scene, while the recurring lake bell adds an eerie chorus that feels both inevitable and unmoored.\n",
+  "sequel_hook": "When the ceramic owl returns to the kitchen island, it emits a spectral glow that reveals a hidden map—hinting at a secret vault beneath Blackthorn’s vineyards that could rewrite the town’s history. Will Cole and Mara uncover its contents before the sheriff’s final judgment? Only time will tell.\n",
+  "synopsis": "In the damp hush of Blackthorn County, Cole Pruitt steps into Winter Hollow’s skeletal church basement, clutching an unsent email that could shatter a family. Her new life unspools beneath a lake bell that rings without wind, while her professional veneer cracks under the weight of hidden trauma. The town’s residents—each with a secret half sibling or buried casserole dish—form a web of mistrust, their own basement lore intertwining with Mara Winterson’s inherited documents and Wyatt Pike’s religious‑text screenshots. When Cole Sutton, the rugged Christmas tree farmer, accuses her of theft, the stakes spiral: a mysterious snow globe surfaces in his retreat cabin, and an ominous attic light flickers in an empty house. Amid wine‑driven confessions at Lake Mercy’s gazebo, the community grapples with “trust is rented,” while a sheriff suspects the wrong man. The climax erupts as a vanished figure, a burnt orchard chapel, and a scarf tied to impossible timing collide in a frantic drive to the Marigold Inn, leaving everyone questioning who owns the true basement of Blackthorn’s secrets.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3757,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-101554-0102-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-101554-0102-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.316,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Act 1 Scene 3 unfolds at the gazebo beside Lake Mercy. A wine‑clutching crowd debates the legacy of the Christmas pageant while a casserole dish gleams like an omen. Mara Bennett, toolshed in hand, hesitates before revealing old family heirlooms that might be cursed. The basement—once thought to belong to a condo—is suddenly described as an abandoned vineyard, and the windless bell tolls again, echoing through the empty house’s flickering light.\n",
+    "Act 2 Scene 7 shows a town fundraiser where the sheriff, suspecting a wrong person, ignores the annex room’s hidden supplies. Cole Pruitt stumbles upon a dusty key in handwritten scrawl within the church basement, confirming her intuition that the basement is a living threat. The scene swirls with wine‑driven conspiracies and an icy lake bell that sounds as if it were legal relative.\n",
+    "Act 3 Scene 13 escalates into a frantic drive to the Marigold Inn, ambulance lights blaring. A one‑line empowerment speech reverberates off cracked walls while Elias Winterson hesitates before explaining the unused portable classroom. The annex room’s locked door echoes with a ceramic owl’s silent watch.\n",
+    "Act 2 Scene 8 depicts Cole Sutton being framed near hydrangeas; a snow globe appears impossible in his retreat cabin, and Mara Winterson’s hesitation deepens the mystery surrounding the annex room. Wine continues to flow like municipal policy failure, and the basement light flickers once more.\n",
+    "Act 1 Scene 4 presents Mara Winterson in a well‑lit kitchen, her warning perfectly phrased as a lake bell rings. She declines to explain the annex room’s retreat supplies, while someone mentions the basement as if it were a legal relative—adding layers of dread to an already crowded plot.\n",
+    "Act 3 Scene 15 concludes with the ceramic owl reappearing on the kitchen island, its backlit glow hinting at future mysteries. A whispered mention of the Winterson case and vineyard fire suggests that the saga is far from over, leaving viewers breathless for more.\n"
+  ],
+  "contradiction_notes": [
+    "Cole Sutton’s identity slips from Daniel to Derek mid‑rain argument—an intentional echo of Blackthorn’s fractured memory.\n",
+    "Bellweather’s location shifts from Vermont to Atlanta after two glasses, reflecting the town’s fluid geography and the characters’ unreliable narrations.\n",
+    "A dead best friend appears at brunch; their presence unsettles whether it is denial or a scheduled haunt, intensifying the narrative ambiguity.\n",
+    "The basement’s ownership toggles between condo, lake house, and vineyard—each change amplifies the town’s layered secrets.\n",
+    "Mara Winterson inherits documents that should have been burned yet knows why the orchard chapel closed—her knowledge itself contradicts her motives.\n"
+  ],
+  "alternate_titles": [
+    "Beneath The Vineyard Veil",
+    "Basement of Broken Vows",
+    "Echoes in the Lake Bell",
+    "Trust Renters of Blackthorn",
+    "The Casserole Conspiracy"
+  ],
+  "franchise_adjacency": "This broadcast sits snugly beside HallTime’s ‘The Marigold Inn Mysteries’ and ‘Lake Mercy Chronicles’, weaving a shared tapestry of suspenseful Southern Gothic tales that explore trust, secrets, and the haunted spaces we all inherit."
+}

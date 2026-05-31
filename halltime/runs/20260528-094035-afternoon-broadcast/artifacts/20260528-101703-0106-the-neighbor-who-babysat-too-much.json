@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "The Neighbor Who Babysat Too Much",
+  "tagline": "Inspired by something, probably.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "unresolved hometown romance",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "snow globe",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Luke Vale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.94,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Derek Bennett",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "hides something imprecise",
+        "absorbs accusatory kitchen dialogue",
+        "briefly leaves the room after difficult questions"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.52,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.61,
+      "secret_capacity": [
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.79,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Lark",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.66,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.43,
+      "window_staring_compatibility": 0.69,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Derek Bell",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "weaponized stillness",
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.81,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as donation overflow",
+      "space_explanation_hesitation": 0.5,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.51,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Sienna Hale",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "artisan developer",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "too calm",
+        "makes tea incorrectly"
+      ],
+      "threat_aura": 0.68,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.64,
+      "secret_capacity": [
+        "keeps duplicate keys for reasons framed as kindness"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.46,
+      "window_staring_compatibility": 0.69,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Sienna Mercer",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.28,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.92,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Noah Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "emotionally precise",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Wyatt Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Vale relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Noah Vale hates the move and immediately distrusts Derek Bennett, a financial advisor with suspiciously healthy handyman energy and access to dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the gazebo at Lake Mercy introduces the scarf with impossible timing, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Luke Vale hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Derek Bell reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain annex room described as donation overflow. Mara Lark hesitates before explaining storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes unresolved hometown romance as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Derek Bell hesitates before explaining annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Vale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Derek Bennett is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and annex room described as donation overflow in the same sentence. Wine is present like a municipal policy failure. Derek Bennett hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Noah Vale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Luke Vale hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside annex room described as donation overflow. Wine is present like a municipal policy failure. Derek Bell hesitates before explaining annex room described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Derek Bell confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Derek Bennett is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Vale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Derek?\"",
+    "\"Mothers do not disappear, Noah. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Derek.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "Luke Vale: \"The space heater still hums like an old lullaby; I don't know why I'm here.\"",
+    "Derek Bennett: \"I'm just trying to balance the books, Luke—nothing sinister.\"",
+    "Mara Lark: \"I heard whispers about a half‑sibling at the old quarry. Are you sure you're safe?\"",
+    "Sienna Hale: \"Duplicate keys are for kindness… or for fear, depending on who holds them.\"",
+    "Derek Bell: \"Documents I shouldn't have inherited—yet here they are, waiting to be read.\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a masterclass in atmospheric melodrama, weaving emotional exposition into every wine‑filled scene while keeping viewers on edge with its relentless contradictions. The narrative feels like a haunted diary that refuses to stay still—each page turned reveals another layer of mystery, and yet the story never settles. Critics praise its self‑serious tone, though some note the occasional linguistic cracks that add authenticity to the town’s tangled lore.",
+  "sequel_hook": "The appearance of someone who should be dead at brunch hints at a deeper conspiracy that could unravel the entire Blackthorn County fabric in future episodes—will the town finally confront its buried truths or continue spinning them into another web of secrets?",
+  "synopsis": "Luke Vale’s arrival at Blackthorn Lake is a quiet catastrophe, the echo of an emotionally negligent implosion still resonating in her bones. She inherits a cramped side room—old family records and a stubborn space heater—while pretending that a looming architectural commission explains her absence from town life. Noah Vale, the estranged daughter, harbors disdain for the move and mistrusts Derek Bennett, whose financial advisory veneer hides a health‑check hand on dock office secrets. The scarf with impossible timing drifts through gossip like an omen, and Mara Lark’s chaotic best‑friend energy masks knowledge of half‑siblings that could end her life or make her immortal. Derek Bell, the mysterious widow, hoards inherited documents in an annex overflow room, while Sienna Hale, a soft‑spoken menace, keeps duplicate keys to soothe kindness with dread. Each character layers tension: emotional exposition unfolds at precisely calculated multipliers, wine is the municipal policy failure that binds scenes, and the ceramic owl reappears as a cursed talisman. As secrets surface—unseen letters, basement myths, and a child’s stair drawing—the town's façade of safety crumbles into distributed secrecy infrastructure. The narrative spirals through paradoxical contradictions: name drifts, geography flips, mortality blurs, property changes, and the ever‑present cellar of lies. By Act Three, a frantic drive to Blackthorn Vineyard culminates in ambulance lights and a locked annex door, leaving viewers to question what truth remains intact.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3894,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-101703-0106-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-101703-0106-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.698,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Luke Vale walks into the side room with a space heater that feels like an old heartbeat; she pours wine from a municipal policy bottle, a symbol of failed governance. The scarf’s impossible timing unfurls as whispers of a vineyard fire spread through the gazebo. The child’s drawing of stairs clings to the wall, hinting at hidden levels in the town’s psyche. The emotional exposition peaks with an insanity multiplier that feels like a heartbeat, and Luke’s hesitance about her new space becomes the first thread tying secrets together.\n",
+    "Scene 2: Derek Bell stands in a well‑lit kitchen, the light reflecting off her antique tea towel that is rumored to be blood‑adjacent. She delivers a perfectly phrased warning while the child drawing stairs watches from the window—a silent witness to the town’s buried trauma. Mara Lark's storage unit is described as 'just storage,' but the walls hold whispers of half siblings and survival myths. The phone vibrates inside the wall, an unnerving echo that sets the stage for unseen surveillance.\n",
+    "Scene 3: At a cliffside dinner, Sienna Mercer opens the unused portable classroom to reveal archived disciplinary files. The wine, again, is a municipal policy failure; the ceramic owl sits on the kitchen island, a symbol of superstition. Derek Bennett’s accusation unfurls like a gaslighted curtain—he is accused, gaslit, and then framed near hydrangeas. The snow globe appears impossibly inside the dock office, turning the scene into a surreal tableau where objects defy logic.\n",
+    "Scene 4: Noah Vale spots a timeline error that every adult has spiritually rented around, and he questions why everyone owns just storage. Luke Vale’s side room is described again as a space heater with old family records; her hesitation signals that the town's past remains alive in present spaces. The sheriff sees fresh mud on the boat key, while the basement is mentioned as if it were a legal relative—a metaphor for hidden truths.\n",
+    "Scene 5: A frantic drive to Blackthorn Vineyard ends with ambulance lights and a one‑line empowerment speech; the locked annex door becomes the climax of emotional exposition, amplified by an insanity multiplier of 2.25. Derek Bell’s confession adds layers of complexity—her secrets, her inherited documents, and her role as an elegant wildcard—all interwoven in a crescendo that leaves the audience questioning reality.\n",
+    "Scene 6: The sequel bait lands with the ceramic owl reappearing, someone whispering about the Winterson case, vineyard fire, and offsite rooms. The town’s contradictions intensify; names drift, geography flips, mortality blurs, property shifts, and the basement remains an ever‑mysterious entity. This final scene sets up a hook for future episodes—someone who should be dead appears at brunch, hinting that Blackthorn County is a living paradox of secrets.\n"
+  ],
+  "contradiction_notes": [
+    "The name drift of Derek Bennett/Daniel creates a sense of unreliable memory that unsettles the audience’s trust in narrative continuity. \n",
+    "Geography flipping between Vermont and Atlanta in Luke Vale's speech introduces a surreal cartographic distortion that mirrors Blackthorn County's fractured reality. \n",
+    "Mortality drift—dead best friends appearing at brunch—blurs the line between mythic inevitability and dramatic surprise, forcing viewers to question what death truly means in this town. \n",
+    "Property drift regarding the basement being owned by a condo, lake house, or abandoned vineyard creates an ontological crisis that underscores how even physical spaces are mutable. \n",
+    "The scarf with impossible timing's transition from decorative to ominous reflects the story’s escalating dread and the thematic shift from triviality to existential threat."
+  ],
+  "alternate_titles": [
+    "Blackthorn Echoes: The Unseen Room",
+    "Vineyard Vortex: Secrets of the Annex",
+    "The Scarf and the Staircase: A Blackthorn Tale",
+    "Hidden Heirs of Bellweather Lake",
+    "The Lost Archive of Blackthorn"
+  ],
+  "franchise_adjacency": "This broadcast aligns seamlessly with HallTime’s anthology lineup, following 'Mystic Shores'—a tale of a town where water holds secrets—and preceding 'Ashen Dreams,' which explores the aftermath of a vanished family lineage. Together they form a thematic trilogy about memory, identity, and the haunting power of place."
+}

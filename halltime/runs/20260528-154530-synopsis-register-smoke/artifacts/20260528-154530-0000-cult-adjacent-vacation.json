@@ -1,0 +1,461 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "She Was Not Crazy",
+  "generation_feedback_used": true,
+  "title": "Cult Adjacent Vacation",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "vitamins that taste faintly of sedation and drywall",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "starter_premise": {
+    "title": "Cult Adjacent Vacation",
+    "category": "wine_xanax_horror",
+    "premise": "She goes on a retreat, the retreat is a cult, and escaping takes the whole movie.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "Cult Adjacent Vacation"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "throat lozenges with a suspicious aftertaste",
+    "vindictive music box"
+  ],
+  "cast": [
+    {
+      "name": "Gavin Winterson",
+      "archetype": "betrayed_provider_woman",
+      "role": "protagonist",
+      "surface_function": "high-output betrayed wife",
+      "hidden_function": "humiliation pressure vessel",
+      "job": "hospital administrator",
+      "traits": [
+        "makes competence look like denial",
+        "says she is fine in a voice that needs legal counsel",
+        "keeps a color-coded calendar and a cracked heart"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.95,
+      "gazebo_energy": "medium",
+      "basement_implication": "betrayed_provider_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "saw one text too many and said nothing for three weeks",
+        "has already priced out a life without him"
+      ],
+      "suspicion_mode": "suppressed_until_catastrophic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.51,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Rachel Hawthorne",
+      "archetype": "obsessive_boyfriend_problem",
+      "role": "male_interest_or_threat",
+      "surface_function": "romantic escalation device",
+      "hidden_function": "domestic terror accelerant",
+      "job": "restoration contractor who lingers",
+      "traits": [
+        "says forever too early",
+        "knows routines he should not know",
+        "mistakes refusal for intrigue"
+      ],
+      "threat_aura": 0.66,
+      "domestic_plausibility": 0.5,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.47,
+      "secret_capacity": [
+        "thinks apology gifts erase documentary evidence"
+      ],
+      "innocence_probability": 0.14,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.42,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Pruitt",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "best_friend",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "grad assistant between explanations",
+      "traits": [
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "asks for passwords with fake embarrassment",
+        "resembles someone the protagonist lost"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.59,
+      "secret_capacity": [
+        "knows how to mimic the protagonist's voicemail tone"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.68,
+      "offsite_storage_plausibility": 0.51,
+      "window_staring_compatibility": 0.74,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Brooke Pike",
+      "archetype": "woman_on_the_edge",
+      "role": "elegant_wildcard",
+      "surface_function": "possible victim or possible defendant",
+      "hidden_function": "rage reservoir",
+      "job": "floral shop owner",
+      "traits": [
+        "seems one kitchen confession away from headline syntax",
+        "says he would not stop in a way nobody enjoys hearing twice",
+        "smiles like a restraining order is considering her"
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "woman_on_the_edge maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "bought bleach for innocent reasons that no longer sound innocent",
+        "rehearsed a self-defense story before anything was proven"
+      ],
+      "suspicion_mode": "volatile",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.65,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Hawthorne",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "family practice physician",
+      "traits": [
+        "overworks",
+        "allowed one lake monologue",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "still has access to a property he does not own",
+        "ignored a warning text on the worst possible night"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as old family things",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.89,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Bennett",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "often wrong but directionally vital",
+        "says \"I know what I saw\"",
+        "always investigating"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.91,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Bennett",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Cole Sutton",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "From scene one the category runs on dread: She goes on a retreat, the retreat is a cult, and escaping takes the whole movie. The audience is meant to feel wrong before Gavin Winterson has language for why, and the house in Blackthorn Lake feels curated for future testimony. Wine is present like a municipal policy failure. Rachel Hawthorne hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Domestic normalcy is established only so it can be contaminated by Rachel Hawthorne, the children, the hallway, or one too-helpful stranger with keys. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A dim kitchen or nursery scene introduces the boat key and one unmistakable omen for us but not for her. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Brooke Pike says something almost truthful and then retreats, leaving Gavin Winterson alone with the feeling of being watched. Signature tell: The county telegraphs the problem once and nobody listens until act three. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one ends with the category proving that comfort itself is now suspect. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Domestic uncanny pressure spikes as ordinary rituals become contaminated: medication, childcare, bedding, internet searches, and locked doors all start feeling weaponized. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Mara Pruitt hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The police, partner, or therapist do not call her insane outright, but they help reality become blurrier instead of clearer. Gavin Winterson hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "An object-based revelation around meditation annex nobody uses in winter suggests that this pattern existed before Gavin Winterson and may continue after her. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The ally either starts to believe too late or gets close enough to become a target, because dread punishes proximity. Someone mentions the basement as if it were a legal relative. Elias Bennett hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two, the threat is either confirmed or still technically deniable, but never emotionally ambiguous anymore. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Winterson hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The house, retreat, clinic, or family system becomes openly hostile and escape starts to look like the only sane form of interpretation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Brooke Pike hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Gavin Winterson finds the hidden room, second file, fake history, or prior victim trace that proves the dread had architecture all along. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A confrontation involving vindictive music box turns survival into an act of improvised authorship rather than institutional rescue. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Even when the villain falls, the category leaves residue: the children, the paperwork, or the body memory of the place remain compromised. Someone mentions the basement as if it were a legal relative. Rachel Hawthorne hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The ending may close the plot, but it should never fully close the feeling. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "dread",
+      "category": "wine_xanax_horror",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Rachel Hawthorne is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Gavin Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Rachel?\"",
+    "\"Mothers do not disappear, Derek. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Gavin. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Brooke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"Cult Adjacent Vacation understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"Cult Adjacent Vacation\" follows Gavin Winterson, a high-output betrayed wife whose life seemed manageable at first, even after emotionally charged casserole exchange opens a new room inside it. Rachel Hawthorne seemed helpful. The house seemed calm. Even vitamins that taste faintly of sedation and drywall could seemed incidental if anyone were still interested in the difference between comfort and staging. The governing injury is simple: She goes on a retreat, the retreat is a cult, and escaping takes the whole movie. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. Everything seemed fine until it very plainly is not, and the narrator keeps talking softly enough to make that failure feel deliberate. Love lives here. So does arson.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4147,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

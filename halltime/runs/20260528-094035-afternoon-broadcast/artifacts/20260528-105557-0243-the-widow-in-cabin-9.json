@@ -1,0 +1,430 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "woman falsely accusing lovable scamp",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "boat key",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Luke Bell",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.28,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as retreat supplies",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.57,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Hale",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "family practice physician",
+      "traits": [
+        "overworks",
+        "forgot a recital once and never recovered",
+        "emotionally constipated"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.49,
+      "secret_capacity": [
+        "covered for someone out of shame"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.33,
+      "offsite_storage_plausibility": 0.46,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Derek Hale",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as old family things",
+      "space_explanation_hesitation": 0.88,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.9,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Tess Vale",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "elevated scarf density",
+        "sustained eye contact",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.82,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.71,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.4,
+      "offsite_storage_plausibility": 0.5,
+      "window_staring_compatibility": 0.42,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Claire Winterson",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "unexpectedly good with children",
+        "probably builds furniture",
+        "owns flannel"
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.39,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits",
+        "once repaired a lock that should not have existed"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.49,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Daniel Cross",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "always investigating",
+        "says \"I know what I saw\"",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.56,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as just storage",
+      "space_explanation_hesitation": 0.49,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Pruitt",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Tess Lark",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Bell relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting marina tackle room described as retreat supplies. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Claire Pruitt hates the move and immediately distrusts Evelyn Hale, a family practice physician with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Tess Vale hesitates before explaining storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the gazebo at Lake Mercy introduces the casserole dish, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Evelyn Hale hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Tess Vale reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain storage unit described as just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes woman falsely accusing lovable scamp as a civic hazard and makes storage unit described as old family things feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Winterson hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Bell snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside marina tackle room described as retreat supplies. Wine is present like a municipal policy failure. Claire Winterson hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring storage unit described as old family things. Someone mentions the basement as if it were a legal relative. Claire Winterson hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Evelyn Hale is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Derek Hale hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Claire Winterson hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and storage unit described as just storage in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties ceramic owl to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through storage unit described as old family things instead of one simple basement. Wine is present like a municipal policy failure. Derek Hale hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Claire Pruitt spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Luke Bell hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside storage unit described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Tess Vale confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Luke Bell hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Evelyn Hale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Bell says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Evelyn?\"",
+    "\"Mothers do not disappear, Claire. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Tess.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The wet ornament you found—do you think it’s still dripping? It might be holding the key.\"",
+    "\"Why do we all feel like we’re renting trust, Derek? It’s a lease with no expiration.\"",
+    "\"There’s a hidden fire behind that old oak tree. The vineyard burned because of us all.\"",
+    "\"The ceramic owl knows the orchard chapel's secret; it’s not just a decorative piece.\"",
+    "\"When you think about it, every basement is a relative—an echo of what we left behind.\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest courtroom drama delivers a perfect blend of melodrama and mystery—an atmospheric stew where every character is a suspect and every object hides a confession. The narrative’s deliberate contradictions keep viewers guessing while the emotional weight of the arson investigation pulls them deeper into Blackthorn County’s tangled web.\n",
+  "sequel_hook": "The final scene ends with a flickering basement light, the ceramic owl turning to face the camera—an ominous promise that the secrets buried in Bellweather are only just beginning to surface.\n",
+  "synopsis": "The Widow in Cabin 9 unspools as a labyrinthine court‑ordered saga where every character drips with fractured motive and whispered arson. Luke Bell, an overextended architect whose retreat at the marina is more a haunted archive than a safe haven, stalks evidence that refuses to surface. Evelyn Hale, a divorced physician with a veneer of redemption, hides secrets behind candles and blankets in her cabin, her threat aura pulsing like an unseen fire. Derek Hale, chaotic best friend turned nurse, sits on the edge of death or improbable survival, his storage unit echoing family ghosts. Tess Vale, gallery owner with an elegant menace, knows why the orchard chapel was sealed and shares a brunch that resurrects those thought dead. Claire Winterson, widowed boat mechanic, guards vineyard secrets behind a dock office that feels less workplace than confessional. Daniel Cross, local podcaster, hoards screenshots like scriptures. Together they navigate a town where a wet ornament, a ceramic owl, and a boat key become symbols of hidden guilt. The narrative twists through wine‑lit gazebos, cliffside confessions, and basement lights flickering in empty houses, all while the courthouse’s judgment lingers like a smoldering ember.\n\nThe story blurs legal certainty with emotional negligence; every scene feels like a courtroom drama disguised as a holiday dinner. As suspicion spreads like wildfire through shared infrastructure—basement rumors, storage units, and whispered “legal relatives”—the audience is left to piece together the true culprit behind a vineyard fire that still smolders in the collective memory. The expansion deepens the world, amplifying HallTime’s signature melodrama while retaining its deliberate contradictions.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.3757,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-105557-0243-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-105557-0243-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 13.205,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: In the hush of Lake Mercy’s gazebo, Luke Bell uncovers an abandoned casserole dish beneath a tattered wine glass, his fingers tracing the scarred surface that hints at a long‑forgotten arson. The air tastes of iron and regret; the wind carries whispers of a wet ornament from a distant cabin. He glances toward Evelyn’s cabin, where candles flicker like watchful eyes, and feels the weight of an unsent email threaten to erupt.\n\nScene 2: Tess Vale steps into the kitchen lit by an amber glow, the ceramic owl perched on the island as if guarding secrets. She speaks in measured tones about a brunch that resurrected a deceased guest—her voice trembles with the knowledge that the orchard chapel’s closure was a deliberate act of silence.\n\nScene 3: Claire Winterson stands beside a dock office desk, its surface slick with oil and unspoken truths. He reveals a repaired lock that should never have existed, his eyes flicking to the basement light that suddenly ignites in an empty house, a spectral reminder that nothing is truly buried.\n\nScene 4: Derek Hale, perched in a storage unit filled with old family items, confesses that he may die first or survive improbably. His words echo through the room like a shivering tide, hinting at a hidden fire that could engulf the vineyard and the town’s fragile peace.\n\nScene 5: The courthouse hallway buzzes with wine‑lit chatter as Evelyn Hale is accused in front of an audience that believes she can be trusted only because she wears flannel. Her threat aura swells to 0.46, the tension crackling like a live wire ready to ignite.\n\nScene 6: In a frantic drive toward the Bellweather Sheriff's Office, the characters confront a locked door inside a storage unit described as just storage. The amber light from the oven glows through dusty windows, revealing a tableau of unresolved secrets and a ceramic owl that seems to watch the unfolding drama like a silent judge.\n"
+  ],
+  "contradiction_notes": [
+    "Evelyn Hale’s identity shuffles like a deck of cards: Daniel in one kitchen scene, Derek during the rain argument—yet she remains the same enigma.\n\nLuke Bell claims Bellweather sits in Vermont, then declares it outside Atlanta after two glasses of wine, proving geography is as fluid as his conscience.\n\nA dead best friend appears at brunch, yet no one can agree if this is denial, evil, or a mere scheduling error—mortality becomes an optional script.\n\nThe basement’s ownership shifts from condo to lake house to abandoned vineyard with each mention—property drift blurs the town’s very foundation.\n\nThe ceramic owl moves between kitchens and storage units, its presence both a clue and a red herring, intensifying the sense that nothing is truly fixed.\n"
+  ],
+  "alternate_titles": [
+    "A Whisper in the Wet Ornament",
+    "Marina Shadows: The Widow’s Reckoning",
+    "Casserole of Secrets",
+    "The Orchard Chapel Conspiracy",
+    "Basement Echoes"
+  ],
+  "franchise_adjacency": "This expansion sits comfortably beside HallTime’s 'Vineyard Vendetta' and 'Bellweather Bureaucracy', weaving a shared universe where the law, fire, and hidden histories collide."
+}

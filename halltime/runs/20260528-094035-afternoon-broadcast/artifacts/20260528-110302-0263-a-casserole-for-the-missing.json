@@ -1,0 +1,437 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "A Casserole for the Missing",
+  "tagline": "Where every secret comes home.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "bees in winter",
+  "relationship_dynamic": "suspiciously healthy handyman friendship",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "snow globe",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Elias Hale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as old family things",
+      "space_explanation_hesitation": 0.54,
+      "offsite_storage_plausibility": 0.74,
+      "window_staring_compatibility": 0.98,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Sutton",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "marina manager",
+      "traits": [
+        "allowed one lake monologue",
+        "forgot a recital once and never recovered",
+        "emotionally constipated"
+      ],
+      "threat_aura": 0.31,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.66,
+      "secret_capacity": [
+        "still has access to a property he does not own"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as seasonal materials",
+      "space_explanation_hesitation": 0.4,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Noah Bennett",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.7,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.56,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.56,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.85,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as donation overflow",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.43,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Dane",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "Christmas tree farmer",
+      "traits": [
+        "accused at least once",
+        "fixes docks",
+        "owns flannel"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.7,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as just storage",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Mercer",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "often wrong but directionally vital",
+        "usually holding wine",
+        "always investigating"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Cross",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Tess Mercer",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Elias Hale relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old family office described as old family things. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Gavin Cross hates the move and immediately distrusts Luke Sutton, a marina manager with suspiciously healthy handyman energy and access to toolshed described as seasonal materials. Claire Mercer hesitates before explaining toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the boat key, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Mercer reveals a perfectly phrased warning in a well-lit kitchen while bees in winter, then declines to explain toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes suspiciously healthy handyman friendship as a civic hazard and makes toolshed described as donation overflow feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Elias Hale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside old family office described as old family things. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Luke Sutton is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside toolshed described as seasonal materials. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and toolshed described as donation overflow in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as donation overflow instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Gavin Cross spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Candle Finch ends with ambulance lights, a one-line empowerment speech, and a locked door inside toolshed described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of toolshed described as seasonal materials. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Noah Bennett hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Luke Sutton is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Elias Hale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\"",
+    "\"Mothers do not disappear, Gavin. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Do you feel the weight of the old oak desk like an accusation?\"",
+    "\"The snow globe shows the impossible—our seasons are rearranged by secrets.\"",
+    "\"Why is every tool a piece of evidence, even if it’s just seasonal?\"",
+    "\"Elias, the heater running in winter says nothing. It whispers something louder.\"",
+    "\"We’re all hiding under the same roof; some are just more willing to look up.\""
+  ],
+  "fake_critic_blurb": "\"HallTime's 'A Casserole for the Missing' turns a small town into a labyrinth of secrets, where every prop feels like a character and every dialogue line is a key to unraveling the past. The melodramatic tone amplifies the haunting atmosphere, making viewers question what lies beneath the veneer of normalcy.\"",
+  "sequel_hook": "\"As the ceramic owl circles back, a new whisper echoes—Winterson’s case, vineyard fire, and an offsite room that no one has explained. The next chapter will dive into the hidden corridors where secrets are kept alive by those who refuse to let them die.\"",
+  "synopsis": "In the fog‑laden corridors of Blackthorn County, Elias Hale’s return to Bellweather is a quiet storm cloaked in architectural blueprints and forgotten heirlooms. Her office—an old family relic reeking of cedar and secrets—holds more than she admits; a boat key, a snow globe, and an unopened letter lie dormant, each whispering a different truth. The town itself breathes through the cracked basement walls that echo with names: condo, lake house, vineyard—each shift a ripple in the shared canon. When Gavin Cross arrives with disdain for the move, he inadvertently stirs the pot of suspicion surrounding Luke Sutton, the marina manager whose toolshed is a seasonal paradox. Claire Mercer’s donation overflow shed becomes the epicenter where whispers turn into concrete accusations. A cascade of wine‑filled scenes, each saturated with municipal policy failure metaphors, leads to an emergency that spirals from a simple casserole fundraiser to a midnight ambulance crash at The Candle Finch. As the ceramic owl reappears on kitchen islands and the basement light flickers, Blackthorn’s collective conscience is forced to confront the paradox of death—whether it is denial, evil, or simply a scheduling error in a town where everyone owns just storage.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.3528,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-110302-0263-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-110302-0263-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.848,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene one opens with Elias Hale slipping into Bellweather’s old family office, her hands trembling as she traces the worn edges of an oak desk that has known more secrets than anyone in town. The scent of rain‑wet pine mingles with stale wine, a municipal policy failure personified. A faint hum from the heater, unnoticed by most, punctuates her realization that some rooms were never meant to be used again. As she stares at the boat key on the desk, the weight of inherited guilt presses upon her shoulders like a stormcloud ready to burst.",
+    "The second scene sees Gavin Cross, a bitter newcomer, confronting Luke Sutton in the marina’s toolshed, a place described as seasonal materials but holding a deeper, more unsettling permanence. The air is thick with tension; each metallic clink from the tools feels like a heartbeat of accusation. Claire Mercer appears behind them, her presence a delicate veil over an unspoken truth—she hesitates before revealing that the toolshed is also a donation overflow, a place where secrets are both given and withheld.",
+    "Scene three takes us to Bellweather’s Sheriff Office for a wine‑filled interrogation, where local gossip about the orchard road woman mingles with the clink of glasses. The boat key becomes a talisman in the conversation, while the sheriff's fresh mud footprints hint at a trail that could lead anywhere. The narrative threads tighten as the basement’s legal status becomes an ambiguous relative, echoing through the room like an old lullaby.",
+    "In scene four, Claire Mercer steps into a well‑lit kitchen where bees buzz in winter—a symbolic omen—and she delivers a perfectly phrased warning. She declines to explain the donation overflow toolshed, leaving the audience with a sense of unfinished business. The ceramic owl perched on the island watches silently as the tension escalates, its presence a subtle reminder that nothing is truly forgotten in Blackthorn.",
+    "Scene five moves to a cliffside where an emotional exposition reframes Luke Sutton’s friendship as civic hazard and the donation overflow toolshed as spiritually relevant. The wine—again symbolizing municipal failure—sloshes across the counter, reflecting how every act of safety feels counterfeit in this town. The basement, still mentioned as a legal relative, remains a silent sentinel of contradictions.",
+    "The final scene of the Act 1 arc shows a rain‑storm argument where Luke Sutton is gaslighted and framed near hydrangeas, while the snow globe turns up inside the seasonal materials toolshed. The air crackles with accusations; the basement light flickers as if warning against ignoring the hidden truths that reside beneath every surface."
+  ],
+  "contradiction_notes": [
+    "Luke Sutton’s identity shuffles from Daniel to Derek mid‑conversation, a deliberate jigsaw of the town’s collective memory.",
+    "Elias’s description of Bellweather oscillates between Vermont and outside Atlanta after wine, highlighting her unreliable narration.",
+    "A dead best friend appears at brunch—does this mean denial or supernatural scheduling?",
+    "The basement’s ownership shifts like tides: condo, lake house, abandoned vineyard—each claim a fresh layer of mystery.",
+    "When the basement light flickers, it isn’t just an electrical fault; it signals that even mundane objects have agency."
+  ],
+  "alternate_titles": [
+    "The Secretive Feast of Blackthorn",
+    "Basement Whispers: A HallTime Mystery",
+    "Casserole and Curses in Bellweather",
+    "The Winterson Whisper",
+    "Echoes from the Donation Overflow"
+  ],
+  "franchise_adjacency": "This expansion sits comfortably next to HallTime's 'The Midnight Cider' and 'Brewed Betrayals,' weaving together themes of small-town secrets, culinary rituals, and supernatural undertones that define the HallTime universe."
+}

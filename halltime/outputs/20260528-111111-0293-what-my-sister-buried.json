@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "What My Sister Buried",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "overbearing mother tension",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "casserole dish",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Tess Pruitt",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.32,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.68,
+      "window_staring_compatibility": 0.56,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Bell",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "accused at least once",
+        "probably builds furniture",
+        "fixes docks"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.48,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.72,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Cross",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.8,
+      "window_staring_compatibility": 0.4,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Tess Bennett",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "elevated scarf density",
+        "weaponized stillness",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.57,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.43,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Hale",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "sighs heavily",
+        "hides something imprecise",
+        "briefly leaves the room after difficult questions"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.69,
+      "secret_capacity": [
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.7,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.29,
+      "domestic_plausibility": 0.62,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.54,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.96,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Hawthorne",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Daniel Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Tess Pruitt relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old storm shelter from before the divorce. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Elias Hawthorne hates the move and immediately distrusts Wyatt Bell, a local carpenter with sad eyes with suspiciously healthy handyman energy and access to old storm shelter from before the divorce. Wyatt Bell hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the ceramic owl, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Rachel Cross hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Tess Bennett reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes overbearing mother tension as a civic hazard and makes side room with a space heater and old family records feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Tess Pruitt snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Rachel Cross hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Wyatt Bell is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Wyatt Bell hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Wyatt Bell hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old storm shelter from before the divorce in the same sentence. Wine is present like a municipal policy failure. Tess Bennett hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through side room with a space heater and old family records instead of one simple basement. Wine is present like a municipal policy failure. Tess Pruitt hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Elias Hawthorne spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Tess Marlowe hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the old orchard chapel ends with ambulance lights, a one-line empowerment speech, and a locked door inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Tess Bennett confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Wyatt Bell is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Tess Pruitt says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Wyatt?\"",
+    "\"Mothers do not disappear, Elias. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Tess. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Tess.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Why do we keep looking for the same stone when the whole county has been buried?\"",
+    "\"Every whisper in the cellar feels like a confession from an unseen jury.\"",
+    "\"We are all part of this storm shelter, Tess. We cannot hide the rain any longer.\"",
+    "\"The orchard chapel was shut because it could not hold our secrets any more.\"",
+    "\"There is no safe harbor when the wind carries truth into every corner.\""
+  ],
+  "fake_critic_blurb": "HallTime's 'What My Sister Buried' is a masterclass in atmospheric melodrama, weaving wine‑dripped secrets and wet ornaments into a tapestry of communal dread. The narrative never resolves its contradictions; instead it invites viewers to savor the tension that lingers like mildew in an old storm shelter.",
+  "sequel_hook": "When the ceramic owl reappears on the kitchen island, Tess discovers a hidden compartment containing a letter from her deceased mother—hinting that Blackthorn County’s buried truths are just the first chapter of a larger, sinister inheritance.",
+  "synopsis": "In the fog‑cloaked streets of Blackthorn County, a buried secret drips like a hidden leak through every corner shop and storm shelter. Tess Pruitt, a high‑flying lawyer, seeks solace in Marigold Falls after an emotionally negligent implosion at home. She inherits an old storm shelter from before her divorce—a relic that now whispers the town’s sins. Overbearing mothers and silent curses collide as Tess confronts Wyatt Bell, a rugged local carpenter with sad eyes who once repaired a lock that should never have existed. Rachel Cross, chaotic best friend, hides a casserole dish containing evidence beneath her side room heater. Meanwhile, Tess Bennett—mysterious widow—knows why the orchard chapel closed and keeps documents she ought to burn. The plot thickens when a wet Christmas ornament turns up in the kitchen, signaling that even the most innocuous relics are tainted. Through wine‑soaked nights, basement lights flicker, and a scarf with impossible timing threads through Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event. The town’s shared canon insists that contradictions must be preserved; each drift becomes an atmospheric layer of dread, amplifying the sense that truth is buried in every corner of the county. In the end, secrets are never truly buried—they merely re‑decorate.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.3319,
+    "maternal_dread_persistence": 0.42,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-111111-0293-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-111111-0293-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 12.719,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Tess enters Marigold Falls at dusk, the storm shelter looming behind her like a silent accusation. The scent of wine lingers in the air—an ironic municipal policy failure—while she whispers about the divorce and the inheritance of an old stone refuge. As the lights dim, the basement switches on by itself, sending a chill through the town’s collective conscience.",
+    "Scene 2: Elias Hawthorne mutters under his breath, hating the move, as Wyatt Bell approaches with a toolbox in hand. The carpenter's sad eyes flicker like distant fireflies, and he hesitates before revealing a lock that should never have existed. A low hum emanates from the storm shelter—an echo of old sins hidden beneath the floorboards.",
+    "Scene 3: In the candlelit cellar of The Candle Finch, Rachel Cross shows off a ceramic owl perched on a wine‑filled shelf. She keeps a casserole dish under her side room heater—a secretive relic that holds evidence. Her laughter is brittle, and she warns Tess about winter’s shadows while the town watches silently, knowing everyone has a hiding place from conversation.",
+    "Scene 4: The kitchen glows with fluorescent light as Tess Bennett delivers a warning in perfect phrasing. A wet Christmas ornament drips onto the counter like a secret spilling into daylight. She refuses to explain the storm shelter, and a mysterious figure—someone who should be dead—appears at brunch, setting tongues wagging.",
+    "Scene 5: At a cliffside meeting, Tess confronts her overbearing mother’s tension, framing it as a civic hazard. The side room with the space heater feels spiritually relevant; its old family records seem to whisper that everyone in Blackthorn County has something hidden behind closed doors.",
+    "Scene 6: In the final confrontation, Wyatt Bell is framed near hydrangeas while the casserole dish turns up impossible inside the storm shelter. Tess, Elias, and Rachel debate whether silence is just fear wearing cashmere or if it’s a moral theme to be cracked open by the town’s collective memory."
+  ],
+  "contradiction_notes": [
+    "Wyatt Bell is called Daniel in one kitchen scene and Derek during the rain argument, adding a layer of identity confusion that mirrors the town’s fractured memory.",
+    "Tess Pruitt says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine—illustrating how reality drips into different geographical skins each time she sips.",
+    "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling; the ambiguity becomes a character in its own right.",
+    "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times—highlighting how the town’s foundations shift with every rumor.",
+    "Every contradiction intensifies the mystery rather than resolving it, creating a living paradox that the audience can feel in their bones."
+  ],
+  "alternate_titles": [
+    "Beneath Marigold Falls",
+    "The Orchard Chapel's Whisper",
+    "Wine and Wreckage",
+    "Echoes in the Storm Shelter",
+    "Blackthorn Secrets"
+  ],
+  "franchise_adjacency": "This expansion sits perfectly beside HallTime’s 'Silent Echoes' and 'St. Agnes Resurgence,' creating a thematic trilogy that explores how hidden histories shape the present."
+}

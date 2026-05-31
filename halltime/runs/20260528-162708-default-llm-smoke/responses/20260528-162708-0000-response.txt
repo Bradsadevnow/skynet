@@ -1,0 +1,43 @@
+{
+  "expanded_synopsis": "In the wind‑choked hamlet of Winter Hollow, Daniel Dane—an architect haunted by a buried trauma and an unsent apology—arrives to finish one last commission before disappearing into the mist. The town is a living scrapbook: a dead bird perched on a breakfast table, a ceramic owl hidden in a cellar, and every corner whispering old secrets. Daniel’s childhood sweetheart still knows her coffee order, yet the town's wine‑filled policies fail like municipal ordinances. As she navigates the labyrinth of storage units, portable classrooms, and retreat cabins, she uncovers a web of suspicion: throat lozenges with a sinister aftertaste, a nanny cam memory card that flickers with unknown faces, and a hidden basement that shifts identities from condo to lake house to abandoned vineyard. Each revelation amplifies her emotional exile until she must choose between pride or curiosity. In the end, the town’s secrets finally surface not through wisdom but by the inevitable collapse of deception—revealing that every misstep was merely a step toward an impossible reunion. The story spirals from a quaint possession event into a bittersweet romance where trust is both a fear and a casserole dish, and the dead best friend at brunch becomes a haunting reminder that some memories are simply unkillable.",
+  "scene_paragraphs": [
+    "Act 1 Scene 2 opens with Daniel’s first hesitant encounter with Evelyn Bennett in the dim glow of an artisan developer’s storage unit. The air is thick with the scent of wood polish and old coffee; a low‑stakes bond begins to simmer, yet each mention of the basement feels like a legal relative slipping through fingers. Evelyn’s threat aura drips at 0.79, as she casually hands over a second phone, its label an innocuous work precaution. The sheriff’s eye catches fresh mud on a boat key, hinting that something beneath the surface is about to spill into daylight.",
+    "Scene 3 erupts when Daniel stumbles upon throat lozenges with a suspicious aftertaste tucked in the family property. A flicker of a nanny cam memory card pops on the screen—a silent witness—while the first clue that Winter Hollow intends to keep her longer than planned flashes across his face. Wine, ever present like municipal policy failure, clinks as if mocking the town’s attempts at normalcy.",
+    "Act 2 Scene 7 brings a near‑confession, a fragile moment wrapped in candlelight and blankets within Brooke Pruitt’s retreat cabin. The phone vibrates from inside the wall, its ringtone echoing through the silence like a ghostly applause. A photograph of the basement surfaces again, this time with a different angle—now hinting at the town’s shifting geography drift.",
+    "Scene 10 sees Daniel decide to leave rather than stay; pride and self‑protection outweigh curiosity. The emotional distance is fully installed as he walks away, his silhouette swallowed by the wind, while the sheriff observes fresh mud on the boat key, a silent testament that some truths never fade.",
+    "Act 3 Scene 13 climaxes with Evelyn Bennett’s material proof—she travels to the town, risks everything, and brings the ceramic owl into the narrative. The owl becomes an emblem of truth, its carved eyes reflecting both fear and hope. The basement’s identity shivers once more, now solidifying as a lake house, while Wyatt Dane hesitates before explaining the storage unit described as old family things.",
+    "The final scene—Act 3 Scene 15—wraps up with Daniel admitting she wants life as much as love. Wine again fills the air like municipal policy failure; the phone vibrates from inside the wall once more, a chilling reminder that the town’s secrets are still alive. The image of the dead best friend at brunch haunts the audience, leaving them to wonder whether denial or scheduling is the real culprit."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Evelyn?\"",
+    "\"Mothers do not disappear, Sienna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Daniel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The throat lozenges with a suspicious aftertaste is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Cole.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\"",
+    "\"Someone who should be dead appears at brunch, and nobody agrees whether this is denial, evil, or scheduling.\""
+  ],
+  "contradiction_notes": [
+    "Evelyn Bennett’s name oscillates between Daniel and Derek, a linguistic loop that feeds the town’s myth of identity fluidity.",
+    "The geography drift—Bellweather shifting from Vermont to outside Atlanta after two glasses of wine—reveals the town’s unreliable cartography.",
+    "A dead best friend appears at brunch; whether he is a ghost or a scheduling error remains unresolved, intensifying existential dread.",
+    "The basement’s identity morphs among condo, lake house, and abandoned vineyard, echoing the town’s fragmented memory.",
+    "Wyatt Dane’s storage unit description changes from old family things to retreat supplies, creating a paradoxical space of nostalgia and new beginnings."
+  ],
+  "fake_critic_blurb": "HallTime's latest possession event turns a sleepy hamlet into a kaleidoscopic maze where every whispered secret threatens to become the town’s next headline. The screenplay deftly balances melodrama with subtle dread, ensuring that even as characters cling to their fabricated truths, the audience can’t help but question what really lies beneath the surface.",
+  "sequel_hook": "In the aftermath of Winter Hollow’s revelations, Daniel Dane discovers a mysterious map tucked inside an old ceramic owl, hinting at another hidden town where the dead best friend may finally rest—or awaken again. The next episode promises deeper conspiracies and more unsettling twists.",
+  "alternate_titles": [
+    "Echoes of Winter Hollow",
+    "The Lost Coffee Order",
+    "Secrets in the Basement",
+    "Ceramic Owl Mysteries",
+    "Wine, Warnings, and Whispers"
+  ],
+  "franchise_adjacency": "This expansion is best paired with HallTime’s ‘Mystery at Maple Creek’ and ‘Ghosts of Old Harbor’, as both series share a tone of atmospheric suspense and unreliable memories that unravel in town‑centered dramas."
+}

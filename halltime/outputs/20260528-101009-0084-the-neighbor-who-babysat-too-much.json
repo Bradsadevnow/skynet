@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "The Neighbor Who Babysat Too Much",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "phone static saying her name",
+  "relationship_dynamic": "woman falsely accusing lovable scamp",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "blood-adjacent tea towel",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Claire Hale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "bakery owner",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.29,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.92,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Vale",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "absorbs accusatory kitchen dialogue",
+        "briefly leaves the room after difficult questions",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.68,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually",
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.77,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Cole Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.36,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.98,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as donation overflow",
+      "space_explanation_hesitation": 0.36,
+      "offsite_storage_plausibility": 0.66,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Winterson",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "weaponized stillness",
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.77,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.64,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as donation overflow",
+      "space_explanation_hesitation": 0.43,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Bennett",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "high school coach",
+      "traits": [
+        "forgot a recital once and never recovered",
+        "overworks",
+        "allowed one lake monologue"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.52,
+      "secret_capacity": [
+        "still has access to a property he does not own",
+        "ignored a warning text on the worst possible night"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as retreat supplies",
+      "space_explanation_hesitation": 0.73,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Mercer",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "says \"I know what I saw\"",
+        "always investigating",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.81,
+      "window_staring_compatibility": 0.94,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Evelyn Vale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Sienna Marlowe",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Claire Hale relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Daniel Bennett hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Evelyn Vale hates the move and immediately distrusts Daniel Vale, a financial advisor with suspiciously healthy handyman energy and access to toolshed described as paperwork I have not gone through yet. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the scarf with impossible timing, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Daniel Winterson reveals a perfectly phrased warning in a well-lit kitchen while phone static saying her name, then declines to explain old family office described as donation overflow. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes woman falsely accusing lovable scamp as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Claire Hale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Daniel Bennett hesitates before explaining marina tackle room described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Daniel Vale is accused, gaslighted, then gently framed near hydrangeas until the blood-adjacent tea towel turns up somewhere impossible inside toolshed described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Someone mentions the basement as if it were a legal relative. Daniel Winterson hesitates before explaining old family office described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old family office described as donation overflow in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Evelyn Vale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Cole Hawthorne hesitates before explaining storage unit described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside old family office described as donation overflow. Wine is present like a municipal policy failure. Claire Hale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Daniel Winterson confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of toolshed described as paperwork I have not gone through yet. Daniel Vale hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Daniel Vale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Claire Hale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Daniel?\"",
+    "\"Mothers do not disappear, Evelyn. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Claire. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Daniel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Why do we keep repeating the same stories, Claire? They’re never the same at all.\"",
+    "\"The town’s secrets are like wine; they only get stronger with time.\"",
+    "\"I’ve seen you look over that door twice and still think nothing's wrong.\"",
+    "\"It was always about the basement. About where our families hide.\"",
+    "\"And yet, every time we open it, the light changes, doesn't it?\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a smoky tapestry of suburban intrigue where every character is a mirror of their own insecurities, and the plot twists like a vine wrapped around an ancient oak. Critics hail its atmospheric dread as a masterclass in melodrama, while viewers debate whether the town’s secrets are truly hidden or merely misfiled.",
+  "sequel_hook": "When the ceramic owl lands on the kitchen island, it whispers of a second, darker orchard that may hold the key to unraveling Blackthorn County’s most buried truth. The next episode will plunge Claire Hale into a forbidden garden where every step might light the way—or set the town ablaze.",
+  "synopsis": "In the mist‑kissed town of Blackthorn County, Claire Hale—her bakery a trembling relic of her past—settles into Marigold Falls with an invisible meditation annex that nobody uses in winter. A wine‑filled policy of municipal failure keeps the townsfolk afloat while secrets simmer beneath the surface. Daniel Vale, a charming financial advisor with a toolbox of lies, slips into the toolshed—paperwork I have not gone through yet—and whispers phone static that calls her name. The scarf with impossible timing hangs like a warning in Bellweather’s sheriff office, and a blood‑adjacent tea towel clings to the damp corners of the local podcaster’s portable classroom. Each scene swirls around an unopened letter, a cemetery of hidden truths, and the relentless rhythm of emotional exposition that multiplies insanity by 1.00 each step forward. Love lives here—and so does arson—as the town redecorates itself, refusing to forget but eternally repainting its shadows.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.3991,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-101009-0084-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-101009-0084-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.195,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Act 1 Scene 1 opens with Claire Hale pouring wine into a chipped glass as she steps through Marigold Falls’ main street, her bakery’s bell chiming like an omen. The city’s winter annex—an abandoned meditation room—stands cold and silent, yet its walls echo the ghost of her emotionally negligent implosion. Daniel Bennett, high school coach turned reluctant confidant, lingers at the marina tackle room described as retreat supplies, hesitating to explain why his hands tremble when he speaks of fishing gear that feels more like a cage. The scene ends with an emotional exposition that swells in sync with a multiplier of 1.00, leaving readers craving the next sip of suspense.",
+    "Act 2 Scene 8 casts Daniel Vale in the spotlight as he is gaslighted and framed near hydrangeas. A blood‑adjacent tea towel surfaces from the toolshed—paperwork I have not gone through yet—its damp fabric a stark contrast to the dry lies spun by the town’s gossip mill. The wine, ever-present like municipal policy failure, pours into another glass while the sheriff, eyes wide with suspicion, observes fresh mud on the boat key that could belong to any resident. Claire Hale watches from a distance, her bakery’s scent of cinnamon mingling with the cold air of the meditation annex, wondering if she has finally found the truth or merely unspooled another thread of deception.",
+    "Act 3 Scene 13 builds tension as a frantic drive leads to Bellweather Sheriff’s Office, where ambulance lights flicker like heartbeats. The sheriff’s door is locked inside an old family office described as donation overflow—a place where secrets are stored and forgotten. Claire Hale hesitates before explaining the meditation annex that nobody uses in winter, her voice trembling with the weight of potential ruin. The scene crescendos at a multiplier of 2.25, leaving the audience on edge, waiting for the truth to spill like wine into a cracked glass.",
+    "Act 1 Scene 5 delivers an emotional exposition that reframes the woman falsely accusing the lovable scamp as a civic hazard. The unused portable classroom holding archived disciplinary files feels spiritually relevant, its dusty shelves humming with untold stories. Wine flows again, municipal policy failure in every sip, as someone mentions the basement—an ever‑shifting location that is condo, lake house, and abandoned vineyard in one breath. Claire Hale’s heart races while Daniel Winterson, the mysterious elegant wildcard, watches from the kitchen, his warning words echoing in the room where truth should be illuminated but instead remains cloaked.",
+    "Act 2 Scene 7 paints a town of false safety: a fundraiser, a casserole, and a sheriff who suspects the wrong person first. The scene is suffused with emotional exposition at 1.50 multiplier, and the basement—still described as a legal relative—continues its geographical drift. Wine again fills glasses, its bitter aftertaste matching the bitterness in town’s politics. The sheriff’s eyes follow fresh mud on the boat key, hinting that the culprit might be closer than any suspect’s alibi would allow.",
+    "Act 3 Scene 15 concludes with a sequel hook as the ceramic owl reappears, its feathered form perched on the kitchen island like a silent witness. Daniel Winterson confesses enough to make the truth worse, while the sheriff arrives exactly fourteen minutes too late. Wine, once more, is present in every conversation, binding the townsfolk together in a circle of shared despair and hope—each sip a reminder that love lives here, but so does arson."
+  ],
+  "contradiction_notes": [
+    "Daniel Vale’s name morphs into Derek in one rain argument—an echo that feels more like a spell than a slip.",
+    "Claire Hale insists Bellweather is Vermont, then swears it's outside Atlanta after two glasses of wine—time bending with each sip.",
+    "The dead best friend’s appearance at brunch defies logic, turning the town’s reality into a carnival of denial and scheduled deaths.",
+    "Basement ownership shifts from condo to lake house to abandoned vineyard, suggesting Blackthorn County itself is a shapeshifting entity.",
+    "The phone static that calls Daniel Vale’s name seems to haunt her as much as it haunts him—an unsettling symmetry."
+  ],
+  "alternate_titles": [
+    "The Scarf That Whispered",
+    "Wine & Wreckage in Marigold Falls",
+    "Blackthorn’s Silent Flames",
+    "Marigold's Murmurs of Arson",
+    "Bellweather’s Buried Secrets"
+  ],
+  "franchise_adjacency": "This saga dovetails seamlessly with HallTime’s recent series \"The Willow Whisperers\" and the upcoming thriller \"Midnight Harvest\", both exploring the eerie undercurrents that thread through Blackthorn County’s quaint towns."
+}

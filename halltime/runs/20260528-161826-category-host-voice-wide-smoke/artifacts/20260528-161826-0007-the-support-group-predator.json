@@ -1,0 +1,450 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "She Was Not Crazy",
+  "generation_feedback_used": true,
+  "title": "The Support Group Predator",
+  "tagline": "Where every secret comes home.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a thermostat set to 90 by hands that deny themselves",
+  "relationship_dynamic": "widow maybe lying maybe surviving",
+  "starter_premise": {
+    "title": "The Support Group Predator",
+    "category": "thriller",
+    "intensity": "extreme",
+    "premise": "He infiltrates online widow communities and has done it in at least twelve groups already.",
+    "signature_tell": "His profile photo is him with a golden retriever and it is not his dog.",
+    "parent_title": "The Support Group Predator",
+    "base_premise": "He attends grief groups and he is not grieving."
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "heavy brass candlestick",
+    "vindictive music box",
+    "casserole dish"
+  ],
+  "cast": [
+    {
+      "name": "Claire Marlowe",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.47,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Wyatt Winterson",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.67,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.72,
+      "window_staring_compatibility": 0.52,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Bell",
+      "archetype": "intuitive_disaster",
+      "role": "best_friend",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "always investigating",
+        "often wrong but directionally vital",
+        "says \"I know what I saw\""
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Pruitt",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.78,
+      "domestic_plausibility": 0.66,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.94,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.67,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Daniel Mercer",
+      "archetype": "perfect_new_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "benevolent rescuer spouse",
+      "hidden_function": "curated widower threat",
+      "job": "wealth manager with mountain hobbies",
+      "traits": [
+        "loves her daughter with documentary intensity",
+        "bought the house too quickly",
+        "has a locked room explained as grief"
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.54,
+      "secret_capacity": [
+        "has already renovated away one suspicious stain"
+      ],
+      "innocence_probability": 0.17,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.36,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.97,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Elias Sutton",
+      "archetype": "stalker_nanny_au_pair",
+      "role": "secondary_witness",
+      "surface_function": "perfect childcare solution",
+      "hidden_function": "domestic replacement campaign",
+      "job": "emergency childcare specialist",
+      "traits": [
+        "folds laundry with territorial energy",
+        "wins over children by the second breakfast",
+        "wears the mother's robe as if testing custody"
+      ],
+      "threat_aura": 0.82,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "stalker_nanny_au_pair maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.65,
+      "secret_capacity": [
+        "has a second set of references with a different surname"
+      ],
+      "suspicion_mode": "maternal_displacement",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.52,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Pruitt",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Evelyn Vale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "The asymmetry is visible to the audience before it is legible to Claire Marlowe: He infiltrates online widow communities and has done it in at least twelve groups already. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "The first wrong read happens in public, and from then on the county starts accumulating evidence in the wrong emotional direction. Someone mentions the basement as if it were a legal relative. Brooke Pruitt hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.09. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.09,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A clue involving heavy brass candlestick appears in scene one or two, but only later will anyone admit it mattered. Signature tell: His profile photo is him with a golden retriever and it is not his dog. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Wyatt Winterson hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.19.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.19,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Brooke Pruitt issues a warning that sounds theatrical now and forensic later. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.30. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.3,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "Act one ends with the information gap already weaponized against the person who needs it most. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.41.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.41,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "The police do not merely fail; they side with the wrong narrative and make Claire Marlowe newly dangerous on paper. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.54.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.54,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The ally is compromised, recants, disappears, or gets removed from usefulness before act three. She will not have clean backup. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.68. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.68,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Extreme-only beat: Claire Marlowe finds the thing that should not exist, proving the gap was curated and may never fully close. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.83.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.83,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The county now treats the missing information as proof against her instead of proof of manipulation. Someone mentions the basement as if it were a legal relative. Wyatt Winterson hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.99. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.99,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "By the end of act two, survival depends on moving while still partially ignorant. Wine is present like a municipal policy failure. Claire Marlowe hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.17.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.17,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal confirms the audience's dread but still leaves enough missing context to wound certainty itself. Wine is present like a municipal policy failure. Daniel Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.37.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.37,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "The timeline error, digital slip, or witness contradiction narrows the gap but never fully collapses it in time. Someone mentions the basement as if it were a legal relative. Daniel Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A chase or confrontation near Channel 8 Night Report forces action before comprehension is complete. Wine is present like a municipal policy failure. Daniel Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.81. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.81,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Justice is partial or pyrrhic. The visible conspiracy breaks, but the informational gap stays open somewhere at the edge of the county. Someone mentions the basement as if it were a legal relative. Brooke Pruitt hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 3.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 3.07,
+      "engine": "information_asymmetry",
+      "category": "thriller",
+      "intensity": "extreme"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Wyatt Winterson is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Claire Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Wyatt?\"",
+    "\"Mothers do not disappear, Evelyn. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Claire. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The heavy brass candlestick is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Brooke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"The Support Group Predator understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"The Support Group Predator\" follows Claire Marlowe, a sacred protagonist caught inside widow maybe lying maybe surviving before she understood where the gap had already opened. Wyatt Winterson collides with her life carrying portable suspicion, plausible access to offsite storage, and the kind of calm that sounds premeditated in a dim kitchen. The governing injury is simple: He infiltrates online widow communities and has done it in at least twelve groups already. The signature tell is always this: His profile photo is him with a golden retriever and it is not his dog. As a thermostat set to 90 by hands that deny themselves, what she cannot yet see becomes the syntax of the whole county, and every withheld fact keeps breathing just ahead of her. Where every secret comes home.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.4322,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}

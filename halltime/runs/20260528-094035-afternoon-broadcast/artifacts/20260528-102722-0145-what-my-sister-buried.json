@@ -1,0 +1,442 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "What My Sister Buried",
+  "tagline": "Every town has a basement.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "casserole dish",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Luke Hale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.63,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Brooke Cross",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "owns flannel",
+        "unexpectedly good with children",
+        "probably builds furniture"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons",
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.65,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Evelyn Marlowe",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 1.0,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as seasonal materials",
+      "space_explanation_hesitation": 0.83,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.82,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Rachel Bennett",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.67,
+      "domestic_plausibility": 0.67,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.69,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.92,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Evelyn Hale",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "attorney with no visible clients",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.66,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.49,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually",
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as old family things",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "always investigating",
+        "usually holding wine",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.84,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.8,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Wyatt Cross",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "notices timeline errors before adults do",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Daniel Hawthorne",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Hale relocates to Bellweather after an emotionally negligent implosion and pretends work explains everything while quietly inheriting marina tackle room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Wyatt Cross hates the move and immediately distrusts Brooke Cross, a widowed boat mechanic with suspiciously healthy handyman energy and access to meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Evelyn Marlowe hesitates before explaining annex room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the gazebo at Lake Mercy introduces the ceramic owl, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Rachel Bennett reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes toolshed described as old family things feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Hale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside marina tackle room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as old family things. Someone mentions the basement as if it were a legal relative. Evelyn Hale hesitates before explaining toolshed described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Brooke Cross is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and meditation annex nobody uses in winter in the same sentence. Wine is present like a municipal policy failure. Brooke Cross hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as old family things instead of one simple basement. Wine is present like a municipal policy failure. Luke Hale hesitates before explaining marina tackle room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Wyatt Cross spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Rachel Bennett confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Brooke Cross is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Hale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Bellweather.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Brooke?\"",
+    "\"Mothers do not disappear, Wyatt. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Rachel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The lake bell rings only when someone lies, Luke. It’s an omen we’ve all ignored.\"",
+    "\"Brooke, you keep saying you’re honest—yet you hid a letter in that annex.\"",
+    "\"Evelyn, you know more about the half sibling than anyone else. Why hide it?\"",
+    "\"Rachel, why do you close the orchard chapel door after sunset?\"",
+    "\"Luke, the paperwork you never read might be your undoing—don’t let it haunt you.\""
+  ],
+  "fake_critic_blurb": "\"HallTime delivers a stew of dread, simmered slowly over a lake bell that never rings. The characters, wrapped in their own emotional paperwork, turn every quiet moment into a potential murder mystery. If you love atmospheric melodrama with a side of municipal policy failure, this is the season you’ll want to binge-watch until your basement screams back.\"",
+  "sequel_hook": "\"The ceramic owl’s eyes now glow red at dusk—will it guide Luke Hale into a new town where secrets are currency and basements are traps? The next chapter will explore the forgotten annex in the old quarry, where the lake bell has never rung before.\"",
+  "synopsis": "In the rain‑slick town of Blackthorn County, Luke Hale’s arrival at Bellweather is less a fresh start than an overdue confession. The marina tackle room—paperwork he has yet to read—hides more than nets: it holds a secret locked box and the weight of unsent emails that could shatter a family. Meanwhile, Brooke Cross, widowed boat mechanic with a healthy handyman aura, guards a meditation annex nobody uses in winter, whispering about basements as if they were legal relatives. Evelyn Marlowe’s seasonal bartender gossip is a lifeline; Rachel Bennett, therapist‑turned-wildcard, keeps the old orchard chapel’s closure close to her chest. As wine drips from municipal policies and ceramic owls watch over kitchen islands, each character's hidden truths collide with the lake bell that rings without wind—an omen that seems to echo every unsaid threat. The town’s simmering secrets surface in a cascade of emotional exposition, from basements that belong to condos to the mysterious disappearance of a best friend at brunch. In the end, the basement is not just a place but an accusation, and the town must decide whether silence is fear wearing cashmere or simply the only language left.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3643,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102722-0145-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102722-0145-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.906,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene One opens with Luke Hale standing amid overturned crates in the marina tackle room, his shoulders hunched over paperwork he never reads. A single bottle of wine sits beside a ceramic owl that watches like an unseen judge. The town’s windless lake bell chimes at noon, but no one hears it—just the thrum of hidden secrets. Luke’s eyes flicker to a locked box tucked behind seasonal supplies; he knows his career in regional marketing cannot protect him from what lies beneath. The scene is saturated with municipal policy failures and emotional exposition, each sentence a multiplier that drips 1.00 into the room’s tension.",
+    "In Scene Two, Wyatt Cross confronts Brooke at the dock, eyes burning like fresh mud on a boat key. He questions her sudden move to Bellweather, calling her ‘widowed’ but not widowed, calling him a “scamp” in a whisper that tastes of suspicion. The meditation annex—nobody uses it in winter—stands silent and cold, yet its walls echo with rumors about basements as legal relatives. Evelyn Marlowe lingers on the edge of the scene, her bartender gossip swirling around seasonal materials like a storm that never fully breaks.",
+    "Scene Three unfolds at the gazebo by Lake Mercy where wine pours like municipal policy failure and a ceramic owl watches over every conversation. Local gossip about the Christmas pageant incident ricochets through the crowd, while an unseen basement lingers in the minds of everyone present. The emotional exposition arrives with a multiplier of 1.14, each word a drop that thickens the air with dread. Even the lake’s windless bell seems to ring just for those who dare to listen.",
+    "Scene Four finds Rachel Bennett in a well‑lit kitchen, her therapist aura shimmering like a fragile promise. She drops a perfectly phrased warning about the meditation annex and the silent lake bell. Her words are like wine—present as municipal policy failure—and her eyes flicker with something darker than fear. The sheriff’s fresh mud on the boat key is a reminder that secrets always find a way to surface, even in the most unassuming places.",
+    "Scene Five takes place on a cliffside where emotional exposition reframes a casserole exchange into a civic hazard. The toolshed—old family things—becomes spiritually relevant as Luke and Brooke debate whether basements are innocent or defensive. Wine again drips like policy failure, each sip a reminder that the town’s secrets are intoxicating and lethal. The scene ends with a quiet promise: that the basement is not just a space but a threat.",
+    "Scene Six, the climax, is set in the meditation annex where the unopened letter sits beside a lake bell ringing without wind. Luke opens the sealed envelope to find a map leading to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event. The revelation forces every character—Luke, Brooke, Evelyn, Rachel—to confront their own buried truths. Wine clinks once more, echoing through the room like a municipal policy failure, while the sheriff’s mud on the boat key serves as a final reminder that the town is built on hidden foundations."
+  ],
+  "contradiction_notes": [
+    "Brooke Cross’s identity oscillates like a radio static: Daniel in one kitchen scene and Derek during the rain argument, leaving her name to drift as if caught in a townwide glitch.",
+    "Luke Hale insists Bellweather is in Vermont then swears it lies outside Atlanta after two glasses of wine—geography becomes a metaphor for his fractured mind.",
+    "A best friend appears at brunch yet vanishes before the day ends, blurring mortality with denial and making readers question if death is a schedule or an act of terror.",
+    "The basement’s ownership shifts from condo to lake house to abandoned vineyard, turning it into a shapeshifting antagonist that mirrors the town’s unstable foundations.",
+    "Evelyn Marlowe’s secret about a half sibling feels like a ghost story—present in one scene, absent in another—suggesting that secrets themselves are fluid and unreliable."
+  ],
+  "alternate_titles": [
+    "Beneath Bellweather: A Basements Tale",
+    "The Lake Bell Omen",
+    "Echoes of the Ceramic Owl",
+    "Wine & Whispered Secrets",
+    "The Unfinished Paperwork"
+  ],
+  "franchise_adjacency": "This expansion sits comfortably next to HallTime’s \"Ghosts of Blackthorn\" and \"Winterson Case Files,\" weaving its atmospheric dread into a larger tapestry of small‑town mysteries that thrive on emotional neglect and hidden basements."
+}

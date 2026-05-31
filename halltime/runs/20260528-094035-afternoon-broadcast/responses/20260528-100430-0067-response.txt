@@ -1,0 +1,43 @@
+{
+  "expanded_synopsis": "In the rain‑slick lanes of Marigold Falls, Wyatt Dane clutches a battered dock office that hums with unclaimed secrets while she pretends her architectural blueprints hold the answers to an emotionally negligent implosion back home. The town’s underbelly swirls like a lake bell ringing without wind: Noah Sutton’s sad eyes and carpenter hands hide a past of vanished neighbors; Noah Winterson, a gallery owner with an aura that smolders 0.83 times the normal threat, knows why the orchard chapel was shuttered and dines at midnight with ghosts who once walked this street. Evelyn Pike, real‑estate agent of chaos, balances between survival and doom in an unused portable classroom, while Tess Hawthorne’s marina management masks a shameful cover‑up. The narrative spirals through wine‑laden gazebo scenes, courthouse basement confessions, and the uncanny presence of an unopened letter that whispers the town’s darkest contracts. Trust is not given; it is rented at the price of blood‑adjacent tea towels, a casserole dish that surfaces in impossible places, and the silent, yet violent, certainty that every secret has a home.",
+  "scene_paragraphs": [
+    "Wyatt Dane’s first breath in Marigold Falls tastes like old wine—an unsteady municipal policy failure. She moves into the dock office with a desk nobody fully claims, its windows framed by the trembling silhouette of a lake bell that rings without wind. The office is suffused with an aura of 0.22 threat, a whisper from her past implosion. As she pours herself another glass, the scent of iron and forgotten blueprints fills the air; she senses that the dock is more than a workplace—it’s a holding cell for buried trauma.",
+    "Noah Sutton stands in the church basement—old family things echoing off stone walls—and his sad eyes flicker with a healthy handyman energy. The space smells like wood shavings and rain on concrete, yet it holds an invisible barrier of suspicion. Claire Sutton hovers nearby, her anger simmering as she mutters about Noah’s motives. The air crackles; the basement’s light flickers like a heartbeat in sync with a distant church bell that seems to know more than its own sound.",
+    "At the gazebo by Lake Mercy, the community gathers for a wine‑filled celebration. A ceramic owl perches on a kitchen island, and an unopened letter is tossed onto the table as a dare. Noah Winterson reveals a warning, perfectly phrased yet cryptic, while a lake bell rings without wind, casting an uncanny echo across the water. The crowd’s laughter turns to uneasy whispers as someone mentions the basement as if it were a legal relative.",
+    "During a cliffside gathering, the dock office becomes a spiritual stage—its desk nobody claims turning into a confessional for the town’s secrets. Wyatt Dane finds a locked box behind seasonal supplies, her curiosity sparking an inferno of fear and certainty. The wine flows like municipal policy failure; each sip thickens the air with unresolved tension, as the townsfolk discuss who to suspect first while the sheriff stares at fresh mud on a boat key.",
+    "The fundraiser’s casserole becomes the town’s sacramental offering. Tess Hawthorne, with her marina manager façade, hesitates before explaining why the dock office remains unclaimed. Noah Sutton is accused and gaslighted, his image tarnished by hydrangeas that seem to bloom out of time. The casserole dish turns up inside the church basement—old family things—while a lake bell rings without wind, marking a ritual that defies logic.",
+    "In the final scene, the truth unravels like a thread pulled from a tapestry. Noah Winterson confesses enough to deepen the mystery while the sheriff arrives too late, his footfalls echoing against a dusty church basement wall. The ceramic owl reappears, and whispers of a vineyard fire swirl through the air. A phone vibrates inside an unseen wall, hinting at secrets yet to be revealed."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Noah?\"",
+    "\"Mothers do not disappear, Claire. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Wyatt. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Noah.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The lake bell rings without wind, and yet we hear your confession like thunder.\"",
+    "\"Your hands are stained with wood shavings of a past that never truly left.\"",
+    "\"When the casserole dish appears in the church basement, it is not an accident—it is a summons.\"",
+    "\"All the secrets we hide under desks have eyes that watch us from the corners of abandoned vineyards.\"",
+    "\"Every secret has a home; every home whispers back to those who dare listen.\""
+  ],
+  "contradiction_notes": [
+    "Noah Sutton’s name shifts between Daniel and Derek—perhaps he is a chameleon of identity, or the town’s collective memory warps him.",
+    "Wyatt Dane’s geographic drift—from Vermont to Atlanta—suggests her mind is as fragmented as her emotional state, maybe hinting at an unreliable narrator.",
+    "The mortality drift where a dead best friend appears at brunch blurs life and death; it may be symbolic of the town’s inability to let go.",
+    "Property drift over the basement’s ownership indicates the space is more than a physical location—it's a mythic repository of communal guilt.",
+    "Each contradiction intensifies the atmosphere: they’re not errors but layers of narrative that deepen HallTime’s signature labyrinth."
+  ],
+  "fake_critic_blurb": "\"A moody, wine‑kissed mystery where every glass poured is a confession and every bell tolls with secrets. HallTime's latest expansion turns Marigold Falls into a cathedral of suspicion—where trust is rented at the price of blood‑adjacent tea towels.\"",
+  "sequel_hook": "\"When the ceramic owl finally lands in a new cellar, an ancient key will unlock a secret that could tear Blackthorn County apart.\"",
+  "alternate_titles": [
+    "Casserole for the Missing: The Unopened Letter",
+    "Marigold Falls: Echoes of a Lake Bell",
+    "Trust Rented, Secrets Sold",
+    "The Dock Office Mystery",
+    "Blood‑Adjacent Tea Towel Chronicles"
+  ],
+  "franchise_adjacency": "This expansion sits alongside HallTime’s *Blackthorn Vineyard* and *St. Agnes Regional*, creating a cohesive universe where every town secret reverberates across broadcasts."
+}

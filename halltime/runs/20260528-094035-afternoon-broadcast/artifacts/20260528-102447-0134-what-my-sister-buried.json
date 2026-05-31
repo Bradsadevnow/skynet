@@ -1,0 +1,429 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Hallmark Possession Event",
+  "title": "What My Sister Buried",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "blood-adjacent tea towel",
+    "boat key",
+    "casserole dish"
+  ],
+  "cast": [
+    {
+      "name": "Noah Marlowe",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "regional marketing executive",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.31,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as just storage",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.47,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Tess Bell",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "regional dentist",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "sighs heavily",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.52,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.64,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.86,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.44,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Bell",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as donation overflow",
+      "space_explanation_hesitation": 0.94,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.7,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Claire Pruitt",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "elevated scarf density",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.76,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.86,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.76,
+      "offsite_storage_plausibility": 0.48,
+      "window_staring_compatibility": 0.56,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Sienna Dane",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "grief counselor",
+      "traits": [
+        "makes tea incorrectly",
+        "appears in doorways with impossible timing",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.8,
+      "domestic_plausibility": 0.56,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.48,
+      "secret_capacity": [
+        "has a second phone labeled as a work precaution",
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.75,
+      "offsite_storage_plausibility": 0.91,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Brooke Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "often wrong but directionally vital",
+        "usually holding wine",
+        "always investigating"
+      ],
+      "threat_aura": 0.5,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.52,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Luke Hale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Noah Marlowe relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting marina tackle room described as just storage. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Claire Pruitt hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Claire Pike hates the move and immediately distrusts Tess Bell, a regional dentist with suspiciously healthy handyman energy and access to unused portable classroom holding archived disciplinary files. Noah Marlowe hesitates before explaining marina tackle room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the blood-adjacent tea towel, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Claire Pruitt reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes old family office described as donation overflow feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Noah Marlowe snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside marina tackle room described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old family office described as donation overflow. Brooke Marlowe hesitates before explaining storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Tess Bell is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside unused portable classroom holding archived disciplinary files. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Emotional exposition arrives on schedule with insanity multiplier 1.72. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and retreat cabin with candles, blankets, and difficult silence in the same sentence. Wine is present like a municipal policy failure. Jenna Bell hesitates before explaining old family office described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties casserole dish to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old family office described as donation overflow instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Claire Pike spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Claire Pruitt confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Dane hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.58. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Tess Bell is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Noah Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Tess?\"",
+    "\"Mothers do not disappear, Claire. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Noah. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The blood‑adjacent tea towel is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Claire.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\n\"If that basement is innocent, why does it sound defensive?\"\n\n\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Tess, your voicemail deletion was a spiritual regret; we should have listened to it before the storm.\"",
+    "\"Noah, the wet ornament isn’t a clue—it’s a confession wrapped in holiday light.\"",
+    "\"Jenna, you hid evidence in that casserole dish because you feared the truth would drown us all.\"",
+    "\"Sienna, your second phone is more than precaution; it's an alibi rehearsed for an audience that never exists.\"",
+    "\"Brooke, those screenshots you keep are like relics of a faith you once believed.\"",
+    "\"Claire Pike, the house is empty but the silence speaks louder than any argument can.\""
+  ],
+  "fake_critic_blurb": "HallTime's latest opus, 'What My Sister Buried,' is a cinematic tapestry where every wet ornament and flickering basement light sings a haunting refrain. The film marries the banal ritual of wine with the weighty gravitas of municipal policy failure, all while weaving a labyrinthine plot that defies linearity but never loses its emotional core. Critics praise its atmospheric dread, its audacious use of contradiction as narrative spice, and its uncanny ability to make every character feel both like a suspect and an unreliable witness.",
+  "sequel_hook": "When the ceramic owl reappears in the snow‑laden night, whispering about Winterson’s case and the vineyard fire, a new mystery beckons—will the town finally reconcile its past sins, or will the secrets buried beneath Blackthorn County's basements swallow it whole?",
+  "synopsis": "When Noah Marlowe flees a crushing corporate implosion, she rents a forgotten marina tackle room in Alder Ridge, Blackthorn County—a place that feels more like an abandoned storage unit than a sanctuary. The town is saturated with secrets: Christmas ornaments drip wet from some unseen sorrow, basements flicker alive as if they harbor legal relatives, and every home has a hidden conversation waiting to be heard. As Noah’s past emails threaten to shatter her family, she must navigate a web of suspicion woven by Tess Bell, a dentist whose voicemail deletion carries spiritual weight; Jenna Bell, a salon owner who once hid evidence in a casserole dish; Claire Pruitt, a therapist cloaked in candlelit silence; Sienna Dane, a grief counselor with a second phone rehearsed to perfection; and Brooke Marlowe, an innkeeper who keeps screenshots like religious texts. The narrative escalates through 15 scenes where wine is never just wine but municipal policy failure, basements become legal relatives, and emotional exposition rises in calculated multipliers. By the climax, a frantic drive to Lake Mercy’s gazebo ends with ambulance lights, a one‑line empowerment speech, and a locked door that seals the truth deeper than any casserole dish can hold.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.4494,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102447-0134-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102447-0134-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.757,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Noah steps into Alder Ridge’s marina tackle room—a storage unit masquerading as an office—while the bartender serves wine that tastes like municipal policy failure. The air thickens with the scent of wet ornaments and the faint hiss of a basement light flickering, hinting at hidden legal relatives. Claire Pruitt, her retreat cabin a shrine of candles and blankets, hesitates before unveiling a warning wrapped in candlelight—her words echo like distant thunder over the cliffside.\n\nScene 2: Tess Bell, the regional dentist with suspiciously healthy handyman energy, confronts Noah in an unused portable classroom where disciplinary files hang like forgotten ghosts. The room’s silence is broken by a basement light that turns on as if protesting the town’s fake sense of safety. Tess’s accusation feels like a municipal policy failure—wine poured, trust shattered.\n\nScene 3: At The Candle Finch, a wine‑filled gathering introduces the blood‑adjacent tea towel and whispers of the vineyard fire. A casserole exchange sparks an emotional hazard that turns the old family office into a donation overflow of spiritual relevance. Basements become legal relatives as secrets spill like wet ornaments.\n\nScene 4: Claire Pruitt, standing beside a ceramic owl on the kitchen island, reveals a perfectly phrased warning about the wet ornament. Her words drip with menace, and the retreat cabin’s candles burn brighter, illuminating the darkness that hides the town’s buried sins.\n\nScene 5: The cliffside conversation spirals into an emotional exposition with insanity multiplier climbing to 1.31. Noah’s laptop finds nothing; yet a stare through a dirty window seals her certainty. Wine flows like municipal policy failure as the basement light flickers, echoing legal relatives.\n\nScene 6: The final drive toward Lake Mercy’s gazebo culminates in ambulance lights and a one‑line empowerment speech. Inside the locked door of the retreat cabin, candles sputter against blankets while a wet ornament glistens—truth deeper than any casserole dish can hold."
+  ],
+  "contradiction_notes": [
+    "Tess Bell’s name oscillates between Daniel and Derek—perhaps she’s a shapeshifter or the town forgets names as readily as it forgets basements.\n\nNoah claims Bellweather sits in Vermont one moment, then outside Atlanta after two glasses of wine—indicating either a mental fog or a town where geography is fluid like emotions.\n\nA dead best friend appears at brunch; whether this is denial, evil, or scheduling blurs the line between reality and myth, a hallmark of HallTime’s narrative haze.\n\nThe basement shifts its identity from condo to lake house to abandoned vineyard—suggesting that in Blackthorn County, spaces are as malleable as memories.\n\nSienna Dane’s hesitation before revealing her storm shelter feels like an intentional rupture, inviting the audience to question if continuity failures are purposeful seeds of intrigue."
+  ],
+  "alternate_titles": [
+    "Echoes of Alder Ridge",
+    "The Wet Ornament Conspiracy",
+    "Casserole Dilemmas: Blackthorn Edition",
+    "Basement Secrets Unveiled",
+    "Maritime Marrow"
+  ],
+  "franchise_adjacency": "This expansion belongs near HallTime broadcasts such as 'The Lake Mercy Chronicles' and 'The Orchard Chapel Mysteries,' weaving a shared universe of haunted basements, enigmatic ornaments, and emotionally charged family sagas."
+}

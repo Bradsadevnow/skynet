@@ -1,0 +1,427 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "What My Sister Buried",
+  "tagline": "Every town has a basement.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "scarf with impossible timing",
+    "casserole dish",
+    "snow globe"
+  ],
+  "cast": [
+    {
+      "name": "Brooke Winterson",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.47,
+      "domestic_plausibility": 0.91,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.91,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.77,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Cross",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "high school coach",
+      "traits": [
+        "emotionally constipated",
+        "forgot a recital once and never recovered",
+        "allowed one lake monologue"
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.52,
+      "secret_capacity": [
+        "covered for someone out of shame"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.55,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Lark",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.96,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.52,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Pike",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "weaponized stillness",
+        "sustained eye contact",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.78,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as old family things",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Sutton",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "fixes docks",
+        "unexpectedly good with children",
+        "owns flannel"
+      ],
+      "threat_aura": 0.61,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.78,
+      "secret_capacity": [
+        "had an engagement that ended under suspiciously quiet circumstances"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.7,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.94,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Marlowe",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "says \"I know what I saw\"",
+        "usually holding wine",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.26,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.74,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.88,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Cole Dane",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Tess Dane",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "definitely has rain-scene potential",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Brooke Winterson relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Mara Pike hesitates before explaining old family office described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Cole Dane hates the move and immediately distrusts Elias Cross, a high school coach with suspiciously healthy handyman energy and access to annex room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the scarf with impossible timing, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Mara Pike reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain old family office described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes old family office described as old family things feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Brooke Winterson snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old family office described as old family things. Someone mentions the basement as if it were a legal relative. Claire Marlowe hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Elias Cross is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside annex room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old family office described as old family things in the same sentence. Wine is present like a municipal policy failure. Daniel Sutton hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties snow globe to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old family office described as old family things instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Cole Dane spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside old family office described as old family things. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Mara Pike confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of annex room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Elias Cross is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Brooke Winterson says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Elias?\"",
+    "\"Mothers do not disappear, Cole. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Brooke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Mara.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\n\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "The wine glasses clinked in the quiet annex as the lake bell tolled again, and Brooke whispered, \"Some basements are not walls, they’re doors to another time.\"",
+    "Elias Cross stared at the ceramic owl, its eyes reflecting a thousand unspoken apologies. \"Maybe we all need to bake something that isn’t just food,\" he murmured.\n\n\"I can feel the basement breathing under my feet,\" Mara hissed, her voice trembling like an old family photograph.\n\nCole Dane slammed his hand on the table, wine spilling over the edge. \"The town’s secrets are heavier than any casserole.\"",
+    "Elias Lark laughed, a chaotic sound that bounced off the walls of the retreat cabin. \"Maybe the only thing we can trust is this stupid scarf,\" he said, holding it up like a trophy."
+  ],
+  "fake_critic_blurb": "HallTime delivers a masterclass in atmospheric dread and narrative complexity. With a screenplay that feels like a well‑worn diary, the show twists familiar tropes into hauntingly original constructs. Its dialogue crackles with tension while its visual motifs—ceramic owls, scarves, wine as policy—serve as unsettling symbols of hidden truths. A must‑watch for fans of psychological thrillers who appreciate a story that refuses to tidy itself up.",
+  "sequel_hook": "When the ceramic owl’s eyes finally reveal the town’s deepest secret, the next season will follow Brooke Winterson and Mara Pike as they chase the elusive truth behind Blackthorn County’s most stubborn basement—and discover that some walls are built to hide more than just secrets.",
+  "synopsis": "In the damp hush of Blackthorn County, Brooke Winterson’s arrival is marked by a silent storm that rattles more than her nerves—an unspoken implosion in her past. She inherits an unused meditation annex, a winter‑unused space that seems to breathe with secret life. Mara Pike, the elegant therapist whose old family office brims with half‑burned documents, keeps her warnings wrapped in culinary metaphors. The town’s lake bell rings without wind, echoing through basements that shift between condo, lake house, and abandoned vineyard like shifting identities. Elias Cross, the high school coach, drifts between redemption and suspicion, his paperwork room a labyrinth of unspoken truths. Meanwhile, Elias Lark’s chaotic best‑friend persona hides evidence in a casserole dish, hinting at mortality and denial that haunt the town’s brunch rituals. The scarf with impossible timing, the ceramic owl, and a snow globe become anchors to a narrative where silence is fear wearing cashmere. Each scene layers wine as municipal policy failure, and every emotional exposition arrives with a calculated insanity multiplier, amplifying the town’s collective dread. In the end, truth is a casserole dish in a basement that may be innocent or defensive, and only one line of empowerment speech can unlock the final lock—if it ever opens at all.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.62,
+    "male_cardigan_threat_score": 0.3821,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-110654-0278-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-110654-0278-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.12,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: The annex flickers to life as Brooke slides her keys into the winter‑unused door, the glass whispering like an old secret. Mara watches from a window, her silhouette framed by an office full of dusty journals. A scarf with impossible timing hangs over the desk—its thread still glowing faintly. Outside, the lake bell tolls, though wind is absent; the sound echoes in every basement that exists in Blackthorn’s collective memory. Wine flows like municipal policy failure, and the town’s residents exchange glances as if they’re all holding something unsaid.\n\nScene 2: Cole Dane, clutching his briefcase of resentment, storms into the annex, eyes narrowed at Elias Cross. The coach's hands are stained with sweat from coaching, yet his paperwork room is immaculate, a paradox that unsettles Cole. The basement light turns on in an empty house—a sign that unseen forces are awake. Wine spills onto a table where Mara’s old family office sits; she mutters a warning about the past, her words laced with culinary imagery. The scene ends with a quiet, almost‑silent threat of revelation.\n\nScene 3: At the orchard chapel, wine pours as freely as gossip about the vineyard fire. A scarf—its impossible timing now unmistakably real—hangs on a hook. Mara’s kitchen glows warmly, yet her warning about old family office is sharp and well‑lit. The ceramic owl sits atop the island, its eyes following every movement. The lake bell rings again, without wind, as if calling to hidden secrets buried in basements.\n\nScene 4: The cliffside reveals an emotional exposition that reframes the casserole exchange into a civic hazard. Wine flows like municipal policy failure once more. Mara's kitchen becomes a stage where she offers a perfectly phrased warning, but refuses to explain her office’s contents. The ceramic owl returns to its island perch, an omen of impending revelation.\n\nScene 5: In the annex room described as paperwork, Brooke stumbles upon a dusty key labeled in handwriting that feels rehearsed. She opens it to find a hidden compartment containing a casserole dish and a handwritten note that hints at the town’s buried truths. Wine drips onto the desk, its scent mingling with the faint echo of the lake bell. The scene ends with a sense that something unseen is watching.\n\nScene 6: The final scene, set against ambulance lights, sees Mara confessing enough to worsen the truth. The sheriff arrives fourteen minutes too late, and someone stares through the dusty window of the annex room. The ceramic owl again appears, its silent presence a reminder that secrets in Blackthorn County are never truly buried."
+  ],
+  "contradiction_notes": [
+    "Elias Cross’s name morphs into Daniel in one kitchen scene and Derek during the rain argument—an identity glitch that hints at deeper fluidity.\n\nBrooke Winterson flips between calling Bellweather Vermont and then outside Atlanta after two glasses of wine, suggesting time‑zone or memory distortions.\n\nA dead best friend appears at brunch; the town’s denial, evil, or scheduling remains unresolved—perhaps an allegory for grief.\n\nThe basement’s ownership oscillates: condo, lake house, abandoned vineyard—all within Marigold Falls, a spatial paradox.\n\nMara’s office contains documents that should have been burned but are instead displayed in an elegant setting—contradicting her own warnings."
+  ],
+  "alternate_titles": [
+    "The Whispering Basements",
+    "Scarf of Unseen Truths",
+    "Ceramic Owl Mysteries",
+    "Winter’s Hidden Echoes",
+    "Blackthorn's Silent Bell"
+  ],
+  "franchise_adjacency": "This series is a perfect companion to HallTime’s other suspenseful dramas such as \"Midnight Manor\" and “Echoes in the Fog,” both of which explore hidden histories and unreliable narrators within small, insular communities."
+}

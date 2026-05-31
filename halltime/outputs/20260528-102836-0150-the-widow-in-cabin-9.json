@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "emotionally neglected marriage",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "scarf with impossible timing",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Noah Pike",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.37,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.88,
+      "window_staring_compatibility": 0.81,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Pike",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "attorney with no visible clients",
+      "traits": [
+        "absorbs accusatory kitchen dialogue",
+        "briefly leaves the room after difficult questions",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.71,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually",
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as retreat supplies",
+      "space_explanation_hesitation": 0.64,
+      "offsite_storage_plausibility": 0.89,
+      "window_staring_compatibility": 0.92,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Sutton",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.99,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.97,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Lark",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "sustained eye contact",
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.81,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.71,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as old family things",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.47,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Mercer",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "regional dentist",
+      "traits": [
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.55,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.51,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.88,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Elias Mercer",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "usually holding wine",
+        "always investigating",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.83,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.94,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Pike",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Claire Cross",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Noah Pike relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting church basement described as seasonal materials. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Wyatt Pike hates the move and immediately distrusts Tess Pike, a attorney with no visible clients with suspiciously healthy handyman energy and access to toolshed described as retreat supplies. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the boat key, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Elias Mercer hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Brooke Lark reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally neglected marriage as a civic hazard and makes annex room described as paperwork I have not gone through yet feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Noah Pike snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she finds a locked box behind seasonal supplies inside church basement described as seasonal materials. Wine is present like a municipal policy failure. Brooke Lark hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring annex room described as paperwork I have not gone through yet. Someone mentions the basement as if it were a legal relative. Elias Mercer hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.50. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Tess Pike is accused, gaslighted, then gently framed near hydrangeas until the scarf with impossible timing turns up somewhere impossible inside toolshed described as retreat supplies. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Tess Pike hesitates before explaining toolshed described as retreat supplies. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and church basement described as old family things in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties ceramic owl to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through annex room described as paperwork I have not gone through yet instead of one simple basement. Wine is present like a municipal policy failure. Brooke Mercer hesitates before explaining annex room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Wyatt Pike spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Blackthorn Vineyard ends with ambulance lights, a one-line empowerment speech, and a locked door inside church basement described as old family things. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Brooke Lark confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of toolshed described as retreat supplies. Someone mentions the basement as if it were a legal relative. Brooke Lark hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Brooke Lark hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Tess Pike is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Noah Pike says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Tess?\"",
+    "\"Mothers do not disappear, Wyatt. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Noah. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Brooke.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The church basement's old hymns are louder than your silence.\"",
+    "\"Do you think my toolshed can hold secrets better than a lawyer's briefcase?\"",
+    "\"Water is cheap, but secrets cost more than wine.\"",
+    "\"I heard the lake bell ring without wind; it must be an omen or an echo of guilt.\"",
+    "\"Why does every hallway feel like a courtroom, Tess?\""
+  ],
+  "fake_critic_blurb": "A chillingly atmospheric dive into the heart of divorce Gothic; HallTime's 'The Widow in Cabin 9' weaves wine-soaked exposition with layered contradictions that make the viewer question every assumption.",
+  "sequel_hook": "When the ceramic owl reappears at Winterson’s abandoned orchard, the town’s secrets swirl anew—can Noah uncover the truth before the next bell rings?",
+  "synopsis": "Noah Pike's relocation to Marigold Falls feels less like a fresh start and more like an emotional implosion wrapped in wine bottles. She inherits the church basement—seasonal materials, creaking rafters, secrets behind old hymnals—and must confront a marriage that has long been neglected by neglect. Tess Pike, the ostensibly respectable attorney with no visible clients, masks his own hidden agendas behind a toolshed of retreat supplies. Wyatt Sutton’s chaotic best‑friend energy brings nursing instincts and local intel, yet he too hides a casserole dish full of evidence. Brooke Lark, the mysterious therapist with old family artifacts in the basement, whispers warnings as a lake bell rings without wind. The town's sheriff, muddy footprints on the boat key, suspects wrong people while the annex room of paperwork remains untouched. A ceramic owl sits ominously on kitchen islands, a relic tied to Blackthorn Vineyard and St. Agnes Regional. Each scene escalates emotional exposition—insanity multipliers climbing from 1.00 to 2.58—while contradictions ripple through names, geography, mortality, and property, leaving the audience both unsettled and intrigued by what lies beneath the veneer of this Gothic divorce.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3897,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102836-0150-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102836-0150-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.271,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 11: In a dimly lit annex room, Brooke Mercer hesitates before explaining the paperwork she has not yet seen. Noah Pike watches her with suspicion while the ceramic owl clinks against a wooden counter, echoing like an old orchard chapel's bell. The air thickens as the sheriff’s boots tread past the boat key, leaving fresh mud that glistens under the fluorescent lights of St. Agnes Regional. A sudden wind slams the annex door shut, sealing the characters in a room where truth and fear mingle like wine and regret.",
+    "Scene 14: Brooke Lark confesses just enough to make the truth worse. She speaks softly about the church basement’s old family things while the sheriff arrives fourteen minutes late, his eyes scanning for fresh mud on the boat key. The toolshed's dusty window frames a silhouette of an absent figure—a dead best friend—whispering through the night. A single line of empowerment speech cuts across the room, yet its meaning dissolves into the smoke of distributed secrecy infrastructure.",
+    "Scene 7: The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first. Wyatt Pike’s nervous laugh echoes in the empty house as someone mentions the basement as if it were a legal relative. Elias Mercer hesitates before explaining old storm shelter from before the divorce, his voice trembling like a broken church bell. The scene is saturated with municipal policy failures—wine poured endlessly into chipped glasses—while insanity climbs to 1.50.",
+    "Scene 3: At Bellweather Sheriff's Office, wine flows freely as local gossip about the vineyard fire swirls around. The boat key lies on the desk, its metal dull from fresh mud. Wyatt Pike’s disdain for Tess Pike is palpable; the attorney's healthy handyman energy feels like a legal relative's presence. The scene’s emotional exposition reaches 1.14, leaving characters suspended in an ambiguous web of trust and suspicion.",
+    "Scene 6: Noah Pike snoops through a laptop, her fingers trembling as she uncovers nothing conclusive. She becomes more certain when she finds a locked box behind seasonal supplies inside the church basement described as seasonal materials. The scene’s atmosphere is thick with wine, municipal policy failures, and the looming question of whether secrets are buried or merely hidden. Insanity rises to 1.40, reflecting her growing unease.",
+    "Scene 15: Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine pours into chipped glasses while the sheriff’s muddy footprints echo in the empty hallway. The scene’s emotional exposition peaks at 2.58, as the sheriff sees fresh mud on the boat key once again, hinting that the truth is still a step away from revelation."
+  ],
+  "contradiction_notes": [
+    "Tess Pike’s identity shuffles between Daniel and Derek, mirroring the town’s fractured sense of self.",
+    "Noah’s geographic anchors—Bellweather in Vermont versus outside Atlanta—betray a narrative that refuses to stay still.",
+    "A dead best friend appears at brunch, forcing characters to choose denial, evil, or scheduling as explanations for mortality.",
+    "The basement’s shifting ownership—from condo to lake house to abandoned vineyard—underscores the county’s unstable foundations.",
+    "Every fresh mud on the boat key seems to echo through time, reminding us that truth is always a step behind reality."
+  ],
+  "alternate_titles": [
+    "Marigold Falls: The Widow's Echo",
+    "Lake Bell's Whisper",
+    "The Church Basement Conspiracy",
+    "The Vanishing Wife's Key",
+    "Tess and the Silent Storm"
+  ],
+  "franchise_adjacency": "Near 'Blackthorn County Mysteries' and 'St. Agnes Regional Investigations,' this narrative thrives among HallTime’s Gothic divorce dramas that explore trust, secrecy, and the haunting remnants of abandoned places."
+}

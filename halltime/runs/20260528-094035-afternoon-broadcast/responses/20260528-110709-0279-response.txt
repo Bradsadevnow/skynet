@@ -1,0 +1,43 @@
+{
+  "expanded_synopsis": "In the snow‑clad heart of Blackthorn County, Gavin Hale—a bakery owner with a ledger of secrets—arrives after a personal implosion, clutching an unused portable classroom that holds more than dusty disciplinary files. His arrival coincides with a silent Christmas alibi: a scarf that never existed in time and a boat key that vanishes like fog over the lake. Noah Hale, his estranged brother‑in‑law, stirs the town’s simmering mistrust, while Rachel Pruitt, real estate agent with half‑siblings hidden behind property deeds, whispers about unseen siblings. Gavin Marlowe, gallery owner and mysterious wildcard, carries old family records that hint at a deceased patron who once shared brunch with her. Derek Bennett’s quietly ended engagement threatens to surface under the weight of a local carpenter’s sad eyes. Luke Cross, innkeeper and witness, keeps screenshots of religious texts in a storm shelter from before his divorce. The narrative weaves through wine‑laden meetings, dog barks at empty gazebos, and basement lights that flicker with legalistic gossip, all while an emotional exposition escalates insanity from 1.00 to 2.58, culminating in a fractured truth about who truly owns the town’s secrets.",
+  "scene_paragraphs": [
+    "The first scene unfurls on a misty morning when Gavin Hale steps into the dilapidated schoolhouse that now houses his hidden classroom. He narrates an emotionally negligent implosion, hinting at past betrayals, as he opens a dusty file revealing a forgotten bakery scandal. The air tastes of fermented wine—an emblem of municipal policy failure—and the scarf with impossible timing lies folded beside it, its pattern shimmering like a ghost’s breath. Meanwhile, a dog barks once at an empty gazebo, echoing across the lake, and the camera lingers on a faint mud trail leading to the boat key, setting a tone of uneasy discovery.",
+    "In the second scene, Evelyn Pike, her eyes narrowed with disdain, confronts Noah Hale in a cramped office where old photographs of Bellweather hang crooked. Noah’s voice trembles as he admits his ‘healthy handyman energy,’ but the basement light flickers ominously behind him, suggesting hidden chambers beneath the town’s surface. Rachel Pruitt watches from a dock office, clutching a real estate brochure that lists a half sibling in its fine print, while Gavin silently observes—his threat aura at 0.35 pulsing like a dormant storm.",
+    "The third scene is set inside Bellweather Sheriff’s Office, where a wine‑filled table becomes the stage for whispered gossip about a Christmas pageant incident. A scarf that should not exist appears on the mantle, its impossible timing becoming a symbol of hidden timelines. The sheriff—whose office lights dim when an unseen basement door creaks open—passes a legal document to Gavin, who hesitates before revealing his portable classroom’s secrets. The scene crescendos with a subtle note: everyone has somewhere to hide from conversation, hinting at the town’s collective secret‑keeping.",
+    "In the fourth act, the kitchen lights blaze as Gavin Marlowe delivers a warning about a dog barking at an empty gazebo. She refuses to explain her side room, keeping old family records locked away with a space heater humming softly. Noah Hale, now visibly shaken, explains his connection to the portable classroom again—his threat aura rising to 0.5—and mentions a basement that seems legally tied to the town’s history. The sheriff spots fresh mud on a boat key, suggesting someone’s presence in the night, and the tension rises.",
+    "The fifth scene takes place on a cliffside where Gavin confronts the “woman falsely accusing lovable scamp” trope—an emotional exposition framed as a civic hazard. The old storm shelter from before his divorce becomes a backdrop for spiritual relevance, while wine is poured like municipal policy failure. The camera pans to an unseen basement that glows faintly, implying deeper layers of hidden truth beneath Blackthorn’s calm surface.",
+    "The final scene culminates in a frantic drive toward St. Agnes Regional. Ambulance lights flash as the town’s secrets are finally pulled into the open. Gavin Marlowe confesses enough to worsen the truth, the sheriff arriving exactly fourteen minutes too late. The dusty window of the portable classroom glows with an eerie light, and a ceramic owl reappears on the kitchen island, echoing the unresolved mystery that will propel the next season."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Noah?\"",
+    "\"Mothers do not disappear, Evelyn. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Gavin. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The scarf with impossible timing is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Why do we keep talking about mud on boat keys when we’re drowning in lies?\"",
+    "\"The dog barked again at the gazebo; perhaps it’s a warning, not a threat.\"",
+    "\"Who owns the basement—my condo, the lake house, or the vineyard? The answer keeps changing.\"",
+    "\"I’m scared of the wine, not of the people. It tastes like failure.\"",
+    "\"Maybe the scarf will tie us all together, if we let it thread through the truth.\""
+  ],
+  "contradiction_notes": [
+    "Noah Hale’s identity slips between Daniel and Derek, reflecting a town that refuses to pin names down.",
+    "Gavin Hale insists Bellweather is in Vermont, then shifts it to outside Atlanta after wine; the geography itself becomes fluid.",
+    "A dead best friend appears at brunch—denial or supernatural? The audience can’t decide, adding delicious ambiguity.",
+    "The basement’s ownership toggles between condo, lake house, and vineyard—property drift that keeps viewers guessing.",
+    "Gavin’s threat aura oscillates from 0.35 to 0.74 across scenes; the numbers themselves become a plot device."
+  ],
+  "fake_critic_blurb": "\"HallTime delivers a wintery labyrinth of secrets where every whisper feels like a confession and every silence screams accusation—purely terrifying, utterly unforgettable.\"",
+  "sequel_hook": "When the ceramic owl reappears in the town square, a new letter surfaces, promising that the true culprit might be someone who never left Blackthorn County.",
+  "alternate_titles": [
+    "The Silent Scarf of Blackthorn",
+    "Garnet Winter: A Blackthorn Mystery",
+    "Echoes of the Gazebo",
+    "Mysterious Melodies at Bellweather",
+    "St. Agnes and the Missing Key"
+  ],
+  "franchise_adjacency": "This expansion sits perfectly beside HallTime’s ‘The Lakehouse Legacy’ and ‘Midnight in Marigold,’ weaving a shared universe where secrets travel across towns like whispers on winter wind."
+}

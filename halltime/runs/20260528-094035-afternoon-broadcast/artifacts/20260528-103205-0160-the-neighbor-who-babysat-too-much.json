@@ -1,0 +1,430 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "The Neighbor Who Babysat Too Much",
+  "tagline": "Every town has a basement.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "emotionally neglected marriage",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "blood-adjacent tea towel",
+    "casserole dish"
+  ],
+  "cast": [
+    {
+      "name": "Rachel Bell",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "bakery owner",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.87,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "once left town without explaining why",
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.84,
+      "window_staring_compatibility": 0.35,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Winterson",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "private school administrator",
+      "traits": [
+        "makes tea incorrectly",
+        "too calm",
+        "appears in doorways with impossible timing"
+      ],
+      "threat_aura": 0.91,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.56,
+      "secret_capacity": [
+        "keeps duplicate keys for reasons framed as kindness",
+        "rehearsed his alibi before anyone asked"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.75,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.37,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Sienna Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as seasonal materials",
+      "space_explanation_hesitation": 0.71,
+      "offsite_storage_plausibility": 0.74,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Cross",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "gallery owner",
+      "traits": [
+        "weaponized stillness",
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.82,
+      "domestic_plausibility": 0.56,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.65,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.84,
+      "offsite_storage_plausibility": 0.66,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Derek Dane",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "family practice physician",
+      "traits": [
+        "emotionally constipated",
+        "allowed one lake monologue",
+        "overworks"
+      ],
+      "threat_aura": 0.34,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.47,
+      "secret_capacity": [
+        "still has access to a property he does not own"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Claire Mercer",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "says \"I know what I saw\"",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.43,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.78,
+      "offsite_storage_plausibility": 0.72,
+      "window_staring_compatibility": 0.96,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Mara Hale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Gavin Vale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Rachel Bell relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Mara Hale hates the move and immediately distrusts Jenna Winterson, a private school administrator with suspiciously healthy handyman energy and access to retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Jenna Winterson hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Bellweather Sheriff's Office introduces the boat key, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Daniel Cross reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.23. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally neglected marriage as a civic hazard and makes retreat cabin with candles, blankets, and difficult silence feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Daniel Cross hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Rachel Bell snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Sienna Hawthorne hesitates before explaining old family office described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.50. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Jenna Winterson is accused, gaslighted, then gently framed near hydrangeas until the blood-adjacent tea towel turns up somewhere impossible inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Sienna Hawthorne hesitates before explaining old family office described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and old storm shelter from before the divorce in the same sentence. Wine is present like a municipal policy failure. Claire Mercer hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties casserole dish to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through retreat cabin with candles, blankets, and difficult silence instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Mara Hale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Sienna Hawthorne hesitates before explaining old family office described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Candle Finch ends with ambulance lights, a one-line empowerment speech, and a locked door inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Daniel Cross confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of retreat cabin with candles, blankets, and difficult silence. Someone mentions the basement as if it were a legal relative. Sienna Hawthorne hesitates before explaining old family office described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Jenna Winterson is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Rachel Bell says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Jenna?\"",
+    "\"Mothers do not disappear, Mara. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Rachel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Daniel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The basement's floorboards creak louder than my conscience.\"",
+    "\"Your candles are too bright for such a quiet cabin, Jenna.\"",
+    "\"Sienna, that office of yours is full of seasonal materials and unsaid promises.\"",
+    "\"Daniel, you’re still holding onto that old storm shelter like it’s a relic.\"",
+    "\"Why do we keep pretending the basement has no history?\"",
+    "\"Maybe because admitting its truth would unmoor the whole town.\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest expansion turns Blackthorn County into a labyrinth of emotional neglect and municipal failures. With a ceramic owl perched on the kitchen island and a basement that might be a legal relative or an abandoned vineyard, this narrative keeps you guessing whether trust is just fear wrapped in casserole. Critics praise its melodramatic atmosphere and lavish tokens, though some wonder if the contradictions are too many to follow.\n",
+  "sequel_hook": "The ceramic owl’s next act: it disappears into the basement, hinting at a hidden chamber that could unlock the town’s darkest secret—and perhaps a new threat lurking in the shadows of The Candle Finch.\n",
+  "synopsis": "In the rain‑slicked streets of Blackthorn County, Rachel Bell inherits a side room that smells of old family records and the acrid scent of a forgotten space heater, her bakery façade masking an emotionally negligent past. The town’s basement—rumored to be a legal relative, an abandoned vineyard, or a hidden condo—is a nexus of secrets: a boat key with bruised edges, a casserole dish whispering about Blackthorn Vineyard, and a child’s crayon drawing of stairs that leads nowhere but into the heart of silence. Jenna Winterson, private school administrator and soft‑spoken menace, prowls the retreat cabin where candles flicker against blankets of difficult silence; her duplicate keys hint at kindness framed as necessity. Sienna Hawthorne, nurse with a chaotic best friend aura, clutches knowledge of a half sibling while Daniel Cross, gallery owner cloaked in mystery, knows why the orchard chapel was shuttered. The narrative spirals through wine‑infused municipal failures and basement whispers, culminating in a frantic drive to The Candle Finch, where empowerment is spoken one line at a time, yet the truth only deepens when Daniel confesses enough to make it worse. A ceramic owl returns to the kitchen island as the town’s fabric unravels, leaving everyone questioning whether trust is just fear wrapped in casserole and whether basements are innocent or defensive.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4244,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103205-0160-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103205-0160-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 14.605,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Rachel Bell steps into Alder Ridge with a bakery apron over her shoulders, eyes glazed by the emotional implosion that forced her to relocate. The side room she inherits feels like an attic of ghosts—old family records stacked beside a space heater that hisses faintly. As she pours wine for the municipal council, the basement's presence looms, its name whispered as a legal relative while the town’s conscience rattles. The scene ends with her realizing the basement might be the very thing that keeps her from confronting her past.\nScene 2: Mara Hale, spitting disdain at Jenna Winterson’s soft‑spoken menace, hovers around the retreat cabin's candlelit silence. She mutters about how the basement should be a legal relative but feels the weight of a hidden danger. Jenna’s duplicate keys glint, and the cabin becomes an altar for secrets. A sudden mention of the basement forces Mara to question her own trust—does the town hide its sins beneath floorboards or in the silence between breaths?\nScene 3: At Bellweather Sheriff’s Office, wine flows like municipal policy failure as a boat key lies on the desk, its scuffed edge a testament to betrayal. A child draws stairs, the basement’s staircase, and whispers of hidden chambers. The sheriff suspects the wrong person, yet Jenna's presence is felt in the quiet corner—her retreat cabin echoing through the building. The scene crescendos with an unsettling realization that everyone has somewhere to hide from conversation.\nScene 4: Daniel Cross, gallery owner, steps into a well‑lit kitchen and delivers a warning that sounds like a perfect phrase: “You should have kept the basement closed.” He refuses to explain the old storm shelter, letting it linger in the air like a question mark. The basement light flickers, casting long shadows over the casserole dish that now seems to hold more than soup—perhaps secrets. Daniel’s silence feels heavier than his words.\nScene 5: A cliffside argument erupts; the town's safety fundraiser is revealed as a façade while Sienna Hawthorne hesitates before explaining her seasonal materials office. The basement’s name echoes through the wind, and wine continues to pour as if defying municipal failure. Daniel Cross’s hesitation about the storm shelter deepens the mystery, turning an emotionally neglected marriage into a civic hazard.\nScene 6: The final act culminates with a frantic drive toward The Candle Finch. Ambulance lights flash, a one‑line empowerment speech cuts through silence, and a locked door in the old storm shelter blocks any escape. Daniel confesses just enough to make truth worse, while the ceramic owl returns to the kitchen island—a silent reminder that even objects can hold secrets.\n"
+  ],
+  "contradiction_notes": [
+    "Jenna Winterson is called Daniel in one kitchen scene and Derek during the rain argument—her identity is as fluid as the town’s water.\nThe geography of Bellweather shifts from Vermont to Atlanta after two glasses, illustrating how narrative can bend time itself.\nA dead best friend appears at brunch yet nobody acknowledges death; it becomes a myth, a scheduling glitch in reality.\nThe basement’s ownership oscillates between condo, lake house, and abandoned vineyard—perhaps the town is haunted by its own real estate paradoxes.\nThe boat key’s scuffed edge changes from decorative to dangerous mid‑scene, mirroring how objects can shift meaning as secrets surface.\n"
+  ],
+  "alternate_titles": [
+    "Basement Whisperer: Blackthorn Secrets",
+    "The Casserole Conspiracy: Alder Ridge Tales",
+    "Wine & Warnings: A Blackthorn Drama",
+    "Staircase to Silence: The Hidden Basement",
+    "Echoes in the Storm Shelter"
+  ],
+  "franchise_adjacency": "This broadcast sits beside HallTime’s \"Blackthorn Mysteries\" and \"The Whispering Wind of Alder Ridge,\" weaving a tapestry of emotional neglect, municipal policy failures, and basement conspiracies that define the Blackthorn County saga."
+}

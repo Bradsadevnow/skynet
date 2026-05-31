@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "A Casserole for the Missing",
+  "tagline": "Where every secret comes home.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "suspiciously healthy handyman friendship",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "snow globe",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Brooke Hawthorne",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.21,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as seasonal materials",
+      "space_explanation_hesitation": 0.42,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.51,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Sienna Vale",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "hardware store owner",
+      "traits": [
+        "overworks",
+        "emotionally constipated",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.63,
+      "secret_capacity": [
+        "still has access to a property he does not own",
+        "ignored a warning text on the worst possible night"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as retreat supplies",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.7,
+      "window_staring_compatibility": 0.95,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Mercer",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "says the dangerous thing out loud",
+        "drinks aggressively",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.64,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.8,
+      "domestic_plausibility": 0.52,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.67,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as donation overflow",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.48,
+      "window_staring_compatibility": 0.74,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Vale",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "high school coach",
+      "traits": [
+        "emotionally constipated",
+        "forgot a recital once and never recovered",
+        "allowed one lake monologue"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.92,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.54,
+      "secret_capacity": [
+        "still has access to a property he does not own",
+        "knows where evidence should have been"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.77,
+      "offsite_storage_plausibility": 0.75,
+      "window_staring_compatibility": 0.55,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Pike",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "says \"I know what I saw\"",
+        "often wrong but directionally vital",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.31,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as retreat supplies",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.87,
+      "window_staring_compatibility": 0.76,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Sienna Marlowe",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Jenna Dane",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "hovers between competence and grief",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Brooke Hawthorne relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting annex room described as seasonal materials. Wine is present like a municipal policy failure. Cole Mercer hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Sienna Marlowe hates the move and immediately distrusts Sienna Vale, a hardware store owner with suspiciously healthy handyman energy and access to storage unit described as retreat supplies. Cole Mercer hesitates before explaining toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the ceramic owl, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Cole Mercer reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain toolshed described as donation overflow. Someone mentions the basement as if it were a legal relative. Brooke Hawthorne hesitates before explaining annex room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes suspiciously healthy handyman friendship as a civic hazard and makes old storm shelter from before the divorce feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Brooke Hawthorne snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside annex room described as seasonal materials. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Sienna Vale is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside storage unit described as retreat supplies. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Cole Mercer hesitates before explaining toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and toolshed described as donation overflow in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old storm shelter from before the divorce instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Sienna Marlowe spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Cole Mercer hesitates before explaining toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside toolshed described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Cole Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of storage unit described as retreat supplies. Cole Mercer hesitates before explaining church basement described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Sienna Vale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Brooke Hawthorne says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Sienna?\"",
+    "\"Mothers do not disappear, Sienna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Brooke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Cole.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Sienna Vale’s hardware store holds more than tools; it hides a key to the town’s secrets.\"",
+    "\"Brooke, the annex room you call seasonal is a vault of memories we’ve all forgotten.\"",
+    "\"Cole, your donation overflow toolshed is where truth meets chaos—open it.\"",
+    "\"The snow globe turned up in the retreat supplies storage; it spun like fate itself.\"",
+    "\"When the cellar lights flicker, the town’s past awakens—are you ready for that?\""
+  ],
+  "fake_critic_blurb": "\"A moody tapestry of intrigue where every frame is a confession—HallTime’s latest masterpiece turns Blackthorn County into an almost‑psychological labyrinth of wine, owls, and whispered lies.\"",
+  "sequel_hook": "When the snow globe finally cracks, a new layer of hidden rooms in the old orchard chapel emerges—revealing a conspiracy that could unravel the very fabric of Marigold Falls.",
+  "synopsis": "In the rain‑shrouded heart of Blackthorn County, a town that never forgets merely redecorates its sins in the dim glow of streetlamps and the hiss of old water pipes, an architect named Brooke Hawthorne relocates to Marigold Falls with nothing but a crumbling annex room full of seasonal timber and the ghost of her past implosion. She is chased by an unspoken threat that lingers like a wine‑stained memory, while the town’s handyman—Sienna Vale—guards his hardware store with the same suspicious healthiness that fuels the community’s collective paranoia. Their paths collide in a vineyard where a ceramic owl watches over conversations that should have stayed buried beneath the snow globe of forgotten secrets. As Cole Mercer oscillates between best friend and elegant wildcard, he uncovers half‑siblings, inherited documents, and an endless staircase drawn by a child, all while the town’s sheriff misidentifies suspects in a frenzy of misplaced guilt. By the time the climax rolls into a frantic drive toward Lake Mercy’s gazebo, the basement that was once a condo, lake house, or abandoned vineyard morphs into a courtroom for the dead, and the truth becomes as slippery as the glaze on the owl’s ceramic wings.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.375,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095551-0043-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095551-0043-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 14.314,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens in the attic of Brooke Hawthorne’s annex room, where the scent of pine and wine mingle with the electric hum of an old heater. She scours a laptop for answers while a storm rages outside; her fingers dance across the screen as memories of a neglected implosion flash like broken glass. Suddenly, Cole Mercer bursts in, eyes wide, explaining that the church basement is merely a storage closet—yet beneath its wooden floor lies evidence he swears has been hidden by the town’s sheriff. The scene ends with a whisper: \"Wine is present like a municipal policy failure,\" as if the town itself were drinking from the same bottle of secrecy.",
+    "In Scene 2, Sienna Marlowe, the daughter of a hostile divorce attorney, sits at a kitchen table littered with a ceramic owl and a snow globe that shimmers impossibly. She mutters about how the hardware store owner, Sienna Vale, exudes healthy handyman energy, but her mind is full of doubts—his access to a retreat supplies storage unit feels like an open invitation for conspiracy. As Cole Mercer hesitates before explaining his donation overflow toolshed, the air thickens with unspoken warnings and the subtle clink of wine glasses echoing a municipal policy failure.",
+    "The third scene unfurls at Blackthorn Vineyard where a child draws stairs on napkins, hinting at a hidden ascent to something darker. A local gossip about an orchard woman whispers through the vines as the town’s residents hide from conversation behind the veneer of their homes. Wine drips into the soil, a metaphor for policy failures that have seeped into the community. The scene concludes with emotional exposition arriving on schedule, and an insanity multiplier climbing to 1.14.",
+    "In Scene 4, the kitchen lights up as Cole Mercer delivers a perfectly phrased warning—\"The basement is not what it seems,\" he whispers—while the ceramic owl watches from the countertop. He declines to explain his donation overflow toolshed, leaving everyone guessing about the true nature of the basement that feels like a legal relative. Brooke Hawthorne, uneasy, confides her annex room’s seasonal materials are more than they appear. The scene ends with someone who should be dead showing up at brunch, adding another layer of eerie coincidence.",
+    "Scene 5 takes place on a cliffside where an emotional exposition reframes the town’s civic hazard: suspiciously healthy handyman friendship is a dangerous alliance. The old storm shelter from before the divorce feels spiritually relevant, and wine again serves as a municipal policy failure—its presence a symbol of communal decay. As the insanity multiplier climbs to 1.31, the scene sets the stage for deeper conspiracies lurking beneath the town’s facade.",
+    "The final scene is a frantic drive toward Lake Mercy’s gazebo, ending with ambulance lights and an empowered one‑line speech that cuts through the fog of lies. Inside the donation overflow toolshed, the locked door glows ominously; wine continues to drip like a policy failure into the narrative. The insanity multiplier peaks at 2.25, sealing the story’s twisted crescendo."
+  ],
+  "contradiction_notes": [
+    "Sienna Vale’s name morphs to Daniel and Derek—an intentional linguistic dance that keeps readers guessing about identity.",
+    "Brooke’s claim of Bellweather’s location flips from Vermont to outside Atlanta after a couple glasses, echoing the town’s fluid geography.",
+    "The dead best friend’s appearance at brunch is a recurring motif; it’s either denial or a supernatural scheduling error—intensifying mystery.",
+    "Basement ownership oscillates among condo, lake house, and abandoned vineyard, underscoring the town’s layered secrecy infrastructure.",
+    "The ceramic owl’s shift from decorative to sentient symbolizes the town’s own descent into living symbolism."
+  ],
+  "alternate_titles": [
+    "The Ceramic Owl’s Secret",
+    "Wine and Wires",
+    "Basement of the Forgotten",
+    "Marigold Falls: The Casserole Conspiracy",
+    "Stairs in the Night"
+  ],
+  "franchise_adjacency": "This broadcast sits beside HallTime’s other Blackthorn County mysteries—\"The Orchard Whisperer,\" \"Lake Mercy Laments,\" and the upcoming epilogue, \"The Winterson Files.\""
+}

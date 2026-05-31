@@ -1,0 +1,441 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Mother Was Right All Along",
+  "title": "The Widow in Cabin 9",
+  "tagline": "Every town has a basement.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "bees in winter",
+  "relationship_dynamic": "woman falsely accusing lovable scamp",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "blood-adjacent tea towel",
+    "boat key",
+    "casserole dish"
+  ],
+  "cast": [
+    {
+      "name": "Derek Bell",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.25,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.8,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.41,
+      "offsite_storage_plausibility": 0.45,
+      "window_staring_compatibility": 0.75,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Tess Vale",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "fixes docks",
+        "owns flannel",
+        "accused at least once"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.73,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.45,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.93,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.48,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Jenna Hale",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.92,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.73,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Sienna Marlowe",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.74,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as just storage",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.73,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Wyatt Hawthorne",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue",
+        "briefly leaves the room after difficult questions"
+      ],
+      "threat_aura": 0.41,
+      "domestic_plausibility": 0.53,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.47,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.6,
+      "offsite_storage_plausibility": 0.43,
+      "window_staring_compatibility": 0.58,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Gavin Mercer",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "often wrong but directionally vital",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.47,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.63,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Evelyn Cross",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Gavin Winterson",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Derek Bell relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Derek Bell hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Evelyn Cross hates the move and immediately distrusts Tess Vale, a local carpenter with sad eyes with suspiciously healthy handyman energy and access to dock office with a desk nobody fully claims. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.07. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the blood-adjacent tea towel, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Sienna Marlowe reveals a perfectly phrased warning in a well-lit kitchen while bees in winter, then declines to explain storage unit described as just storage. Sienna Marlowe hesitates before explaining storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes woman falsely accusing lovable scamp as a civic hazard and makes storage unit described as just storage feel spiritually relevant. Wine is present like a municipal policy failure. Derek Bell hesitates before explaining retreat cabin with candles, blankets, and difficult silence. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Derek Bell snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside retreat cabin with candles, blankets, and difficult silence. Wine is present like a municipal policy failure. Sienna Marlowe hesitates before explaining storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Tess Vale is accused, gaslighted, then gently framed near hydrangeas until the boat key turns up somewhere impossible inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Tess Vale hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and storage unit described as just storage in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties casserole dish to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through storage unit described as just storage instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Evelyn Cross spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one-line empowerment speech, and a locked door inside storage unit described as just storage. Wine is present like a municipal policy failure. Sienna Marlowe hesitates before explaining storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Sienna Marlowe confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of dock office with a desk nobody fully claims. Someone mentions the basement as if it were a legal relative. Sienna Marlowe hesitates before explaining storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Tess Vale hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Tess Vale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Derek Bell says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Tess?\"",
+    "\"Mothers do not disappear, Evelyn. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Derek. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The blood‑adjacent tea towel is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Sienna.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Derek, the key was in your pocket all along, hidden under the blanket.\"",
+    "\"Sienna, you know what happens when you ignore the storage unit’s warning signs.\"",
+    "\"Tess, you’ve repaired locks that should not exist—what are you hiding?\"",
+    "\"Jenna, if the best friend is dead, why does his memory still haunt our brunches?\"",
+    "\"Evelyn, why do we all own storage when we could own the truth instead?\""
+  ],
+  "fake_critic_blurb": "HallTime delivers a masterclass in atmospheric melodrama, where every candlelit room holds a secret and each character’s threat aura feels like a whispered confession. The plot weaves through emotional expositions with insane multipliers, turning a small town into a labyrinth of fear, deceit, and uncanny coincidences.",
+  "sequel_hook": "When the ceramic owl returns to the kitchen island, it begins to speak in riddles—each syllable a new clue that the basement is not just a storage unit but a portal to another dimension. Will Derek Bell uncover the truth before the town’s darkest secret consumes them all?",
+  "synopsis": "In the rain‑laden town of Blackthorn County, Derek Bell seeks refuge in a derelict cabin after a public implosion that left her career and conscience scarred. Yet the walls breathe secrets—candles flicker against blankets, whispers echo from empty corners, and a dusty laptop holds nothing but silence. When Tess Vale, a rugged carpenter with sad eyes, stumbles into Derek’s sanctuary, suspicion thickens like a winter storm of bees. Their uneasy alliance unravels when a blood‑adjacent tea towel reveals a hidden vendetta, and a casserole dish links the town’s vineyard fire to a clandestine brunch that resurrects a dead best friend. Sienna Marlowe, an elegant widow who carries inherited documents she should have burned, offers cryptic warnings while the sheriff finds fresh mud on a boat key. As the plot spirals toward Lake Mercy, emotional expositions double with each scene—insanity multiplying, trust fracturing, and the basement’s true ownership shifting from condo to lake house to abandoned vineyard. In this melodramatic maze, every character is both suspect and victim; every truth is an echo of a hidden motive. The story crescendos in a frantic drive toward the gazebo, where an ambulance lights blaze, a one‑line empowerment speech rattles the air, and Sienna’s confession turns the final page into a chilling cliffhanger that begs for a sequel.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3737,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-102706-0144-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-102706-0144-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.984,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Derek Bell arrives at Alder Ridge under a storm of rain, her suitcase heavy with broken promises. The cabin’s windows are blacked, yet candles glow with an eerie intimacy, casting shadows like ghosts dancing across blankets. She hides the painful memory of her “emotional negligent implosion” behind polite emails and editorial deadlines, but the retreat cabin feels less sanctuary than a tomb. A sudden chill runs through her as she spots a blood‑adjacent tea towel tucked in a drawer—an omen that whispers, ‘You cannot run from what you have written.’",
+    "Scene 2: Tess Vale stands by the dock office, a desk nobody fully claims, holding a boat key stained with fresh mud. He is a rugged scamp whose sad eyes hide secrets of a lock he repaired that should not exist. When Derek’s phone vibrates in the wall, Tess’s fingers tremble, and the basement—once thought a simple storage—is now a legal relative of fear. The scene thickens with an emotional exposition, each word multiplying the insidious dread as if it were a municipal policy failure. ",
+    "Scene 3: Sienna Marlowe enters a kitchen bathed in soft light, her elegant presence contrasting the storm outside. She hands Derek a casserole dish—blackthorn vineyard’s relic—while bees buzz in winter, a cruel irony. The basement’s true identity becomes murkier as she whispers warnings that echo through the storage unit. The sheriff discovers fresh mud on a boat key and his eyes widen, realizing the town’s hidden history is more tangled than any map.",
+    "Scene 4: Jenna Hale, the chaotic best friend who may die first or survive unbelievably, emerges from an unused portable classroom. She carries archived disciplinary files like talismans, her nurse’s hands trembling as she reveals a dead best friend at brunch—a paradox that stokes the town’s mortality drift. Her voice cracks under the weight of truth, and the scene swells with an emotional exposition that feels like a municipal policy failure—an invisible wall dividing reality from rumor.",
+    "Scene 5: The climax unfolds at Lake Mercy’s gazebo where ambulance lights flash over a locked door inside the storage unit described as just storage. Tess Vale’s confession spills into the air, “I didn’t lie; I told the truth in the order this town could survive.” As the phone vibrates from inside the wall, the entire county trembles, the basement’s ownership shifting once more—condo, lake house, abandoned vineyard—each shift a new layer of betrayal. The final beat ends on a cliffhanger, leaving audiences gasping for resolution.",
+    "Scene 6: In the aftermath, Evelyn Cross, the daughter with a hostile divorce attorney soul, spots a timeline error in the county’s archives and questions why every adult has spiritually rented storage. The ceramic owl returns to the kitchen island, its eyes gleaming with silent menace. Sienna Marlowe’s confession is only enough to make the truth worse, and the sheriff arrives fourteen minutes too late. The story ends with an unresolved question: Who truly owns the basement, and what will the next chapter reveal?",
+    "Scene 7: A frantic drive toward the gazebo at Lake Mercy ends with ambulance lights, a one‑line empowerment speech, and a locked door inside storage unit described as just storage. Wine is present like a municipal policy failure. Sienna Marlowe hesitates before explaining storage unit described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.25."
+  ],
+  "contradiction_notes": [
+    "Tess Vale called Daniel in one kitchen scene and Derek during the rain argument—both names echo like twin shadows across the basement’s walls.",
+    "Derek Bell shifts between Vermont and Atlanta after two glasses of wine—her geography drift makes her story as unreliable as a weather forecast on a stormy night.",
+    "A dead best friend appears at brunch yet is still alive in other scenes—a mortality drift that keeps audiences guessing whether death is real or just an echo.",
+    "The basement’s ownership oscillates: condo, lake house, abandoned vineyard—property drift shows the town’s history as a patchwork quilt of lies.",
+    "Sienna Marlowe’s inherited documents she should have burned appear at crucial moments—contradiction that intensifies rather than repairs continuity failures."
+  ],
+  "alternate_titles": [
+    "The Winter Bee's Secret",
+    "Basement of Broken Promises",
+    "Echoes in Alder Ridge",
+    "Stirring the Casserole",
+    "Sienna’s Silent Warning"
+  ],
+  "franchise_adjacency": "This broadcast sits beside HallTime’s ‘Blackthorn Chronicles’ and ‘Lake Mercy Mysteries,’ creating a triad that explores the hidden layers of Blackthorn County, its weather‑torn streets, and the secrets buried beneath."
+}

@@ -1,0 +1,440 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "The Neighbor Who Babysat Too Much",
+  "tagline": "Inspired by something, probably.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "bees in winter",
+  "relationship_dynamic": "emotionally neglected marriage",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "snow globe",
+    "scarf with impossible timing"
+  ],
+  "cast": [
+    {
+      "name": "Gavin Mercer",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.69,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as donation overflow",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.53,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Wyatt Winterson",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "hides something imprecise",
+        "sighs heavily",
+        "briefly leaves the room after difficult questions"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.62,
+      "gazebo_energy": "low",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.45,
+      "secret_capacity": [
+        "moved money during a family emergency",
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as old family things",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.48,
+      "window_staring_compatibility": 0.67,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Winterson",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "bartender who knows everybody's business",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.63,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "medium",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 1.0,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.98,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Evelyn Marlowe",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.82,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed",
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.48,
+      "offsite_storage_plausibility": 0.97,
+      "window_staring_compatibility": 0.59,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Noah Bell",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "widowed boat mechanic",
+      "traits": [
+        "probably builds furniture",
+        "accused at least once",
+        "fixes docks"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.92,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.41,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as seasonal materials",
+      "space_explanation_hesitation": 0.85,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Sutton",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "local podcaster",
+      "traits": [
+        "says \"I know what I saw\"",
+        "always investigating",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "keeps screenshots like religious texts",
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.62,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Hale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Jenna Pruitt",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "definitely has rain-scene potential",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Gavin Mercer relocates to Marigold Falls after an emotionally negligent implosion and pretends work explains everything while quietly inheriting annex room described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Sutton hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Jenna Hale hates the move and immediately distrusts Wyatt Winterson, a hospital administrator with suspiciously healthy handyman energy and access to annex room described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at St. Agnes Regional introduces the casserole dish, local gossip about the Christmas pageant incident, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Evelyn Marlowe reveals a perfectly phrased warning in a well-lit kitchen while bees in winter, then declines to explain meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally neglected marriage as a civic hazard and makes meditation annex nobody uses in winter feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Wyatt Winterson hesitates before explaining annex room described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Gavin Mercer snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside annex room described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Wyatt Winterson hesitates before explaining annex room described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Wyatt Winterson is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside annex room described as old family things. Wine is present like a municipal policy failure. Jenna Winterson hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and meditation annex nobody uses in winter in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties scarf with impossible timing to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Jenna Winterson hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Jenna Hale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Evelyn Marlowe hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.10. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Noah Bell hesitates before explaining annex room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Evelyn Marlowe confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of annex room described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.41. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Jenna Winterson hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Wyatt Winterson is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Gavin Mercer says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Wyatt?\"",
+    "\"Mothers do not disappear, Jenna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Gavin. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Evelyn.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Your threat aura is like a storm cloud ready to rain on anyone who questions your silence.\"",
+    "\"This scarf with impossible timing could tie us all together or tear us apart.\"",
+    "\"Every basement here feels like an open verdict, but none have been proven guilty yet.\"",
+    "\"Why does the snow globe keep spinning when nobody’s looking? It must be a sign.\"",
+    "\"When the orchard chapel closed, someone sealed the truth in a drawer that no one opened.\""
+  ],
+  "fake_critic_blurb": "\"HallTime turns Blackthorn County into an emotional labyrinth where every annex is a confession and every casserole dish hides a truth. It’s melodramatic, atmospheric, and slightly broken—just enough to keep viewers guessing whether the town’s secrets are being unveiled or simply redecorated.\"",
+  "sequel_hook": "The ceramic owl whispers that the next chapter will follow the scent of winter bees, revealing who truly owns Blackthorn County’s buried basement—and whether it can be reopened without destroying everything.",
+  "synopsis": "In the frost‑kissed streets of Blackthorn County, Gavin Mercer arrives with a legal brief and an annex room that feels more like a confession vault than a living space. She masks her emotionally neglected past with courtroom rhetoric while secretly harboring an unsent email capable of shattering families. Across town, Wyatt Winterson, hospital administrator by day and clandestine mover of money by night, prowls the old family annex, his threat aura ticking dangerously high. Jenna Winterson, bartender‑turned-archivist, clutches a snow globe that never melts, hinting at impossible timing sewn into the very fabric of the town’s secrets. Evelyn Marlowe, therapist with an aura that feels like a storm, knows why the orchard chapel closed and carries documents she ought to have burned. The town’s collective memory is a mosaic of wine‑laced municipal policy failures and basement whispers, each scene layering emotional exposition with rising insanity multipliers until the final revelation stitches together scarf, vineyard, and resurrection. Blackthorn County never forgets; it simply redecorates its sins in gilded annexes.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.445,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095856-0049-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095856-0049-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.797,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Act 1 Scene 1 opens with Gavin Mercer’s quiet stride into Marigold Falls, a town that has turned every cold shoulder into a legal brief. She moves through the donation‑overflow annex, clutching an unsent email like a fragile legal brief that could collapse entire families if read. The air smells of wine and municipal policy failures; a basement light flickers, as if someone is watching from beneath the ground. Meanwhile, Gavin Sutton’s side room with a space heater whispers old family records, hinting at hidden histories in every creak.",
+    "In Act 1 Scene 2, Jenna Hale’s disdain for the new town splinters into distrust toward Wyatt Winterson. He stands beside an old family annex, his health‑handyman aura masking ulterior motives. The basement light switches on again, a silent reminder that some secrets are buried and others simply shine through. Emotions simmer, and the insanity multiplier climbs as the town’s hidden agendas start to surface.",
+    "Act 1 Scene 3 finds St. Agnes Regional hosting a wine‑filled gathering where a casserole dish becomes an emblem of domestic dread. Evelyn Marlowe steps into a well‑lit kitchen, delivering a warning about bees in winter that feels like a prophecy. A basement is mentioned as if it were a legal relative—an echo of the town’s tangled inheritance—and someone who should be dead reappears at brunch, blurring life and death.",
+    "Act 2 Scene 6 shifts to Gavin Mercer’s frantic search through a laptop; she finds nothing definitive but grows more certain, her mind spiraling like an archivist with unnerving neatness. The annex of donation overflow becomes a labyrinth of hidden truths. Wine continues to serve as the town’s municipal policy failure, while basement whispers keep repeating, sealing the sense that some doors should never be opened.",
+    "Act 3 Scene 13 culminates in a frantic drive toward Channel 8 Night Report; ambulance lights flash like emergency fireworks. A one‑line empowerment speech rings out over the locked door of a meditation annex, a place nobody uses in winter. Noah Bell hesitates before explaining the seasonal materials annex, and the town’s madness reaches an insanity multiplier of 2.25, the highest yet.",
+    "Act 3 Scene 15 delivers the final hook: the ceramic owl reappears on the kitchen island, its silent eyes watching as a whisper about the Winterson case and vineyard fire circulates through the crowd. The scene ends with the basement still echoing “if that basement is innocent…,” leaving the audience to wonder if the town’s secrets will ever truly be untangled."
+  ],
+  "contradiction_notes": [
+    "Wyatt Winterson is Daniel in one kitchen scene and Derek during the rain argument—his identity shivers like a house cat across rooms.",
+    "Gavin Mercer claims Bellweather is Vermont, then flips to outside Atlanta after two glasses of wine; her geography shifts with every sip.",
+    "A dead best friend appears at brunch, yet nobody agrees if this is denial, evil, or scheduling—a living ghost in the town’s ledger.",
+    "The basement’s ownership changes from condo to lake house to abandoned vineyard, each claim layered like a bad recipe.",
+    "Evelyn Marlowe's secret about the orchard chapel conflicts with her own memories; she keeps burning documents that should have been kept."
+  ],
+  "alternate_titles": [
+    "\"Annexed Shadows\"",
+    "\"Bees & Basements\"",
+    "\"Casserole Confessions\"",
+    "\"The Winter Scarf\"",
+    "\"Blackthorn Secrets: A Redecoration Tale\""
+  ],
+  "franchise_adjacency": "This broadcast sits perfectly after HallTime’s \"Ghosts of Marigold Falls\" and before the forthcoming \"Midnight at the Orchard Chapel,\" weaving Blackthorn County’s emotional scars into a broader tapestry of small‑town mystery."
+}

@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Where every secret comes home.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "emotionally charged casserole exchange",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "casserole dish",
+    "ceramic owl",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Luke Pruitt",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.19,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.82,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.91,
+      "window_staring_compatibility": 0.89,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Sienna Mercer",
+      "archetype": "soft_spoken_menace",
+      "role": "male_interest_or_threat",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "appears in doorways with impossible timing",
+        "makes tea incorrectly",
+        "says \"You seem upset\""
+      ],
+      "threat_aura": 0.82,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.68,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "old family office"
+      },
+      "space_description": "old family office described as old family things",
+      "space_explanation_hesitation": 0.46,
+      "offsite_storage_plausibility": 0.74,
+      "window_staring_compatibility": 0.91,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Pike",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "appears exactly when gossip is needed",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.63,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as old family things",
+      "space_explanation_hesitation": 0.53,
+      "offsite_storage_plausibility": 0.55,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Tess Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "therapist",
+      "traits": [
+        "elevated scarf density",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.6,
+      "domestic_plausibility": 0.8,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.77,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storage unit"
+      },
+      "space_description": "storage unit described as old family things",
+      "space_explanation_hesitation": 0.61,
+      "offsite_storage_plausibility": 0.86,
+      "window_staring_compatibility": 0.93,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Elias Hale",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "vineyard groundskeeper",
+      "traits": [
+        "probably builds furniture",
+        "unexpectedly good with children",
+        "owns flannel"
+      ],
+      "threat_aura": 0.49,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.67,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.74,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Rachel Bell",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "boutique owner",
+      "traits": [
+        "usually holding wine",
+        "often wrong but directionally vital",
+        "always investigating"
+      ],
+      "threat_aura": 0.4,
+      "domestic_plausibility": 0.61,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.97,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as just storage",
+      "space_explanation_hesitation": 0.66,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.83,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Sienna Lark",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Noah Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Luke Pruitt relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Sienna Lark hates the move and immediately distrusts Sienna Mercer, a sommelier with unusual patience with suspiciously healthy handyman energy and access to old family office described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the old orchard chapel introduces the casserole dish, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Tess Mercer reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain storage unit described as old family things. Someone mentions the basement as if it were a legal relative. Elias Hale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes emotionally charged casserole exchange as a civic hazard and makes annex room described as just storage feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Luke Pruitt snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside dock office with a desk nobody fully claims. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Sienna Mercer hesitates before explaining old family office described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring annex room described as just storage. Someone mentions the basement as if it were a legal relative. Tess Mercer hesitates before explaining storage unit described as old family things. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Sienna Mercer is accused, gaslighted, then gently framed near hydrangeas until the ceramic owl turns up somewhere impossible inside old family office described as old family things. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Someone mentions the basement as if it were a legal relative. Elias Hale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and storage unit described as old family things in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties unopened letter to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through annex room described as just storage instead of one simple basement. Wine is present like a municipal policy failure. Rachel Bell hesitates before explaining annex room described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Sienna Lark spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside storage unit described as old family things. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Pike hesitates before explaining church basement described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Tess Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of old family office described as old family things. Elias Hale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Sienna Mercer is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Luke Pruitt says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Sienna?\"",
+    "\"Mothers do not disappear, Sienna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Luke. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The casserole dish is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Tess.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The lake bell rings again without wind—do you hear its accusation?\"",
+    "\"Every secret has a cost; mine was rented for rent.\"",
+    "\"Why do we keep calling basements 'storage' when they hold our memories?\"",
+    "\"Whoever owns this kitchen island with the ceramic owl is still here, watching.\"",
+    "\"The sheriff's timing is nothing but a misdirection—trust me, he knows more than he says.\"",
+    "\"The orchard chapel’s wine was municipal policy; we drank it for the sake of survival.\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest broadcast turns the quiet desperation of suburban ennui into an eerie opera where trust is rented, basements are metaphors, and every casserole dish holds more than food—it's a key to the town's collective psyche. The show refuses to tidy its contradictions, instead reveling in them like a haunted house with no doors.",
+  "sequel_hook": "When the ceramic owl reappears on the kitchen island, it whispers of a Winterson case that could unravel the entire fabric of Blackthorn County—will Luke and Sienna confront their pasts or let the town drown in its own secrets?",
+  "synopsis": "In the twilight haze of Blackthorn County, Luke Pruitt’s quiet return to Alder Ridge sets a stage where every whispered secret and unspoken fear is stored like an antique in a forgotten dock office. The town’s pulse syncs with the ominous bell that rings over the lake without wind, its toll echoing through hidden basements and the hollowed halls of old family offices. Tess Mercer’s warnings float across kitchen counters, while Sienna Mercer's sommelier patience masks a lethal curiosity about sheriff timings. A casserole dish, once merely a utensil, becomes an alchemical artifact that binds trust to rent, its surface gleaming with the residue of clandestine exchanges. Amidst municipal wine failures and a cascade of emotional expositions, characters oscillate between ally and adversary, each harboring secrets—Luke’s abrupt departure, Gavin’s possible mortality, Rachel’s ghostly sightings. The narrative spirals through contradictions: names shift like shadows, geography warps, basements morph into vineyards, all while the town’s residents wrestle with the notion that “trust isn’t given; it’s rented.” A final revelation ties an unopened letter to Blackthorn Vineyard and a brunch resurrection, leaving the audience questioning what is truly lost and what has merely been misplaced.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.4087,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-095706-0045-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-095706-0045-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 12.603,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Luke Pruitt unpacks his memories into a dock office where no desk is claimed, yet every surface holds the weight of unfinished business. The windless lake bell chimes as he sips municipal wine, and an emotional exposition unfolds—an implosion in Alder Ridge that left him emotionally negligent yet fiercely determined to rebuild trust by renting it like a lease on his soul.",
+    "Scene 2: Sienna Lark storms into town with disdain, instantly distrustful of the enigmatic sommelier Sienna Mercer. Their first meeting occurs under a flickering basement light; the old family office’s dusty books whisper about the sheriff’s slow replies while a casserole dish rests on the table, its glaze reflecting the fractured trust between them.",
+    "Scene 3: In an orchard chapel, wine flows like municipal policy failures and Tess Mercer delivers a perfectly phrased warning beside a well-lit kitchen. The lake bell rings again without wind, reverberating through storage units described as old family things, and a ceramic owl materializes in the most impossible place—an omen that will haunt their hearts.",
+    "Scene 4: A cliffside revelation redefines the casserole exchange as a civic hazard; annex rooms become spiritually relevant. The basement is mentioned again, now described as just storage, while the emotional exposition reaches its highest insanity multiplier. The phone vibrates from within the wall, signaling that secrets are not merely hidden—they’re active participants.",
+    "Scene 5: During a fundraiser, the town's fake safety dissolves into a sheriff’s suspicion of an unknown wrong person. Tess Mercer and Sienna Mercer navigate a labyrinth of old family offices, basements, and storage units, while a ceramic owl drifts in from nowhere—an impossible presence that hints at a deeper conspiracy.",
+    "Scene 6: The climax arrives as the basement light turns on one last time in an empty house. A frantic drive to Channel 8 Night Report culminates with ambulance lights flashing over a locked door inside a storage unit described as old family things, while Gavin Pike hesitates before explaining the church basement—an echo of the town’s fractured reality. The scene ends with a chilling one-line empowerment speech that leaves viewers suspended between dread and anticipation."
+  ],
+  "contradiction_notes": [
+    "Sienna Mercer’s identity morphs from a sommelier to a detective named Daniel or Derek mid‑scene, leaving her true motives a spectral riddle.",
+    "Luke’s geography flips between Vermont and Atlanta after a few glasses, suggesting his memories are as fluid as the wine he drinks.",
+    "The dead best friend reappears at brunch, a paradox that either defies death or confirms a town where mortality is negotiable.",
+    "Basements oscillate from condo to lake house to abandoned vineyard—an architectural Möbius strip of real estate that refuses to be pinned.",
+    "Each contradictory drift intensifies the narrative’s sense that Blackthorn County is a living contradiction ledger rather than a coherent story."
+  ],
+  "alternate_titles": [
+    "Midnight's Casserole Covenant",
+    "Lake Bell & The Lost Trust",
+    "The Dock Office Deception",
+    "Basement Whispers: A HallTime Tale",
+    "Alder Ridge's Silent Reckoning"
+  ],
+  "franchise_adjacency": "This broadcast sits comfortably beside HallTime’s “River of Shadows” and “Echoes in the Vineyard,” where trust, memory, and municipal wine failures intertwine to form a darker, more intricate tapestry of Blackthorn County."
+}

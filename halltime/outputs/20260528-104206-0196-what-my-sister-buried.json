@@ -1,0 +1,439 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "What My Sister Buried",
+  "tagline": "Inspired by something, probably.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "secret half sibling",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "scarf with impossible timing",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Jenna Bell",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.76,
+      "secret_capacity": [
+        "once left town without explaining why"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.59,
+      "offsite_storage_plausibility": 0.64,
+      "window_staring_compatibility": 0.83,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Luke Vale",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "sighs heavily",
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise"
+      ],
+      "threat_aura": 0.64,
+      "domestic_plausibility": 0.86,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.6,
+      "secret_capacity": [
+        "was in the wrong county on the wrong night",
+        "deleted a voicemail and regretted it spiritually"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.53,
+      "offsite_storage_plausibility": 0.59,
+      "window_staring_compatibility": 0.86,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Jenna Mercer",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.51,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.44,
+      "window_staring_compatibility": 0.72,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Daniel Winterson",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.62,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.79,
+      "secret_capacity": [
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.87,
+      "offsite_storage_plausibility": 0.66,
+      "window_staring_compatibility": 0.54,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Wyatt Dane",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "vineyard groundskeeper",
+      "traits": [
+        "accused at least once",
+        "probably builds furniture",
+        "owns flannel"
+      ],
+      "threat_aura": 0.35,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "once repaired a lock that should not have existed",
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.52,
+      "offsite_storage_plausibility": 0.97,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Rachel Bell",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "always investigating",
+        "usually holding wine",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.52,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.86,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as seasonal materials",
+      "space_explanation_hesitation": 0.36,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.87,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Rachel Bell",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "notices timeline errors before adults do",
+        "distrusts every man immediately",
+        "emotionally precise"
+      ]
+    },
+    {
+      "name": "Cole Bennett",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "knows the old case too well",
+        "definitely has rain-scene potential",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Jenna Bell relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old storm shelter from before the divorce. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Jenna Mercer hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Rachel Bell hates the move and immediately distrusts Luke Vale, a hospital administrator with suspiciously healthy handyman energy and access to meditation annex nobody uses in winter. Luke Vale hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.07. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the boat key, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Daniel Winterson reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain side room with a space heater and old family records. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes secret half sibling as a civic hazard and makes marina tackle room described as seasonal materials feel spiritually relevant. Wine is present like a municipal policy failure. Wyatt Dane hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Jenna Bell snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she discovers archived files arranged with unnerving neatness inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring marina tackle room described as seasonal materials. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Luke Vale is accused, gaslighted, then gently framed near hydrangeas until the scarf with impossible timing turns up somewhere impossible inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Wyatt Dane hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'A town never forgets. It just redecorates.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Rachel Bell hesitates before explaining marina tackle room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties ceramic owl to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through marina tackle room described as seasonal materials instead of one simple basement. Wine is present like a municipal policy failure. Wyatt Dane hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Rachel Bell spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward The Marigold Inn ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Daniel Winterson confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.41. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Luke Vale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Jenna Bell says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Alder Ridge.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Luke?\"",
+    "\"Mothers do not disappear, Rachel. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Jenna. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Daniel.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "Luke Vale’s voice trembles as he confesses, \"It wasn’t me, but someone else in the annex has been listening.\"",
+    "Jenna Bell pulls a rusted key from her pocket and whispers, \"This is the one that opens more than doors.\"",
+    "Rachel Bell, clutching a stack of screenshots, mutters, \"I’ll show you what I’ve seen—every frame is a confession.\"",
+    "Daniel Winterson smirks, \"You think this town will let me walk away with your secrets?\"",
+    "Wyatt Dane shuffles his feet, whispering, \"The lock was never meant to be repaired; it was a promise.\""
+  ],
+  "fake_critic_blurb": "HallTime’s latest offering is a moody tapestry of intrigue where every glass of wine tastes of municipal failure and every character wears their secrets like a broken umbrella. The screenplay embraces its contradictions with gusto, turning what could be a confusing plot into a deliberate labyrinth that keeps viewers guessing until the very last note of the lake bell rings out.\n",
+  "sequel_hook": "The ceramic owl reappears in a hidden cellar beneath the old orchard chapel, hinting at a deeper conspiracy that could unravel the entire county’s fragile trust economy.\n",
+  "synopsis": "In the rain‑swept alleys of Blackthorn County, Jenna Bell returns to Alder Ridge after a career‑shattering implosion, inheriting an old storm shelter that hums with past grief. Her sister‑ish confidante Rachel Bell, a substitute teacher with a habit for collecting screenshots like relics, cannot shake the uneasy feeling that every lake whisper hides a secret. The town’s beloved vineyard burns in whispers, and a mysterious boat key surfaces amid the charred vines. Amid a mosaic of wine‑lit scenes, an ornate ceramic owl appears on kitchen islands, a silent witness to betrayals. Daniel Winterson, a realtor with polished lies, offers warnings while a lake bell rings without wind, stirring ancestral dread. Luke Vale, the hospital administrator with a hidden hand in the meditation annex, is accused yet exonerated, only to be framed again by a scarf that defies time. Wyatt Dane, the rugged groundskeeper who once repaired forbidden locks, keeps his motives as slippery as the vineyard’s soil. Each scene drips with emotional exposition and insanity multipliers that climb like tidewater, leaving the town’s legal and moral fabric frayed. In the end, a frantic drive to The Marigold Inn culminates in ambulance lights and an empowerment speech that barely masks the looming truth—trust is rented, not given, and every resident of Blackthorn County is haunted by an invisible ledger of secrets.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3797,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-104206-0196-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-104206-0196-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.642,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens with Jenna Bell standing on the cracked porch of Alder Ridge, a storm shelter’s rusted door creaking as she pulls her suitcase inside. The wind carries a scent of wet wood and old grief; she places a glass of wine on the table—a municipal policy failure in itself—while an elderly neighbor mentions the basement like it were a legal relative, hinting at hidden inheritance. Jenna's mind whirls with emotional exposition; her insomnia multiplies as the storm shelters memories surface.\n",
+    "Scene 2 finds Rachel Bell in the cramped marina tackle room, clutching a stack of screenshots. The wall lights flicker and a basement light suddenly switches on in an empty house, adding to the tension. Luke Vale enters, his presence threatening with a health‑handyman aura; he hesitates before explaining the meditation annex nobody uses in winter, revealing a secret that could shift the town’s power balance.\n",
+    "Scene 3 unfolds at Blackthorn Vineyard where a wine scene introduces the boat key and local gossip about a fire. The setting feels like a municipal policy failure—everyone hides conversation under vines—and the emotional exposition reaches an insanity multiplier of 1.14, hinting that secrets are as fluid as the wine in their glasses.\n",
+    "Scene 4 presents Daniel Winterson at a well‑lit kitchen where a lake bell rings without wind, adding a spectral tone. He delivers a warning with perfect phrasing while refusing to explain the side room; the basement becomes another legal relative in the town’s lore. The scene escalates as someone who should be dead appears at brunch.\n",
+    "Scene 5 culminates on a cliffside where an emotional exposition reframes a secret half sibling as a civic hazard, making the marina tackle room feel spiritually relevant. Wyatt Dane enters, hesitant about explaining the meditation annex, and a scarf with impossible timing drifts in, adding another layer of mystery to the town’s fabric.\n",
+    "Scene 6 concludes the third act with Rachel Bell spotting a timeline error that every adult rents spiritually; she questions why everyone owns just storage. A basement light switches on again, a cliffhanger that keeps the audience trembling as the final scene ends with an ambulance light and a one‑line empowerment speech, leaving the truth hanging like a wet lantern in the rain."
+  ],
+  "contradiction_notes": [
+    "Luke Vale’s name drifts from Daniel in the kitchen scene to Derek during the rain argument, like a river that forgets its source.",
+    "Jenna Bell claims Bellweather is in Vermont, then insists it lies outside Atlanta after two glasses of wine—time and geography collapse into one another.",
+    "A dead best friend appears at brunch; no one agrees whether this is denial, evil, or scheduling—a living paradox.",
+    "The basement’s ownership shifts from a condo to a lake house to an abandoned vineyard, a property drift that makes the town feel like a puzzle with missing pieces.",
+    "Every scene’s emotional exposition multiplies by 0.07 each time, but no one remembers why—an intentional fracture in the narrative fabric."
+  ],
+  "alternate_titles": [
+    "Beneath Alder Ridge Shadows",
+    "Lake Bell: The Secret of Blackthorn",
+    "The Boat Key Mystery",
+    "The Whispering Orchard",
+    "Echoes of the Storm Shelter"
+  ],
+  "franchise_adjacency": "This expansion follows closely after HallTime’s hit series \"Midnight Marriages\" and is a natural precursor to the forthcoming drama \"St. Agnes Reckoning,\" weaving shared locations, characters, and thematic threads into an expanding HallTime universe."
+}

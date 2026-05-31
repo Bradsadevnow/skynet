@@ -1,0 +1,433 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Menace Christmas",
+  "title": "The Neighbor Who Babysat Too Much",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Silence is just fear wearing cashmere.",
+  "omen": "a lake bell ringing without wind",
+  "relationship_dynamic": "secret half sibling",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "unopened letter",
+    "casserole dish",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Elias Marlowe",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.38,
+      "domestic_plausibility": 0.7,
+      "gazebo_energy": "medium",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.85,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as just storage",
+      "space_explanation_hesitation": 0.45,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.8,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Winterson",
+      "archetype": "divorced_redemption_dad",
+      "role": "male_interest_or_threat",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "hardware store owner",
+      "traits": [
+        "overworks",
+        "emotionally constipated",
+        "forgot a recital once and never recovered"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.5,
+      "secret_capacity": [
+        "ignored a warning text on the worst possible night",
+        "knows where evidence should have been"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as retreat supplies",
+      "space_explanation_hesitation": 0.93,
+      "offsite_storage_plausibility": 0.64,
+      "window_staring_compatibility": 0.74,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Brooke Marlowe",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "nurse with local intel",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.64,
+      "domestic_plausibility": 0.78,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.6,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Evelyn Pike",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "sustained eye contact",
+        "weaponized stillness",
+        "elevated scarf density"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.68,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.65,
+      "secret_capacity": [
+        "inherited documents she should have burned"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as donation overflow",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.49,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Gavin Bennett",
+      "archetype": "divorced_redemption_dad",
+      "role": "secondary_male_pressure",
+      "surface_function": "trying father",
+      "hidden_function": "regret-powered witness",
+      "job": "hardware store owner",
+      "traits": [
+        "allowed one lake monologue",
+        "forgot a recital once and never recovered",
+        "emotionally constipated"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.82,
+      "gazebo_energy": "medium",
+      "basement_implication": "divorced_redemption_dad maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.48,
+      "secret_capacity": [
+        "still has access to a property he does not own",
+        "covered for someone out of shame"
+      ],
+      "innocence_probability": 0.73,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.79,
+      "offsite_storage_plausibility": 0.59,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Cross",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "always investigating",
+        "often wrong but directionally vital",
+        "usually holding wine"
+      ],
+      "threat_aura": 0.47,
+      "domestic_plausibility": 0.64,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "dock office"
+      },
+      "space_description": "dock office with a desk nobody fully claims",
+      "space_explanation_hesitation": 0.82,
+      "offsite_storage_plausibility": 0.76,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Marlowe",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Noah Cross",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Elias Marlowe relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting annex room described as just storage. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Cross hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Jenna Marlowe hates the move and immediately distrusts Cole Winterson, a hardware store owner with suspiciously healthy handyman energy and access to annex room described as retreat supplies. Someone mentions the basement as if it were a legal relative. Elias Cross hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at Blackthorn Vineyard introduces the unopened letter, local gossip about the vineyard fire, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Evelyn Pike reveals a perfectly phrased warning in a well-lit kitchen while a lake bell ringing without wind, then declines to explain toolshed described as donation overflow. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes secret half sibling as a civic hazard and makes unused portable classroom holding archived disciplinary files feel spiritually relevant. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Elias Marlowe snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she catches someone staring through a dirty window instead of answering inside annex room described as just storage. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Cross hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.50. A basement light switches on in an empty house.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Cole Winterson is accused, gaslighted, then gently framed near hydrangeas until the casserole dish turns up somewhere impossible inside annex room described as retreat supplies. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Silence is just fear wearing cashmere.' Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and toolshed described as donation overflow in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Cross hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through unused portable classroom holding archived disciplinary files instead of one simple basement. Wine is present like a municipal policy failure. Evelyn Pike hesitates before explaining toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Jenna Marlowe spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Elias Cross hesitates before explaining dock office with a desk nobody fully claims. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward St. Agnes Regional ends with ambulance lights, a one-line empowerment speech, and a locked door inside toolshed described as donation overflow. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Evelyn Pike confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of annex room described as retreat supplies. Brooke Marlowe hesitates before explaining toolshed described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 2.41. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Cole Winterson is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Elias Marlowe says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Cole?\"",
+    "\"Mothers do not disappear, Jenna. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Evelyn.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.\n",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The wine tastes like municipal policy failure; can you blame us for that?\"",
+    "\"Every glass here hides a story—some louder than others.\"",
+    "\"Your hardware shop smells of redemption and old wood, Cole.\"",
+    "\"We all have hidden annexes, Jenna. Yours is just more polished.\"",
+    "\"Elias, the email—if it goes out—will break families like glass.”"
+  ],
+  "fake_critic_blurb": "HallTime’s latest tapestry of dread and delight stitches together melodrama with a subtle undercurrent of existential dread. The story feels like a carnival ride that never quite lands—a place where wine is both comfort and weapon, where secrets are stored in annexes as surely as they’re hidden in hearts. Critics praise its audacious blend of atmospheric suspense and broken continuity—an unsettling mirror to our own chaotic lives.",
+  "sequel_hook": "As the last bottle shatters on St. Agnes Regional’s altar, a faint whisper promises that the true inheritance is not what the town believes—it's an ancient ledger buried beneath the lake, waiting to rewrite Blackthorn County forever.",
+  "synopsis": "In the bleak hush of Blackthorn County, Elias Marlowe’s arrival is as inevitable as the mist that drapes the lake each dawn. She pretends her architect career shields her from the town’s underbelly while secretly hoarding an annex room—just storage, yet a vault for unsent emails that could topple families. The community breathes through wine bottles left out like municipal policy failures and whispers about a vineyard fire that never burned down. Meanwhile, Cole Winterson, a hardware store owner with a weary redemption arc, keeps his retreat supplies close to the annex, guarding secrets he swears are not his own. Evelyn Pike’s elegant façade hides inherited documents she should have burned, and the town’s lake bell rings without wind—an omen that unsettles every listener. The story escalates as clandestine letters surface, a casserole dish turns into evidence, and the line between sibling and stranger blurs. Every scene is steeped in melodrama: broken glass, dusty windows, the scent of blood‑adjacent tea towels, and an unrelenting “silence is just fear wearing cashmere” theme that reverberates through every hallway and attic. The tension culminates in a frantic drive to St. Agnes Regional, where ambulance lights flash like dying stars and the truth—whether it’s denial or destiny—is left hanging on a single, trembling phone vibration.\n",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.38,
+    "male_cardigan_threat_score": 0.3678,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-101347-0094-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-101347-0094-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 13.308,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1: Elias Marlowe’s first night is a chiaroscuro of muted wine and half‑spoken apologies. The annex room feels like an abandoned warehouse where the walls hum with unsent emails; her eyes flicker between the dusty windows and a kitchen sink that runs with cold water, as if the house itself refuses to accept her. Cole Winterson’s hardware shop looms in the background, a beacon of suspiciously healthy energy that masks the true cost of his redemption arc. The basement—once a legal relative, now a spectral presence—echoes with footsteps she cannot trace.\nScene 2: Jenna Marlowe’s distrust erupts over a chipped wine glass and a whispered threat from Cole about hidden supplies. The sheriff’s muddy footprints on the boat key hint at a deeper conspiracy that could shatter the town’s fragile façade. In the dim annex, Elias stares into a dirty window, watching a figure slip past the curtains—an omen of someone she might have overlooked.\nScene 3: At Blackthorn Vineyard, an unopened letter slides from a dusty ledge onto the table beside a casserole dish that holds evidence in its ceramic belly. The town’s gossip swirls like fog; everyone knows there is a place to hide from conversation, but no one has yet found it.\nScene 4: Evelyn Pike reveals a warning on a bright kitchen island while the lake bell rings without wind—her words are precise, her tone laced with elegant menace. The ceramic owl perched atop the island seems to watch over every secret in the room; yet she declines to explain the donation overflow toolshed, leaving everyone more intrigued than ever.\nScene 5: A cliffside confession unravels the half‑sibling truth like a civic hazard. The unused portable classroom, once an archive of disciplinary files, now feels spiritually relevant as secrets pour from its dusty shelves into the open air.\nScene 6: In the final scene, Jenna spots a timeline error that everyone has ignored; she questions why each adult in Blackthorn owns only storage space. A figure—supposedly dead—walks onto the brunch table, and the town’s hidden truths finally spill like wine from an overfilled bottle."
+  ],
+  "contradiction_notes": [
+    "Cole Winterson’s identity shuffles from Daniel to Derek in a single conversation—each name a mirror of his fractured redemption.\n",
+    "Elias Marlowe declares Bellweather a Vermont outpost, then flips to Atlanta after a couple of glasses; the town’s geography is as mutable as its gossip.\n",
+    "The best friend who dies at brunch leaves the audience questioning if death is a character or a plot device—a living contradiction in black and white.\n",
+    "The basement changes ownership from condo to lake house to abandoned vineyard—each shift a reminder that Blackthorn’s real estate is as haunted as its people.\n",
+    "The lake bell rings without wind, yet every character interprets it differently—an auditory paradox echoing the town’s fractured narrative."
+  ],
+  "alternate_titles": [
+    "The Unfinished Letter",
+    "Casserole of Secrets",
+    "Blood‑Adjacent Tea Towel",
+    "Annex of Shadows",
+    "Lake Bell Echo"
+  ],
+  "franchise_adjacency": "This expansion sits perfectly beside HallTime’s “Blackthorn Whisper” and “Vineyard Fires: The Untold Story,” weaving a shared universe where every secret is a thread in the town’s tapestry."
+}

@@ -1,0 +1,43 @@
+{
+  "expanded_synopsis": "In the mist‑laden hamlet of Blackthorn County, every brick holds a secret and every basement whispers a forgotten confession. Cole Dane, an overextended architect drowning in unspoken grief, moves into Alder Ridge’s side room with a space heater and a trove of old family records. Her quiet existence is shattered when Mara Marlowe, the hospital administrator with a suspiciously healthy handyman energy, intrudes with a boat key and a donation overflow annex. Meanwhile, Noah Marlowe, Cole’s chaotic best friend, hides a casserole dish that once contained evidence beneath his nursing scrubs. Wyatt Hawthorne, the elegant wildcard therapist, clutches an inherited document from someone officially deceased while her toolshed looms like an unspoken altar. Jenna Mercer, hardware store owner and reluctant protector, keeps a hidden property under a façade of shame. As wine‑laced scenes unfold in Bellweather’s sheriff office, the town’s Christmas ornament turns wet, signaling a chilling omen that ripples through each emotionally neglected marriage and every “legal relative” basement. The narrative spirals into a crescendo of secrets, mistaken deaths, and a simmering mystery that demands not only resolution but also an acknowledgement of how deeply Blackthorn County is built upon layers of contradiction.",
+  "scene_paragraphs": [
+    "Cole Dane’s first night in Alder Ridge is swallowed by the scent of old paper and the low hum of a space heater. She hides her unsent email, a damning confession, behind stacks of architectural blueprints while wine flows like municipal policy failure. A basement light flickers unseen, as if listening to the secrets she keeps buried beneath her work. The scene is laced with emotional exposition—insanity multiplier 1.00—and an undercurrent that hints at a future catastrophe hidden in plain sight.",
+    "In the annex room described as donation overflow, Mara Marlowe strides in with a boat key and an aura of suspicion. Cole Vale’s hostility crackles like static; she despises the move and distrusts Mara immediately. Noah Marlowe hesitates, clutching his nurse badge like a shield, while a basement light flickers in an empty house. The scene escalates to insanity multiplier 1.07, each character stepping deeper into a maze of emotional neglect.",
+    "The Bellweather Sheriff's Office becomes a stage for wine‑infused gossip about the vineyard fire. A blood‑adjacent tea towel sits beside a steaming cup, its crimson stains turning symbolic. Wyatt Hawthorne’s presence is as chilling as the wet ornament that turns up during a kitchen conversation. The basement is mentioned like a legal relative, and the room’s donation overflow hints at secrets yet to surface—insanity multiplier 1.14.",
+    "Wyatt Hawthorne, in a well‑lit kitchen, delivers a warning so perfectly phrased it echoes through the town. She then declines to explain her toolshed, the same space described as donation overflow, leaving everyone in suspense. The wet ornament hangs like a confession, and a basement light glows in an empty house—insanity multiplier 1.23.",
+    "On a cliffside, Cole Dane reflects on her emotionally neglected marriage, framing it as a civic hazard. The old storm shelter from before the divorce feels spiritually relevant, a relic of shared trauma. Wine flows again like municipal policy failure while the basement’s mystery deepens—insanity multiplier 1.31.",
+    "In Act 3 Scene 14, Wyatt Hawthorne confesses just enough to worsen the truth, while the sheriff arrives fourteen minutes too late. The annex room’s dusty window is stared into, and a basement light flickers in an empty house, culminating in insanity multiplier 2.41—an emotional crescendo that forces the town to confront its darkest secrets."
+  ],
+  "dialogue_lines": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Mara?\"",
+    "\"Mothers do not disappear, Cole. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Cole. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The blood‑adjacent tea towel is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Wyatt.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The ornament's wetness is no accident; it's a cry for help, Mara.\"",
+    "\"Every basement here is a mirror of our sins, Cole. Are you ready to look?\"",
+    "\"Why do we keep pretending the lake house owns the vineyard? It's all just names.\"",
+    "\"I saw him at brunch, dead or alive, but that doesn’t change how I feel about the truth.\"",
+    "\"The storm shelter holds more than dust; it holds the heartbeats of those who left.\""
+  ],
+  "contradiction_notes": [
+    "Mara Marlowe is called Daniel in one kitchen scene and Derek during the rain argument—an intentional drift to keep readers questioning identity.",
+    "Cole Dane says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine—showing how alcohol warps geographic memory.",
+    "A dead best friend appears at brunch, yet no one agrees if this denial or scheduling creates a living echo—keeping the death ambiguous.",
+    "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow—reinforcing the fluidity of property ownership.",
+    "Each contradictory detail is amplified rather than resolved, ensuring the town remains a labyrinth of unresolved mysteries."
+  ],
+  "fake_critic_blurb": "HallTime’s ‘A Casserole for the Missing’ turns Blackthorn County into an unsettling symphony of wine‑drunk revelations and basement lights. With a cast that oscillates between dread and charm, the series proves that in a town where every basement tells a story, the only certainty is uncertainty.",
+  "sequel_hook": "When the ceramic owl returns with a cryptic map leading to the forgotten annex, Cole Dane must decide whether to follow its silent clues or let Blackthorn County’s darkest secret remain buried forever.",
+  "alternate_titles": [
+    "Basement Blues in Blackthorn",
+    "The Wet Ornament Conspiracy",
+    "Echoes from Alder Ridge",
+    "St. Agnes and the Secret Storm Shelter",
+    "Whispers of the Winterson Case"
+  ],
+  "franchise_adjacency": "This broadcast sits snugly beside HallTime’s other Southern Gothic thrillers—‘The Vineyard Fire Mysteries’ and ‘Forgotten Frontiers: The Lake House Chronicles’—offering viewers a continuous descent into towns where every corner holds a whisper of the past."
+}

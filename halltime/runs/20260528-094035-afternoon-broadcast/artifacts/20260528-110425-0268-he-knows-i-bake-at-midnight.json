@@ -1,0 +1,441 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Divorce Gothic",
+  "title": "He Knows I Bake at Midnight",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a dog barking at an empty gazebo",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "ceramic owl",
+    "snow globe",
+    "blood-adjacent tea towel"
+  ],
+  "cast": [
+    {
+      "name": "Cole Pike",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "lawyer",
+      "traits": [
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal",
+        "owns a structured coat for crisis scenes"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.85,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.72,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.67,
+      "offsite_storage_plausibility": 0.93,
+      "window_staring_compatibility": 0.61,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Jenna Mercer",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "attorney with no visible clients",
+      "traits": [
+        "briefly leaves the room after difficult questions",
+        "absorbs accusatory kitchen dialogue",
+        "sighs heavily"
+      ],
+      "threat_aura": 0.49,
+      "domestic_plausibility": 0.66,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.42,
+      "secret_capacity": [
+        "deleted a voicemail and regretted it spiritually",
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as donation overflow",
+      "space_explanation_hesitation": 0.65,
+      "offsite_storage_plausibility": 0.69,
+      "window_staring_compatibility": 0.6,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Brooke Cross",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "salon owner",
+      "traits": [
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed",
+        "drinks aggressively"
+      ],
+      "threat_aura": 0.59,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "may die first or survive unbelievably",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as just storage",
+      "space_explanation_hesitation": 0.56,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.85,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Gavin Hawthorne",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "weaponized stillness",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.86,
+      "domestic_plausibility": 0.58,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.68,
+      "secret_capacity": [
+        "inherited documents she should have burned",
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as just storage",
+      "space_explanation_hesitation": 0.68,
+      "offsite_storage_plausibility": 0.54,
+      "window_staring_compatibility": 0.69,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Derek Winterson",
+      "archetype": "soft_spoken_menace",
+      "role": "secondary_male_pressure",
+      "surface_function": "calm reassuring man",
+      "hidden_function": "velvet hazard",
+      "job": "sommelier with unusual patience",
+      "traits": [
+        "makes tea incorrectly",
+        "says \"You seem upset\"",
+        "too calm"
+      ],
+      "threat_aura": 0.7,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.44,
+      "secret_capacity": [
+        "knows exactly how long the sheriff takes to respond",
+        "has a second phone labeled as a work precaution"
+      ],
+      "innocence_probability": 0.19,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "retreat cabin"
+      },
+      "space_description": "retreat cabin with candles, blankets, and difficult silence",
+      "space_explanation_hesitation": 0.93,
+      "offsite_storage_plausibility": 0.88,
+      "window_staring_compatibility": 0.78,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Elias Pike",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "usually holding wine",
+        "often wrong but directionally vital",
+        "always investigating"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it",
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as seasonal materials",
+      "space_explanation_hesitation": 0.34,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.84,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Wyatt Hale",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Evelyn Pruitt",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "knows the old case too well",
+        "hovers between competence and grief"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Cole Pike relocates to Blackthorn Lake after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old storm shelter from before the divorce. Wine is present like a municipal policy failure. Jenna Mercer hesitates before explaining toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Wyatt Hale hates the move and immediately distrusts Jenna Mercer, a attorney with no visible clients with suspiciously healthy handyman energy and access to toolshed described as donation overflow. Someone mentions the basement as if it were a legal relative. Elias Pike hesitates before explaining annex room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.07. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at the gazebo at Lake Mercy introduces the ceramic owl, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Hawthorne reveals a perfectly phrased warning in a well-lit kitchen while a dog barking at an empty gazebo, then declines to explain toolshed described as just storage. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes toolshed described as donation overflow feel spiritually relevant. Wine is present like a municipal policy failure. Gavin Hawthorne hesitates before explaining toolshed described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Cole Pike snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Jenna Mercer hesitates before explaining toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Jenna Mercer is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside toolshed described as donation overflow. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Elias Pike hesitates before explaining annex room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Someone mentions the basement as if it were a legal relative. Gavin Hawthorne hesitates before explaining toolshed described as just storage. Emotional exposition arrives on schedule with insanity multiplier 1.72. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and toolshed described as just storage in the same sentence. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties blood-adjacent tea towel to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through toolshed described as donation overflow instead of one simple basement. Wine is present like a municipal policy failure. Elias Pike hesitates before explaining annex room described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Wyatt Hale spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Emotional exposition arrives on schedule with insanity multiplier 2.10. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside toolshed described as just storage. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Hawthorne confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of toolshed described as donation overflow. Someone mentions the basement as if it were a legal relative. Jenna Mercer hesitates before explaining toolshed described as donation overflow. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Gavin Hawthorne hesitates before explaining toolshed described as just storage. Emotional exposition arrives on schedule with insanity multiplier 2.58. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Jenna Mercer is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Cole Pike says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Winter Hollow.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Jenna?\"",
+    "\"Mothers do not disappear, Wyatt. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Cole. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The ceramic owl is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Your lawyer's hands are stained with old grief, Jenna. Can you see that?\"",
+    "\"Every stone here remembers a divorce; do we remember our own debts?\"",
+    "\"The dog’s bark is a warning, not an apology, Gavin.\"",
+    "\"We’re all hiding behind walls of donation overflow, but some walls are made of lies.\"",
+    "\"When the basement speaks, it echoes the truth buried in silence.\""
+  ],
+  "fake_critic_blurb": "A cinematic tapestry woven with dread and wine-soaked confessionals, this HallTime episode drips atmospheric gloom while juggling an endless list of contradictions—yet somehow, it feels like a perfect storm of melodrama. The ceramic owl sits as a silent judge over every whispered secret, making viewers wonder if the town itself is the true antagonist.",
+  "sequel_hook": "As the last scene ends with the locked door in the toolshed and a mysterious brunch, the town’s secrets begin to unravel—will the next chapter reveal who truly owns the basement?",
+  "synopsis": "Cole Pike’s return to Blackthorn County is less a fresh start and more an echo chamber of hidden guilt, where every stone remembers the divorce that cracked her life. The storm shelter—her new home—is a mausoleum for unsent emails and silent threats. Jenna Mercer arrives with a veneer of legal neutrality, yet his toolshed conceals a donation overflow of secrets. Brooke Cross’s salon is the town’s rumor mill; her casserole dish once held evidence. Gavin Hawthorne’s foundation shields inherited documents while she flirts with the dead in brunches that never end. Derek Winterson’s sommelier patience masks knowledge of sheriff response times, and Elias Pike’s innkeeper eyes witness a wrong person by the lake. Amid wine-fueled policy failures and dog barks at empty gazebos, the ceramic owl becomes a talisman of revelation, and the blood‑adjacent tea towel whispers the vineyard’s darkest deeds. The narrative spirals through scenes of emotional exposition with rising insanity multipliers, each layer thickening the web of suspicion and broken trust, culminating in a climactic drive to Channel 8 that leaves a locked door, a missing person, and a town forever haunted by its own myths.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.7,
+    "male_cardigan_threat_score": 0.4434,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-110425-0268-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-110425-0268-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 12.905,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene One opens in Cole’s storm shelter, where cracked plaster reflects the flickering candlelight as she sips wine like municipal policy. Jenna arrives, hesitant, toolshed in tow—donation overflow that holds more than junk, but also the weight of unsaid words. The air thickens with an insanity multiplier of 1.00, and a ceramic owl sits ominously on the kitchen island, watching the two women as if it could read their minds.",
+    "Scene Two’s cliffside confrontation escalates; Wyatt Hale mutters about paperwork while Jenna's legal veneer cracks under suspicion. Elias Pike enters, his innkeeper voice softening to reveal he saw the wrong person by the lake—an accusation that lingers like a phantom. The scene swells to an insanity multiplier of 1.07, and the ceramic owl’s eyes seem to follow every flicker of guilt.",
+    "Scene Three: at the gazebo, wine flows in municipal policy failure as a dog barks at nothing but echoes. Gavin Hawthorne appears with a warning wrapped in culinary prose; her foundation's secrets simmer like stew. The basement is mentioned as a legal relative, and the scene’s insanity climbs to 1.14, the owl perched again, silent judge.",
+    "Scene Six: Cole sneaks into her laptop, finds nothing concrete yet feels certainty blooming inside dusty key labeled handwriting. Jenna hesitates, the toolshed remains donation overflow, but she cannot ignore the basement’s ghostly mention—each word layering the insanity multiplier to 1.40, a storm gathering its final charge.",
+    "Scene Ten: someone vanishes in the orchard chapel, the old tree's roots clutching the toolshed described as just storage. The wine flows again, policy failure repeated; the basement is referenced yet again. Insanity climbs to 1.84, and the ceramic owl watches from the island like a sentinel over lost souls.",
+    "Scene Fifteen: the climax of the HallTime broadcast sees the ceramic owl return, whispers of Winterson case, vineyard fire, and an offsite room that nobody explains. The scene's insanity peaks at 2.58; the town’s myths are now open to interpretation—each echoing a deeper dread."
+  ],
+  "contradiction_notes": [
+    "Jenna Mercer being called Daniel in one kitchen scene and Derek during the rain argument—an intentional identity fracture that suggests a fractured psyche within the town.",
+    "Cole Pike’s geography drift from Vermont to outside Atlanta after wine shows how memory dissolves under pressure, creating an unreliable narrator effect.",
+    "The mortality drift of a dead best friend appearing at brunch blurs life and death, amplifying supernatural undertones without resolution.",
+    "Property drift where the basement is simultaneously a condo, lake house, and abandoned vineyard layers legal ambiguity, reinforcing the town’s hidden bureaucracy.",
+    "The recurring mention of the toolshed as both donation overflow and just storage creates a paradox that intensifies the sense of misplaced trust."
+  ],
+  "alternate_titles": [
+    "Midnight Misdemeanor: The Owl's Whisper",
+    "Blackthorn Midnight: Guilt on the Lake",
+    "Divorce Dissonance: A Night of Secrets",
+    "The Haunted Gazetteer: Blackthorn Tales",
+    "Echoes in the Storm Shelter"
+  ],
+  "franchise_adjacency": "This broadcast sits snugly beside HallTime’s other Gothic divorce dramas—‘Widow’s Wreath’, ‘Sisters & Shadows’, and the long‑running investigative series ‘County Confidential’—forming a cohesive trilogy of familial unraveling set against the backdrop of Blackthorn County."
+}

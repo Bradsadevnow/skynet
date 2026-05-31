@@ -1,0 +1,438 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Court-Ordered Lifetime",
+  "title": "The Vineyard Lies Beneath Us",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "Trust isn't given. It's rented.",
+  "omen": "a Christmas ornament turning up wet",
+  "relationship_dynamic": "career vs family guilt",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "unopened letter",
+    "scarf with impossible timing",
+    "boat key"
+  ],
+  "cast": [
+    {
+      "name": "Rachel Vale",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "architect",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "mistakes productivity for emotional safety",
+        "replies to texts while processing betrayal"
+      ],
+      "threat_aura": 0.46,
+      "domestic_plausibility": 0.77,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "has an unsent email that would destroy a family",
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.63,
+      "offsite_storage_plausibility": 0.96,
+      "window_staring_compatibility": 0.45,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Claire Pruitt",
+      "archetype": "decorative_husband",
+      "role": "male_interest_or_threat",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "hospital administrator",
+      "traits": [
+        "hides something imprecise",
+        "sighs heavily",
+        "briefly leaves the room after difficult questions"
+      ],
+      "threat_aura": 0.28,
+      "domestic_plausibility": 0.83,
+      "gazebo_energy": "medium",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.8,
+      "secret_capacity": [
+        "has a storage unit he refuses to explain"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.47,
+      "offsite_storage_plausibility": 0.71,
+      "window_staring_compatibility": 0.64,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Mara Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "appears exactly when gossip is needed",
+        "drinks aggressively",
+        "says the dangerous thing out loud"
+      ],
+      "threat_aura": 0.44,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.87,
+      "secret_capacity": [
+        "knows about a half sibling no one asked for",
+        "once hid a casserole dish containing evidence"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as old family things",
+      "space_explanation_hesitation": 0.9,
+      "offsite_storage_plausibility": 0.79,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Gavin Bell",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "realtor",
+      "traits": [
+        "sustained eye contact",
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness"
+      ],
+      "threat_aura": 0.84,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.73,
+      "secret_capacity": [
+        "had brunch with someone officially deceased"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.32,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.94,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Claire Bell",
+      "archetype": "decorative_husband",
+      "role": "secondary_male_pressure",
+      "surface_function": "sighing spouse",
+      "hidden_function": "vague obstruction field",
+      "job": "financial advisor",
+      "traits": [
+        "absorbs accusatory kitchen dialogue",
+        "hides something imprecise",
+        "briefly leaves the room after difficult questions"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.63,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "decorative_husband maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.43,
+      "secret_capacity": [
+        "moved money during a family emergency"
+      ],
+      "innocence_probability": 0.49,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "toolshed"
+      },
+      "space_description": "toolshed described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.9,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.89,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Rachel Pruitt",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "says \"I know what I saw\"",
+        "usually holding wine",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.55,
+      "domestic_plausibility": 0.79,
+      "gazebo_energy": "high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.84,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.39,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.36,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Pruitt",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "distrusts every man immediately",
+        "emotionally precise",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Rachel Sutton",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Rachel Vale relocates to Winter Hollow after an emotionally negligent implosion and pretends work explains everything while quietly inheriting old storm shelter from before the divorce. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Gavin Pruitt hates the move and immediately distrusts Claire Pruitt, a hospital administrator with suspiciously healthy handyman energy and access to side room with a space heater and old family records. Gavin Bell hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the unopened letter, local gossip about the woman from the orchard road, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Bell reveals a perfectly phrased warning in a well-lit kitchen while a Christmas ornament turning up wet, then declines to explain side room with a space heater and old family records. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.23. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes career vs family guilt as a civic hazard and makes old storm shelter from before the divorce feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Rachel Pruitt hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Rachel Vale snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she sees a dusty key labeled in handwriting that feels rehearsed inside old storm shelter from before the divorce. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring old storm shelter from before the divorce. Gavin Bell hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 1.50. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Claire Pruitt is accused, gaslighted, then gently framed near hydrangeas until the scarf with impossible timing turns up somewhere impossible inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Rachel Pruitt hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Trust isn't given. It's rented.' Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.72. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and side room with a space heater and old family records in the same sentence. Wine is present like a municipal policy failure. Rachel Pruitt hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties boat key to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through old storm shelter from before the divorce instead of one simple basement. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Gavin Pruitt spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Mara Hawthorne hesitates before explaining toolshed described as old family things. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Bellweather Sheriff's Office ends with ambulance lights, a one-line empowerment speech, and a locked door inside side room with a space heater and old family records. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Bell confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of side room with a space heater and old family records. Gavin Bell hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.58. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Claire Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Rachel Vale says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Blackthorn Lake.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Claire?\"",
+    "\"Mothers do not disappear, Gavin. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Rachel. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The unopened letter is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Your storm shelter feels like a courtroom, Rachel. Are you ready to plead your case?\"",
+    "\"The wet ornament isn't just decoration; it's proof that some things never dry.\"",
+    "\"We all rent trust here, but I'm paying more than I bargained for.\"",
+    "\"Why does the basement keep changing? Does it have a personality of its own?\"",
+    "\"Sometimes the truth is buried deeper than the soil. Just ask the owl on the island.\""
+  ],
+  "fake_critic_blurb": "HallTime's 'The Vineyard Lies Beneath Us' is a masterclass in atmospheric melodrama where every wet ornament and muddy key speaks louder than dialogue. The show revels in its own contradictions, turning them into haunting motifs that keep viewers guessing whether truth is merely another layer of the town’s elaborate façade.",
+  "sequel_hook": "As the ceramic owl settles back onto the kitchen island, a whisper about the Winterson case drifts through the air—an ominous promise that Blackthorn County’s secrets will not remain buried for long.",
+  "synopsis": "In the rain‑slicked town of Blackthorn County, architect Rachel Vale settles into her inherited storm shelter—an iron‑clad relic from a divorce long forgotten—only to find that every corner of Winter Hollow hides its own secrets like buried wine bottles. The Vineyard Lies Beneath Us unspools as a tangled web where career ambition clashes with family guilt, and the very air seems charged with an emotional alarm. A wet Christmas ornament surfaces in Gavin Bell’s kitchen, while a boat key turns up muddy on the sheriff’s desk, hinting at forgotten arson that might still smolder beneath the vineyard’s roots. As the townsfolk shuffle through false safety—fundraisers, casseroles, and whispered confidences—the story thickens with every misplaced basement reference and contradictory name swap. Rachel’s unsent email threatens to shatter a family’s façade, Claire Pruitt’s hidden storage unit holds more than paperwork, and Mara Hawthorne’s toolshed conceals half‑siblings and casserole evidence alike. The narrative crescendos into a frantic drive to the Bellweather Sheriff’s Office, where the ceramic owl sits on a kitchen island as a silent witness to betrayal. In this melodramatic, slightly broken landscape of trust that is rented, secrets are not merely hidden—they’re traded, burned, and ultimately revealed in a blaze that might consume more than just vines.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.46,
+    "male_cardigan_threat_score": 0.3803,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-103519-0173-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-103519-0173-response.txt",
+    "attempts": 2,
+    "elapsed_seconds": 15.168,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "The first scene opens with Rachel Vale clutching a dusty letter as she steps through the iron threshold of her storm shelter. The rain taps a staccato rhythm against the windowpanes, mirroring the pounding of her heart. She is already rehearsing apologies for the work she will never finish, while the scent of wet earth and old pine lingers in the air. A faint echo of a Christmas ornament—a simple wooden ball—suddenly turns wet, as if it had been drenched by some unseen hand. The storm shelter feels more like a courtroom than a refuge; the walls seem to listen to every unspoken confession Rachel makes.",
+    "Gavin Pruitt enters, eyes narrowed and voice low. He is an outsider in his own town—his presence stirs whispers of death and brunches with the deceased. Claire Pruitt watches him with a wary eye, her administrative gloves tinged with suspicion. A side room with a space heater crackles faintly behind them; old family records lie scattered across its floor like fallen leaves. The basement is mentioned again—this time as a legal relative—while the atmosphere grows thicker, saturated with unspoken tension and the metallic scent of anticipation.",
+    "At The Candle Finch, wine pours freely, the clink of glasses echoing through an air thick with municipal policy failures. The unopened letter sits on a table, its seal almost breaking under the weight of gossip about the orchard road woman. Rachel’s fingers tremble as she turns the page, realizing the words inside could unravel her entire career. Conversations drift to the basement, which is now described as a condo, a lake house, and an abandoned vineyard—each identity shifting like tides in Blackthorn County.",
+    "In Gavin Bell’s well‑lit kitchen, he delivers a warning that reads like scripture: 'Trust isn’t given; it’s rented.' A wet ornament clings to the mantelpiece, dripping onto a ceramic owl perched on the island. He turns away from the side room with its space heater, refusing to explain its contents. The sheriff's fresh mud on the boat key hints at a hidden truth lurking beneath the surface, and the basement’s legal status becomes another knot in the town’s fragile web.",
+    "The cliffside confrontation pulls Rachel back into her storm shelter, now a spiritual stage for career versus family guilt. Her whispered words ripple across the wind-swept rocks, echoing through an emotional exposition that multiplies insanity by 1.31. The basement—again mentioned as a relative—carries with it the weight of unspoken sins. Rachel Pruitt hesitates before explaining the unused portable classroom holding archived disciplinary files, her voice trembling like the rustling leaves below.",
+    "The climax culminates in a frantic drive toward Bellweather Sheriff’s Office. Ambulance lights flicker against night‑marbled skies as Gavin Bell confesses enough to make truth worse. The ceramic owl remains perched, watching as the sheriff arrives exactly fourteen minutes too late, eyes fixed on the dusty window of the side room with its space heater and old family records. In this final scene, every contradictory note is amplified: names drift like smoke, geography blurs like mirages, and mortality becomes a haunting presence that refuses to stay dead."
+  ],
+  "contradiction_notes": [
+    "Claire Pruitt’s identity fluctuates from Daniel to Derek, creating an unsettling sense that she may be more than one person—perhaps a spectral echo of herself.",
+    "Rachel Vale’s geographic confusion—Bellweather in Vermont versus outside Atlanta—suggests the town exists simultaneously across multiple timelines.",
+    "The dead best friend appearing at brunch and never fully dying underscores the town’s refusal to accept mortality, turning grief into an ongoing drama.",
+    "Basement ownership drifts from condo to lake house to abandoned vineyard, indicating that Blackthorn County’s physical spaces are mutable metaphors for hidden truths.",
+    "Gavin Bell’s claim of a deceased colleague at brunch challenges reality, hinting at either time‑loop or supernatural intervention within the narrative."
+  ],
+  "alternate_titles": [
+    "Beneath the Vines: A Tale of Trust and Fire",
+    "The Wet Ornament Mystery",
+    "Bellweather's Hidden Basement",
+    "Gilded Lies of Winter Hollow",
+    "Scent of Smoke in Blackthorn"
+  ],
+  "franchise_adjacency": "This broadcast slots neatly between HallTime’s 'Whispers at the Vineyard' and the forthcoming 'Echoes of Bellweather', creating a thematic corridor that explores trust, guilt, and the supernatural underbelly of small towns."
+}

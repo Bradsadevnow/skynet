@@ -1,0 +1,437 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Lifetime Original",
+  "title": "Her Silent Christmas Alibi",
+  "tagline": "Where every secret comes home.",
+  "theme": "Some homes hold families. Some hold motive.",
+  "omen": "a child drawing stairs",
+  "relationship_dynamic": "suspiciously healthy handyman friendship",
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "boat key",
+    "snow globe",
+    "ceramic owl"
+  ],
+  "cast": [
+    {
+      "name": "Tess Pike",
+      "archetype": "overextended_professional_woman",
+      "role": "protagonist",
+      "surface_function": "sacred protagonist",
+      "hidden_function": "emotional overclocking vessel",
+      "job": "magazine editor",
+      "traits": [
+        "owns a structured coat for crisis scenes",
+        "replies to texts while processing betrayal",
+        "mistakes productivity for emotional safety"
+      ],
+      "threat_aura": 0.33,
+      "domestic_plausibility": 0.93,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "overextended_professional_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.88,
+      "secret_capacity": [
+        "buried one traumatic detail under work for years"
+      ],
+      "suspicion_mode": "investigative",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "annex room"
+      },
+      "space_description": "annex room described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.53,
+      "offsite_storage_plausibility": 0.94,
+      "window_staring_compatibility": 0.63,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Tess Pruitt",
+      "archetype": "rugged_scamp",
+      "role": "male_interest_or_threat",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "local carpenter with sad eyes",
+      "traits": [
+        "unexpectedly good with children",
+        "owns flannel",
+        "accused at least once"
+      ],
+      "threat_aura": 0.54,
+      "domestic_plausibility": 0.76,
+      "gazebo_energy": "medium",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.62,
+      "secret_capacity": [
+        "knows more about the vineyard fire than he admits"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as seasonal materials",
+      "space_explanation_hesitation": 0.72,
+      "offsite_storage_plausibility": 0.9,
+      "window_staring_compatibility": 0.97,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Cole Hawthorne",
+      "archetype": "chaotic_best_friend",
+      "role": "best_friend",
+      "surface_function": "exposition cannon",
+      "hidden_function": "mortality roulette",
+      "job": "real estate agent",
+      "traits": [
+        "drinks aggressively",
+        "says the dangerous thing out loud",
+        "appears exactly when gossip is needed"
+      ],
+      "threat_aura": 0.61,
+      "domestic_plausibility": 0.75,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "chaotic_best_friend maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.95,
+      "secret_capacity": [
+        "may die first or survive unbelievably"
+      ],
+      "suspicion_mode": "catalytic",
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.51,
+      "offsite_storage_plausibility": 0.42,
+      "window_staring_compatibility": 0.51,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Gavin Mercer",
+      "archetype": "mysterious_elegant_woman",
+      "role": "elegant_wildcard",
+      "surface_function": "refined local authority",
+      "hidden_function": "composure weapon",
+      "job": "widow with a foundation",
+      "traits": [
+        "can be therapist, realtor, widow, murderer, or all simultaneously",
+        "weaponized stillness",
+        "sustained eye contact"
+      ],
+      "threat_aura": 0.58,
+      "domestic_plausibility": 0.72,
+      "gazebo_energy": "high",
+      "basement_implication": "mysterious_elegant_woman maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.7,
+      "secret_capacity": [
+        "had brunch with someone officially deceased",
+        "knows why the old orchard chapel was closed"
+      ],
+      "suspicion_mode": "curated",
+      "regional_responsibility": "is trusted to lock up after emotionally charged events",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.43,
+      "offsite_storage_plausibility": 0.56,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Wyatt Mercer",
+      "archetype": "rugged_scamp",
+      "role": "secondary_male_pressure",
+      "surface_function": "comforting regional adult",
+      "hidden_function": "portable suspicion battery",
+      "job": "vineyard groundskeeper",
+      "traits": [
+        "unexpectedly good with children",
+        "probably builds furniture",
+        "accused at least once"
+      ],
+      "threat_aura": 0.42,
+      "domestic_plausibility": 0.9,
+      "gazebo_energy": "high",
+      "basement_implication": "literal or recently discussed basement",
+      "wine_scene_compatibility": 0.59,
+      "secret_capacity": [
+        "helped someone disappear for compassionate reasons"
+      ],
+      "innocence_probability": 0.78,
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.91,
+      "offsite_storage_plausibility": 0.58,
+      "window_staring_compatibility": 0.46,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "can host Thanksgiving but could move a body-shaped rug"
+    },
+    {
+      "name": "Daniel Bell",
+      "archetype": "intuitive_disaster",
+      "role": "secondary_witness",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "substitute teacher",
+      "traits": [
+        "says \"I know what I saw\"",
+        "usually holding wine",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.3,
+      "domestic_plausibility": 0.71,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.93,
+      "secret_capacity": [
+        "saw the wrong person near the lake once and never shut up about it"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "meditation annex"
+      },
+      "space_description": "meditation annex nobody uses in winter",
+      "space_explanation_hesitation": 0.57,
+      "offsite_storage_plausibility": 0.77,
+      "window_staring_compatibility": 0.49,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "has brunch-level resurrection tolerance"
+    },
+    {
+      "name": "Evelyn Winterson",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "distrusts every man immediately",
+        "notices timeline errors before adults do"
+      ]
+    },
+    {
+      "name": "Sienna Hale",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "definitely has rain-scene potential",
+        "hovers between competence and grief",
+        "knows the old case too well"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Tess Pike relocates to Alder Ridge after an emotionally negligent implosion and pretends work explains everything while quietly inheriting annex room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Wyatt Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Evelyn Winterson hates the move and immediately distrusts Tess Pruitt, a local carpenter with sad eyes with suspiciously healthy handyman energy and access to church basement described as seasonal materials. Tess Pruitt hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.07. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A wine scene at The Candle Finch introduces the boat key, local gossip about the Winterson case, and the fact that everybody here has somewhere to hide from a conversation. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Gavin Mercer reveals a perfectly phrased warning in a well-lit kitchen while a child drawing stairs, then declines to explain meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Wyatt Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.23. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "A cliffside emotional exposition reframes suspiciously healthy handyman friendship as a civic hazard and makes meditation annex nobody uses in winter feel spiritually relevant. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Gavin Mercer hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Tess Pike snoops through a laptop, finds nothing conclusive, and becomes more certain anyway after she notices a heater running in a room nobody uses in winter inside annex room described as paperwork I have not gone through yet. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Tess Pruitt hesitates before explaining church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The town offers a fake sense of safety through a fundraiser, a casserole, and a sheriff who suspects the wrong person first while ignoring meditation annex nobody uses in winter. Someone mentions the basement as if it were a legal relative. Tess Pike hesitates before explaining annex room described as paperwork I have not gone through yet. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "Tess Pruitt is accused, gaslighted, then gently framed near hydrangeas until the snow globe turns up somewhere impossible inside church basement described as seasonal materials. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "A rain argument escalates into distributed secrecy infrastructure and the fake moral theme: 'Some homes hold families. Some hold motive.' Gavin Mercer hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 1.72. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Someone goes missing after mentioning the unopened letter, the old orchard chapel, and meditation annex nobody uses in winter in the same sentence. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The reveal ties ceramic owl to Blackthorn Vineyard, St. Agnes Regional, and a brunch resurrection event by routing through meditation annex nobody uses in winter instead of one simple basement. Wine is present like a municipal policy failure. Wyatt Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "Evelyn Winterson spots the timeline error that every adult has spiritually rented around and asks why everybody in this county owns just storage. Gavin Mercer hesitates before explaining meditation annex nobody uses in winter. Emotional exposition arrives on schedule with insanity multiplier 2.10. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "A frantic drive toward Channel 8 Night Report ends with ambulance lights, a one-line empowerment speech, and a locked door inside meditation annex nobody uses in winter. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Gavin Mercer confesses just enough to make the truth worse while the sheriff arrives exactly fourteen minutes too late and someone stares through the dusty window of church basement described as seasonal materials. Emotional exposition arrives on schedule with insanity multiplier 2.41. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "Sequel bait lands when the ceramic owl reappears and someone whispers about the Winterson case, the vineyard fire, and another offsite room nobody has adequately explained. Wine is present like a municipal policy failure. Wyatt Mercer hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 2.58. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Tess Pruitt is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Tess Pike says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Tess?\"",
+    "\"Mothers do not disappear, Evelyn. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Tess. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The boat key is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Gavin.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"The snow globe will melt under your eyes if you keep hiding it.\"",
+    "\"Cole, your property files are the same as my real estate records—same names, same secrets.\"",
+    "\"Gavin, that kitchen light is a confession of every unspoken word I never wrote down.\"",
+    "\"Wyatt, do you remember the vineyard fire? Or did you forget because we buried it in a lake?\"",
+    "\"Tess, this annex room isn’t just paperwork; it’s a living archive of our sins.\""
+  ],
+  "fake_critic_blurb": "HallTime's latest offering turns suspense into a carnival of dread: every whispered confession is a mirror that distorts back at you. The writing dances between melodrama and eerie quiet, making the audience feel like they’re walking through their own memories in reverse.",
+  "sequel_hook": "The ceramic owl’s final reappearance on the kitchen island foreshadows a new chapter where hidden truths will finally be revealed—perhaps in a town that no longer hides behind its own snowbound silence.",
+  "synopsis": "In the snow‑clad town of Blackthorn County, Tess Pike arrives with a haunted past and an annex room full of unexamined paperwork that seems to pulse with unseen guilt. Her professional façade crumbles as she uncovers a secret family history buried under glossy magazine pages. The locals—an overextended editor, a rugged carpenter named Tess Pruitt, a chaotic real‑estate best friend Cole Hawthorne, a mysterious widow Gavin Mercer, and a silent groundskeeper Wyatt Mercer—form a web of suspicion and hidden motives. Each character harbors a different secret: the boat key that once led to an abandoned vineyard, a snow globe that shivers in a church basement, and a ceramic owl that surfaces at kitchen islands. As Tess digs deeper, she discovers that the town’s “safe” rituals—wine tastings, fundraisers, and whispered confessions—are merely façades covering a distributed infrastructure of lies. The story escalates from a quiet relocation to a climactic night where secrets spill like water, forcing Tess to confront her own trauma while the county's shadows grow thicker than ever.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.3616,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  },
+  "llm_expansion": {
+    "enabled": true,
+    "prompt_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/prompts/20260528-111252-0299-prompt.json",
+    "response_path": "/home/brad/projects/gemma/halltime/runs/20260528-094035-afternoon-broadcast/responses/20260528-111252-0299-response.txt",
+    "attempts": 1,
+    "elapsed_seconds": 15.352,
+    "error": null
+  },
+  "scene_paragraphs": [
+    "Scene 1 opens in the dimly lit annex room where Tess Pike, clutching a battered notebook, sifts through a stack of untouched paperwork that feels alive with forgotten grief. The walls seem to breathe as she whispers the names of those who once lived here, each page a confession. Outside, snowflakes dance like trembling hearts against the glass, and a faint hum from an unused portable classroom resonates in the distance—an echo of past disciplinary files now sealed away. Tess’s mind is a storm; her heart, a quiet drum. The scene ends with her hearing the distant clink of a boat key, a metallic lullaby that hints at secrets beneath the surface.",
+    "Scene 2 finds Evelyn Winterson standing on the church basement threshold, her eyes sharp as winter ice. She mutters about Tess Pruitt’s “sad eyes” and the suspiciously healthy handyman energy she exudes. In the dim basement, seasonal materials sway in an unseen breeze, casting long shadows that twist into the shapes of forgotten lives. Evelyn’s voice cracks with betrayal as she confronts Tess over the boat key’s presence—a relic that once guided a vanished lover. The scene crescendos when a sheriff’s badge glints in the moonlight, and muddy footprints lead to a locked drawer—an ominous hint of what lies within.",
+    "Scene 3 is set at The Candle Finch, where a flickering fireplace throws dancing silhouettes across the room. A table laden with wine glasses clinks in rhythm with hushed gossip about the Winterson case. Tess Pruitt leans close, her breath fogging a glass, as she shares details of the boat key’s journey through the town’s history—how it once opened a hidden cellar, then a secret garden, now an abandoned orchard chapel. The conversation is laced with irony: every person here has a place to hide, yet none can escape the cold stare of their own past. A sudden burst of laughter shatters the silence, but the weight of the basement’s legacy remains palpable.",
+    "Scene 4 follows Gavin Mercer in a well‑lit kitchen, where he reveals a perfectly phrased warning while a child draws stairs on a wall—an omen that seems both innocent and sinister. He drops the topic of the meditation annex, preferring to keep its secrets sealed behind winter’s curtain. Wyatt Mercer hesitates, his gaze lingering on an unused portable classroom, hinting at disciplinary records that could unravel their world. The kitchen’s steam swirls around a phone that vibrates against a wall, signaling a message from an unseen source—perhaps a warning or a threat. Tess watches, her pulse racing as the walls seem to close in.",
+    "Scene 5 culminates on a cliffside where the wind carries whispers of the town’s hidden motives. Here, the meditation annex is portrayed as a spiritual refuge, yet its cold, unused rooms hold more than silence—they hold truth that could shatter everything. The scene thickens with the scent of wine, the chill of snow, and the eerie feeling that every step forward might lead to a revelation or an abyss. Tess confronts her own past while the town’s hidden structures grow ever more oppressive—an image of the fragile balance between safety and terror.",
+    "Scene 6 is a dramatic climax in the annex room where Tess finally unlocks the secrets of the boat key. The heater hums softly, a stark contrast to the silent wind outside. She finds a diary that reveals how the town’s foundation was built on lies, each entry more chilling than the last. The ceramic owl reappears, perched on a kitchen island as if it had always belonged there, its eyes reflecting the darkness within the annex. The scene ends with Tess looking out at the frozen lake, her decision looming like a snowdrift that will either swallow or reveal the truth."
+  ],
+  "contradiction_notes": [
+    "The boat key appears to be both decorative and functional—one moment it’s a relic, the next an instrument of crime.",
+    "Tess Pruitt’s identity shifts between Daniel and Derek, suggesting either a fractured self or deliberate misdirection by the town.",
+    "Cole Hawthorne’s fate oscillates between death and survival, hinting at a narrative loop that defies linearity.",
+    "The church basement is simultaneously a seasonal storage space and an abandoned vineyard, challenging the audience to question reality.",
+    "The annex room’s paperwork changes location—from Vermont to outside Atlanta—reflecting the fluid geography of Blackthorn County’s secrets."
+  ],
+  "alternate_titles": [
+    "Echoes of the Annex",
+    "Winter's Hidden Ledger",
+    "The Boat Key Conspiracy",
+    "Melodies of the Misplaced Owl",
+    "St. Agnes and the Secret Vineyard"
+  ],
+  "franchise_adjacency": "This story fits perfectly alongside HallTime’s other Blackthorn County dramas such as \"The Orchard Mysteries\" and \"Shadows in the Snowfall\", creating a cohesive anthology that explores the town’s haunted past, secretive present, and ominous future."
+}

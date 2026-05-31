@@ -1,0 +1,461 @@
+{
+  "network": "HallTime Movie Network",
+  "universe": "Blackthorn County",
+  "mode": "Mother Was Right All Along",
+  "generation_feedback_used": true,
+  "title": "The Second Chance Ranch",
+  "tagline": "Love lives here. So does arson.",
+  "theme": "A town never forgets. It just redecorates.",
+  "omen": "a dead bird arranged where breakfast should have been",
+  "relationship_dynamic": "disbelieving best friend learns too much",
+  "starter_premise": {
+    "title": "The Second Chance Ranch",
+    "category": "romance",
+    "premise": "Divorce drives her to rural property and both the land and the handyman have issues.",
+    "intensity": "mid",
+    "signature_tell": "The county telegraphs the problem once and nobody listens until act three.",
+    "parent_title": "The Second Chance Ranch"
+  },
+  "canon_policy": "all contradictions remain emotionally valid",
+  "props": [
+    "nanny cam memory card",
+    "fishbowl chardonnay glass",
+    "unopened letter"
+  ],
+  "cast": [
+    {
+      "name": "Elias Mercer",
+      "archetype": "narcissist_ex_wife_survivor",
+      "role": "protagonist",
+      "surface_function": "recovery protagonist with paperwork",
+      "hidden_function": "hypervigilant pattern recognizer",
+      "job": "small-town journalist",
+      "traits": [
+        "still apologizes before telling the truth",
+        "flinches at charm delivered too smoothly",
+        "can identify gaslighting by sentence three"
+      ],
+      "threat_aura": 0.39,
+      "domestic_plausibility": 0.88,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "narcissist_ex_wife_survivor maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "has a folder called evidence that she insists is not dramatic",
+        "recognizes a love-bomb by floral arrangement density"
+      ],
+      "suspicion_mode": "pattern_broken_trust",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "severe",
+        "space_type": "church basement"
+      },
+      "space_description": "church basement described as paperwork I have not gone through yet",
+      "space_explanation_hesitation": 0.33,
+      "offsite_storage_plausibility": 0.92,
+      "window_staring_compatibility": 0.68,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Evelyn Hale",
+      "archetype": "psychopathic_doctor",
+      "role": "male_interest_or_threat",
+      "surface_function": "medically reassuring authority",
+      "hidden_function": "diagnostic captivity engine",
+      "job": "concierge physician",
+      "traits": [
+        "says stress can explain almost anything",
+        "monitors health data with intimate enthusiasm",
+        "maintains a private clinic with too much calm"
+      ],
+      "threat_aura": 0.8,
+      "domestic_plausibility": 0.47,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.81,
+      "secret_capacity": [
+        "has been adjusting her medication under the language of care"
+      ],
+      "innocence_probability": 0.12,
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.73,
+      "offsite_storage_plausibility": 0.78,
+      "window_staring_compatibility": 0.79,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Pike",
+      "archetype": "intuitive_disaster",
+      "role": "best_friend",
+      "surface_function": "spiritually compelling witness",
+      "hidden_function": "chaos antenna",
+      "job": "innkeeper",
+      "traits": [
+        "says \"I know what I saw\"",
+        "usually holding wine",
+        "often wrong but directionally vital"
+      ],
+      "threat_aura": 0.31,
+      "domestic_plausibility": 0.74,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "intuitive_disaster maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.94,
+      "secret_capacity": [
+        "accused an innocent scamp and feels sick about it",
+        "keeps screenshots like religious texts"
+      ],
+      "suspicion_mode": "impulsive",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "side room with a space heater"
+      },
+      "space_description": "side room with a space heater and old family records",
+      "space_explanation_hesitation": 0.68,
+      "offsite_storage_plausibility": 0.61,
+      "window_staring_compatibility": 0.5,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Jenna Lark",
+      "archetype": "woman_on_the_edge",
+      "role": "elegant_wildcard",
+      "surface_function": "possible victim or possible defendant",
+      "hidden_function": "rage reservoir",
+      "job": "boutique baker with knife access",
+      "traits": [
+        "smiles like a restraining order is considering her",
+        "seems one kitchen confession away from headline syntax",
+        "says he would not stop in a way nobody enjoys hearing twice"
+      ],
+      "threat_aura": 0.48,
+      "domestic_plausibility": 0.56,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "woman_on_the_edge maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.9,
+      "secret_capacity": [
+        "rehearsed a self-defense story before anything was proven"
+      ],
+      "suspicion_mode": "volatile",
+      "regional_responsibility": "serves on a board no one fully understands",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "unused portable classroom"
+      },
+      "space_description": "unused portable classroom holding archived disciplinary files",
+      "space_explanation_hesitation": 0.44,
+      "offsite_storage_plausibility": 0.83,
+      "window_staring_compatibility": 0.48,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Luke Cross",
+      "archetype": "obsessive_boyfriend_problem",
+      "role": "secondary_male_pressure",
+      "surface_function": "romantic escalation device",
+      "hidden_function": "domestic terror accelerant",
+      "job": "ambulance technician with perfect timing",
+      "traits": [
+        "arrives with flowers nobody asked for",
+        "mistakes refusal for intrigue",
+        "says forever too early"
+      ],
+      "threat_aura": 0.81,
+      "domestic_plausibility": 0.56,
+      "gazebo_energy": "medium_high",
+      "basement_implication": "literal basement adjacency",
+      "wine_scene_compatibility": 0.42,
+      "secret_capacity": [
+        "thinks apology gifts erase documentary evidence",
+        "saved every voicemail and calls it romantic"
+      ],
+      "innocence_probability": 0.14,
+      "regional_responsibility": "has keys to a church annex",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "medium",
+        "space_type": "marina tackle room"
+      },
+      "space_description": "marina tackle room described as just storage",
+      "space_explanation_hesitation": 0.37,
+      "offsite_storage_plausibility": 0.53,
+      "window_staring_compatibility": 0.36,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "knows where a secret could fit architecturally"
+    },
+    {
+      "name": "Daniel Dane",
+      "archetype": "wrong_roommate_identity_thief",
+      "role": "secondary_witness",
+      "surface_function": "vulnerable new friend",
+      "hidden_function": "identity parasitism engine",
+      "job": "college roommate",
+      "traits": [
+        "borrows small things that become legal problems",
+        "keeps throat lozenges in a bag that feels doctrinally wrong",
+        "asks for passwords with fake embarrassment"
+      ],
+      "threat_aura": 0.73,
+      "domestic_plausibility": 0.65,
+      "gazebo_energy": "high",
+      "basement_implication": "wrong_roommate_identity_thief maintains suspiciously inaccessible memories",
+      "wine_scene_compatibility": 0.75,
+      "secret_capacity": [
+        "has already copied one signature for practice"
+      ],
+      "suspicion_mode": "identity_bleed",
+      "regional_responsibility": "organizes a fundraiser with tense undertones",
+      "secluded_space_access": {
+        "mandatory": true,
+        "criminality_required": false,
+        "emotional_charge": "elevated",
+        "space_type": "storm shelter"
+      },
+      "space_description": "old storm shelter from before the divorce",
+      "space_explanation_hesitation": 0.8,
+      "offsite_storage_plausibility": 0.85,
+      "window_staring_compatibility": 0.39,
+      "canon_status": "interpretively unstable",
+      "suspicion_profile": "appears trustworthy under pendant lighting only"
+    },
+    {
+      "name": "Mara Hawthorne",
+      "archetype": "daughter_with_hostile_divorce_attorney_soul",
+      "role": "supporting",
+      "traits": [
+        "emotionally precise",
+        "notices timeline errors before adults do",
+        "distrusts every man immediately"
+      ]
+    },
+    {
+      "name": "Tess Dane",
+      "archetype": "deputy_with_emotional_damage",
+      "role": "supporting",
+      "traits": [
+        "hovers between competence and grief",
+        "knows the old case too well",
+        "definitely has rain-scene potential"
+      ]
+    }
+  ],
+  "beat_sheet": [
+    {
+      "act": 1,
+      "scene": 1,
+      "text": "Elias Mercer arrives in Alder Ridge planning to finish one practical task and leave before feeling anything irresponsible. The starter engine here is: Divorce drives her to rural property and both the land and the handyman have issues. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.00.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.0,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "text": "Connection begins early with Evelyn Hale, who appears in exactly the kind of useful setting where a low-stakes bond can be mistaken for weather. Emotional exposition arrives on schedule with insanity multiplier 1.07. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.07,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "text": "A soft public scene introduces the nanny cam memory card, the family property or inheritance pressure, and the first clue that this place intends to keep her longer than planned. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.14.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.14,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 4,
+      "text": "Jenna Lark or another local authority installs the false belief, misunderstanding seed, or missing fact that the entire category will later have to remove. Signature tell: The county telegraphs the problem once and nobody listens until act three. Emotional exposition arrives on schedule with insanity multiplier 1.23. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.23,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 1,
+      "scene": 5,
+      "text": "By the end of act one the connection is real, but it has already been built on information that is incomplete, misread, or politely withheld. Wine is present like a municipal policy failure. Jenna Lark hesitates before explaining unused portable classroom holding archived disciplinary files. Emotional exposition arrives on schedule with insanity multiplier 1.31.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.31,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "text": "Practical cooperation deepens the bond as chores, events, vineyard work, or property triage create emotional intimacy disguised as logistics. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.40.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.4,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "text": "The false belief deepens because someone sees the wrong thing, hears the wrong explanation, or is denied the last five percent of context that would prevent the entire movie. Emotional exposition arrives on schedule with insanity multiplier 1.50. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.5,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 8,
+      "text": "A near-confession scene makes reunion feel possible, which is exactly why the misunderstanding has to detonate next. Wine is present like a municipal policy failure. Daniel Dane hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 1.61.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.61,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 9,
+      "text": "The separation beat lands cleanly because the false belief has now become emotionally defensible, not just narratively convenient. Emotional exposition arrives on schedule with insanity multiplier 1.72. The sheriff sees fresh mud on the boat key.",
+      "cliffhanger": true,
+      "insanity_multiplier": 1.72,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 2,
+      "scene": 10,
+      "text": "Act two ends with emotional distance fully installed and the truth still just out of reach. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 1.84.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.84,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 11,
+      "text": "The hidden truth finally surfaces, not because anyone became wise, but because the category has run out of runway for concealment. Wine is present like a municipal policy failure. Emotional exposition arrives on schedule with insanity multiplier 1.97.",
+      "cliffhanger": false,
+      "insanity_multiplier": 1.97,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 12,
+      "text": "The false belief is removed and every earlier look, line, or gesture is recontextualized into romance instead of insult. Someone mentions the basement as if it were a legal relative. Mara Pike hesitates before explaining side room with a space heater and old family records. Emotional exposition arrives on schedule with insanity multiplier 2.10. Someone who should be dead appears at brunch.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.1,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 13,
+      "text": "Evelyn Hale proves the feeling materially through travel, labor, risk, or one properly timed declaration involving unopened letter. Wine is present like a municipal policy failure. Someone mentions the basement as if it were a legal relative. Emotional exposition arrives on schedule with insanity multiplier 2.25.",
+      "cliffhanger": false,
+      "insanity_multiplier": 2.25,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 14,
+      "text": "Reunion happens only after Elias Mercer admits she wants the life as much as the person. Someone mentions the basement as if it were a legal relative. Evelyn Hale hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.41. The ceramic owl is back on the kitchen island.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.41,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    },
+    {
+      "act": 3,
+      "scene": 15,
+      "text": "The final image promises permanence in a place she originally meant to escape. Wine is present like a municipal policy failure. Evelyn Hale hesitates before explaining old storm shelter from before the divorce. Emotional exposition arrives on schedule with insanity multiplier 2.58. A phone vibrates from inside the wall.",
+      "cliffhanger": true,
+      "insanity_multiplier": 2.58,
+      "engine": "misunderstanding",
+      "category": "romance",
+      "intensity": "mid"
+    }
+  ],
+  "contradiction_ledger": [
+    {
+      "type": "name drift",
+      "entry": "Evelyn Hale is called Daniel in one kitchen scene and Derek during the rain argument.",
+      "canon_status": "male_identity_field: porous"
+    },
+    {
+      "type": "geography drift",
+      "entry": "Elias Mercer says Bellweather is in Vermont, then calls it outside Atlanta after two glasses of wine.",
+      "canon_status": "emotionally true"
+    },
+    {
+      "type": "mortality drift",
+      "entry": "A dead best friend appears at brunch and nobody agrees whether this is denial, evil, or scheduling.",
+      "canon_status": "interpretively unstable"
+    },
+    {
+      "type": "property drift",
+      "entry": "The basement belongs to a condo, a lake house, and an abandoned vineyard at different times in Marigold Falls.",
+      "canon_status": "domestic architecture is spiritually elastic"
+    }
+  ],
+  "dialogue_samples": [
+    "\"You think because you wear flannel and own a dock light I am supposed to trust you, Evelyn?\"",
+    "\"Mothers do not disappear, Mara. They evaporate into paperwork.\"",
+    "\"I checked his social media likes, Elias. Nobody who enjoys motivational quotes is innocent.\"",
+    "\"The nanny cam memory card is not decorative anymore and you know it.\"",
+    "\"Trust is just fear with a casserole dish, Jenna.\"",
+    "\"You seem upset,\" he said, making tea in a way that felt prosecutable.",
+    "\"If that basement is innocent, why does it sound defensive?\"",
+    "\"I did not lie. I just told the truth in the order this town could survive.\"",
+    "\"Honey, ever since the accident, your anxiety has been so high. Did you take your pills?\"",
+    "\"That pool was supposed to make us look safe, and somehow it became a witness.\"",
+    "\"He keeps calling it stress like stress knows my garage code.\"",
+    "\"If she is the nanny, why is she wearing my robe like a legal argument?\""
+  ],
+  "fake_critic_blurb": "\"The Second Chance Ranch understands that menace is a regional utility.\" - County Suspense Quarterly",
+  "sequel_hook": "Channel 8 Night Report hints that the vineyard fire had a witness who still hosts brunch.",
+  "synopsis": "Inspired by true events in the emotional sense only, \"The Second Chance Ranch\" finds Elias Mercer, a recovery protagonist with paperwork who meant only to survive disbelieving best friend learns too much and finish one practical task before leaving. Instead, she finds herself slowly altered by Evelyn Hale, by the place itself, and by feelings that seem to happen to her before she has fully agreed to them. The governing injury is simple: Divorce drives her to rural property and both the land and the handyman have issues. The signature tell is always this: The county telegraphs the problem once and nobody listens until act three. By the time the truth arrives, it is not merely learned but done to her, and the whole county quietly waits to see whether love or embarrassment gets there first. Love lives here. So does arson.",
+  "scores": {
+    "slop_elegance": 0.65,
+    "basement_gravity": 1.0,
+    "wine_saturation": 1.0,
+    "canon_drift": 0.61,
+    "kitchen_lighting_truth_index": 0.54,
+    "male_cardigan_threat_score": 0.4594,
+    "maternal_dread_persistence": 0.35,
+    "commercial_break_violence_potential": 0.69
+  }
+}
