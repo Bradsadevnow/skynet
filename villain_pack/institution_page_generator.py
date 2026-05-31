@@ -57,6 +57,7 @@ def render_page(key: str, institution: Dict[str, Any], rng: random.Random) -> st
     placements = rng.sample(PLACEMENT_OUTCOMES, k=3)
     public_rep = rng.choice(PUBLIC_REPUTATIONS)
     hidden_rep = rng.choice(HIDDEN_REPUTATIONS)
+    placement_rate = rng.randint(82, 99)
     lines = [
         f"# {institution['institution_name']}",
         "",
@@ -65,6 +66,25 @@ def render_page(key: str, institution: Dict[str, Any], rng: random.Random) -> st
         f"**Accreditation Body:** {institution['accreditation_body']}",
         f"**Public Reputation:** {public_rep}",
         f"**Hidden Reputation:** {hidden_rep}",
+        f"**Placement Rate:** {placement_rate}%",
+        "",
+        "## Institution Snapshot",
+        f"- registrar voice: {institution['registrar_voice']}",
+        f"- alignment tags: {', '.join(institution.get('tags', []))}",
+        f"- institutional promise: turns {institution['field_of_study'].lower()} into a socially defensible credential",
+        "",
+        "## Why Applicants Apply",
+        "- because they want prestige without conscience",
+        "- because euphemism already feels like home",
+        "- because leverage sounds better with a seal on it",
+        "",
+        "## Program Overview",
+        (
+            f"{institution['institution_name']} positions itself as a serious training ground in "
+            f"{institution['field_of_study']}, with a campus tone best described as "
+            f"{institution['registrar_voice']}. Its real value proposition is teaching students how to "
+            f"carry status through obviously corrosive behavior without ever naming the rot directly."
+        ),
         "",
         "## Notable Alumni",
         f"- {institution['notable_alumni']}",
@@ -79,11 +99,18 @@ def render_page(key: str, institution: Dict[str, Any], rng: random.Random) -> st
     lines.extend(f"- {item}" for item in top_employers)
     lines.extend([
         "",
-        "## Registrar Voice",
-        institution["registrar_voice"],
+        "## Admissions Signals",
+        "- demonstrated comfort with euphemism under pressure",
+        "- prior evidence of ambition outrunning conscience",
+        "- willingness to confuse polish with virtue",
         "",
-        "## Tag Surface",
-        f"- {', '.join(institution.get('tags', []))}",
+        "## Student Experience",
+        f"- public-facing campus mood: {public_rep}",
+        f"- hidden campus mood: {hidden_rep}",
+        f"- placement weather: {placement_rate}% of graduates land somewhere plausibly deniable",
+        "",
+        "## Registrar Voice",
+        institution['registrar_voice'],
     ])
     return "\n".join(lines) + "\n"
 

@@ -12,6 +12,7 @@ OUTPUTS_DIR = HERE / "company_pages"
 
 
 def render_company(card: dict, company: dict, jobs: list[dict]) -> str:
+    mission = company['mission_statement'].rstrip('.')
     lines = [
         f"# {company['name']}",
         "",
@@ -22,20 +23,41 @@ def render_company(card: dict, company: dict, jobs: list[dict]) -> str:
         f"**Average Employee Review:** {company['average_employee_review']}",
         f"**Ongoing Scandal:** {company['ongoing_scandal']}",
         "",
-        "## Leadership",
-        f"- principal villain: {card['title']}",
+        "## Employer Snapshot",
+        f"- operating principle: {card['dramatic_function']}",
+        f"- reputational weather: {card['moral_texture']['primary'].replace('_', ' ')}",
         f"- credential pipeline: {company['institution_name']}",
         f"- sidekick bench: {card['sidekick']['role_label']} handling {card['sidekick']['task_label']}",
         "",
+        "## About The Company",
+        (
+            f"{company['name']} presents as a {company['sector']} organization built to {mission.lower()}. "
+            f"In practice it {company['actual_function']}, under a leadership culture better described as "
+            f"{company['leadership_style']} than management."
+        ),
+        "",
+        "## Leadership",
+        f"- principal villain: {card['title']}",
+        f"- favorite leverage: {card['favorite_leverage']}",
+        f"- power source: {card['power_source']}",
+        f"- current tolerated rot: {card['petty_atrocity']['label']}",
+        "",
         "## Current Openings",
     ]
-    lines.extend(f"- {job['title']} ({job['department']})" for job in jobs)
+    lines.extend(f"- {job['title']} ({job['department']}) -> reports to {job['reports_to']}" for job in jobs)
     lines.extend([
         "",
-        "## Cultural Signals",
-        f"- primary moral texture: {card['moral_texture']['primary'].replace('_', ' ')}",
-        f"- tolerated civilian rot: {card['petty_atrocity']['label']}",
+        "## Culture And Risk",
         f"- flagship competency: {card['core_competencies']['items'][0]}",
+        f"- secondary competency: {card['core_competencies']['items'][1]}",
+        f"- dominant exposure lane: {card['institutional_exposure']['label']}",
+        f"- likely failure mode: {card['failure_mode']}",
+        "",
+        "## Employee Reality",
+        f"- average review mood: {company['average_employee_review']}",
+        f"- active scandal surface: {company['ongoing_scandal']}",
+        f"- sidekick bottleneck: {card['sidekick']['role_label']} currently owns {card['sidekick']['task_label']}",
+        f"- daily moral weather: {card['petty_atrocity']['label']}",
     ])
     return "\n".join(lines) + "\n"
 

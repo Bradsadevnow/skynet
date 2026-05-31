@@ -62,6 +62,19 @@ def render_packet(card: Dict[str, Any], company: Dict[str, Any], board: Dict[str
         f"**Primary Required Resource:** {agenda['primary_required_resource']}",
         f"**Alignment Bias:** {agenda['systemic_alignment_bias']}",
         "",
+        "## Posting Summary",
+        f"- plot family: {plot_family_key.replace('_', ' ')}",
+        f"- operative mood: {motive_key.replace('_', ' ')}",
+        f"- likely headache: {complication['label']}",
+        f"- post-success misery: {reversal_key.replace('_', ' ')}",
+        "",
+        "## Opportunity Overview",
+        (
+            f"{company['name']} is seeking outside help for a live agenda organized around "
+            f"{agenda['label'].lower()}. This is best understood as {plot_family['core_objective'].lower()}, "
+            f"with enough structural cover to make the resulting disaster sound intentional."
+        ),
+        "",
         "## Operational Shape",
         f"- plot family: {plot_family_key.replace('_', ' ')} ({plot_family['core_objective']})",
         f"- plot shape: {plot_shape['name']} ({plot_shape['structural_mechanic']})",
@@ -91,6 +104,7 @@ def render_packet(card: Dict[str, Any], company: Dict[str, Any], board: Dict[str
         f"- compensation climate: {company['average_employee_review']}",
         f"- active scandal exposure: {company['ongoing_scandal']}",
         f"- sidekick oversight: {card['sidekick']['role_label']} handling {card['sidekick']['task_label']}",
+        f"- likely management weather: {card['failure_mode']}",
         "",
         "## Post-Victory Reversal State",
         reversal,

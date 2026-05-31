@@ -4,7 +4,7 @@ import argparse
 import json
 import random
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict
 
 import yaml
 
@@ -52,6 +52,20 @@ def render_packet(card: Dict[str, Any], key: str, scheme: Dict[str, Any], taxono
         f"**Twist Shape:** {scheme['twist_shape']}",
         f"**Failure Condition:** {scheme['failure_condition']}",
         "",
+        "## Executive Summary",
+        f"- official objective smell: {plot_goal['name']}",
+        f"- real engine: {plot_shape['name']}",
+        f"- likely collapse point: {betrayal['name']}",
+        f"- recontextualization mode: {reversal['name']}",
+        "",
+        "## Why This Scheme Exists",
+        (
+            f"This packet assumes a villain built around {card['dramatic_function']} who prefers "
+            f"{card['favorite_leverage']} and is comfortable letting {card['institutional_exposure']['label'].lower()} "
+            f"do half the moral work. The scheme is less about winning cleanly than about making "
+            f"{scheme['target'].lower()} feel like the only available terrain."
+        ),
+        "",
         "## Scheme Summary",
         scheme['summary'],
         "",
@@ -62,7 +76,7 @@ def render_packet(card: Dict[str, Any], key: str, scheme: Dict[str, Any], taxono
         f"- reversal mode: {reversal['name']} ({reversal['structural_mechanic']})",
         f"- satirical garnish: {meta_voice}",
         "",
-        "## Core Moves",
+        "## Operational Moves",
     ]
     lines.extend(f"- {item}" for item in scheme['scheme_moves'])
     if scheme.get('category') == 'heist_adjacent':
@@ -83,6 +97,11 @@ def render_packet(card: Dict[str, Any], key: str, scheme: Dict[str, Any], taxono
         f"- exposure lane: {card['institutional_exposure']['label']}",
         f"- competency stack: {', '.join(card['core_competencies']['items'][:3])}",
         f"- sidekick pressure: {card['sidekick']['role_label']} handling {card['sidekick']['task_label']}",
+        "",
+        "## Failure Forecast",
+        f"- current failure mode already in the room: {card['failure_mode']}",
+        f"- everyday tell that will probably leak first: {card['petty_atrocity']['label']}",
+        f"- betrayal surface named by packet: {scheme['betrayal_surface']}",
     ])
     return "\n".join(lines) + "\n"
 

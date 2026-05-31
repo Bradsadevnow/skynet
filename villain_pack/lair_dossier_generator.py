@@ -49,6 +49,19 @@ def render_dossier(card: Dict[str, Any], key: str, lair: Dict[str, Any], taxonom
         f"**Hospitality Cover:** {lair['hospitality_cover']}",
         f"**Primary Vulnerability:** {lair['vulnerability']}",
         "",
+        "## Site Snapshot",
+        f"- shell type: {lair['property_type']}",
+        f"- worldview pressure: {lair['summary']}",
+        f"- likely petty tell in space: {card['petty_atrocity']['label']}",
+        "",
+        "## Site Read",
+        (
+            f"This lair works because it turns {lair['location_vibe']} into infrastructure. "
+            f"Its main spatial lie is that {lair['hospitality_cover'].lower()}, while the real operating logic "
+            f"is {lair['defense_logic']}. The site is most persuasive when visitors start treating "
+            f"{card['favorite_leverage']} like architecture instead of behavior."
+        ),
+        "",
         "## Lair Summary",
         lair['summary'],
         "",
@@ -71,6 +84,11 @@ def render_dossier(card: Dict[str, Any], key: str, lair: Dict[str, Any], taxonom
     ])
     lines.extend(f"- {item['name']}: {item['structural_mechanic']}" for item in functions)
     lines.extend([
+        "",
+        "## Access And Hospitality",
+        f"- access pattern: {lair['access_pattern']}",
+        f"- hospitality cover: {lair['hospitality_cover']}",
+        f"- primary vulnerability: {lair['vulnerability']}",
         "",
         "## Meta Voice",
         meta_voice,

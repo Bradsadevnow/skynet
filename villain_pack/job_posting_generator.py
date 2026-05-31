@@ -19,6 +19,18 @@ def render_job(job: dict, company: dict) -> str:
         f"**Department:** {job['department']}",
         f"**Reports To:** {job['reports_to']}",
         "",
+        "## Job Snapshot",
+        "- this role exists because the company needs somebody to keep the lie moving without naming it",
+        f"- operating context: {company['actual_function']}",
+        f"- prestige wrapper: {company['mission_statement']}",
+        "",
+        "## Role Summary",
+        (
+            f"This posting sits inside a {company['sector']} environment where the stated mission is "
+            f"'{company['mission_statement']}' and the actual day-to-day work is {company['actual_function']}. "
+            f"The right candidate will be comfortable turning confusion into continuity."
+        ),
+        "",
         "## Responsibilities",
     ]
     lines.extend(f"- {item}" for item in job['responsibilities'])
@@ -34,6 +46,11 @@ def render_job(job: dict, company: dict) -> str:
     lines.extend(f"- {item}" for item in job['benefits'])
     lines.extend([
         "",
+        "## Hiring Climate",
+        f"- review environment: {company['average_employee_review']}",
+        f"- leadership style: {company['leadership_style']}",
+        f"- active scandal exposure: {company['ongoing_scandal']}",
+        "",
         "## Why The Previous Employee Left",
         job['why_previous_employee_left'],
         "",
@@ -41,6 +58,7 @@ def render_job(job: dict, company: dict) -> str:
         f"- sector: {company['sector']}",
         f"- mission: {company['mission_statement']}",
         f"- actual function: {company['actual_function']}",
+        f"- leadership style: {company['leadership_style']}",
     ])
     return "\n".join(lines) + "\n"
 

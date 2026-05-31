@@ -26,6 +26,19 @@ def render_listing(listing: dict, card: dict) -> str:
         f"**Monologue Chair:** {listing['monologue_chair_status']}",
         f"**Escape Pod Access:** {listing['escape_pod_access']}",
         "",
+        "## Listing Snapshot",
+        "- showing posture: hostile but premium",
+        f"- best fit buyer: somebody who thinks {card['favorite_leverage']} should count as an amenity",
+        f"- current neighborhood complaint: {card['petty_atrocity']['label']}",
+        "",
+        "## Agent Remarks",
+        (
+            f"A rare {listing['property_type'].lower()} with unusual upside for buyers seeking privacy, "
+            f"ceremonial control, and the ability to convert {card['failure_mode']} into interior atmosphere. "
+            f"Property is especially attractive to operators who believe {card['favorite_leverage']} should "
+            f"shape both circulation and lifestyle."
+        ),
+        "",
         "## Description",
         listing['description'],
         "",
@@ -39,10 +52,15 @@ def render_listing(listing: dict, card: dict) -> str:
         f"- acoustic threat quality: {listing['acoustic_threat_quality']}",
         f"- shark tank maintenance rules: {listing['shark_tank_maintenance_rules']}",
         f"- historical coup density: {listing['historical_coup_density']}",
-        f"- nearest extradition-safe airstrip: {listing['nearest_extradition_safe_airstrip']}",
         f"- entry screening protocol: {listing['entry_screening_protocol']}",
         f"- worker morale note: {listing['worker_morale_note']}",
         f"- supply run vulnerability: {listing['supply_run_vulnerability']}",
+        "",
+        "## Neighborhood And Access",
+        f"- location vibe: {listing['location_vibe']}",
+        f"- hero infestation risk: {listing['hero_infestation_risk']}",
+        f"- nearest extradition-safe airstrip: {listing['nearest_extradition_safe_airstrip']}",
+        f"- current human factor issue: {card['sidekick']['role_label']} traffic around {card['sidekick']['task_label']}",
         "",
         "## Listing Warning",
         listing['listing_warning'],

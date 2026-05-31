@@ -45,6 +45,10 @@ def build_headline(card: Dict[str, Any]) -> str:
     return f"{family} | {' | '.join(competency_bits)}"
 
 
+def _pretty(text: str) -> str:
+    return text.replace("_", " ")
+
+
 def render_profile(card: Dict[str, Any]) -> str:
     institution = card["institution"]
     sidekick = card["sidekick"]
@@ -52,30 +56,46 @@ def render_profile(card: Dict[str, Any]) -> str:
     competencies = card["core_competencies"]
     rot = card.get("petty_atrocity_profile", [card["petty_atrocity"]])
     moral_texture = card["moral_texture"]
+    current_role = (
+        f"{card['modifier'].replace('_', ' ').title()} attached to a "
+        f"{card['villain_family'].replace('_', ' ').title()} operation"
+    )
     lines = [
         f"# {card['title']} Professional Profile",
         "",
         f"**Headline:** {build_headline(card)}",
+        f"**Current Role:** {current_role}",
         f"**Open To Work:** {infer_open_to_work(card)}",
         f"**Ecosystem Tone:** {infer_ecosystem_tone(card)}",
         f"**Credentialed By:** {institution['institution_name']}",
+        f"**Current Reputation Problem:** {card['petty_atrocity']['label']}",
+        "",
+        "## Profile Snapshot",
+        f"- current operating theater: {card['operating_environment']}",
+        f"- core dramatic function: {card['dramatic_function']}",
+        f"- favorite leverage: {card['favorite_leverage']}",
+        f"- failure mode: {card['failure_mode']}",
+        f"- sidekick bench: {sidekick['role_label']} on {sidekick['task_label']}",
         "",
         "## About",
         (
-            f"Currently operating at the intersection of {card['dramatic_function']} and "
-            f"{card['failure_mode']}. Known for {competencies['items'][0]}, {competencies['items'][1]}, "
-            f"and a broader civilian rot signature that begins with {card['petty_atrocity']['label']}."
+            f"Currently operating inside a {card['skin'].replace('_', ' ')} ecosystem where "
+            f"{card['dramatic_function']}. Known for {competencies['items'][0]}, "
+            f"{competencies['items'][1]}, and a broader civilian rot signature that begins with "
+            f"{card['petty_atrocity']['label']}. Particularly strong in environments where "
+            f"{card['justification_logic']} can be mistaken for leadership language."
         ),
         "",
-        "## Moral Texture",
-        f"- primary: {moral_texture['primary']}",
-        f"- secondary: {', '.join(moral_texture['secondary'])}",
-        f"- commons targeted: {moral_texture['commons_targeted']['type']} / {moral_texture['commons_targeted']['scope']}",
-        f"- confrontation risk: {moral_texture['sanction_profile']['confrontation_risk']}",
+        "## Resume Signals",
+        f"- power source: {card['power_source']}",
+        f"- justification logic: {card['justification_logic']}",
+        f"- operating environment: {card['operating_environment']}",
+        f"- primary leverage style: {card['favorite_leverage']}",
         "",
         "## Institutional Exposure",
-        f"- {exposure['label']}",
+        f"**Primary Exposure Lane:** {exposure['label']}",
         f"- operational: {exposure['operational']}",
+        f"- financial: {exposure['financial']}",
         f"- legal: {exposure['legal']}",
         f"- predatory: {exposure['predatory']}",
         "",
@@ -83,6 +103,13 @@ def render_profile(card: Dict[str, Any]) -> str:
     ]
     lines.extend(f"- {item}" for item in competencies["items"])
     lines.extend([
+        "",
+        "## Everyday Harm Profile",
+        f"- primary moral texture: {_pretty(moral_texture['primary'])}",
+        f"- secondary tells: {', '.join(_pretty(item) for item in moral_texture['secondary'])}",
+        f"- commons targeted: {moral_texture['commons_targeted']['type']} / {moral_texture['commons_targeted']['scope']}",
+        f"- confrontation risk: {moral_texture['sanction_profile']['confrontation_risk']}",
+        f"- likely social sanctions: {', '.join(moral_texture['sanction_profile']['likely_reactions'])}",
         "",
         "## Rot Profile",
     ])
@@ -101,6 +128,12 @@ def render_profile(card: Dict[str, Any]) -> str:
         f"- field of study: {institution['field_of_study']}",
         f"- accreditation: {institution['accreditation_body']}",
         f"- motto: {institution['motto']}",
+        "",
+        "## Open To Work Preferences",
+        f"- preferred mandate: {card['dramatic_function']}",
+        f"- tolerated culture problem: {card['failure_mode']}",
+        f"- ideal support ecology: {sidekick['role_label']} who can own {sidekick['task_label']}",
+        "- deal-breaker, allegedly: direct accountability without narrative cover",
     ])
     return "\n".join(lines) + "\n"
 
