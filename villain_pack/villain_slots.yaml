@@ -39,6 +39,10 @@ slots:
     label: Competency Rubric
     prompt: Choose the professionally certified bastard skillset.
     source: competencies
+  macguffin:
+    label: Prize Counter
+    prompt: Choose the cursed object, device, or access prize this bastard thinks will finally make everything worth it.
+    source: macguffins
   sidekick_bench:
     label: Sidekick Bench
     prompt: Choose the kind of adjacent freak who helps keep this villain operational.

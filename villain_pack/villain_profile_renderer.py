@@ -56,6 +56,7 @@ def render_profile(card: Dict[str, Any]) -> str:
     competencies = card["core_competencies"]
     rot = card.get("petty_atrocity_profile", [card["petty_atrocity"]])
     moral_texture = card["moral_texture"]
+    macguffin = card["macguffin"]
     current_role = (
         f"{card['modifier'].replace('_', ' ').title()} attached to a "
         f"{card['villain_family'].replace('_', ' ').title()} operation"
@@ -68,6 +69,7 @@ def render_profile(card: Dict[str, Any]) -> str:
         f"**Open To Work:** {infer_open_to_work(card)}",
         f"**Ecosystem Tone:** {infer_ecosystem_tone(card)}",
         f"**Credentialed By:** {institution['institution_name']}",
+        f"**Current Prize Object:** {macguffin['label']}",
         f"**Current Reputation Problem:** {card['petty_atrocity']['label']}",
         "",
         "## Profile Snapshot",
@@ -76,13 +78,16 @@ def render_profile(card: Dict[str, Any]) -> str:
         f"- favorite leverage: {card['favorite_leverage']}",
         f"- failure mode: {card['failure_mode']}",
         f"- sidekick bench: {sidekick['role_label']} on {sidekick['task_label']}",
+        f"- current prize pressure: {macguffin['artifact_class'].replace('_', ' ')} / {macguffin['plot_family_bias'].replace('_', ' ')}",
+        f"- prize promise: {macguffin['promise_family']} at {macguffin['stakes_scale']} scale",
         "",
         "## About",
         (
             f"Currently operating inside a {card['skin'].replace('_', ' ')} ecosystem where "
             f"{card['dramatic_function']}. Known for {competencies['items'][0]}, "
             f"{competencies['items'][1]}, and a broader civilian rot signature that begins with "
-            f"{card['petty_atrocity']['label']}. Particularly strong in environments where "
+            f"{card['petty_atrocity']['label']}. Currently fixated on {macguffin['label']}, a prize publicly framed as "
+            f"{macguffin['public_myth']}. Particularly strong in environments where "
             f"{card['justification_logic']} can be mistaken for leadership language."
         ),
         "",
@@ -115,6 +120,14 @@ def render_profile(card: Dict[str, Any]) -> str:
     ])
     lines.extend(f"- {item['label']}" for item in rot)
     lines.extend([
+        "",
+        "## Prize Object",
+        f"- object: {macguffin['label']}",
+        f"- public myth: {macguffin['public_myth']}",
+        f"- real function: {macguffin['real_function']}",
+        f"- use cost: {macguffin['use_cost']}",
+        f"- likely resolution: {macguffin['resolution_type']}",
+        f"- containment needs: {macguffin['containment_needs']}",
         "",
         "## Sidekick Ecosystem",
         f"- role: {sidekick['role_label']}",

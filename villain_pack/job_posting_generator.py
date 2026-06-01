@@ -11,7 +11,7 @@ HERE = Path(__file__).resolve().parent
 OUTPUTS_DIR = HERE / "job_postings"
 
 
-def render_job(job: dict, company: dict) -> str:
+def render_job(job: dict, company: dict, card: dict) -> str:
     lines = [
         f"# {job['title']}",
         "",
@@ -28,7 +28,7 @@ def render_job(job: dict, company: dict) -> str:
         (
             f"This posting sits inside a {company['sector']} environment where the stated mission is "
             f"'{company['mission_statement']}' and the actual day-to-day work is {company['actual_function']}. "
-            f"The right candidate will be comfortable turning confusion into continuity."
+            f"The right candidate will be comfortable turning confusion into continuity around {card['macguffin']['label']}."
         ),
         "",
         "## Responsibilities",
@@ -45,6 +45,12 @@ def render_job(job: dict, company: dict) -> str:
     ])
     lines.extend(f"- {item}" for item in job['benefits'])
     lines.extend([
+        "",
+        "## Prize-Object Exposure",
+        f"- current object: {card['macguffin']['label']}",
+        f"- public cover story: {card['macguffin']['institutional_cover_story']}",
+        f"- containment burden: {card['macguffin']['containment_needs']}",
+        f"- betrayal magnet: {card['macguffin']['betrayal_magnet']}",
         "",
         "## Hiring Climate",
         f"- review environment: {company['average_employee_review']}",
@@ -75,7 +81,7 @@ def main() -> None:
     job = derive_job_posting(card, company, rng)
     OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
     out = OUTPUTS_DIR / (Path(args.card_json).stem + ".md")
-    out.write_text(render_job(job, company), encoding="utf-8")
+    out.write_text(render_job(job, company, card), encoding="utf-8")
     print(json.dumps({"input": args.card_json, "output": str(out), "job": job['title']}, ensure_ascii=False))
 
 

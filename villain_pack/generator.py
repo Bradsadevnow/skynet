@@ -21,6 +21,7 @@ def _signature_tokens(card: Dict[str, object]) -> List[str]:
     exposure = card.get("institutional_exposure") or {}
     competencies = card.get("core_competencies") or {}
     institution = card.get("institution") or {}
+    macguffin = card.get("macguffin") or {}
     signifier = card.get("signifier_package") or {}
     payoff = card.get("narrative_payoff") or {}
     moral_texture = card.get("moral_texture") or {}
@@ -33,6 +34,7 @@ def _signature_tokens(card: Dict[str, object]) -> List[str]:
     exposure_key = exposure.get("key", "no_exposure")
     competency_key = competencies.get("key", "no_competencies")
     institution_key = institution.get("key", "no_institution")
+    macguffin_key = macguffin.get("key", "no_macguffin")
     signifier_key = signifier.get("key", "no_signifier")
     payoff_key = payoff.get("key", "no_payoff")
     moral_primary = moral_texture.get("primary", "no_moral_texture")
@@ -52,6 +54,7 @@ def _signature_tokens(card: Dict[str, object]) -> List[str]:
         f"exposure:{exposure_key}",
         f"competencies:{competency_key}",
         f"institution:{institution_key}",
+        f"macguffin:{macguffin_key}",
         f"payoff:{payoff_key}",
         f"signifier:{signifier_key}",
         f"sidekick_role:{sidekick_role}",
@@ -91,6 +94,7 @@ def _novelty_penalty(card: Dict[str, object], recent: Counter, batch: Counter) -
         'exposure:': 3.5,
         'competencies:': 3.5,
         'institution:': 2.5,
+        'macguffin:': 3.0,
         'payoff:': 2.0,
         'signifier:': 1.5,
         'sidekick_role:': 5.0,

@@ -57,13 +57,15 @@ def render_packet(card: Dict[str, Any], key: str, scheme: Dict[str, Any], taxono
         f"- real engine: {plot_shape['name']}",
         f"- likely collapse point: {betrayal['name']}",
         f"- recontextualization mode: {reversal['name']}",
+        f"- prize object pressure: {card['macguffin']['label']}",
         "",
         "## Why This Scheme Exists",
         (
             f"This packet assumes a villain built around {card['dramatic_function']} who prefers "
             f"{card['favorite_leverage']} and is comfortable letting {card['institutional_exposure']['label'].lower()} "
             f"do half the moral work. The scheme is less about winning cleanly than about making "
-            f"{scheme['target'].lower()} feel like the only available terrain."
+            f"{scheme['target'].lower()} feel like the only available terrain. The object at the center is "
+            f"{card['macguffin']['label']}, which promises {card['macguffin']['public_myth']} while actually existing to {card['macguffin']['real_function']}."
         ),
         "",
         "## Scheme Summary",
@@ -97,6 +99,7 @@ def render_packet(card: Dict[str, Any], key: str, scheme: Dict[str, Any], taxono
         f"- exposure lane: {card['institutional_exposure']['label']}",
         f"- competency stack: {', '.join(card['core_competencies']['items'][:3])}",
         f"- sidekick pressure: {card['sidekick']['role_label']} handling {card['sidekick']['task_label']}",
+        f"- betrayal magnet: {card['macguffin']['betrayal_magnet']}",
         "",
         "## Failure Forecast",
         f"- current failure mode already in the room: {card['failure_mode']}",

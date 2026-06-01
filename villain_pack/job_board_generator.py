@@ -67,12 +67,15 @@ def render_packet(card: Dict[str, Any], company: Dict[str, Any], board: Dict[str
         f"- operative mood: {motive_key.replace('_', ' ')}",
         f"- likely headache: {complication['label']}",
         f"- post-success misery: {reversal_key.replace('_', ' ')}",
+        f"- prize object: {card['macguffin']['label']}",
+        f"- promise family: {card['macguffin']['promise_family']} / {card['macguffin']['stakes_scale']}",
         "",
         "## Opportunity Overview",
         (
             f"{company['name']} is seeking outside help for a live agenda organized around "
             f"{agenda['label'].lower()}. This is best understood as {plot_family['core_objective'].lower()}, "
-            f"with enough structural cover to make the resulting disaster sound intentional."
+            f"with enough structural cover to make the resulting disaster sound intentional. Core object pressure centers on "
+            f"{card['macguffin']['label']}, sold internally as {card['macguffin']['institutional_cover_story']}."
         ),
         "",
         "## Operational Shape",
@@ -99,6 +102,8 @@ def render_packet(card: Dict[str, Any], company: Dict[str, Any], board: Dict[str
         f"- contractor class: {contractor_class_key.replace('_', ' ')}",
         f"- immediate need: {contractor}",
         f"- must work comfortably around {card['favorite_leverage']} and {card['petty_atrocity']['label']}",
+        f"- must not flinch at {card['macguffin']['containment_needs']}",
+        f"- should understand likely end state: {card['macguffin']['resolution_type']}",
         "",
         "## Compensation And Risk",
         f"- compensation climate: {company['average_employee_review']}",

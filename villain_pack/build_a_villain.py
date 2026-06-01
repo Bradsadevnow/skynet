@@ -15,6 +15,7 @@ from assembler import (
     list_environment_options,
     list_exposure_options,
     list_institution_options,
+    list_macguffin_options,
     list_justification_options,
     list_leverage_options,
     list_modifier_options,
@@ -77,6 +78,7 @@ def main() -> None:
     petty_atrocity_key = prompt_choice(data["slots"]["petty_atrocity"]["label"], data["slots"]["petty_atrocity"]["prompt"], list_petty_atrocity_options(data), rng)
     exposure_key = prompt_choice(data["slots"]["exposure"]["label"], data["slots"]["exposure"]["prompt"], list_exposure_options(data), rng)
     competency_key = prompt_choice(data["slots"]["competencies"]["label"], data["slots"]["competencies"]["prompt"], list_competency_options(data), rng)
+    macguffin_key = prompt_choice(data["slots"]["macguffin"]["label"], data["slots"]["macguffin"]["prompt"], list_macguffin_options(data), rng)
     sidekick_role_key = prompt_choice(data["slots"]["sidekick_bench"]["label"], data["slots"]["sidekick_bench"]["prompt"], list_sidekick_role_options(data), rng)
     institution_key = prompt_choice(data["slots"]["alma_mater_of_rot"]["label"], data["slots"]["alma_mater_of_rot"]["prompt"], list_institution_options(data), rng)
     payoff_key = prompt_choice(data["slots"]["franchise_potential"]["label"], data["slots"]["franchise_potential"]["prompt"], list_payoff_options(data, family_key), rng)
@@ -96,6 +98,7 @@ def main() -> None:
         petty_atrocity_key=petty_atrocity_key,
         exposure_key=exposure_key,
         competency_key=competency_key,
+        macguffin_key=macguffin_key,
         sidekick_role_key=sidekick_role_key,
         institution_key=institution_key,
         payoff_key=payoff_key,
@@ -118,6 +121,7 @@ def main() -> None:
         "petty_atrocity": card["petty_atrocity"]["key"],
         "exposure": card["institutional_exposure"]["key"],
         "competencies": card["core_competencies"]["key"],
+        "macguffin": card["macguffin"]["key"],
         "sidekick": card["sidekick"]["role_key"],
         "institution": card["institution"]["key"],
         "payoff": card["narrative_payoff"]["key"],

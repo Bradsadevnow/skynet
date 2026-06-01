@@ -162,6 +162,25 @@ def compact_surface_payload(card: Dict[str, Any]) -> Dict[str, Any]:
             "summary": card["core_competencies"]["summary"],
             "items": card["core_competencies"]["items"][:4],
         },
+        "macguffin": {
+            "key": card["macguffin"]["key"],
+            "label": card["macguffin"]["label"],
+            "artifact_class": card["macguffin"]["artifact_class"],
+            "promise_family": card["macguffin"]["promise_family"],
+            "stakes_scale": card["macguffin"]["stakes_scale"],
+            "visual_form": card["macguffin"]["visual_form"],
+            "genre_lane": card["macguffin"]["genre_lane"],
+            "portability_band": card["macguffin"]["portability_band"],
+            "resolution_type": card["macguffin"]["resolution_type"],
+            "subversion_lane": card["macguffin"]["subversion_lane"],
+            "public_myth": card["macguffin"]["public_myth"],
+            "real_function": card["macguffin"]["real_function"],
+            "activation_condition": card["macguffin"]["activation_condition"],
+            "use_cost": card["macguffin"]["use_cost"],
+            "containment_needs": card["macguffin"]["containment_needs"],
+            "betrayal_magnet": card["macguffin"]["betrayal_magnet"],
+            "plot_family_bias": card["macguffin"]["plot_family_bias"],
+        },
         "sidekick": {
             "role_label": sidekick["role_label"],
             "loyalty_label": sidekick["loyalty_label"],
@@ -203,6 +222,7 @@ def fallback_surfaces(rng: random.Random, card: Dict[str, Any]) -> Dict[str, Any
     exposure = card["institutional_exposure"]
     competencies = card["core_competencies"]
     sidekick = card["sidekick"]
+    macguffin = card["macguffin"]
     opening_image = OPENING_IMAGE_FRAMES.get(signifier_key, rng.choice(FALLBACK_HOOK_FRAMES))
     hooks = dedupe_preserve(
         [
@@ -225,26 +245,26 @@ def fallback_surfaces(rng: random.Random, card: Dict[str, Any]) -> Dict[str, Any
     return {
         "title": build_scaffold_title(rng, card),
         "workshop_pitch": (
-            f"You selected {card['villain_family'].replace('_', ' ').title()} plus {card['modifier'].replace('_', ' ').title()} and got a villain whose favorite workplace protection is {card['favorite_leverage']}. Their primary moral texture is {moral_texture['primary'].replace('_', ' ')}. Their exposure lateral is {exposure['label']}. Their core competency stack is {competencies['label']}. Their sidekick is a {sidekick['role_label']} who stays because they are {sidekick['loyalty_label']}. Their formal training comes from {institution['institution_name']}."
+            f"You selected {card['villain_family'].replace('_', ' ').title()} plus {card['modifier'].replace('_', ' ').title()} and got a villain whose favorite workplace protection is {card['favorite_leverage']}. Their primary moral texture is {moral_texture['primary'].replace('_', ' ')}. Their exposure lateral is {exposure['label']}. Their core competency stack is {competencies['label']}. They are currently fixated on {macguffin['label']}. Their sidekick is a {sidekick['role_label']} who stays because they are {sidekick['loyalty_label']}. Their formal training comes from {institution['institution_name']}."
         ),
         "opening_image": opening_image,
         "dossier_summary": (
-            f"This build runs on {card['power_source']} inside a {card['operating_environment']}. At the story level, it {card['dramatic_function']}. The primary moral texture is {moral_texture['primary'].replace('_', ' ')}. The internal lie is simple: {card['justification_logic']}. The exposure profile is {exposure['label'].lower()}, which operationalized into {competencies['label'].lower()}. The local ecosystem includes a {sidekick['role_label']} who handles {sidekick['task_label']}. Before any grand plan begins, the daily proof of rot is {atrocity['label']}, but the full civilian rot profile also includes {secondary_rot}."
+            f"This build runs on {card['power_source']} inside a {card['operating_environment']}. At the story level, it {card['dramatic_function']}. The primary moral texture is {moral_texture['primary'].replace('_', ' ')}. The internal lie is simple: {card['justification_logic']}. The exposure profile is {exposure['label'].lower()}, which operationalized into {competencies['label'].lower()}. The current prize object is {macguffin['label']}, publicly sold as {macguffin['public_myth']} and privately valued for its actual function: {macguffin['real_function']}. The local ecosystem includes a {sidekick['role_label']} who handles {sidekick['task_label']}. Before any grand plan begins, the daily proof of rot is {atrocity['label']}, but the full civilian rot profile also includes {secondary_rot}."
         ),
         "public_facing_bio": (
-            f"Publicly, this figure presents as polished, necessary, and strangely inevitable. Privately, they are a pure engine of {moral_texture['primary'].replace('_', ' ')} shaped by {exposure['label'].lower()} and confident enough to treat {competencies['items'][0]} like a normal leadership behavior. The {sidekick['role_label']} nearby makes the whole thing feel alarmingly maintainable."
+            f"Publicly, this figure presents as polished, necessary, and strangely inevitable. Privately, they are a pure engine of {moral_texture['primary'].replace('_', ' ')} shaped by {exposure['label'].lower()} and confident enough to treat {competencies['items'][0]} like a normal leadership behavior. Their chosen prize, {macguffin['label']}, lets them pretend the whole thing is about destiny instead of appetite. The {sidekick['role_label']} nearby makes the whole thing feel alarmingly maintainable."
         ),
         "internal_memo": (
-            f"Internal note: continue protecting the principal from low-level reputation damage tied to {atrocity['label']}. Pattern review now includes {secondary_rot}. Their current strengths remain {', '.join(competencies['items'][:3])}. The {sidekick['role_label']} remains responsible for {sidekick['task_label']} and is currently {sidekick['loyalty_label']}. Do not mention the {institution['accreditation_body']} matter in writing."
+            f"Internal note: continue protecting the principal from low-level reputation damage tied to {atrocity['label']}. Pattern review now includes {secondary_rot}. Their current strengths remain {', '.join(competencies['items'][:3])}. MacGuffin containment around {macguffin['label']} remains active; public language should stay with {macguffin['public_myth']}, not the actual function: {macguffin['real_function']}. The {sidekick['role_label']} remains responsible for {sidekick['task_label']} and is currently {sidekick['loyalty_label']}. Do not mention the {institution['accreditation_body']} matter in writing."
         ),
         "signature_scene": (
-            f"The villain stages a scene inside the {card['operating_environment']} where {card['favorite_leverage']} briefly passes for order until the room notices too late that the real agenda is this: {card['escalation_pattern']}. The {sidekick['role_label']} quietly handles {sidekick['task_label']} in the background, which is why the whole thing almost works. Somewhere in the room, somebody realizes too late that the sidekick is {sidekick['competence_label']} and {sidekick['fold_label']}."
+            f"The villain stages a scene inside the {card['operating_environment']} where {card['favorite_leverage']} briefly passes for order until the room notices too late that the real agenda is this: {card['escalation_pattern']}. At the center of the scene sits {macguffin['label']}, which claims to be {macguffin['public_myth']} but is really prized for one thing: {macguffin['real_function']}. The {sidekick['role_label']} quietly handles {sidekick['task_label']} in the background, which is why the whole thing almost works. Somewhere in the room, somebody realizes too late that the sidekick is {sidekick['competence_label']} and {sidekick['fold_label']}."
         ),
         "fake_trailer": (
-            f"In a world shaped by {card['skin'].replace('_', ' ')}, one {card['villain_family'].replace('_', ' ')} build will learn that {card['narrative_payoff']['resolution'].lower()}. Exposure: {exposure['label']}. Core competencies: {competencies['items'][0]}, {competencies['items'][1]}. Sidekick: {sidekick['role_label']} on {sidekick['task_label']}. Somebody is definitely {atrocity['label']} in act one, but the real warning is that the rot profile also includes {secondary_rot}."
+            f"In a world shaped by {card['skin'].replace('_', ' ')}, one {card['villain_family'].replace('_', ' ')} build will learn that {card['narrative_payoff']['resolution'].lower()}. Exposure: {exposure['label']}. Core competencies: {competencies['items'][0]}, {competencies['items'][1]}. Prize object: {macguffin['label']}. Sidekick: {sidekick['role_label']} on {sidekick['task_label']}. Somebody is definitely {atrocity['label']} in act one, but the real warning is that the rot profile also includes {secondary_rot}."
         ),
         "sequel_slop": (
-            f"Franchise extension: somebody rebuilds the same logic with fresher branding, and the receipts get harder to kill. The petty tell survives too, because evil this scalable still finds time for {atrocity['label']}. The wider rot profile survives too: {secondary_rot}. So does the sidekick ecosystem: another {sidekick['role_label']} arrives, still {sidekick['loyalty_label']}, still handling {sidekick['task_label']}."
+            f"Franchise extension: somebody rebuilds the same logic with fresher branding, and the receipts get harder to kill. The petty tell survives too, because evil this scalable still finds time for {atrocity['label']}. The wider rot profile survives too: {secondary_rot}. So does {macguffin['label']}, because objects like that never stay buried once institutions learn the cover story. Another {sidekick['role_label']} arrives, still {sidekick['loyalty_label']}, still handling {sidekick['task_label']}."
         ),
         "sample_lines": sample_lines,
         "hooks": hooks,
@@ -320,6 +340,8 @@ def render_markdown(card: Dict[str, Any]) -> str:
         f"**Institutional Exposure:** {card['institutional_exposure']['label']}",
         f"**Core Competencies:** {', '.join(card['core_competencies']['items'][:3])}",
         f"**Sidekick:** {sidekick['role_label']} ({sidekick['loyalty_label']})",
+        f"**MacGuffin:** {card['macguffin']['label']}",
+        f"**MacGuffin Promise:** {card['macguffin']['promise_family']}",
         f"**Credentialed By:** {card['institution']['institution_name']}",
         "",
         "## Build Receipt",
@@ -377,6 +399,29 @@ def render_markdown(card: Dict[str, Any]) -> str:
     lines.extend(f"- competency: {item}" for item in card["core_competencies"]["items"])
     lines.extend([
         f"- tags: {', '.join(card['core_competencies']['tags'])}",
+        "",
+        "## MacGuffin",
+        card["macguffin"]["label"],
+        f"- artifact class: {card['macguffin']['artifact_class']}",
+        f"- promise family: {card['macguffin']['promise_family']}",
+        f"- stakes scale: {card['macguffin']['stakes_scale']}",
+        f"- visual form: {card['macguffin']['visual_form']}",
+        f"- genre lane: {card['macguffin']['genre_lane']}",
+        f"- portability band: {card['macguffin']['portability_band']}",
+        f"- resolution type: {card['macguffin']['resolution_type']}",
+        f"- subversion lane: {card['macguffin']['subversion_lane']}",
+        f"- public myth: {card['macguffin']['public_myth']}",
+        f"- real function: {card['macguffin']['real_function']}",
+        f"- activation condition: {card['macguffin']['activation_condition']}",
+        f"- use cost: {card['macguffin']['use_cost']}",
+        f"- containment needs: {card['macguffin']['containment_needs']}",
+        f"- betrayal magnet: {card['macguffin']['betrayal_magnet']}",
+        f"- lair compatibility: {card['macguffin']['lair_compatibility']}",
+        f"- institutional cover story: {card['macguffin']['institutional_cover_story']}",
+        f"- portability: {card['macguffin']['portability']}",
+        f"- custody state: {card['macguffin']['custody_state']}",
+        f"- side effects: {card['macguffin']['side_effects']}",
+        f"- tags: {', '.join(card['macguffin']['tags'])}",
         "",
         "## Sidekick",
         sidekick["role_label"],

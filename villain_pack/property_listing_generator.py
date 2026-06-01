@@ -30,13 +30,14 @@ def render_listing(listing: dict, card: dict) -> str:
         "- showing posture: hostile but premium",
         f"- best fit buyer: somebody who thinks {card['favorite_leverage']} should count as an amenity",
         f"- current neighborhood complaint: {card['petty_atrocity']['label']}",
+        f"- vault-worthy prize object: {card['macguffin']['label']}",
         "",
         "## Agent Remarks",
         (
             f"A rare {listing['property_type'].lower()} with unusual upside for buyers seeking privacy, "
             f"ceremonial control, and the ability to convert {card['failure_mode']} into interior atmosphere. "
             f"Property is especially attractive to operators who believe {card['favorite_leverage']} should "
-            f"shape both circulation and lifestyle."
+            f"shape both circulation and lifestyle. Existing layout is friendly to storing {card['macguffin']['label']} if you enjoy risk as decor."
         ),
         "",
         "## Description",
@@ -46,6 +47,14 @@ def render_listing(listing: dict, card: dict) -> str:
     ]
     lines.extend(f"- {item}" for item in listing['amenities'])
     lines.extend([
+        "",
+        "## Prize-Object Compatibility",
+        f"- resident object pressure: {card['macguffin']['label']}",
+        f"- promise family: {card['macguffin']['promise_family']} / {card['macguffin']['stakes_scale']}",
+        f"- activation condition fit: {card['macguffin']['activation_condition']}",
+        f"- containment needs: {card['macguffin']['containment_needs']}",
+        f"- side effects in residence: {card['macguffin']['side_effects']}",
+        f"- likely market ending: {card['macguffin']['resolution_type']}",
         "",
         "## Villain MLS Risk Flags",
         f"- lair liability: {listing['lair_liability']}",

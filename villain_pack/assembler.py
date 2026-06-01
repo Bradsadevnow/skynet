@@ -86,6 +86,7 @@ def load_data() -> Dict[str, Any]:
         "institutions": load_yaml("villain_institutions.yaml")["institutions"],
         "exposures": load_yaml("villain_exposures.yaml")["exposures"],
         "competencies": load_yaml("villain_competencies.yaml")["competencies"],
+        "macguffins": load_yaml("villain_macguffins.yaml")["macguffins"],
         "sidekicks": load_yaml("sidekick_parts.yaml")["sidekicks"],
     }
 
@@ -226,6 +227,10 @@ def list_sidekick_role_options(data: Dict[str, Any]) -> List[Dict[str, str]]:
     return [{"key": k, "label": v.get("label", titleize_key(k)), "detail": v.get("detail", "")} for k, v in data["sidekicks"]["roles"].items()]
 
 
+def list_macguffin_options(data: Dict[str, Any]) -> List[Dict[str, str]]:
+    return [{"key": k, "label": v.get("label", titleize_key(k)), "detail": v.get("real_function", "")} for k, v in data["macguffins"].items()]
+
+
 def list_institution_options(data: Dict[str, Any]) -> List[Dict[str, str]]:
     return [{"key": k, "label": v.get("institution_name", titleize_key(k)), "detail": v.get("field_of_study", "")} for k, v in data["institutions"].items()]
 
@@ -284,6 +289,13 @@ def pick_sidekick_role_key(data: Dict[str, Any], rng: random.Random, family_key:
     return weighted_selection(rng, list(data["sidekicks"]["roles"].keys()), favored, strong_weight=4, default_weight=1)
 
 
+def pick_macguffin_key(data: Dict[str, Any], rng: random.Random, family_key: str, modifier_key: str, moral_texture: Dict[str, Any], institution_tags: List[str], exposure_tags: List[str], competency_tags: List[str], macguffin_key: Optional[str]) -> str:
+    if macguffin_key is not None:
+        return macguffin_key
+    favored = _favored_keys_from_tags(data["macguffins"], [family_key, modifier_key, moral_texture["primary"]], institution_tags, exposure_tags, competency_tags)
+    return weighted_selection(rng, list(data["macguffins"].keys()), favored, strong_weight=4, default_weight=1)
+
+
 def pick_sidekick_component(rng: random.Random, pool: Dict[str, Any], tags: List[str]) -> str:
     favored = _favored_keys_from_tags(pool, tags)
     return weighted_selection(rng, list(pool.keys()), favored, strong_weight=4, default_weight=1)
@@ -302,6 +314,7 @@ def build_workshop_summary(card: Dict[str, Any]) -> List[str]:
         f"{card['moral_texture']['primary'].replace('_', ' ')} moral texture",
         f"{card['institutional_exposure']['label']} exposure lateral",
         f"{card['core_competencies']['label']} competency rubric",
+        f"{card['macguffin']['label']} prize counter",
         f"{card['sidekick']['role_label']} sidekick bench",
         f"{card['institution']['institution_name']} credential counter",
         f"{card['compatibility_pressure']['modifier_bias'].replace('_', ' ').title()} compatibility pull",
@@ -326,6 +339,7 @@ def assemble_villain(
     exposure_key: Optional[str] = None,
     competency_key: Optional[str] = None,
     sidekick_role_key: Optional[str] = None,
+    macguffin_key: Optional[str] = None,
     institution_key: Optional[str] = None,
     payoff_key: Optional[str] = None,
 ) -> Dict[str, Any]:
@@ -339,6 +353,7 @@ def assemble_villain(
     institutions = data["institutions"]
     exposures = data["exposures"]
     competencies = data["competencies"]
+    macguffins = data["macguffins"]
     sidekicks = data["sidekicks"]
 
     if skin_key not in skins:
@@ -366,6 +381,9 @@ def assemble_villain(
 
     competency_key = pick_competency_key(data, rng, family_key, modifier_key, moral_texture, institution.get("tags", []), exposure.get("tags", []), competency_key)
     competency = competencies[competency_key]
+
+    macguffin_key = pick_macguffin_key(data, rng, family_key, modifier_key, moral_texture, institution.get("tags", []), exposure.get("tags", []), competency.get("tags", []), macguffin_key)
+    macguffin = macguffins[macguffin_key]
 
     role_key = pick_sidekick_role_key(data, rng, family_key, modifier_key, moral_texture, exposure.get("tags", []), competency.get("tags", []), sidekick_role_key)
     role = sidekicks["roles"][role_key]
@@ -442,6 +460,33 @@ def assemble_villain(
             "items": competency.get("items", []),
             "tags": competency.get("tags", []),
         },
+        "macguffin": {
+            "key": macguffin_key,
+            "label": macguffin.get("label"),
+            "artifact_class": macguffin.get("artifact_class"),
+            "promise_family": macguffin.get("promise_family"),
+            "stakes_scale": macguffin.get("stakes_scale"),
+            "visual_form": macguffin.get("visual_form"),
+            "genre_lane": macguffin.get("genre_lane"),
+            "portability_band": macguffin.get("portability_band"),
+            "resolution_type": macguffin.get("resolution_type"),
+            "subversion_lane": macguffin.get("subversion_lane"),
+            "public_myth": macguffin.get("public_myth"),
+            "real_function": macguffin.get("real_function"),
+            "desired_by": macguffin.get("desired_by"),
+            "misread_by": macguffin.get("misread_by"),
+            "activation_condition": macguffin.get("activation_condition"),
+            "use_cost": macguffin.get("use_cost"),
+            "containment_needs": macguffin.get("containment_needs"),
+            "betrayal_magnet": macguffin.get("betrayal_magnet"),
+            "plot_family_bias": macguffin.get("plot_family_bias"),
+            "lair_compatibility": macguffin.get("lair_compatibility"),
+            "institutional_cover_story": macguffin.get("institutional_cover_story"),
+            "portability": macguffin.get("portability"),
+            "custody_state": macguffin.get("custody_state"),
+            "side_effects": macguffin.get("side_effects"),
+            "tags": macguffin.get("tags", []),
+        },
         "sidekick": {
             "role_key": role_key,
             "role_label": role.get("label"),
@@ -474,6 +519,7 @@ def assemble_villain(
             "modifier_bias": modifier_key if modifier_key in MORAL_TEXTURE_MODIFIER_PRESSURE.get(moral_texture["primary"], []) else (MORAL_TEXTURE_MODIFIER_PRESSURE.get(moral_texture["primary"], [modifier_key])[0] if MORAL_TEXTURE_MODIFIER_PRESSURE.get(moral_texture["primary"]) else modifier_key),
             "exposure_bias": exposure_key,
             "competency_bias": competency_key,
+            "macguffin_bias": macguffin_key,
             "sidekick_bias": role_key,
         },
         "narrative_payoff": {"key": payoff_key, "resolution": payoff.get("resolution")},
@@ -492,6 +538,7 @@ def assemble_villain(
         "petty_atrocity": {"station": data["slots"]["petty_atrocity"]["label"], "selection": petty_atrocity.get("label"), "detail": petty_atrocity.get("detail"), "category": petty_atrocity.get("category"), "severity": petty_atrocity.get("severity"), "tags": petty_atrocity.get("tags", []), "profile_size": len(petty_atrocity_profile)},
         "exposure": {"station": data["slots"]["exposure"]["label"], "selection": exposure.get("label"), "summary": exposure.get("summary")},
         "competencies": {"station": data["slots"]["competencies"]["label"], "selection": competency.get("label"), "items": competency.get("items", [])},
+        "macguffin": {"station": data["slots"]["macguffin"]["label"], "selection": macguffin.get("label"), "artifact_class": macguffin.get("artifact_class"), "promise_family": macguffin.get("promise_family"), "stakes_scale": macguffin.get("stakes_scale"), "resolution_type": macguffin.get("resolution_type"), "real_function": macguffin.get("real_function")},
         "sidekick_bench": {"station": data["slots"]["sidekick_bench"]["label"], "selection": role.get("label"), "loyalty": loyalty.get("label"), "task": task.get("label")},
         "alma_mater_of_rot": {"station": data["slots"]["alma_mater_of_rot"]["label"], "selection": institution.get("institution_name"), "field_of_study": institution.get("field_of_study"), "accreditation_body": institution.get("accreditation_body")},
         "franchise_potential": {"station": data["slots"]["franchise_potential"]["label"], "selection": payoff_key, "detail": payoff.get("resolution")},

@@ -28,12 +28,14 @@ def render_company(card: dict, company: dict, jobs: list[dict]) -> str:
         f"- reputational weather: {card['moral_texture']['primary'].replace('_', ' ')}",
         f"- credential pipeline: {company['institution_name']}",
         f"- sidekick bench: {card['sidekick']['role_label']} handling {card['sidekick']['task_label']}",
+        f"- strategic prize object: {card['macguffin']['label']}",
         "",
         "## About The Company",
         (
             f"{company['name']} presents as a {company['sector']} organization built to {mission.lower()}. "
             f"In practice it {company['actual_function']}, under a leadership culture better described as "
-            f"{company['leadership_style']} than management."
+            f"{company['leadership_style']} than management. Current strategic obsession centers on "
+            f"{card['macguffin']['label']}, which the company describes as {card['macguffin']['institutional_cover_story']}."
         ),
         "",
         "## Leadership",
@@ -41,6 +43,7 @@ def render_company(card: dict, company: dict, jobs: list[dict]) -> str:
         f"- favorite leverage: {card['favorite_leverage']}",
         f"- power source: {card['power_source']}",
         f"- current tolerated rot: {card['petty_atrocity']['label']}",
+        f"- protected object: {card['macguffin']['label']}",
         "",
         "## Current Openings",
     ]
@@ -58,6 +61,7 @@ def render_company(card: dict, company: dict, jobs: list[dict]) -> str:
         f"- active scandal surface: {company['ongoing_scandal']}",
         f"- sidekick bottleneck: {card['sidekick']['role_label']} currently owns {card['sidekick']['task_label']}",
         f"- daily moral weather: {card['petty_atrocity']['label']}",
+        f"- prize-object labor demand: {card['macguffin']['containment_needs']}",
     ])
     return "\n".join(lines) + "\n"
 

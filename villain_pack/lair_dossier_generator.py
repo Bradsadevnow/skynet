@@ -53,13 +53,16 @@ def render_dossier(card: Dict[str, Any], key: str, lair: Dict[str, Any], taxonom
         f"- shell type: {lair['property_type']}",
         f"- worldview pressure: {lair['summary']}",
         f"- likely petty tell in space: {card['petty_atrocity']['label']}",
+        f"- resident prize object: {card['macguffin']['label']}",
+        f"- object scale: {card['macguffin']['stakes_scale']} / {card['macguffin']['visual_form']}",
         "",
         "## Site Read",
         (
             f"This lair works because it turns {lair['location_vibe']} into infrastructure. "
             f"Its main spatial lie is that {lair['hospitality_cover'].lower()}, while the real operating logic "
             f"is {lair['defense_logic']}. The site is most persuasive when visitors start treating "
-            f"{card['favorite_leverage']} like architecture instead of behavior."
+            f"{card['favorite_leverage']} like architecture instead of behavior. It is especially good at making "
+            f"{card['macguffin']['label']} feel inevitable rather than chosen."
         ),
         "",
         "## Lair Summary",
@@ -84,6 +87,13 @@ def render_dossier(card: Dict[str, Any], key: str, lair: Dict[str, Any], taxonom
     ])
     lines.extend(f"- {item['name']}: {item['structural_mechanic']}" for item in functions)
     lines.extend([
+        "",
+        "## Prize-Object Fit",
+        f"- public myth: {card['macguffin']['public_myth']}",
+        f"- containment needs: {card['macguffin']['containment_needs']}",
+        f"- activation condition: {card['macguffin']['activation_condition']}",
+        f"- betrayal magnet: {card['macguffin']['betrayal_magnet']}",
+        f"- likely end state: {card['macguffin']['resolution_type']}",
         "",
         "## Access And Hospitality",
         f"- access pattern: {lair['access_pattern']}",
